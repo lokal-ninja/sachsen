@@ -1,0 +1,4 @@
+---
+title: "Bunte Tinte Tattoo"
+url: /dresden/bunte-tinte-tattoo/
+---

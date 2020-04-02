@@ -1,0 +1,4 @@
+---
+title: Bockau
+url: /bockau/
+---

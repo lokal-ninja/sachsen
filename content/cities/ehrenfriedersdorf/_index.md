@@ -1,0 +1,4 @@
+---
+title: Ehrenfriedersdorf
+url: /ehrenfriedersdorf/
+---

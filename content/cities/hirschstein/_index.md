@@ -1,0 +1,4 @@
+---
+title: Hirschstein
+url: /hirschstein/
+---

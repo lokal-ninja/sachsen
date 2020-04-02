@@ -1,0 +1,4 @@
+---
+title: Klipphausen
+url: /klipphausen/
+---

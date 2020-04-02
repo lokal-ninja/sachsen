@@ -1,0 +1,4 @@
+---
+title: Boxberg
+url: /boxberg/
+---

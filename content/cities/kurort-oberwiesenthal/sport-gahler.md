@@ -1,0 +1,4 @@
+---
+title: "Sport Gahler"
+url: /kurort-oberwiesenthal/sport-gahler/
+---

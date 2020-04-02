@@ -1,0 +1,4 @@
+---
+title: Spreetal
+url: /spreetal/
+---

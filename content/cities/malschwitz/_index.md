@@ -1,0 +1,4 @@
+---
+title: Malschwitz
+url: /malschwitz/
+---

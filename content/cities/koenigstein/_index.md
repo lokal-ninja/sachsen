@@ -1,0 +1,4 @@
+---
+title: Königstein
+url: /koenigstein/
+---

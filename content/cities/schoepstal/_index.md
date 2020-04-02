@@ -1,0 +1,4 @@
+---
+title: Schöpstal
+url: /schoepstal/
+---

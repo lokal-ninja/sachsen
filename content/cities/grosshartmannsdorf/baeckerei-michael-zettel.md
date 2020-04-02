@@ -1,0 +1,4 @@
+---
+title: "Bäckerei Michael Zettel"
+url: /grosshartmannsdorf/baeckerei-michael-zettel/
+---

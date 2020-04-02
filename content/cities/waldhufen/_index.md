@@ -1,0 +1,4 @@
+---
+title: Waldhufen
+url: /waldhufen/
+---

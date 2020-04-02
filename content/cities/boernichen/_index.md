@@ -1,0 +1,4 @@
+---
+title: Börnichen
+url: /boernichen/
+---

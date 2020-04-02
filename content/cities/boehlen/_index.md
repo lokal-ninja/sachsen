@@ -1,0 +1,4 @@
+---
+title: Böhlen
+url: /boehlen/
+---

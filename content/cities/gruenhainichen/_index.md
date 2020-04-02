@@ -1,0 +1,4 @@
+---
+title: Grünhainichen
+url: /gruenhainichen/
+---

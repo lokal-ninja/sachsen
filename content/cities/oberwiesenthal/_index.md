@@ -1,0 +1,4 @@
+---
+title: Oberwiesenthal
+url: /oberwiesenthal/
+---

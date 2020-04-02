@@ -1,0 +1,4 @@
+---
+title: Grünbach
+url: /gruenbach/
+---

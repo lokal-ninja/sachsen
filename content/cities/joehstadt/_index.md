@@ -1,0 +1,4 @@
+---
+title: Jöhstadt
+url: /joehstadt/
+---

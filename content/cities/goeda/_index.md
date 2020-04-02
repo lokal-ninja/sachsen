@@ -1,0 +1,4 @@
+---
+title: Göda
+url: /goeda/
+---

@@ -1,0 +1,4 @@
+---
+title: Struppen
+url: /struppen/
+---

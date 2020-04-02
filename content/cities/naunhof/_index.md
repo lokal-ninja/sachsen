@@ -1,0 +1,4 @@
+---
+title: Naunhof
+url: /naunhof/
+---

@@ -1,0 +1,4 @@
+---
+title: Bärenstein
+url: /baerenstein/
+---

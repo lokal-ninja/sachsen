@@ -1,0 +1,4 @@
+---
+title: "Zappendorfer Wurstmacher"
+url: /leipzig/zappendorfer-wurstmacher/
+---

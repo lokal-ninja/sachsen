@@ -1,0 +1,4 @@
+---
+title: Waldenburg
+url: /waldenburg/
+---

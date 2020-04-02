@@ -1,0 +1,4 @@
+---
+title: "Schuh Winkler"
+url: /zwickau/schuh-winkler/
+---

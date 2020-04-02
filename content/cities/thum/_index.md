@@ -1,0 +1,4 @@
+---
+title: Thum
+url: /thum/
+---

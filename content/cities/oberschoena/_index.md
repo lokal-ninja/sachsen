@@ -1,0 +1,4 @@
+---
+title: Oberschöna
+url: /oberschoena/
+---

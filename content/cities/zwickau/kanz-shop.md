@@ -1,0 +1,4 @@
+---
+title: "Kanz Shop"
+url: /zwickau/kanz-shop/
+---

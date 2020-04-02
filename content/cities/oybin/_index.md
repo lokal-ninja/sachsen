@@ -1,0 +1,4 @@
+---
+title: Oybin
+url: /oybin/
+---

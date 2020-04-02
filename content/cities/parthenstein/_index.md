@@ -1,0 +1,4 @@
+---
+title: Parthenstein
+url: /parthenstein/
+---

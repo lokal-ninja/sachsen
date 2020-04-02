@@ -1,0 +1,4 @@
+---
+title: Burgstädt
+url: /burgstaedt/
+---

@@ -1,6 +1,6 @@
 baseURL = "https://lokal.ninja/sachsen"
 languageCode = "de-DE"
-title = "Lokal Ninja - Sachsen"
+title = "Sachsen"
 theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -9,6 +9,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   home = ["HTML"]
 
 [params]
+  site = "Lokal Ninja"
   org = "lokal-ninja"
-  region = "Sachsen"
   repo = "sachsen"

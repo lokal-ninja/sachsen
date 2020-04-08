@@ -1,0 +1,2 @@
+Der Freistaat Sachsen ist ein Land im Osten der Bundesrepublik Deutschland. Die Landeshauptstadt und zugleich größter Ballungsraum ist Dresden, die bevölkerungsreichste Stadt ist Leipzig, dritte Großstadt ist Chemnitz. Der Freistaat Sachsen entstand 1918 als Nachfolger des Königreiches Sachsen und wurde 1990 wieder gegründet. Wie bereits als Land der Weimarer Republik bezeichnet sich Sachsen per Landesverfassung als Freistaat. (Wikipedia)
+

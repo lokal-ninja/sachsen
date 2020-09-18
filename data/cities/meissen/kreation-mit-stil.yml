@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1637956
 longitude: 13.470028200000002
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Burgstraße"
 housenumber: 5

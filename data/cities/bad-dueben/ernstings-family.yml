@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.590971100000004
 longitude: 12.5846765
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: "Markt"
 housenumber: 17

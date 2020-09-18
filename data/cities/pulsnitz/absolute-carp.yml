@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 51.1834526
 longitude: 14.0159637
-postcode: 01896
+postcode: "01896"
 city: Pulsnitz
 street: "Fabrikstraße"
 housenumber: 2

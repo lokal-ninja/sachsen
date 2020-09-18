@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2856918
 longitude: 14.1086851
-postcode: 01917
+postcode: "01917"
 city: Kamenz
 street: "Siedlungsweg"
 housenumber: 2a

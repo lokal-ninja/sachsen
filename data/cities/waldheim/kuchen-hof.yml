@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0708652
 longitude: 13.0241406
-postcode: 04736
+postcode: "04736"
 city: Waldheim
 street: "Schönberger Straße"
 housenumber: 2

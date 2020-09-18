@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.7198647
 longitude: 13.1939419
-postcode: 09514
+postcode: "09514"
 city: Pockau-Lengefeld
 street: "Kirchgasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 51.1493206
 longitude: 15.007145500000002
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Warszawska"
 housenumber: 1

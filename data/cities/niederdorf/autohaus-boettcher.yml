@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7237914
 longitude: 12.784704600000001
-postcode: 09366
+postcode: "09366"
 city: Niederdorf
 street: "Chemnitzer Straße"
 housenumber: 59

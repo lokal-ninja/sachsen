@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9650557
 longitude: 12.9473061
-postcode: 09648
+postcode: "09648"
 city: Altmittweida
 street: "Kirchstraße"
 housenumber: 2

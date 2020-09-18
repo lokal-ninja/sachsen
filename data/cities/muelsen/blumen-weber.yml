@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.7041204
 longitude: 12.616525300000001
-postcode: 08132
+postcode: "08132"
 city: Mülsen
 street: "Wildenfelser Straße"
 housenumber: 62

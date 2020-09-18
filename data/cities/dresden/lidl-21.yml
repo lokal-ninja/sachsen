@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0615387
 longitude: 13.844295800000001
-postcode: 01324
+postcode: "01324"
 city: Dresden
 street: "Bautzner Landstraße"
 housenumber: 112

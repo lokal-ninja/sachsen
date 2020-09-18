@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.8077436
 longitude: 13.1025807
-postcode: 09573
+postcode: "09573"
 city: Augustusburg
 street: "Ludwig-Würkert-Straße"
 housenumber: 1

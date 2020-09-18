@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 50.6948711
 longitude: 12.479074
-postcode: 08062
+postcode: "08062"
 city: Zwickau
 street: "Innere Zwickauer Straße"
 housenumber: 29
-phone: "0375-787047"
+phone: "+49 375 787047"
 opening_hours: "24/7"
 website: ""

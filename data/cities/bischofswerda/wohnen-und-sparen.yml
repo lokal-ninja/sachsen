@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1368005
 longitude: 14.189458700000001
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Carl-Maria-von-Weber-Straße"
 housenumber: 12

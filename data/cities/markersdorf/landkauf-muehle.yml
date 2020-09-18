@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.097215600000006
 longitude: 14.872458600000002
-postcode: 02829
+postcode: "02829"
 city: Markersdorf
 street: "Ortsstraße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.006738000000006
 longitude: 14.5831759
-postcode: 02730
+postcode: "02730"
 city: Ebersbach-Neugersdorf
 street: "Hermann-Wünsche-Straße"
 housenumber: 7

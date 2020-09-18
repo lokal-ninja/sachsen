@@ -3,10 +3,10 @@ type: way
 shop: Metzgerei
 latitude: 51.102629900000004
 longitude: 14.0929198
-postcode: 01909
+postcode: "01909"
 city: Großharthau
 street: "Paradiesstraße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo 08:00-14:00; Tu-Fr 08:00-18:00; Sa 08:00-11:00"
 website: ""

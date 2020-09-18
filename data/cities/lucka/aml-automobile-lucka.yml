@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.092148900000005
 longitude: 12.3273197
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Meuselwitzer Straße"
 housenumber: 12

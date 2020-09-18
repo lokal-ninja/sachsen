@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.1802155
 longitude: 14.4250295
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Schulstraße"
 housenumber: 5

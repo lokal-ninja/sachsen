@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.4257719
 longitude: 12.9850098
-postcode: 09484
+postcode: "09484"
 city: Kurort Oberwiesenthal
 street: "Annaberger Straße"
 housenumber: 87e

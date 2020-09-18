@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.588046600000006
 longitude: 11.9981027
-postcode: 07952
+postcode: "07952"
 city: Pausa-Mühltroff
 street: "Neunkirchner Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.801255700000006
 longitude: 13.539100000000001
-postcode: 09623
+postcode: "09623"
 city: Frauenstein
 street: "Teplitzer Straße"
 housenumber: 7

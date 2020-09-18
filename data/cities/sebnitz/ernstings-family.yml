@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9685306
 longitude: 14.244838300000001
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Hohnsteiner Straße"
 housenumber: 3A

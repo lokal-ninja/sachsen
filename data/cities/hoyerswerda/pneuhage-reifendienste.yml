@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.446036500000005
 longitude: 14.216174500000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Ackerstraße"
 housenumber: 18

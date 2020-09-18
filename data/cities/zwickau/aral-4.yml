@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.704471100000006
 longitude: 12.4939953
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Planitzer Straße"
 housenumber: 3;5

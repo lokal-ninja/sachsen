@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.245146600000005
 longitude: 13.659797800000002
-postcode: 01561
+postcode: "01561"
 city: Ebersbach
 street: "Hauptstraße"
 housenumber: 36a

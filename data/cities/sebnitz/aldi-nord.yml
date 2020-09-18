@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.96607770000001
 longitude: 14.2505304
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Schandauer Straße"
 housenumber: 86

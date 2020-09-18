@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1475944
 longitude: 14.950488700000001
-postcode: 02827
+postcode: "02827"
 city: Görlitz
 street: "Reichenbacher Straße"
 housenumber: 53b

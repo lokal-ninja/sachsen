@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.153330000000004
 longitude: 13.962749100000002
-postcode: 01454
+postcode: "01454"
 city: Wachau
 street: "Alte Hauptstraße"
 housenumber: 28

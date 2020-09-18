@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.9150107
 longitude: 13.346236900000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Poststraße"
 housenumber: 2

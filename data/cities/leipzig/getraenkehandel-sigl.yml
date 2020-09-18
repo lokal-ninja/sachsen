@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.3236502
 longitude: 12.478922200000001
-postcode: 04316
+postcode: "04316"
 city: Leipzig
 street: "Brandiser Straße"
 housenumber: 43

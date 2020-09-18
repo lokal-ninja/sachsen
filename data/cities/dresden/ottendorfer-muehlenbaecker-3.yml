@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.05356260000001
 longitude: 13.7812753
-postcode: 01307
+postcode: "01307"
 city: Dresden
 street: "Blasewitzer Straße"
 housenumber: 45

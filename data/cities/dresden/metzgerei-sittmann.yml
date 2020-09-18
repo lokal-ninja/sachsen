@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.144798200000004
 longitude: 13.80174
-postcode: 01108
+postcode: "01108"
 city: Dresden
 street: "Alte Dresdner Straße"
 housenumber: 51

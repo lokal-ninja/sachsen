@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.5207094
 longitude: 12.318190300000001
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Kyhnaer Weg"
 housenumber: 10

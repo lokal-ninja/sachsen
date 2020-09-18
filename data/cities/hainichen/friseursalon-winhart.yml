@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.973059500000005
 longitude: 13.122979800000001
-postcode: 09661
+postcode: "09661"
 city: Hainichen
 street: "Marktstraße"
 housenumber: 2

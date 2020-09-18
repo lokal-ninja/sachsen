@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8462973
 longitude: 12.9211635
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Müllerstraße"
 housenumber: 46

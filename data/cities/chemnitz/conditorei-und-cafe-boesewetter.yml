@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.811970200000005
 longitude: 12.791538000000001
-postcode: 09224
+postcode: "09224"
 city: Chemnitz
 street: "Chemnitzer Straße"
 housenumber: 80

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2912406
 longitude: 13.533873700000001
-postcode: 01558
+postcode: "01558"
 city: Großenhain
 street: "Frauenmarkt"
 housenumber: 2

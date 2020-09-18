@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.799077600000004
 longitude: 12.7982589
-postcode: 09224
+postcode: "09224"
 city: Chemnitz
 street: "Hofer Straße"
 housenumber: 37

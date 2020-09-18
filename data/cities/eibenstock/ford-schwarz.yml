@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.4966504
 longitude: 12.601138800000001
-postcode: 08309
+postcode: "08309"
 city: Eibenstock
 street: "Schneeberger Straße"
 housenumber: 20

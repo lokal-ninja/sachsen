@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.125615700000004
 longitude: 13.580063500000001
-postcode: 01640
+postcode: "01640"
 city: Coswig
 street: "Ravensburger Platz"
 housenumber: 3a

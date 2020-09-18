@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0900053
 longitude: 14.670175500000001
-postcode: 02708
+postcode: "02708"
 city: Löbau
 street: "Äußere Zittauer Straße"
 housenumber: 39

@@ -1,6 +1,6 @@
 ---
 title: Lengenfeld
 url: /lengenfeld/
-latitude: 50.5693956
-longitude: 12.365141300000001
+latitude: 50.5694023
+longitude: 12.365254400000001
 ---

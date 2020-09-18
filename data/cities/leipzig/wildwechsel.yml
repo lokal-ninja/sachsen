@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.3312442
 longitude: 12.3337616
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Karl-Heine-Straße"
 housenumber: 69

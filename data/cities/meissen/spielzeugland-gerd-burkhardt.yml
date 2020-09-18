@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.161362800000006
 longitude: 13.4744351
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Martinstraße"
 housenumber: 8

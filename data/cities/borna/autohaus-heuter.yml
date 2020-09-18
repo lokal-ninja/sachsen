@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1528805
 longitude: 12.5069742
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Gewerbegebiet Eula West"
 housenumber: 2

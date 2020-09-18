@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.050737000000005
 longitude: 13.737085200000001
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Schloßstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.781713800000006
 longitude: 12.479079700000002
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Dänkritzer Straße"
 housenumber: 2

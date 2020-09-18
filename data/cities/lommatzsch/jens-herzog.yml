@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.2165966
 longitude: 13.2498629
-postcode: 01623
+postcode: "01623"
 city: Lommatzsch
 street: "Altsattel"
 housenumber: 9a

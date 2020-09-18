@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.4940087
 longitude: 12.1384489
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Syrastraße"
 housenumber: 2

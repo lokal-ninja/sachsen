@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1876599
 longitude: 14.4551238
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Niederkainaer Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.7212661
 longitude: 12.454622200000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Jacobstraße"
 housenumber: 26

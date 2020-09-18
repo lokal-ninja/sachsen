@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9333803
 longitude: 12.7046674
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Brückenstraße"
 housenumber: 11

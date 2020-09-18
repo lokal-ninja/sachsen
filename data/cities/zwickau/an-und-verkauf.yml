@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 50.718074900000005
 longitude: 12.461626200000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Bernhardstraße"
 housenumber: 10

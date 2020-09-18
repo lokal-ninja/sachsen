@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 50.9054334
 longitude: 13.434788600000001
-postcode: 09627
+postcode: "09627"
 city: Bobritzsch-Hilbersdorf
 street: "Erlenweg"
 housenumber: 7

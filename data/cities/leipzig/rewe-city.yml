@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3426726
 longitude: 12.373067800000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Hainstraße"
 housenumber: 21-29

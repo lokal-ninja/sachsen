@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.021594300000004
 longitude: 14.7347722
-postcode: 02747
+postcode: "02747"
 city: Herrnhut
 street: "Löbauer Straße"
 housenumber: 57

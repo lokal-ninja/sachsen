@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.572038500000005
 longitude: 12.7670899
-postcode: 08315
+postcode: "08315"
 city: Lauter-Bernsbach
 street: "Lauterer Straße"
 housenumber: 48

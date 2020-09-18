@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.188458100000005
 longitude: 14.017606800000001
-postcode: 01896
+postcode: "01896"
 city: Pulsnitz
 street: "Kamenzer Straße"
 housenumber: 6c

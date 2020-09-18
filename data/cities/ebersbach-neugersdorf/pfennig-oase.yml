@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.97795240000001
 longitude: 14.606546100000001
-postcode: 02727
+postcode: "02727"
 city: Ebersbach-Neugersdorf
 street: "Hauptstraße"
 housenumber: 50

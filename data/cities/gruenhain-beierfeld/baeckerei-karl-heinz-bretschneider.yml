@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.566592
 longitude: 12.790698200000001
-postcode: 08344
+postcode: "08344"
 city: Grünhain-Beierfeld
 street: "August-Bebel-Straße"
 housenumber: 107

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.863950800000005
 longitude: 12.908620800000001
-postcode: 09114
+postcode: "09114"
 city: Chemnitz
 street: "Blankenburgstraße"
 housenumber: 110a

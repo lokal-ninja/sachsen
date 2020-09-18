@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.301981700000006
 longitude: 13.3120954
-postcode: 01589
+postcode: "01589"
 city: Riesa
 street: "Rathausplatz"
 housenumber: 5

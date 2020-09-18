@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.099174000000005
 longitude: 14.4936219
-postcode: 02733
+postcode: "02733"
 city: Cunewalde
 street: "Hauptstraße"
 housenumber: 3

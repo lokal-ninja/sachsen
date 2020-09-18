@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9349441
 longitude: 14.0370732
-postcode: 01796
+postcode: "01796"
 city: Struppen
 street: "Thürmsdorfer Straße"
 housenumber: 39

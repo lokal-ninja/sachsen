@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 51.010550900000005
 longitude: 13.692488800000001
-postcode: 01189
+postcode: "01189"
 city: Dresden
 street: "Karlsruher Straße"
 housenumber: 92

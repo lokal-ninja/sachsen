@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.158802800000004
 longitude: 13.4698805
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Wettinstraße"
 housenumber: 2

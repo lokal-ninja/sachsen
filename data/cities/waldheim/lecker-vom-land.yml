@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.074425000000005
 longitude: 13.025439700000002
-postcode: 04736
+postcode: "04736"
 city: Waldheim
 street: "Niedermarkt"
 housenumber: 14

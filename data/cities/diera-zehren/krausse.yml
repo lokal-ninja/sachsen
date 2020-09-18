@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2236404
 longitude: 13.359842700000002
-postcode: 01665
+postcode: "01665"
 city: Diera-Zehren
 street: "Zehrener Straße"
 housenumber: 9

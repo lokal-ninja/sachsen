@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.0759279
 longitude: 13.7235194
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Konkordienstraße"
 housenumber: 41

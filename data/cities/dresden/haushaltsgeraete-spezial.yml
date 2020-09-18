@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.0810486
 longitude: 13.7314228
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Großenhainer Straße"
 housenumber: 74a

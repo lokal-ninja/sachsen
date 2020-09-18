@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.769978800000004
 longitude: 12.9730126
-postcode: 09123
+postcode: "09123"
 city: Chemnitz
 street: "Einsiedler Hauptstraße"
 housenumber: 82

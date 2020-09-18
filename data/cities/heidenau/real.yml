@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.9771987
 longitude: 13.8544748
-postcode: 01809
+postcode: "01809"
 city: Heidenau
 street: "Hauptstraße"
 housenumber: 3

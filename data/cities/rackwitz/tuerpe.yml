@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 51.4299636
 longitude: 12.3798559
-postcode: 04519
+postcode: "04519"
 city: Rackwitz
 street: "Wiederitzscher Straße"
 housenumber: 6

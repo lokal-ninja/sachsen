@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.7212681
 longitude: 12.750133700000001
-postcode: 09399
+postcode: "09399"
 city: Niederwürschnitz
 street: "Feldgasse"
 housenumber: 2

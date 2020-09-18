@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.0546413
 longitude: 12.6934874
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Leipziger Straße"
 housenumber: 9

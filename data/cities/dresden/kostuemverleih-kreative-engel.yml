@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 51.0734967
 longitude: 13.7484148
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Rudolf-Leonhard-Straße"
 housenumber: 21

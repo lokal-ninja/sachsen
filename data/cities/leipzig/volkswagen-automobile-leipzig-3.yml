@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3786178
 longitude: 12.3854103
-postcode: 04129
+postcode: "04129"
 city: Leipzig
 street: "Delitzscher Straße"
 housenumber: 190

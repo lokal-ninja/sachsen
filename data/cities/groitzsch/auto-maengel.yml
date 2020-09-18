@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.156252200000004
 longitude: 12.278084600000001
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Markt"
 housenumber: 6

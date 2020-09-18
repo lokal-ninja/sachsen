@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.621893500000006
 longitude: 12.301210800000002
-postcode: 08468
+postcode: "08468"
 city: Reichenbach im Vogtland
 street: "Bahnhofstraße"
 housenumber: 18

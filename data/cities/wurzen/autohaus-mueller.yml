@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.385934600000006
 longitude: 12.7313314
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Nischwitzer Breite"
 housenumber: 15

@@ -1,6 +1,6 @@
 ---
 title: Rammenau
 url: /rammenau/
-latitude: 51.153906500000005
-longitude: 14.135635800000001
+latitude: 51.1539243
+longitude: 14.1357119
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9720427
 longitude: 14.2730446
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Lange Straße"
 housenumber: 4

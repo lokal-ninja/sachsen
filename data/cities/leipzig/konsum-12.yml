@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.342376300000005
 longitude: 12.360918700000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Jahnallee"
 housenumber: 10-12

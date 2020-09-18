@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9165312
 longitude: 13.34294
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Obermarkt"
 housenumber: 6

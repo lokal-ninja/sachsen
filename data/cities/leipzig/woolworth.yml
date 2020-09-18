@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.341739100000005
 longitude: 12.373955400000002
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Hainstraße"
 housenumber: 6

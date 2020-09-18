@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.8653047
 longitude: 12.867560600000001
-postcode: 09247
+postcode: "09247"
 city: Chemnitz
 street: "Ringstraße"
 housenumber: 29

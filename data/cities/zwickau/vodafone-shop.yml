@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.720233900000004
 longitude: 12.4942794
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Schumannplatz"
 housenumber: 3

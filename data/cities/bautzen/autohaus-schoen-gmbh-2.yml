@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1641622
 longitude: 14.428898
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Neusalzaer Straße"
 housenumber: 65

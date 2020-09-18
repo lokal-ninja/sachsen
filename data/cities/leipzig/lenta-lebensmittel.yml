@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3587038
 longitude: 12.473128800000001
-postcode: 04329
+postcode: "04329"
 city: Leipzig
 street: "Hermelinstraße"
 housenumber: 2

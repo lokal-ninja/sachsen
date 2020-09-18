@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.74558510000001
 longitude: 13.109347000000001
-postcode: 09434
+postcode: "09434"
 city: Zschopau
 street: "Waldkirchener Straße"
 housenumber: 16

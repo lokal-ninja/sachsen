@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.095618800000004
 longitude: 14.388450500000001
-postcode: 02681
+postcode: "02681"
 city: Wilthen
 street: "Bahnhofstraße"
 housenumber: 12

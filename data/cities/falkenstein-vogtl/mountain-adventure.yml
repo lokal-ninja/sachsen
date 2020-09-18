@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 50.475506
 longitude: 12.369592
-postcode: 08223
+postcode: "08223"
 city: Falkenstein/Vogtl.
 street: "Hauptstraße"
 housenumber: 18

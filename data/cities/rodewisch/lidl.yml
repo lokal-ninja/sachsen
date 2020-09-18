@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.531790300000004
 longitude: 12.4021454
-postcode: 08228
+postcode: "08228"
 city: Rodewisch
 street: "Lengenfelder Straße"
 housenumber: 3

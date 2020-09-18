@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.738147500000004
 longitude: 13.211150100000001
-postcode: 09514
+postcode: "09514"
 city: Pockau-Lengefeld
 street: "Eppendorfer Straße"
 housenumber: 2

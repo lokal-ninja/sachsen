@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.5674195
 longitude: 12.996813600000001
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Karlsbader Straße"
 housenumber: 25

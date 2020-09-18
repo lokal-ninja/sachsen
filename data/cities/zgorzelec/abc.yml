@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.1473024
 longitude: 15.007417700000001
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Stanisława Konarskiego"
 housenumber: 4A

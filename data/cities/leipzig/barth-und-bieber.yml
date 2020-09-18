@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 51.2752325
 longitude: 12.3123599
-postcode: 04249
+postcode: "04249"
 city: Leipzig
 street: "Seumestraße"
 housenumber: 133

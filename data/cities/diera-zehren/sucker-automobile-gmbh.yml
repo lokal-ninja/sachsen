@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.212352800000005
 longitude: 13.3735487
-postcode: 01665
+postcode: "01665"
 city: Diera-Zehren
 street: "Am Gewerbepark"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.96024310000001
 longitude: 14.652067200000001
-postcode: 02794
+postcode: "02794"
 city: Leutersdorf
 street: "Sachsenstraße"
 housenumber: 19

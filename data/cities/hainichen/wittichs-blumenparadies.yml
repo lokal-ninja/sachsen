@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9726754
 longitude: 13.124369100000001
-postcode: 09661
+postcode: "09661"
 city: Hainichen
 street: "Brückenstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.331853200000005
 longitude: 14.966857000000001
-postcode: 02929
+postcode: "02929"
 city: Rothenburg/Oberlausitz
 street: "Horkaer Straße"
 housenumber: 10

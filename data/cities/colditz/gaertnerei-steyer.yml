@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.140957300000004
 longitude: 12.791850400000001
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Flurteil Eule"
 housenumber: 3

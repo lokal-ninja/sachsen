@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1258065
 longitude: 13.841048
-postcode: 01465
+postcode: "01465"
 city: Dresden
 street: "Dresdner Straße"
 housenumber: 11

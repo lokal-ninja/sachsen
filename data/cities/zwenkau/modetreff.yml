@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2168268
 longitude: 12.326280200000001
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Pegauer Straße"
 housenumber: 11

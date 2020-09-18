@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.218110300000006
 longitude: 12.332104500000002
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Lomlerstraße"
 housenumber: 11

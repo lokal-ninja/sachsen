@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.327896200000005
 longitude: 12.610887400000001
-postcode: 04821
+postcode: "04821"
 city: Brandis
 street: "Bergstraße"
 housenumber: 1

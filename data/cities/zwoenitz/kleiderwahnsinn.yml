@@ -3,10 +3,10 @@ type: way
 shop: Kleidung
 latitude: 50.631376200000005
 longitude: 12.805294
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Bahnhofstraße"
 housenumber: 43
 phone: ""
 opening_hours: ""
-website: "https://www.kleiderwahnsinn.de/"
+website: ""

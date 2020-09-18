@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9008077
 longitude: 13.2465135
-postcode: 09600
+postcode: "09600"
 city: Oberschöna
 street: "An der Hauptstraße"
 housenumber: 24

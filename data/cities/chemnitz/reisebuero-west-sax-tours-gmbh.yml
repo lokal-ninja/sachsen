@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.8216071
 longitude: 12.938069100000002
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Zschopauer Straße"
 housenumber: 153

@@ -1,12 +1,12 @@
 id: 7359899548
 type: node
-shop: Allgemein
+shop: Lebensmittel
 latitude: 50.7161144
 longitude: 12.496905700000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
-street: "Schneeberger Straße"
+street: "Innere Schneeberger Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""
-website: "https://www.unverpackt-zwickau.de/"
+website: ""

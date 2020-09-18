@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 51.183154800000004
 longitude: 14.4223736
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Schloßstraße"
 housenumber: 4

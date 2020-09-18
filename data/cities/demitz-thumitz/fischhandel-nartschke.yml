@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 51.1506994
 longitude: 14.2469064
-postcode: 01877
+postcode: "01877"
 city: Demitz-Thumitz
 street: "Am Gewerbepark"
 housenumber: 2a

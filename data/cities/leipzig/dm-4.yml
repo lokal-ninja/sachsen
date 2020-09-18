@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.34347330000001
 longitude: 12.3758847
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Brühl"
 housenumber: 1

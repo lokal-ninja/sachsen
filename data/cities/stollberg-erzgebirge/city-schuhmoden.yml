@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.7097683
 longitude: 12.7811868
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Ernst-Thälmann-Straße"
 housenumber: 11

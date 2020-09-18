@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 51.113385900000004
 longitude: 13.780923000000001
-postcode: 01109
+postcode: "01109"
 city: Dresden
 street: "Königsbrücker Landstraße"
 housenumber: 55

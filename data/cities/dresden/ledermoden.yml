@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 51.0522782
 longitude: 13.806167
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Angelsteg"
 housenumber: 5

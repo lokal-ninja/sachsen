@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3339366
 longitude: 12.615158500000001
-postcode: 04821
+postcode: "04821"
 city: Brandis
 street: "Braustraße"
 housenumber: 34

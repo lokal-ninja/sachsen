@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.1715564
 longitude: 14.4365789
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Stieberstraße"
 housenumber: 49

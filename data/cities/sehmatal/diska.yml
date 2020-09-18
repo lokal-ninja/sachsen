@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.4829518
 longitude: 12.971751600000001
-postcode: 09465
+postcode: "09465"
 city: Sehmatal
 street: "Crottendorfer Straße"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.202999000000005
 longitude: 13.730583500000002
-postcode: 01471
+postcode: "01471"
 city: Radeburg
 street: "Riesstraße"
 housenumber: 2

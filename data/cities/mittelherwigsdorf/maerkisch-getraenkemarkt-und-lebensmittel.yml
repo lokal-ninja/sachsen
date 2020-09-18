@@ -3,10 +3,10 @@ type: node
 shop: Getränke
 latitude: 50.9135678
 longitude: 14.754663
-postcode: 02763
+postcode: "02763"
 city: Mittelherwigsdorf
 street: "Schenkstraße"
 housenumber: 13
 phone: ""
-opening_hours: "Montag - Freitag: 08.30 - 18.00 Uhr, Samstag: 08.00 - 12.00 Uhr"
+opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-12:00"
 website: "http://getraenke-maerkisch.de"

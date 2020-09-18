@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.6506995
 longitude: 13.153038500000001
-postcode: 09496
+postcode: "09496"
 city: Marienberg
 street: "Äußere Wolkensteiner Straße"
 housenumber: 23

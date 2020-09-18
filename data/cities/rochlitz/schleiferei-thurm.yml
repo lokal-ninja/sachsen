@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.045733000000006
 longitude: 12.804018800000001
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Kunigundenstraße"
 housenumber: 14

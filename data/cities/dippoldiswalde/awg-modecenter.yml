@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.897255
 longitude: 13.69391
-postcode: 01744
+postcode: "01744"
 city: Dippoldiswalde
 street: "Industriering"
 housenumber: 2

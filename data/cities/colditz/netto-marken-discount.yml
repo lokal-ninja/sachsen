@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.125549400000004
 longitude: 12.812277700000001
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Leisniger Straße"
 housenumber: 5-7

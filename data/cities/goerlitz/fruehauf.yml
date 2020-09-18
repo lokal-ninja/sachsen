@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.1528295
 longitude: 14.986643800000001
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Demianiplatz"
 housenumber: 18

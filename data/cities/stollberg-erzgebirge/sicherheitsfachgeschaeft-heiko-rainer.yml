@@ -3,7 +3,7 @@ type: way
 shop: Sicherheit
 latitude: 50.7063903
 longitude: 12.7712213
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Gießereistraße"
 housenumber: 3

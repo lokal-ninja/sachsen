@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1509088
 longitude: 12.9242407
-postcode: 04703
+postcode: "04703"
 city: Leisnig
 street: "Georg-Rümpler-Weg"
 housenumber: 2

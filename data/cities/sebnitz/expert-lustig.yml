@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.9722779
 longitude: 14.273755300000001
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Lange Straße"
 housenumber: 5-7

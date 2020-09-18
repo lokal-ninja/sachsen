@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.4950654
 longitude: 12.1268192
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Neundorfer Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.338390200000006
 longitude: 12.373743300000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Sporergäßchen"
 housenumber: 1

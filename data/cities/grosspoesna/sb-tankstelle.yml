@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.2655569
 longitude: 12.4988959
-postcode: 04463
+postcode: "04463"
 city: Großpösna
 street: "Sepp-Verscht-Straße"
 housenumber: 1

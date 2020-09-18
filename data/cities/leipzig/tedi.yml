@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.3134334
 longitude: 12.265367600000001
-postcode: 04207
+postcode: "04207"
 city: Leipzig
 street: "Brackestraße"
 housenumber: 36

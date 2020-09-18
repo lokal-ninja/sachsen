@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.351914
 longitude: 12.408335000000001
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Gorkistraße"
 housenumber: 124

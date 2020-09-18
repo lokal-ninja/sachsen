@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.11021220000001
 longitude: 13.5885511
-postcode: 01640
+postcode: "01640"
 city: Coswig
 street: "Naundorfer Straße"
 housenumber: 1c

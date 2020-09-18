@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.736107100000005
 longitude: 12.4891979
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Leipziger Straße"
 housenumber: 113

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.0547607
 longitude: 12.6940963
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Leipziger Straße"
 housenumber: 4

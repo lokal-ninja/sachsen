@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1221321
 longitude: 13.586305800000002
-postcode: 01640
+postcode: "01640"
 city: Coswig
 street: "Webereistraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 50.915618900000005
 longitude: 13.827490500000001
-postcode: 01809
+postcode: "01809"
 city: Müglitztal
 street: "Müglitztalstraße"
 housenumber: 76

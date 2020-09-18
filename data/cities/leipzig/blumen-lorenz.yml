@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.3523695
 longitude: 12.4225872
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Volksgartenstraße"
 housenumber: 53

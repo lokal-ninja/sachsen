@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.806650100000006
 longitude: 13.6287876
-postcode: 01744
+postcode: "01744"
 city: Dippoldiswalde
 street: ""
 housenumber: 20

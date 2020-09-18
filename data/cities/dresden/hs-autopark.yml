@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0344033
 longitude: 13.698678300000001
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Mohorner Straße"
 housenumber: 21

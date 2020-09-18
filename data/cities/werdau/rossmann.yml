@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.7344516
 longitude: 12.378470100000001
-postcode: 08412
+postcode: "08412"
 city: Werdau
 street: "Uhlandstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.717812
 longitude: 12.456994
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Marienthaler Straße"
 housenumber: 117

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.635308800000004
 longitude: 12.793222700000001
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Lenkersdorfer Straße"
 housenumber: 2a

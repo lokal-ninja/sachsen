@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.7818647
 longitude: 12.6982634
-postcode: 09355
+postcode: "09355"
 city: Gersdorf
 street: "Hofer Straße"
 housenumber: 2

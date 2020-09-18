@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.5972918
 longitude: 13.0190017
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Gewerbering"
 housenumber: 1A

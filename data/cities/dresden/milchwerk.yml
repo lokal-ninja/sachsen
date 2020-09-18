@@ -3,7 +3,7 @@ type: node
 shop: Milch
 latitude: 51.0432135
 longitude: 13.6973464
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Kesselsdorfer Straße"
 housenumber: 

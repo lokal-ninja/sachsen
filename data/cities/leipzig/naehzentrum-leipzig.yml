@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 51.329036800000004
 longitude: 12.3365586
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Zschochersche Straße"
 housenumber: 48

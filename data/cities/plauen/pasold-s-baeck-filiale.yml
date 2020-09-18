@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4938122
 longitude: 12.0970496
-postcode: 
+postcode: ""
 city: Plauen
 street: "Lützowstraße"
 housenumber: 1

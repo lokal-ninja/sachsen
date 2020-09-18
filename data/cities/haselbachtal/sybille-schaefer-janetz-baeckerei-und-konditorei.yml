@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.2452192
 longitude: 14.017749400000001
-postcode: 01920
+postcode: "01920"
 city: Haselbachtal
 street: "Dorfstraße"
 housenumber: 6

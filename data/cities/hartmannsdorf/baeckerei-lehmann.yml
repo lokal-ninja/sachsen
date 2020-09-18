@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8869349
 longitude: 12.799249900000001
-postcode: 09232
+postcode: "09232"
 city: Hartmannsdorf
 street: "Leipziger Straße"
 housenumber: 8

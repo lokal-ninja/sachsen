@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.717507000000005
 longitude: 12.481847
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Bahnhofstraße"
 housenumber: 47

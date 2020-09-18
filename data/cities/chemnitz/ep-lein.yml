@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.826466200000006
 longitude: 12.831876600000001
-postcode: 09117
+postcode: "09117"
 city: Chemnitz
 street: "Oberfrohnaer Straße"
 housenumber: 74

@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.340914000000005
 longitude: 12.383147500000002
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Georgiring"
 housenumber: 4-7

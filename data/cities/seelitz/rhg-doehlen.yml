@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.0510582
 longitude: 12.815651800000001
-postcode: 09306
+postcode: "09306"
 city: Seelitz
 street: "Haltestelle"
 housenumber: 2

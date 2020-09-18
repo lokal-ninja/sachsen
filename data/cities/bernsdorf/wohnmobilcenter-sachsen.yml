@@ -3,7 +3,7 @@ type: way
 shop: Wohnwagen
 latitude: 51.3610776
 longitude: 14.0436972
-postcode: 02994
+postcode: "02994"
 city: Bernsdorf
 street: "Dresdener Straße"
 housenumber: 106

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.738480100000004
 longitude: 12.745854900000001
-postcode: 09385
+postcode: "09385"
 city: Lugau
 street: "Obere Hauptstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9699545
 longitude: 13.8721838
-postcode: 01809
+postcode: "01809"
 city: Heidenau
 street: "Hauptstraße"
 housenumber: 43-45

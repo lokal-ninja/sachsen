@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.445880100000004
 longitude: 12.2228654
-postcode: 04435
+postcode: "04435"
 city: Schkeuditz
 street: "Lindenstraße"
 housenumber: 16

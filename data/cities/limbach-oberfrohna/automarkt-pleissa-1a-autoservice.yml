@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.84122
 longitude: 12.768486800000002
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Hohensteiner Straße"
 housenumber: 151

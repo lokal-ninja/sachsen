@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.718349100000005
 longitude: 12.495626300000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Marienplatz"
 housenumber: 10

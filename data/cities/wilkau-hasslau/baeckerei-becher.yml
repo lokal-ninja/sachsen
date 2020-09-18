@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.661152
 longitude: 12.552068
-postcode: 08112
+postcode: "08112"
 city: Wilkau-Haßlau
 street: "Schneeberger Straße"
 housenumber: 66

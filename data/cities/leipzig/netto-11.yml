@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.378194300000004
 longitude: 12.421967400000002
-postcode: 04357
+postcode: "04357"
 city: Leipzig
 street: "Kieler Straße"
 housenumber: 9-11

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.7401701
 longitude: 13.5295587
-postcode: 09623
+postcode: "09623"
 city: Rechenberg-Bienenmühle
 street: "Bahnhofstraße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3419084
 longitude: 12.377006600000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Reichsstraße"
 housenumber: 16-18

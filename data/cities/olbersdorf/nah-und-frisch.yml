@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.870818400000005
 longitude: 14.7652546
-postcode: 02785
+postcode: "02785"
 city: Olbersdorf
 street: "Oberer Viebig"
 housenumber: 2a

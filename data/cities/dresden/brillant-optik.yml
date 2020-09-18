@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.0401004
 longitude: 13.8056256
-postcode: 01277
+postcode: "01277"
 city: Dresden
 street: "Altenberger Straße"
 housenumber: 28

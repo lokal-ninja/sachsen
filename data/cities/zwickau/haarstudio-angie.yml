@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.695592500000004
 longitude: 12.4677257
-postcode: 08062
+postcode: "08062"
 city: Zwickau
 street: "Eduard-Soermus-Straße"
 housenumber: 56

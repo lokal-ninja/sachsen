@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.9800635
 longitude: 14.6095412
-postcode: 02727
+postcode: "02727"
 city: Ebersbach-Neugersdorf
 street: "Hauptstraße"
 housenumber: 34a

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.5612003
 longitude: 12.2709118
-postcode: 08233
+postcode: "08233"
 city: Treuen
 street: "Am Katzenteich"
 housenumber: 14

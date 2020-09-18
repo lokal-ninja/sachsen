@@ -3,10 +3,10 @@ type: node
 shop: Möbel
 latitude: 50.420972600000006
 longitude: 12.1750354
-postcode: 08606
+postcode: "08606"
 city: Oelsnitz/Vogtl.
 street: "Plauensche Straße"
 housenumber: 23a
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; Su,PH off"
 website: ""

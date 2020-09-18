@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.163813100000006
 longitude: 13.676396100000002
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Markt"
 housenumber: 9

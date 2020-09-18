@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.2518315
 longitude: 12.727596400000001
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Wurzener Straße"
 housenumber: 69

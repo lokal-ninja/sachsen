@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.810267700000004
 longitude: 12.7872727
-postcode: 09224
+postcode: "09224"
 city: Chemnitz
 street: "Chemnitzer Straße"
 housenumber: 93

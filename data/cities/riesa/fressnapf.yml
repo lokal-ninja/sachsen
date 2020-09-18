@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.298359500000004
 longitude: 13.299315700000001
-postcode: 01589
+postcode: "01589"
 city: Riesa
 street: "Pausitzer Straße"
 housenumber: 36

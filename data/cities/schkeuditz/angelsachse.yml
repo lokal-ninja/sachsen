@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.3504726
 longitude: 12.220469000000001
-postcode: 04435
+postcode: "04435"
 city: Schkeuditz
 street: "Merseburger Chaussee"
 housenumber: 5a

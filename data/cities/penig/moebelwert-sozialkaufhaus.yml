@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.92045460000001
 longitude: 12.7168994
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Chemnitzer Straße"
 housenumber: 123

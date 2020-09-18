@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.609827800000005
 longitude: 12.2417607
-postcode: 08491
+postcode: "08491"
 city: Netzschkau
 street: "Elsterberger Straße"
 housenumber: 7

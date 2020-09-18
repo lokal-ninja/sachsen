@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.730952900000005
 longitude: 12.7127838
-postcode: 09376
+postcode: "09376"
 city: Oelsnitz/Erzgeb.
 street: "Untere Hauptstraße"
 housenumber: 81

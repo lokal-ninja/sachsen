@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7930907
 longitude: 12.568000000000001
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Rothenbacher Straße"
 housenumber: 77

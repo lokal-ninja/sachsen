@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.369346
 longitude: 13.395919000000001
-postcode: 01609
+postcode: "01609"
 city: Wülknitz
 street: "Bahnhofstraße"
 housenumber: 36

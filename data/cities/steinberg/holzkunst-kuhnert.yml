@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.537606700000005
 longitude: 12.4932143
-postcode: 08237
+postcode: "08237"
 city: Steinberg
 street: "Neue Wildenauer Straße"
 housenumber: 2

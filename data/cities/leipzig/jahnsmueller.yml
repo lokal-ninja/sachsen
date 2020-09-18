@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.373079700000005
 longitude: 12.407554300000001
-postcode: 04357
+postcode: "04357"
 city: Leipzig
 street: "Oelßnerstraße"
 housenumber: 25

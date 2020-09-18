@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9844905
 longitude: 12.9802061
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Weberstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.9076402
 longitude: 13.356511900000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Frauensteiner Straße"
 housenumber: 46

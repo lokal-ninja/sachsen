@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.348542900000005
 longitude: 12.310951600000001
-postcode: 04179
+postcode: "04179"
 city: Leipzig
 street: "Georg-Schwarz-Straße"
 housenumber: 131

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.201320700000004
 longitude: 13.673745
-postcode: 01471
+postcode: "01471"
 city: Radeburg
 street: "Oberdorf"
 housenumber: 3

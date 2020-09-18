@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.4203072
 longitude: 12.9724315
-postcode: 09484
+postcode: "09484"
 city: Kurort Oberwiesenthal
 street: "Bahnhofstraße"
 housenumber: 8-10

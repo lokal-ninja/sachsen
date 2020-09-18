@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.042377800000004
 longitude: 13.687314200000001
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Kesselsdorfer Straße"
 housenumber: 59

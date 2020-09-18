@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.0159929
 longitude: 14.934665
-postcode: 02899
+postcode: "02899"
 city: Ostritz
 street: "Edmund-Kretschmer-Straße"
 housenumber: 21

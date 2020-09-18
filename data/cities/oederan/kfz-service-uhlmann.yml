@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.901835600000005
 longitude: 13.2075384
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Am Kemnitzbach"
 housenumber: 32

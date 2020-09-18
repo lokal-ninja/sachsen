@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1980191
 longitude: 12.9677369
-postcode: 04703
+postcode: "04703"
 city: Leisnig
 street: "An der Autobahn"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.067900800000004
 longitude: 13.776885100000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Waldschlößchenstraße"
 housenumber: 2

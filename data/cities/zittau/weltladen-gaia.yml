@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.8949586
 longitude: 14.808598600000002
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Reichenberger Straße"
 housenumber: 16

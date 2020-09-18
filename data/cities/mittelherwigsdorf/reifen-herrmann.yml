@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.951677600000004
 longitude: 14.7894368
-postcode: 02763
+postcode: "02763"
 city: Mittelherwigsdorf
 street: "Viebig"
 housenumber: 1

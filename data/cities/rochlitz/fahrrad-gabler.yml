@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.0464357
 longitude: 12.796552400000001
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Zwingergasse"
 housenumber: 9

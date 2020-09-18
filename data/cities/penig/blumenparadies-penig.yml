@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9330957
 longitude: 12.704005700000002
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Brückenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3350421
 longitude: 12.329320800000001
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "GutsMuthsstraße"
 housenumber: 

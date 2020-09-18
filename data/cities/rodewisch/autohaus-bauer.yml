@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.5448273
 longitude: 12.385554200000001
-postcode: 08228
+postcode: "08228"
 city: Rodewisch
 street: "Alte Lengenfelder Straße"
 housenumber: 2b

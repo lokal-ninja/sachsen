@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.710151100000004
 longitude: 12.7827652
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Antonstraße"
 housenumber: 4

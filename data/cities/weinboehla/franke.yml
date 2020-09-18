@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.152585
 longitude: 13.566427800000001
-postcode: 01689
+postcode: "01689"
 city: Weinböhla
 street: "Dresdner Straße"
 housenumber: 60

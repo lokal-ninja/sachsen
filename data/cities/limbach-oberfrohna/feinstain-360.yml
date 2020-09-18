@@ -3,10 +3,10 @@ type: node
 shop: Computer
 latitude: 50.856478300000006
 longitude: 12.775673300000001
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Hohensteiner Straße"
 housenumber: 31
-phone: "037224029855"
+phone: "+49 3722 4029855"
 opening_hours: "Mo-Fr 08:00-17:00"
 website: "https://www.feinstain.de"

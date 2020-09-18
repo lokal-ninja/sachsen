@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.513026
 longitude: 12.1245785
-postcode: 08525
+postcode: "08525"
 city: Plauen
 street: "Alleestraße"
 housenumber: 8

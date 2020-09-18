@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2681656
 longitude: 12.497017900000001
-postcode: 04463
+postcode: "04463"
 city: Großpösna
 street: "Sepp-Verscht-Straße"
 housenumber: 1

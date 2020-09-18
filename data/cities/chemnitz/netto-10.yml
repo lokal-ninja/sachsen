@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8047866
 longitude: 12.896941900000002
-postcode: 09120
+postcode: "09120"
 city: Chemnitz
 street: "Friedrich-Hähnel-Straße"
 housenumber: 88

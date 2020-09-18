@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9233327
 longitude: 14.135625600000001
-postcode: 01814
+postcode: "01814"
 city: Bad Schandau
 street: "Basteistraße"
 housenumber: 35

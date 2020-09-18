@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.9682059
 longitude: 13.8769267
-postcode: 01809
+postcode: "01809"
 city: Heidenau
 street: "Geschwister-Scholl-Straße"
 housenumber: 1

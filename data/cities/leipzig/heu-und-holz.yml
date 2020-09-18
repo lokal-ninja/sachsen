@@ -3,7 +3,7 @@ type: way
 shop: Holz
 latitude: 51.3634162
 longitude: 12.3574988
-postcode: 04155
+postcode: "04155"
 city: Leipzig
 street: "Kasseler Straße"
 housenumber: 28

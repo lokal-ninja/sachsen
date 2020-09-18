@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8586888
 longitude: 12.758639800000001
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Helenenstraße"
 housenumber: 18

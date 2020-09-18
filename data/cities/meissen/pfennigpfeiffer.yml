@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.164335300000005
 longitude: 13.487511900000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Fabrikstraße"
 housenumber: 14b

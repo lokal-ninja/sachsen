@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.163231200000006
 longitude: 13.680028700000001
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Schloßallee"
 housenumber: 5b

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.835697700000004
 longitude: 12.4511078
-postcode: 08393
+postcode: "08393"
 city: Meerane
 street: "Seiferitzer Allee"
 housenumber: 1

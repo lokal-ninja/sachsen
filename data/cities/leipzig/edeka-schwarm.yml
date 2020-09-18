@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3388487
 longitude: 12.3830393
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Grimmaischer Steinweg"
 housenumber: 5

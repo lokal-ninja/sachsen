@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.071897400000005
 longitude: 13.695025600000001
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Mengsstraße"
 housenumber: 

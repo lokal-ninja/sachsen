@@ -3,10 +3,10 @@ type: node
 shop: Tiere
 latitude: 50.494191900000004
 longitude: 12.10424
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Neundorfer Straße"
 housenumber: 171
 phone: "+49 160 97315794"
-opening_hours: "Mo-Tu 09:00-17:00; We 12:00-17:00; Fr 09:00-14:00"
+opening_hours: "Tu, Th 09:00-17:00; We 12:00-17:00; Fr 09:00-14:00"
 website: "https://about.me/heikepfeiffer"

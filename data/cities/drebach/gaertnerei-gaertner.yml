@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.68926080000001
 longitude: 13.0314762
-postcode: 09430
+postcode: "09430"
 city: Drebach
 street: "Venusberger Straße"
 housenumber: 7

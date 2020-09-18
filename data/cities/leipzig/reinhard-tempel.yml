@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 51.332343800000004
 longitude: 12.332696400000001
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Merseburger Straße"
 housenumber: 46

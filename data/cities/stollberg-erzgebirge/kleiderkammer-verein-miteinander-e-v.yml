@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.710335400000005
 longitude: 12.766772300000001
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Gärtnereiweg"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1557356
 longitude: 12.2804342
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Schulgasse"
 housenumber: 3

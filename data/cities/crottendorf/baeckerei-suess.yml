@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.508403400000006
 longitude: 12.9359558
-postcode: 09474
+postcode: "09474"
 city: Crottendorf
 street: "Annaberger Straße"
 housenumber: 255

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0996213
 longitude: 12.9672084
-postcode: 04746
+postcode: "04746"
 city: Hartha
 street: "Leipziger Straße"
 housenumber: 22

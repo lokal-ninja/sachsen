@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0648635
 longitude: 13.8973694
-postcode: 01328
+postcode: "01328"
 city: Dresden
 street: "Am Hahnweg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0503987
 longitude: 14.428260700000001
-postcode: 02689
+postcode: "02689"
 city: Sohland a. d. Spree
 street: "Gerhart-Hauptmann-Straße"
 housenumber: 2A

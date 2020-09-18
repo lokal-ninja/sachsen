@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0078067
 longitude: 13.801552800000001
-postcode: 01239
+postcode: "01239"
 city: Dresden
 street: "Prohliser Allee"
 housenumber: 4

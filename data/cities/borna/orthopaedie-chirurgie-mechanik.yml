@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.1253066
 longitude: 12.4949758
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: ""
 housenumber: 

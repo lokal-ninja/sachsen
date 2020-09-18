@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.919365500000005
 longitude: 13.3411647
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Burgstraße"
 housenumber: 25

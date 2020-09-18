@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.9192017
 longitude: 12.717583900000001
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Kreisel"
 housenumber: 28

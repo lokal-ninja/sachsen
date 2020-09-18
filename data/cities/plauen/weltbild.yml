@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.497593300000005
 longitude: 12.135993000000001
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Postplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.0911168
 longitude: 13.7142385
-postcode: 01129
+postcode: "01129"
 city: Dresden
 street: "Kopernikusstraße"
 housenumber: 24

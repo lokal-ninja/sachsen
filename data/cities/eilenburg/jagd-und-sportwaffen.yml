@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 51.4668336
 longitude: 12.6578365
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Wurzener Platz"
 housenumber: 3

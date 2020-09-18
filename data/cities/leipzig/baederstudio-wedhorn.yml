@@ -3,7 +3,7 @@ type: node
 shop: Badezimmer
 latitude: 51.3257666
 longitude: 12.451665
-postcode: 04316
+postcode: "04316"
 city: Leipzig
 street: "Zweinaundorfer Straße"
 housenumber: 203

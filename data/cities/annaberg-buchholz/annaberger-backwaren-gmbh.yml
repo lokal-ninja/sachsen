@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.592518000000005
 longitude: 13.009112
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Chemnitzer Straße"
 housenumber: 42

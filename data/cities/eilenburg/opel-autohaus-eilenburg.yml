@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.4590571
 longitude: 12.628908200000001
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Leipziger Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.042939100000005
 longitude: 13.6819553
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Kesselsdorfer Straße"
 housenumber: 114

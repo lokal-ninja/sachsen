@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.898834400000005
 longitude: 14.792758200000002
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Äußere Weberstraße"
 housenumber: 40

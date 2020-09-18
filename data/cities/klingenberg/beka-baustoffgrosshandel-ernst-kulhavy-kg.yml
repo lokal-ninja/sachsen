@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.842561
 longitude: 13.519935700000001
-postcode: 01774
+postcode: "01774"
 city: Klingenberg
 street: "Frauensteiner Straße"
 housenumber: 35a

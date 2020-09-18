@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4494345
 longitude: 14.1055164
-postcode: 02991
+postcode: "02991"
 city: Lauta
 street: "Straße A"
 housenumber: 1

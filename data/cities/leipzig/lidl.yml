@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.347080000000005
 longitude: 12.419309
-postcode: 04318
+postcode: "04318"
 city: Leipzig
 street: "Torgauer Straße"
 housenumber: 74

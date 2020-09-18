@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.719365200000006
 longitude: 12.593952900000001
-postcode: 08132
+postcode: "08132"
 city: Mülsen
 street: "St. Niclaser Hauptstraße"
 housenumber: 67

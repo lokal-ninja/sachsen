@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.5001029
 longitude: 12.127986700000001
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Weststraße"
 housenumber: 63

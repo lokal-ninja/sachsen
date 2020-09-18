@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0322395
 longitude: 13.584368900000001
-postcode: 01723
+postcode: "01723"
 city: Wilsdruff
 street: "Grumbacher Straße"
 housenumber: 9

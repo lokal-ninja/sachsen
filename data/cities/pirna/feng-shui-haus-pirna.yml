@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.962914600000005
 longitude: 13.940625800000001
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Barbiergasse"
 housenumber: 4

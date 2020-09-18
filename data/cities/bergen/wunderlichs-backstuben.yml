@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.4754037
 longitude: 12.283578
-postcode: 08239
+postcode: "08239"
 city: Bergen
 street: "Falkensteiner Straße"
 housenumber: 54
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-14:00"
+opening_hours: "Mo-Fr 07:00-16:00, Sa 07:00-12:00; Su,PH off"
 website: ""

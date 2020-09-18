@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.017543700000004
 longitude: 14.9350128
-postcode: 02899
+postcode: "02899"
 city: Ostritz
 street: "Bahnhofstraße"
 housenumber: 30

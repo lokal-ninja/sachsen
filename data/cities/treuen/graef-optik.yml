@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.5392141
 longitude: 12.307112100000001
-postcode: 08233
+postcode: "08233"
 city: Treuen
 street: "Markt"
 housenumber: 

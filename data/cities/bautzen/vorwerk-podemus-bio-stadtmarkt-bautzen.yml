@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1819962
 longitude: 14.432328300000002
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Töpferstraße"
 housenumber: 38

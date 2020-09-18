@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.123397100000005
 longitude: 14.982353400000001
-postcode: 02827
+postcode: "02827"
 city: Görlitz
 street: "Zittauer Straße"
 housenumber: 144

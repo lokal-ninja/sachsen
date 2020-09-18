@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.8404827
 longitude: 12.935587400000001
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Lessingstraße"
 housenumber: 12

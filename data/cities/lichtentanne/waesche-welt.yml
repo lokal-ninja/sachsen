@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.6952853
 longitude: 12.425233500000001
-postcode: 08115
+postcode: "08115"
 city: Lichtentanne
 street: "Hauptstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.37564020000001
 longitude: 12.4184844
-postcode: 04357
+postcode: "04357"
 city: Leipzig
 street: "Kieler Straße"
 housenumber: 41

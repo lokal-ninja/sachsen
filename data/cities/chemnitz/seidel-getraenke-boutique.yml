@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.8432254
 longitude: 12.9401902
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Palmstraße"
 housenumber: 17

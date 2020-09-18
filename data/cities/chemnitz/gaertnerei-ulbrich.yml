@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.787227
 longitude: 12.9267306
-postcode: 09125
+postcode: "09125"
 city: Chemnitz
 street: "Annaberger Straße"
 housenumber: 393

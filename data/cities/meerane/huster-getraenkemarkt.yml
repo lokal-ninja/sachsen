@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.84351100000001
 longitude: 12.4454209
-postcode: 08393
+postcode: "08393"
 city: Meerane
 street: "Äußere Crimmitschauer Straße"
 housenumber: 86B

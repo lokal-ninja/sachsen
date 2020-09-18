@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.2211501
 longitude: 14.1291603
-postcode: 01920
+postcode: "01920"
 city: Elstra
 street: "Stadtring"
 housenumber: 16a

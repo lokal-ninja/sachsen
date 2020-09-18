@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 50.718623400000006
 longitude: 12.496376900000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Hauptstraße"
 housenumber: 13

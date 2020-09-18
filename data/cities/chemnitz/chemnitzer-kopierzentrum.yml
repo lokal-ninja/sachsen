@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.8292565
 longitude: 12.9148712
-postcode: 09112
+postcode: "09112"
 city: Chemnitz
 street: "Zwickauer Straße"
 housenumber: 16

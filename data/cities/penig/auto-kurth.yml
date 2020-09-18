@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.928966100000004
 longitude: 12.7046749
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Schinkelstraße"
 housenumber: 8

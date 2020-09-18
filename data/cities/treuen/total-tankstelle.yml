@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.544233600000005
 longitude: 12.2988391
-postcode: 08233
+postcode: "08233"
 city: Treuen
 street: "Innere Herlasgrüner Straße"
 housenumber: 11

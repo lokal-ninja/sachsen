@@ -3,7 +3,7 @@ type: way
 shop: Videothek
 latitude: 51.3699802
 longitude: 12.7402171
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Friedrich-Engels-Straße"
 housenumber: 23

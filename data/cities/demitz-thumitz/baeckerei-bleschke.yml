@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.150241300000005
 longitude: 14.2465583
-postcode: 01877
+postcode: "01877"
 city: Demitz-Thumitz
 street: "Am Gewerbepark"
 housenumber: 2

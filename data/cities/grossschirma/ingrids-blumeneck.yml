@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.0311078
 longitude: 13.306252800000001
-postcode: 09603
+postcode: "09603"
 city: Großschirma
 street: "Nossener Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.99776060000001
 longitude: 14.615937700000002
-postcode: 02730
+postcode: "02730"
 city: Ebersbach-Neugersdorf
 street: "Johann-Andreas-Schubert-Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7732145
 longitude: 12.246014200000001
-postcode: 07580
+postcode: "07580"
 city: Seelingstädt
 street: "Seelingstädt"
 housenumber: 16

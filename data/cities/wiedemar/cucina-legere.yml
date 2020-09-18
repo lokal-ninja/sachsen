@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.4708808
 longitude: 12.2132378
-postcode: 04509
+postcode: "04509"
 city: Wiedemar
 street: "Lilienthalstraße"
 housenumber: 3a

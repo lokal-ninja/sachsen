@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.7292124
 longitude: 12.4999201
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Talstraße"
 housenumber: 18

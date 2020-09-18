@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.319373600000006
 longitude: 12.2892907
-postcode: 04209
+postcode: "04209"
 city: Leipzig
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.3766266
 longitude: 12.739793
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Friedrich-Ebert-Straße"
 housenumber: 29

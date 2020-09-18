@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 51.0077957
 longitude: 13.6572609
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "Potschappler Straße"
 housenumber: 1

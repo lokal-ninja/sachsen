@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.833245000000005
 longitude: 12.890661000000001
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Schiersandstraße"
 housenumber: 18

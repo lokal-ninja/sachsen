@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.745606300000006
 longitude: 12.485703200000001
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Franz-Mehring-Straße"
 housenumber: 174

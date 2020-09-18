@@ -3,9 +3,9 @@ type: way
 shop: Sanitätshaus
 latitude: 50.632354500000005
 longitude: 12.812163700000001
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
-street: "Am Niederen Anger"
+street: "Am Mühlgraben"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.8372557
 longitude: 12.895959600000001
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Limbacher Straße"
 housenumber: 68

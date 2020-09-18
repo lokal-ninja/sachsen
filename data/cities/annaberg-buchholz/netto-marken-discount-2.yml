@@ -1,12 +1,12 @@
-id: 132460456
+id: 125963015
 type: way
 shop: Supermarkt
-latitude: 50.5657136
-longitude: 13.009263800000001
-postcode: 09456
+latitude: 50.576765300000005
+longitude: 12.998961300000001
+postcode: "09456"
 city: Annaberg-Buchholz
-street: "Bärensteiner Straße"
-housenumber: 31
+street: "Bahnhofsplatz"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: ""
 website: ""

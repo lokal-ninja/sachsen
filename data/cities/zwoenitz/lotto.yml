@@ -3,7 +3,7 @@ type: node
 shop: Lotterie
 latitude: 50.6300833
 longitude: 12.810690800000001
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Lange Gasse"
 housenumber: 16

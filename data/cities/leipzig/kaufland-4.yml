@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.324553800000004
 longitude: 12.275562
-postcode: 04205
+postcode: "04205"
 city: Leipzig
 street: "Kiewer Straße"
 housenumber: 30

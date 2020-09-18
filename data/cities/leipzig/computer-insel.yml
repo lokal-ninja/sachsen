@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.3361256
 longitude: 12.3338373
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Marktstraße"
 housenumber: 10

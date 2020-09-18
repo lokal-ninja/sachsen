@@ -1,12 +1,12 @@
 id: 3986311296
 type: node
 shop: Friseur
-latitude: 50.8620036
-longitude: 13.1670745
-postcode: 09569
+latitude: 50.86196210000001
+longitude: 13.1670952
+postcode: "09569"
 city: Oederan
 street: "Markt"
 housenumber: 2
-phone: "+49 37292 289812"
+phone: ""
 opening_hours: ""
-website: "http://www.lady-and-men.de/salons/oederan/markt-2/"
+website: ""

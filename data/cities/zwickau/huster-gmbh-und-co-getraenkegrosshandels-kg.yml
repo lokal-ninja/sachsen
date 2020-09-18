@@ -1,12 +1,12 @@
-id: 4230666651
-type: node
+id: 313111532
+type: way
 shop: Getränke
-latitude: 50.7384543
-longitude: 12.4943833
-postcode: 08058
+latitude: 50.6723993
+longitude: 12.497670300000001
+postcode: "08064"
 city: Zwickau
-street: "Pölbitzer Straße"
-housenumber: 34a
+street: "Wilkauer Straße"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-16:00"
-website: ""
+opening_hours: ""
+website: "http://www.huster-getraenke.de/"

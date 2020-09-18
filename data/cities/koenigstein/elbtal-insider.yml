@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.918766500000004
 longitude: 14.072434500000002
-postcode: 01824
+postcode: "01824"
 city: Königstein
 street: "Pirnaer Straße"
 housenumber: 9

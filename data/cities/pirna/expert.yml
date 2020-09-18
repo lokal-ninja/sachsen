@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.9563482
 longitude: 13.907810900000001
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Hugo-Küttner-Straße"
 housenumber: 2

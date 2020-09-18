@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.785758200000004
 longitude: 12.6136835
-postcode: 09356
+postcode: "09356"
 city: St. Egidien
 street: "Glauchauer Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.317984
 longitude: 13.0932632
-postcode: 04758
+postcode: "04758"
 city: Oschatz
 street: "Hangstraße"
 housenumber: 28

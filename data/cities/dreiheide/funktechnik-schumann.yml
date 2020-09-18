@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.567092800000005
 longitude: 12.912044600000002
-postcode: 04860
+postcode: "04860"
 city: Dreiheide
 street: "Sandstraße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8217061
 longitude: 12.953134400000001
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 116

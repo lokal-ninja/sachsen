@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.227217
 longitude: 13.608793
-postcode: 01561
+postcode: "01561"
 city: Ebersbach
 street: "Schloßallee"
 housenumber: 3

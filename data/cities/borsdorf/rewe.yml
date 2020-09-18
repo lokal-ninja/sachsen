@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.354983700000005
 longitude: 12.5429007
-postcode: 04451
+postcode: "04451"
 city: Borsdorf
 street: "Otto-von-Guericke-Straße"
 housenumber: 1

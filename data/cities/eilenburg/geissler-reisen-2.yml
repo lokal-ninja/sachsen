@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.4587939
 longitude: 12.6326912
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Rinckartstraße"
 housenumber: 8

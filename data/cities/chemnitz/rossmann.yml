@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.8045905
 longitude: 12.8606554
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Im Neefepark"
 housenumber: 3

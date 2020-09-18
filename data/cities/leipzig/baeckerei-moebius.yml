@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3466832
 longitude: 12.4758379
-postcode: 04329
+postcode: "04329"
 city: Leipzig
 street: "Paunsdorfer Allee"
 housenumber: 1

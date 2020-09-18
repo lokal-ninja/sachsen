@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.370238900000004
 longitude: 12.73942
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Jacobsplatz"
 housenumber: 7

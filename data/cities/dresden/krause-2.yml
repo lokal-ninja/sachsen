@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0487157
 longitude: 13.7431169
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Ringstraße"
 housenumber: 7

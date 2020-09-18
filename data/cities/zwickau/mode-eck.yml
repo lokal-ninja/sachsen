@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7203682
 longitude: 12.4378455
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Steinpleiser Straße"
 housenumber: 23

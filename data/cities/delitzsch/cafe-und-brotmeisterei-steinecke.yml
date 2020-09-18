@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.52328060000001
 longitude: 12.3365808
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Eilenburger Straße"
 housenumber: 4

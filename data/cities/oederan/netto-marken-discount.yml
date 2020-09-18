@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8578677
 longitude: 13.173911
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Gerichtsstraße"
 housenumber: 25

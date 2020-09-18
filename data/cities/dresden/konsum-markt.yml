@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.061451600000005
 longitude: 13.854528700000001
-postcode: 01324
+postcode: "01324"
 city: Dresden
 street: "Ullersdorfer Platz"
 housenumber: 1B

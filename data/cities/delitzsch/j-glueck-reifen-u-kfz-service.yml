@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.528592
 longitude: 12.3421298
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Dübener Straße"
 housenumber: 43 B

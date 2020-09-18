@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.179354700000005
 longitude: 14.4010431
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Dresdener Straße"
 housenumber: 53b

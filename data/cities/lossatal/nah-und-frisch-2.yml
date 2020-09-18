@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.398848
 longitude: 12.8725316
-postcode: 04808
+postcode: "04808"
 city: Lossatal
 street: "Karl-Marx-Straße"
 housenumber: 16

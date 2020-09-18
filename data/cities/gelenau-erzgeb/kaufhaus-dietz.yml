@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.701310500000005
 longitude: 12.9462267
-postcode: 09423
+postcode: "09423"
 city: Gelenau/Erzgeb.
 street: "Straße der Einheit"
 housenumber: 259

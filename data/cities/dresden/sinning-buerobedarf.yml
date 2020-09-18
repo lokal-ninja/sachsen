@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.044735700000004
 longitude: 13.776869000000001
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Borsbergstraße"
 housenumber: 22

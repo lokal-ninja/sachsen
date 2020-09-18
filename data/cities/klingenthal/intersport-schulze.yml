@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.3579122
 longitude: 12.469645400000001
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Auerbacher Straße"
 housenumber: 21

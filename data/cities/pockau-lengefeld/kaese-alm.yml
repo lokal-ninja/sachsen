@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.7184211
 longitude: 13.1937759
-postcode: 09514
+postcode: "09514"
 city: Pockau-Lengefeld
 street: "Freiberger Straße"
 housenumber: 10

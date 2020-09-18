@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2333118
 longitude: 12.705794800000001
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Gerichtswiesen"
 housenumber: 39

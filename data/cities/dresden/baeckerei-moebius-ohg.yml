@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.04594710000001
 longitude: 13.6774353
-postcode: 01169
+postcode: "01169"
 city: Dresden
 street: "Leutewitzer Ring"
 housenumber: 143

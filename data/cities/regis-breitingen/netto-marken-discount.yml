@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 51.090792
 longitude: 12.444032400000001
-postcode: 04565
+postcode: "04565"
 city: Regis-Breitingen
 street: "Goethestraße"
 housenumber: 13
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
 website: ""

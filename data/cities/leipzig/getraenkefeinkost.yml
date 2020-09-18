@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.332762200000005
 longitude: 12.3746267
-postcode: 04107
+postcode: "04107"
 city: Leipzig
 street: "Härtelstraße"
 housenumber: 23

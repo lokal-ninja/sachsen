@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.718582500000004
 longitude: 12.4608229
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Marienthaler Straße"
 housenumber: 97

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.0248884
 longitude: 13.8371428
-postcode: 01279
+postcode: "01279"
 city: Dresden
 street: "Leubener Straße"
 housenumber: 2

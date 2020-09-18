@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.948944600000004
 longitude: 14.8879014
-postcode: 02788
+postcode: "02788"
 city: Zittau
 street: "Görlitzer Straße"
 housenumber: 29

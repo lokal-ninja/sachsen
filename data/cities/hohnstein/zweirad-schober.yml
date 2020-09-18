@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.9863021
 longitude: 14.0741823
-postcode: 01848
+postcode: "01848"
 city: Hohnstein
 street: "Hohnsteiner Straße"
 housenumber: 4

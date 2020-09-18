@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.3328204
 longitude: 12.385148500000001
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Brüderstraße"
 housenumber: 55

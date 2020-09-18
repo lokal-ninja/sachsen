@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.605149600000004
 longitude: 12.6300232
-postcode: 08289
+postcode: "08289"
 city: Schneeberg
 street: "Bruno-Dost-Straße"
 housenumber: 1a

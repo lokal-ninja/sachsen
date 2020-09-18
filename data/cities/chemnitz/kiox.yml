@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8355338
 longitude: 12.924761700000001
-postcode: 09111
+postcode: "09111"
 city: Chemnitz
 street: "Straße der Nationen"
 housenumber: 

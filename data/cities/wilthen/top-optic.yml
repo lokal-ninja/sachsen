@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.0954131
 longitude: 14.388302000000001
-postcode: 02681
+postcode: "02681"
 city: Wilthen
 street: "Bahnhofstraße"
 housenumber: 7

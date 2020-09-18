@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.6226993
 longitude: 12.5314954
-postcode: 08107
+postcode: "08107"
 city: Kirchberg
 street: "Schneeberger Straße"
 housenumber: 1

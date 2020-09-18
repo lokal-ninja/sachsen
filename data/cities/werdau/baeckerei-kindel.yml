@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7121117
 longitude: 12.393280800000001
-postcode: 08412
+postcode: "08412"
 city: Werdau
 street: "Zum Steinpleiser Bahnhof"
 housenumber: 1

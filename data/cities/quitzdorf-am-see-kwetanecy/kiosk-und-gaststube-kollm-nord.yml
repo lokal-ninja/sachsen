@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.2748335
 longitude: 14.7351953
-postcode: 02906
+postcode: "02906"
 city: Quitzdorf am See - Kwětanecy
 street: "Quitzdorfer Weg"
 housenumber: 1

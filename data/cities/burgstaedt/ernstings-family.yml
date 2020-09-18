@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.918496600000005
 longitude: 12.8093956
-postcode: 09217
+postcode: "09217"
 city: Burgstädt
 street: "Straße der Deutschen Einheit"
 housenumber: 2 - 4

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.340681700000005
 longitude: 12.3791861
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Nikolaikirchhof"
 housenumber: 4

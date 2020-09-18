@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.15892
 longitude: 13.6806567
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Bahnhofstraße"
 housenumber: 2

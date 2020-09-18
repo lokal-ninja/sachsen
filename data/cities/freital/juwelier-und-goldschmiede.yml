@@ -1,12 +1,12 @@
 id: 2149343327
 type: node
 shop: Schmuck
-latitude: 51.0114436
-longitude: 13.6618709
-postcode: 01705
+latitude: 51.0114451
+longitude: 13.6618718
+postcode: "01705"
 city: Freital
 street: "Am Markt"
 housenumber: 1
 phone: "+49 351 6491797"
-opening_hours: "Mo-Fr 09:00-18:00; Sa-Su,PH off"
+opening_hours: "Mo-Fr 09:00-18:00; PH,Sa-Su off"
 website: "https://www.goldschmiede-stohr.de/"

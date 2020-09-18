@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 50.8672544
 longitude: 13.3209531
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "August-Bebel-Straße"
 housenumber: 17

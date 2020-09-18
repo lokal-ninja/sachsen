@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.067142700000005
 longitude: 13.7512579
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Louisenstraße"
 housenumber: 37

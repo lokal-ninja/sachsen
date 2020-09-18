@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 51.3364259
 longitude: 12.335763100000001
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Goetzstraße"
 housenumber: 2
-phone: ""
+phone: "+49 0341 9261813"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
-website: ""
+website: "https://277780.umbreitshopsolution.de"

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.0482906
 longitude: 14.4290654
-postcode: 02689
+postcode: "02689"
 city: Sohland a. d. Spree
 street: "Bahnhofstraße"
 housenumber: 24

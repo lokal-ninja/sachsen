@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.903261
 longitude: 13.338624200000002
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "An der Kohlenstraße"
 housenumber: 1

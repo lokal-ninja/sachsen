@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.337795
 longitude: 12.327516000000001
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Georg-Schwarz-Straße"
 housenumber: 2

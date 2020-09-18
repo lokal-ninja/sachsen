@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3059267
 longitude: 13.305731000000002
-postcode: 01589
+postcode: "01589"
 city: Riesa
 street: "Niederlagstraße"
 housenumber: 15

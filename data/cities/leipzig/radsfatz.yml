@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3455218
 longitude: 12.412395100000001
-postcode: 04315
+postcode: "04315"
 city: Leipzig
 street: "Eisenbahnstraße"
 housenumber: 113b

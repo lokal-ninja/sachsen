@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3541894
 longitude: 13.4987385
-postcode: 01561
+postcode: "01561"
 city: Großenhain
 street: "Hauptstraße"
 housenumber: 52

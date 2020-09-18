@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.2961031
 longitude: 12.3907111
-postcode: 04279
+postcode: "04279"
 city: Leipzig
 street: "Brunhildstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.152879000000006
 longitude: 14.396246000000001
-postcode: 02692
+postcode: "02692"
 city: Doberschau-Gaußig
 street: "Karl-Marx-Straße"
 housenumber: 4A

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.3724896
 longitude: 12.741240300000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 21

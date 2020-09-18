@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.356244600000004
 longitude: 12.4685296
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Auerbacher Straße"
 housenumber: 7

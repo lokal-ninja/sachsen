@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.1563074
 longitude: 12.276803800000001
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Zeitzer Straße"
 housenumber: 3

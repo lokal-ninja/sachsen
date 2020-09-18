@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.592479000000004
 longitude: 13.009305000000001
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Chemnitzer Straße"
 housenumber: 42

@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.723279600000005
 longitude: 12.4659872
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Goethestraße"
 housenumber: 35
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-17:00; Sa 06:30-11:00"
 website: ""

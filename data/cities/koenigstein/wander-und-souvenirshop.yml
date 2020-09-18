@@ -3,10 +3,10 @@ type: node
 shop: Kiosk
 latitude: 50.9186829
 longitude: 14.0746721
-postcode: 01824
+postcode: "01824"
 city: Königstein
 street: "Bielatalstraße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-16:00; Sa 09:00-13:00"
 website: ""

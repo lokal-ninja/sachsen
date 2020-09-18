@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1119968
 longitude: 13.917435500000002
-postcode: 01454
+postcode: "01454"
 city: Radeberg
 street: "Rathenaustraße"
 housenumber: 28

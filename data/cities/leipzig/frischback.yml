@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.352394800000006
 longitude: 12.4231657
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Volksgartenstraße"
 housenumber: 53/55

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.629921
 longitude: 12.8110373
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Lange Gasse"
 housenumber: 11

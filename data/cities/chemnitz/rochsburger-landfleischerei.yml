@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8631509
 longitude: 12.8536503
-postcode: 09247
+postcode: "09247"
 city: Chemnitz
 street: "Chemnitzer Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8061565
 longitude: 12.922096400000001
-postcode: 09120
+postcode: "09120"
 city: Chemnitz
 street: "Werner-Seelenbinder-Straße"
 housenumber: 11b

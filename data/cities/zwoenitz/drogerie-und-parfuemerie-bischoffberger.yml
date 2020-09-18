@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.631014900000004
 longitude: 12.807358
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Bahnhofstraße"
 housenumber: 35

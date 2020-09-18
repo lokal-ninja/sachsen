@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.1848414
 longitude: 14.4365632
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Muskauer Straße"
 housenumber: 29
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 06:00-11:00"
 website: "https://www.tortenbaeckerei-baens.de"

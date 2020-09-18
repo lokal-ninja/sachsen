@@ -3,10 +3,10 @@ type: way
 shop: Kosmetik
 latitude: 50.785426400000006
 longitude: 12.6221057
-postcode: 09356
+postcode: "09356"
 city: St. Egidien
 street: "Bahnhofstraße"
 housenumber: 6
-phone: "01786940361"
+phone: "+49 1786940361"
 opening_hours: "by telephone apointment"
 website: ""

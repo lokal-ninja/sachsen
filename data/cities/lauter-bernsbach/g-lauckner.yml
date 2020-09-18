@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.5719155
 longitude: 12.7668891
-postcode: 08315
+postcode: "08315"
 city: Lauter-Bernsbach
 street: "Lauterer Straße"
 housenumber: 50

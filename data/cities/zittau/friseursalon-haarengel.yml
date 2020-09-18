@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9013028
 longitude: 14.8058346
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Bahnhofstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.316122500000006
 longitude: 12.394842200000001
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Zwickauer Straße"
 housenumber: 55

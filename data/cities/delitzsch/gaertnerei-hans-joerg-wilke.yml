@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.5317992
 longitude: 12.327931600000001
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Securiusstraße"
 housenumber: 23a

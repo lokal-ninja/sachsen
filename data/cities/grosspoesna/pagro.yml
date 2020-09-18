@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.2685891
 longitude: 12.4970748
-postcode: 04463
+postcode: "04463"
 city: Großpösna
 street: "Sepp-Verscht-Straße"
 housenumber: 1

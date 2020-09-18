@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.7724149
 longitude: 12.6243122
-postcode: 09356
+postcode: "09356"
 city: St. Egidien
 street: "Platanenstraße"
 housenumber: 4

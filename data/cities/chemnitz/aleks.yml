@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.826500800000005
 longitude: 12.941460300000001
-postcode: 
+postcode: ""
 city: Chemnitz
 street: "Clausstraße"
 housenumber: 47

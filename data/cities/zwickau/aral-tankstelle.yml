@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 50.718792300000004
 longitude: 12.515547000000002
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Äußere Dresdner Straße"
 housenumber: 23a
-phone: "0375 - 477462"
+phone: "+49 375 477462"
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.0356973
 longitude: 13.797148000000002
-postcode: 01277
+postcode: "01277"
 city: Dresden
 street: "Hepkestraße"
 housenumber: 91

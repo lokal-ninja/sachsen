@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 51.2862774
 longitude: 13.5356109
-postcode: 01558
+postcode: "01558"
 city: Großenhain
 street: "Weßnitzer Straße"
 housenumber: 11
-phone: "+49 3522 509298"
+phone: ""
 opening_hours: ""
 website: ""

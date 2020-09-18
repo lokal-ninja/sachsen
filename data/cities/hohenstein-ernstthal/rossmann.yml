@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.79969800000001
 longitude: 12.7090443
-postcode: 09337
+postcode: "09337"
 city: Hohenstein-Ernstthal
 street: "Weinkellerstraße"
 housenumber: 30

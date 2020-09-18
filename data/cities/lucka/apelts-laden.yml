@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.099479200000005
 longitude: 12.327684600000001
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Hemmendorfer Straße"
 housenumber: 1

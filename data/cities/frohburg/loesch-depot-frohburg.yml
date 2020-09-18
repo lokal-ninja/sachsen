@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.055126300000005
 longitude: 12.555783700000001
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Straße der Freundschaft"
 housenumber: 33

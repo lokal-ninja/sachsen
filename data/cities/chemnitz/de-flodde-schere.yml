@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8322061
 longitude: 12.954008700000001
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Yorckstraße"
 housenumber: 9

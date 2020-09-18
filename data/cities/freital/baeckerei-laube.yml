@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.99874620000001
 longitude: 13.648029200000002
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "Döhlener Straße"
 housenumber: 2
 phone: "+49 351 6415911"
-opening_hours: "Mo-Fr 06:00-18:00; Sa-Su,PH off"
+opening_hours: "Mo-Fr 06:00-18:00; PH,Sa-Su off"
 website: ""

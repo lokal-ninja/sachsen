@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.30082
 longitude: 12.4333291
-postcode: 04289
+postcode: "04289"
 city: Leipzig
 street: "Franzosenallee"
 housenumber: 14f

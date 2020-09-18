@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.920796300000006
 longitude: 13.3466099
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Am Mühlgraben"
 housenumber: 36

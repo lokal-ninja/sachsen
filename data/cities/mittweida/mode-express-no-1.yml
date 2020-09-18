@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9863536
 longitude: 12.977950700000001
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Rochlitzer Straße"
 housenumber: 40

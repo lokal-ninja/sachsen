@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.6983703
 longitude: 13.0583305
-postcode: 09430
+postcode: "09430"
 city: Drebach
 street: "Hopfgartener Straße"
 housenumber: 62 B

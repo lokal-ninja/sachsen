@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1249144
 longitude: 14.1918181
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Belmsdorfer Straße"
 housenumber: 29

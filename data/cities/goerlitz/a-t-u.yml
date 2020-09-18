@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.147509400000004
 longitude: 14.9439156
-postcode: 02827
+postcode: "02827"
 city: Görlitz
 street: "Friedrich-Naumann-Straße"
 housenumber: 1

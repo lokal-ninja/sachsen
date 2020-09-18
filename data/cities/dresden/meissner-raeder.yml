@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.0675236
 longitude: 13.7498263
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Louisenstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 50.537505100000004
 longitude: 12.7845995
-postcode: 08340
+postcode: "08340"
 city: Schwarzenberg/Erzgeb.
 street: "Obere Schloßstraße"
 housenumber: 3

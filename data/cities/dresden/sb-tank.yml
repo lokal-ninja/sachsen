@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.012803600000005
 longitude: 13.798907400000001
-postcode: 01237
+postcode: "01237"
 city: Dresden
 street: "Seidnitzer Weg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.0435395
 longitude: 13.696837400000001
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Wernerstraße"
 housenumber: 46

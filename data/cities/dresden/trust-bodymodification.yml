@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.0628521
 longitude: 13.749620700000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Bautzner Straße"
 housenumber: 4

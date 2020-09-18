@@ -1,12 +1,12 @@
 id: 2584104392
 type: node
 shop: Autohaus
-latitude: 51.0146536
-longitude: 13.643746400000001
-postcode: 01705
+latitude: 51.0146506
+longitude: 13.643744100000001
+postcode: "01705"
 city: Freital
 street: "Wilsdruffer Straße"
 housenumber: 41
 phone: "+49 351 652200"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00; PH,Su off"
 website: "https://www.ais-toyota.de"

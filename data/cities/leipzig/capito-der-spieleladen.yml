@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.3650201
 longitude: 12.3847932
-postcode: 04129
+postcode: "04129"
 city: Leipzig
 street: "Delitzscher Straße"
 housenumber: 74

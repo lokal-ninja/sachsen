@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.5619182
 longitude: 12.280914600000001
-postcode: 08233
+postcode: "08233"
 city: Treuen
 street: "Bauernweg"
 housenumber: 16

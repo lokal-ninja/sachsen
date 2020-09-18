@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.065516
 longitude: 13.7500833
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Alaunstraße"
 housenumber: 29

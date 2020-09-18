@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.7382982
 longitude: 12.4892724
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Pölbitzer Straße"
 housenumber: 23

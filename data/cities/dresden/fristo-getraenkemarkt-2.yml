@@ -1,12 +1,12 @@
-id: 118389655
+id: 103759488
 type: way
 shop: Getränke
-latitude: 51.084881200000005
-longitude: 13.6473279
-postcode: 01156
+latitude: 51.03363220000001
+longitude: 13.7058739
+postcode: "01187"
 city: Dresden
-street: "Dresdner Straße"
-housenumber: 109
-phone: ""
-opening_hours: "Mo-Sa 20:00-18:00"
-website: ""
+street: "Hofmühlenstraße"
+housenumber: 29
+phone: "+49 3514213534"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
+website: "https://www.fristo.de/markt/dresden-hofmuehlenstr-29/"

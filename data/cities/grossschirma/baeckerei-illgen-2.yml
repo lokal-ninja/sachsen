@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.965502300000004
 longitude: 13.290349500000001
-postcode: 09603
+postcode: "09603"
 city: Großschirma
 street: "Hauptstraße"
 housenumber: 110

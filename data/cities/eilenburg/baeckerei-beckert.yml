@@ -1,12 +1,12 @@
 id: 2678562297
 type: node
 shop: Bäckerei
-latitude: 51.455755700000005
-longitude: 12.635586
-postcode: 04838
+latitude: 51.455744800000005
+longitude: 12.635587300000001
+postcode: "04838"
 city: Eilenburg
 street: "Kranoldstraße"
 housenumber: 26
-phone: "+49 3423 757752"
-opening_hours: ""
+phone: ""
+opening_hours: "Mo-We 07:00-18:30; Th,Fr 07:00-19:00; Sa 07:00-12:00; Su,PH off"
 website: ""

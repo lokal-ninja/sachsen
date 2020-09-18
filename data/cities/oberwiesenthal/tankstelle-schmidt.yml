@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.420042900000006
 longitude: 12.9772393
-postcode: 09484
+postcode: "09484"
 city: Oberwiesenthal
 street: "Annaberger Straße"
 housenumber: 25 B

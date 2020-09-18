@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7142336
 longitude: 12.4986955
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Uhdestraße"
 housenumber: 8
-phone: "0375 / 271770"
+phone: "+49 375 271770"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
 website: "https://www.doerfelt-gmbh.de/"

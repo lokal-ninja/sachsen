@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.3039677
 longitude: 13.306643500000002
-postcode: 01589
+postcode: "01589"
 city: Riesa
 street: "Hauptstraße"
 housenumber: 52

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.65037
 longitude: 13.371758600000001
-postcode: 43547
+postcode: "43547"
 city: Brandov
 street: "Rudé armády"
 housenumber: 10

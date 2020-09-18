@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.4932675
 longitude: 12.142268900000001
-postcode: 08527
+postcode: "08527"
 city: Plauen
 street: "Elsterstraße"
 housenumber: 2

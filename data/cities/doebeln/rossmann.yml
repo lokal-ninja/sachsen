@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.1211904
 longitude: 13.1199598
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Bäckerstraße"
 housenumber: 3

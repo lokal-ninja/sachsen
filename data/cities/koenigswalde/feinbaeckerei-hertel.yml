@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.546835
 longitude: 13.040017500000001
-postcode: 09471
+postcode: "09471"
 city: Königswalde
 street: "Gewerbegebiet"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9836408
 longitude: 14.2631016
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Doktor-Steudner-Straße"
 housenumber: 82

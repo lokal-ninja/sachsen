@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.1369923
 longitude: 14.191190400000002
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Carl-Maria-von-Weber-Straße"
 housenumber: 16

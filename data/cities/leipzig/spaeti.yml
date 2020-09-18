@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3449314
 longitude: 12.4194885
-postcode: 04315
+postcode: "04315"
 city: Leipzig
 street: "Eisenbahnstraße"
 housenumber: 149

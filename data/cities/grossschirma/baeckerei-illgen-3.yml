@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9888071
 longitude: 13.2751313
-postcode: 09603
+postcode: "09603"
 city: Großschirma
 street: "Leipziger Straße"
 housenumber: 5a

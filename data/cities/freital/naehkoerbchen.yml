@@ -1,12 +1,12 @@
-id: 416560604
+id: 5183358637
 type: node
-shop: Modehaus
-latitude: 50.999411
-longitude: 13.6499038
-postcode: 01705
+shop: Nähzubehör
+latitude: 50.9832483
+longitude: 13.633472600000001
+postcode: "01705"
 city: Freital
-street: "Dresdner Straße"
-housenumber: 176
+street: "Rabenauer Straße"
+housenumber: 9
 phone: "+49 351 6412277"
-opening_hours: "Mo-Fr 09:00-13:00; Mo,Tu,Th,Fr 14:00-17:30; Sa 09:00-12:00; Su,PH off"
+opening_hours: "Mo-Fr 09:00-13:00; Mo,Tu,Th,Fr 14:00-17:30; Sa 09:00-12:00; PH,Su off"
 website: "https://www.naehkoerbchen-mildner.de/"

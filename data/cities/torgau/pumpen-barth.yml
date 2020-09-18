@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.56786760000001
 longitude: 12.9478246
-postcode: 04860
+postcode: "04860"
 city: Torgau
 street: "Hohe Straße"
 housenumber: 1

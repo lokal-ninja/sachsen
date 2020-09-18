@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 51.303114
 longitude: 13.2880985
-postcode: 01587
+postcode: "01587"
 city: Riesa
 street: "Friedrich-List-Straße"
 housenumber: 37a

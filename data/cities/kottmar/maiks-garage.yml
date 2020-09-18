@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.985332400000004
 longitude: 14.658638900000001
-postcode: 02739
+postcode: "02739"
 city: Kottmar
 street: "Hauptstraße"
 housenumber: 134

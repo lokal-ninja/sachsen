@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.193801
 longitude: 13.3023044
-postcode: 01623
+postcode: "01623"
 city: Lommatzsch
 street: "Jessener Straße"
 housenumber: 2

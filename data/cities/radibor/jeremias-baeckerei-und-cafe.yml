@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.245088100000004
 longitude: 14.398035400000001
-postcode: 02627
+postcode: "02627"
 city: Radibor
 street: "Dorfplatz"
 housenumber: 24

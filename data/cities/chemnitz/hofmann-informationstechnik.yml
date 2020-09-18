@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 50.771570000000004
 longitude: 12.974267000000001
-postcode: 09123
+postcode: "09123"
 city: Chemnitz
 street: "Einsiedler Hauptstraße"
 housenumber: 68

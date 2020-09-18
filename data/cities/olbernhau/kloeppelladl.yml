@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.657406900000005
 longitude: 13.3279101
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Hammergasse"
 housenumber: 22

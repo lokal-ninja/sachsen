@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.718256000000004
 longitude: 12.498325000000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Hauptmarkt"
 housenumber: 22

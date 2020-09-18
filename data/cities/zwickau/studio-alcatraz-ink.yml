@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.718149700000005
 longitude: 12.456395700000002
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Marienthaler Straße"
 housenumber: 102

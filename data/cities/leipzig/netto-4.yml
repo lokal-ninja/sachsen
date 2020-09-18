@@ -1,12 +1,12 @@
-id: 775914782
+id: 664037350
 type: node
 shop: Supermarkt
-latitude: 51.343853100000004
-longitude: 12.366413900000001
-postcode: 04109
+latitude: 51.392443500000006
+longitude: 12.340129000000001
+postcode: "04158"
 city: Leipzig
-street: "Ranstädter Steinweg"
-housenumber: 20
+street: "Zur Lindenhöhe"
+housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+website: ""

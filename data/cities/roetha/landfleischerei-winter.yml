@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.2182687
 longitude: 12.523635700000002
-postcode: 04571
+postcode: "04571"
 city: Rötha
 street: "Straße der Freundschaft"
 housenumber: 39

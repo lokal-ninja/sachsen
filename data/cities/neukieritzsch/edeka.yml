@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.152759
 longitude: 12.4073466
-postcode: 04575
+postcode: "04575"
 city: Neukieritzsch
 street: "Schulplatz"
 housenumber: 5

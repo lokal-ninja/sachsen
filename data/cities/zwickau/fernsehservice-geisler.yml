@@ -3,10 +3,10 @@ type: node
 shop: Hifi
 latitude: 50.6915878
 longitude: 12.472960800000001
-postcode: 08062
+postcode: "08062"
 city: Zwickau
 street: "Innere Zwickauer Straße"
 housenumber: 75
 phone: "+49 375 789628"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00"
 website: "https://www.fernsehservice-geisler.de/"

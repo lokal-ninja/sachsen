@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 51.1802142
 longitude: 14.4248682
-postcode: 02625
+postcode: "02625"
 city: Bautzen - Budyšin
 street: "Schulstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.7708309
 longitude: 12.540495400000001
-postcode: 08132
+postcode: "08132"
 city: Mülsen
 street: "Thurmer Hauptstraße"
 housenumber: 56

@@ -1,4 +1,4 @@
 ---
-title: "anika schuh"
+title: "anika Schuh"
 url: /goerlitz/anika-schuh/
 ---

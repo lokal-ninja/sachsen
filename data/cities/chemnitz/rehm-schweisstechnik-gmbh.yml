@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.822788200000005
 longitude: 12.901928600000002
-postcode: 09119
+postcode: "09119"
 city: Chemnitz
 street: "Neefestraße"
 housenumber: 52i

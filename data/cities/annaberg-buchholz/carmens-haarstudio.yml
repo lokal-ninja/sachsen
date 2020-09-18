@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5794982
 longitude: 13.0024045
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Buchholzer Straße"
 housenumber: 3

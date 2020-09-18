@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2373235
 longitude: 12.728624600000002
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Marktgasse"
 housenumber: 3

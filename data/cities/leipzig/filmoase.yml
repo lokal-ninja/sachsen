@@ -3,7 +3,7 @@ type: way
 shop: Videothek
 latitude: 51.3045556
 longitude: 12.266517100000002
-postcode: 04207
+postcode: "04207"
 city: Leipzig
 street: "Pfaffensteinstraße"
 housenumber: 12

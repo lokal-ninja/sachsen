@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5813861
 longitude: 13.0478772
-postcode: 04886
+postcode: "04886"
 city: Beilrode
 street: "Herzberger Straße"
 housenumber: 41

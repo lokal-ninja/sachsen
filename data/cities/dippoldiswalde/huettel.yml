@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.907608200000006
 longitude: 13.6911847
-postcode: 01744
+postcode: "01744"
 city: Dippoldiswalde
 street: "Dresdner Landstraße"
 housenumber: 14F

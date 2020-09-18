@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.025826800000004
 longitude: 13.837344300000002
-postcode: 01279
+postcode: "01279"
 city: Dresden
 street: "Österreicher Straße"
 housenumber: 35

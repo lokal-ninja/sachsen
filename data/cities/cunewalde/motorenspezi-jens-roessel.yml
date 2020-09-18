@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.0974974
 longitude: 14.4745731
-postcode: 02733
+postcode: "02733"
 city: Cunewalde
 street: "Oberlausitzer Straße"
 housenumber: 1a

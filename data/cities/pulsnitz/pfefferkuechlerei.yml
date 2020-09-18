@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.1815215
 longitude: 14.0125278
-postcode: 01896
+postcode: "01896"
 city: Pulsnitz
 street: "Robert-Koch-Straße"
 housenumber: 28

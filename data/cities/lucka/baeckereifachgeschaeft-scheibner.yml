@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0920603
 longitude: 12.3347992
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Clara-Zetkin-Straße"
 housenumber: 

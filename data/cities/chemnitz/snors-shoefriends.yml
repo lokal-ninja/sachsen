@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.8409775
 longitude: 12.9238277
-postcode: 09111
+postcode: "09111"
 city: Chemnitz
 street: "Brühl"
 housenumber: 24

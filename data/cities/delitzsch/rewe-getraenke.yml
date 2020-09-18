@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.52744130000001
 longitude: 12.343677600000001
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Eisenbahnstraße"
 housenumber: 28

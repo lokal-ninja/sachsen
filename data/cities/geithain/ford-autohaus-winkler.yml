@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0545102
 longitude: 12.6508923
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Niedergräfenhain"
 housenumber: 4

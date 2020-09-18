@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6127982
 longitude: 12.1687119
-postcode: 07985
+postcode: "07985"
 city: Elsterberg
 street: "Bahnhofstraße"
 housenumber: 31

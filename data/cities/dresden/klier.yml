@@ -1,12 +1,12 @@
 id: 412399331
 type: node
 shop: Friseur
-latitude: 51.0386347
-longitude: 13.7318493
-postcode: 01069
+latitude: 51.038983400000006
+longitude: 13.731955200000002
+postcode: "01069"
 city: Dresden
-street: ""
-housenumber: 
+street: "Friedrich-List-Platz"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
 website: ""

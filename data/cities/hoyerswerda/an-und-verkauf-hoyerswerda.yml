@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.437649400000005
 longitude: 14.242070900000002
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Kirchstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.85675620000001
 longitude: 12.7639198
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Albert-Einstein-Straße"
 housenumber: 15

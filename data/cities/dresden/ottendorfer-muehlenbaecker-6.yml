@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.062975300000005
 longitude: 13.756033
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Holzhofgasse"
 housenumber: 1

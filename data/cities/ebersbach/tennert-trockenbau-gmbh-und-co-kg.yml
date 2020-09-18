@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.239797800000005
 longitude: 13.6601496
-postcode: 01561
+postcode: "01561"
 city: Ebersbach
 street: "Am Bahndamm"
 housenumber: 4

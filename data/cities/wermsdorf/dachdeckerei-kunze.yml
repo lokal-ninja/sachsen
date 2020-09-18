@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.283716600000005
 longitude: 12.941429300000001
-postcode: 04779
+postcode: "04779"
 city: Wermsdorf
 street: "Am Bach"
 housenumber: 4

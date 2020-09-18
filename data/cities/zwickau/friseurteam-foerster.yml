@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.781967300000005
 longitude: 12.479454800000001
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Glauchauer Straße"
 housenumber: 13

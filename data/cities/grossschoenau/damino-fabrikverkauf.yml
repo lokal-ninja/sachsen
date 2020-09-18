@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 50.8956278
 longitude: 14.660444100000001
-postcode: 02779
+postcode: "02779"
 city: Großschönau
 street: "Waltersdorfer Straße"
 housenumber: 2

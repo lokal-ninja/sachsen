@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.486701000000004
 longitude: 12.1376463
-postcode: 08527
+postcode: "08527"
 city: Plauen
 street: "Güterstraße"
 housenumber: 2

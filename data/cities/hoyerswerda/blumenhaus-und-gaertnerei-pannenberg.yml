@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.4384772
 longitude: 14.2380656
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Schulstraße"
 housenumber: 2b

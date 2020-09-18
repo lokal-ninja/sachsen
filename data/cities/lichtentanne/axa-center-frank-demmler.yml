@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.695508700000005
 longitude: 12.4139543
-postcode: 08115
+postcode: "08115"
 city: Lichtentanne
 street: "Zeppelinstraße"
 housenumber: 2

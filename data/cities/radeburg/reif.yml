@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.208398700000004
 longitude: 13.7242823
-postcode: 01471
+postcode: "01471"
 city: Radeburg
 street: "Bärwalder Straße"
 housenumber: 9

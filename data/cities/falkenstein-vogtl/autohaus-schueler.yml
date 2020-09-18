@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.4687056
 longitude: 12.355341600000001
-postcode: 08223
+postcode: "08223"
 city: Falkenstein/Vogtl.
 street: "Oelsnitzer Straße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.7478363
 longitude: 12.485804
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Schubertstraße"
 housenumber: 1

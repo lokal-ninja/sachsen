@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.594884300000004
 longitude: 13.0698305
-postcode: 09456
+postcode: "09456"
 city: Mildenau
 street: "Dorfstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.719022200000005
 longitude: 12.459931300000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Zimmermannstraße"
 housenumber: 5

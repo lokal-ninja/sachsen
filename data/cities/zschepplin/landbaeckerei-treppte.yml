@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.489738700000004
 longitude: 12.5403546
-postcode: 04838
+postcode: "04838"
 city: Zschepplin
 street: "Hauptstraße"
 housenumber: 61

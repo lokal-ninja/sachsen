@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 50.7220382
 longitude: 12.4936243
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Römerstraße"
 housenumber: 12

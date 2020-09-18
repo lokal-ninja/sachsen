@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 51.344518400000005
 longitude: 12.381800400000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Willy-Brandt-Platz"
 housenumber: 1

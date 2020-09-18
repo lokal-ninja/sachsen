@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.3391889
 longitude: 12.3269482
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Georg-Schwarz-Straße"
 housenumber: 14

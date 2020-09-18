@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.2928555
 longitude: 12.640403000000001
-postcode: 04683
+postcode: "04683"
 city: Naunhof
 street: "Hauptstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.153795800000005
 longitude: 14.0203743
-postcode: 01900
+postcode: "01900"
 city: Großröhrsdorf
 street: "Pulsnitzer Straße"
 housenumber: 16

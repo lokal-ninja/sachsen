@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.413711000000006
 longitude: 12.3040877
-postcode: 04158
+postcode: "04158"
 city: Leipzig
 street: "Poststraße"
 housenumber: 7

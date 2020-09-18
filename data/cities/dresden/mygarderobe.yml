@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.045534100000005
 longitude: 13.7897104
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: ""
 housenumber: 

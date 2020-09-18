@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.217136700000005
 longitude: 12.3244942
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Marktstraße"
 housenumber: 9

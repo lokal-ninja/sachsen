@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.802881000000006
 longitude: 13.238641300000001
-postcode: 09575
+postcode: "09575"
 city: Eppendorf
 street: "Goetheweg"
 housenumber: 2

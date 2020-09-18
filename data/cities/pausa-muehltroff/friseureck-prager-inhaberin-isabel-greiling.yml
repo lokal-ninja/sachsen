@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5805954
 longitude: 11.9957112
-postcode: 07952
+postcode: "07952"
 city: Pausa-Mühltroff
 street: "Braugasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.9122326
 longitude: 13.3326452
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Obergasse"
 housenumber: 5

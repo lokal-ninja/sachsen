@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.300594100000005
 longitude: 12.432803600000002
-postcode: 04289
+postcode: "04289"
 city: Leipzig
 street: "Franzosenallee"
 housenumber: 12d

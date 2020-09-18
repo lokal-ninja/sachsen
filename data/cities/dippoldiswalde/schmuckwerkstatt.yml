@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 50.8968677
 longitude: 13.6678799
-postcode: 01744
+postcode: "01744"
 city: Dippoldiswalde
 street: "Markt"
 housenumber: 20
 phone: "+49 3504 629845"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH,Su off"
 website: "http://www.sarah-boehme.de"

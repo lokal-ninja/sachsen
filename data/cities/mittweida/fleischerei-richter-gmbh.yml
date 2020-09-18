@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9851862
 longitude: 12.9814284
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Markt"
 housenumber: 20

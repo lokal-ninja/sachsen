@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.043354
 longitude: 13.698231900000001
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Kesselsdorfer Straße"
 housenumber: 21

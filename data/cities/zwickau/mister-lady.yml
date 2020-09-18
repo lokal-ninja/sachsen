@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.708057200000006
 longitude: 12.500915800000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Oskar-Arnold-Straße"
 housenumber: 9

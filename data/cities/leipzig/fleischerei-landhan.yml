@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.357127600000005
 longitude: 12.4256308
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Löbauer Straße"
 housenumber: 68

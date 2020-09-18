@@ -3,7 +3,7 @@ type: way
 shop: Catering
 latitude: 51.4456858
 longitude: 14.0841677
-postcode: 02991
+postcode: "02991"
 city: Lauta
 street: "Schubertstraße"
 housenumber: 1a

@@ -1,12 +1,12 @@
-id: 2112020760
-type: node
+id: 211015760
+type: way
 shop: Autohaus
-latitude: 50.6677954
-longitude: 12.453982400000001
-postcode: 08064
+latitude: 50.667911000000004
+longitude: 12.453649700000001
+postcode: "08064"
 city: Zwickau
 street: "Lengenfelder Straße"
 housenumber: 198
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
 website: ""

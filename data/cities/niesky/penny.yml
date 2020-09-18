@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.291951700000006
 longitude: 14.836612700000002
-postcode: 02906
+postcode: "02906"
 city: Niesky
 street: "Rothenburger Straße"
 housenumber: 23

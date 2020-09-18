@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0646998
 longitude: 13.182420800000001
-postcode: 04741
+postcode: "04741"
 city: Roßwein
 street: "Döbelner Straße"
 housenumber: 23

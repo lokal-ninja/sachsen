@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0573756
 longitude: 13.7469037
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Wilhelm-Buck-Straße"
 housenumber: 2

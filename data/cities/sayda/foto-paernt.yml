@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.7121292
 longitude: 13.4189143
-postcode: 09619
+postcode: "09619"
 city: Sayda
 street: "Lutherplatz"
 housenumber: 4

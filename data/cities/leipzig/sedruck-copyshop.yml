@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.331907
 longitude: 12.366202600000001
-postcode: 04107
+postcode: "04107"
 city: Leipzig
 street: "Ferdinand-Rhode-Straße"
 housenumber: 3b

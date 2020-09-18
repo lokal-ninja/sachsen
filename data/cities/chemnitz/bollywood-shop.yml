@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.8241098
 longitude: 12.9255597
-postcode: 09111
+postcode: "09111"
 city: Chemnitz
 street: "Südbahnstraße"
 housenumber: 14

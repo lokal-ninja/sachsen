@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.446583000000004
 longitude: 12.238333
-postcode: 08606
+postcode: "08606"
 city: Tirpersdorf
 street: "Hauptstraße"
 housenumber: 15

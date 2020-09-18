@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.482874300000006
 longitude: 12.971546100000001
-postcode: 09465
+postcode: "09465"
 city: Sehmatal
 street: "Crottendorfer Straße"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
 website: ""

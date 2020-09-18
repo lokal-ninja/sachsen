@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.730324
 longitude: 12.4895343
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Lassallestraße"
 housenumber: 43

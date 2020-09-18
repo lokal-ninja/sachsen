@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.393743400000005
 longitude: 12.341435200000001
-postcode: 
+postcode: ""
 city: Leipzig
 street: "Zum Apelstein"
 housenumber: 2

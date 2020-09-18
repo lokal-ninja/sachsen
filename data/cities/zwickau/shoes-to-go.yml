@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.7197447
 longitude: 12.493886400000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Magazinstraße"
 housenumber: 9

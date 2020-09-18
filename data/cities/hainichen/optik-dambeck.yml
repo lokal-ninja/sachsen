@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9721478
 longitude: 13.123839700000001
-postcode: 09661
+postcode: "09661"
 city: Hainichen
 street: "Mühlstraße"
 housenumber: 3

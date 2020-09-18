@@ -1,12 +1,12 @@
-id: 3627604051
-type: node
+id: 99208159
+type: way
 shop: Supermarkt
-latitude: 50.721719900000004
-longitude: 12.485770700000002
-postcode: 08056
+latitude: 50.73971220000001
+longitude: 12.506535000000001
+postcode: "08066"
 city: Zwickau
-street: "Crimmitschauer Straße"
-housenumber: 9
+street: "Scheffelstraße"
+housenumber: 71
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

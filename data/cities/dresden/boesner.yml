@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.0094348
 longitude: 13.814056200000001
-postcode: 01237
+postcode: "01237"
 city: Dresden
 street: "Breitscheidstraße"
 housenumber: 78

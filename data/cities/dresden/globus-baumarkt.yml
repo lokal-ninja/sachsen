@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.126305800000004
 longitude: 13.744595
-postcode: 01109
+postcode: "01109"
 city: Dresden
 street: "Rähnitzer Allee"
 housenumber: 10

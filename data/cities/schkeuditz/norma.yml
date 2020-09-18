@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.387877800000005
 longitude: 12.2532188
-postcode: 04435
+postcode: "04435"
 city: Schkeuditz
 street: "Modelwitzer Straße"
 housenumber: 1

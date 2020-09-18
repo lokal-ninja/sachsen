@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.719928900000006
 longitude: 12.493957600000002
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Magazinstraße"
 housenumber: 13-15

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.3707009
 longitude: 12.4273007
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Theklaer Straße"
 housenumber: 92a

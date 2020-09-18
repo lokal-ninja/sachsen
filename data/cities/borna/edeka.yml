@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 51.125402900000005
 longitude: 12.495406200000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Sachsenallee"
 housenumber: 28b
-phone: "+49 3433 209460"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://www.edeka.de/"
+phone: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off"
+website: ""

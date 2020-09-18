@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.8016853
 longitude: 13.537949800000002
-postcode: 09623
+postcode: "09623"
 city: Frauenstein
 street: "Markt"
 housenumber: 15

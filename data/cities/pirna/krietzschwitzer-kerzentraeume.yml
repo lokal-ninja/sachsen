@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.9278131
 longitude: 13.980257900000002
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Krietzschwitz"
 housenumber: 4

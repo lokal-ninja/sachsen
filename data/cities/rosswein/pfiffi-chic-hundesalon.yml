@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 51.0647869
 longitude: 13.1855249
-postcode: 04741
+postcode: "04741"
 city: Roßwein
 street: "Nossener Straße"
 housenumber: 4

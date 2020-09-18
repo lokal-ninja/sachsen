@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1594835
 longitude: 12.946977700000001
-postcode: 04703
+postcode: "04703"
 city: Leisnig
 street: "Georg-Friedrich-Händel-Straße"
 housenumber: 54

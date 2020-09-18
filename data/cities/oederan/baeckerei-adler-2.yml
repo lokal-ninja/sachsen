@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8616381
 longitude: 13.165315900000001
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Chemnitzer Straße"
 housenumber: 12

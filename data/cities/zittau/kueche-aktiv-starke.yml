@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.892541800000004
 longitude: 14.793711
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Schrammstraße"
 housenumber: 1

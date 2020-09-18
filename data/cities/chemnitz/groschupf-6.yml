@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8070171
 longitude: 12.887421100000001
-postcode: 09119
+postcode: "09119"
 city: Chemnitz
 street: "Straße Usti nad Labem"
 housenumber: 157

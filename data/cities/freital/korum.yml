@@ -3,10 +3,10 @@ type: node
 shop: Bestattungen
 latitude: 50.9974763
 longitude: 13.649163300000001
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "Poisentalstraße"
 housenumber: 3
 phone: "+49 351 6492456"
-opening_hours: "Mo-Fr 09:00-16:00; Sa-Su,PH off"
+opening_hours: "Mo-Fr 09:00-16:00; PH,Sa-Su off"
 website: "https://www.bestattungsinstitut-korom.de"

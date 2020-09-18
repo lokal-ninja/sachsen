@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.035991800000005
 longitude: 13.5863408
-postcode: 01723
+postcode: "01723"
 city: Wilsdruff
 street: "Sachsenallee"
 housenumber: 6

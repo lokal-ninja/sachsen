@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.7573966
 longitude: 13.793062
-postcode: 01778
+postcode: "01778"
 city: Altenberg
 street: "Altmarkt"
 housenumber: 1

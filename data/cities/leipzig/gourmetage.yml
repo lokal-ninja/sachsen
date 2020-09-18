@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.339094300000006
 longitude: 12.3761965
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Grimmaische Straße"
 housenumber: 2-4

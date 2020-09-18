@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7217458
 longitude: 12.4962002
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Dr.-Friedrichs-Ring"
 housenumber: 49

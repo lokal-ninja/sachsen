@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 50.9721376
 longitude: 13.875513000000002
-postcode: 01809
+postcode: "01809"
 city: Heidenau
 street: "Pirnaer Straße"
 housenumber: 36

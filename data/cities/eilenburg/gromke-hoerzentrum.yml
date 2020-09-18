@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.4589829
 longitude: 12.628616300000001
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Leipziger Straße"
 housenumber: 25

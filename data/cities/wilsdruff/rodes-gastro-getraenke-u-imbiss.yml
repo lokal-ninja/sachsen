@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.021535300000004
 longitude: 13.5570581
-postcode: 01723
+postcode: "01723"
 city: Wilsdruff
 street: "Tharandter Straße"
 housenumber: 46

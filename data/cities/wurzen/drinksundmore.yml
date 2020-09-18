@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.3718748
 longitude: 12.7393777
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Straße des Friedens"
 housenumber: 10b

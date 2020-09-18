@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.0491468
 longitude: 14.0841785
-postcode: 01833
+postcode: "01833"
 city: Stolpen
 street: "Schloßstraße"
 housenumber: 9

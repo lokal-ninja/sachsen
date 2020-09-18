@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.441907300000004
 longitude: 14.2586148
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Frederic-Joliot-Curie-Straße"
 housenumber: 23

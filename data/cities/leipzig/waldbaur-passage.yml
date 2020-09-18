@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.3508572
 longitude: 12.409665
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Waldbaurstraße"
 housenumber: 4-6

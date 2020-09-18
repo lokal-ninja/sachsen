@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.704968900000004
 longitude: 13.2251781
-postcode: 09509
+postcode: "09509"
 city: Pockau-Lengefeld
 street: "Rathausstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.320423500000004
 longitude: 12.3738053
-postcode: 04275
+postcode: "04275"
 city: Leipzig
 street: "Karl-Liebknecht-Straße"
 housenumber: 105

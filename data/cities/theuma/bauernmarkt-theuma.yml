@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.471734000000005
 longitude: 12.2212169
-postcode: 08541
+postcode: "08541"
 city: Theuma
 street: "Hauptstraße"
 housenumber: 33

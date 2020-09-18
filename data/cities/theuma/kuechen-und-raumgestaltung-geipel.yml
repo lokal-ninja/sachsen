@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.479556800000005
 longitude: 12.2126599
-postcode: 08541
+postcode: "08541"
 city: Theuma
 street: "Theumaer Weg"
 housenumber: 34

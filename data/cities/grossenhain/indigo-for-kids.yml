@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.291452400000004
 longitude: 13.5338528
-postcode: 01558
+postcode: "01558"
 city: Großenhain
 street: "Frauenmarkt"
 housenumber: 31

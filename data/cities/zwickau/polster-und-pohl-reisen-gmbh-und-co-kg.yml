@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.719506900000006
 longitude: 12.489093100000002
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Bahnhofstraße"
 housenumber: 2b

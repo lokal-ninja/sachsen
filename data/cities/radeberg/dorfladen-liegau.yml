@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.1372232
 longitude: 13.9011569
-postcode: 01454
+postcode: "01454"
 city: Radeberg
 street: "Rödertalstraße"
 housenumber: 68

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.181701600000004
 longitude: 14.009559500000002
-postcode: 01896
+postcode: "01896"
 city: Pulsnitz
 street: "Robert-Koch-Straße"
 housenumber: 6

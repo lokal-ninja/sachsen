@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1711736
 longitude: 14.966855
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Am Hopfenfeld"
 housenumber: 2

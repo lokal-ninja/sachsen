@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.1562769
 longitude: 12.281893700000001
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Bahnhofstraße"
 housenumber: 8

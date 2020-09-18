@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.080927200000005
 longitude: 12.657008500000002
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Frankenhainer Gartenstraße"
 housenumber: 1a

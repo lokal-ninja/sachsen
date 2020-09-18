@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9957274
 longitude: 13.8254558
-postcode: 01259
+postcode: "01259"
 city: Dresden
 street: "Niedersedlitzer Platz"
 housenumber: 6

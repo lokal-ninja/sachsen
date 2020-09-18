@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.345246100000004
 longitude: 12.413653700000001
-postcode: 04315
+postcode: "04315"
 city: Leipzig
 street: "Eisenbahnstraße"
 housenumber: 123

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.7099768
 longitude: 12.782682900000001
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Antonstraße"
 housenumber: 4

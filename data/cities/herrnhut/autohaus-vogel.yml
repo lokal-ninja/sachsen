@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.026067100000006
 longitude: 14.726452900000002
-postcode: 02747
+postcode: "02747"
 city: Herrnhut
 street: "Löbauer Straße"
 housenumber: 37A

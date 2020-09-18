@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8463058
 longitude: 12.9382142
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Thomas-Mann-Platz"
 housenumber: 1

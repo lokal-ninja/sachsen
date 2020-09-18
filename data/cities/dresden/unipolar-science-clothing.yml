@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0542424
 longitude: 13.723968900000001
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Jahnstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.0936461
 longitude: 12.4436234
-postcode: 04565
+postcode: "04565"
 city: Regis-Breitingen
 street: "Deutzener Straße"
 housenumber: 20A

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.174904600000005
 longitude: 14.431568100000002
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Taucherstraße"
 housenumber: 29

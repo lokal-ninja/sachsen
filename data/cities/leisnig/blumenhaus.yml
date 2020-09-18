@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1593199
 longitude: 12.9269136
-postcode: 04703
+postcode: "04703"
 city: Leisnig
 street: "Markt"
 housenumber: 7

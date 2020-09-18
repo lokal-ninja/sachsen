@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.8432078
 longitude: 12.884132000000001
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Flemmingstraße"
 housenumber: 4

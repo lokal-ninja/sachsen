@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.332754900000005
 longitude: 12.3748938
-postcode: 04107
+postcode: "04107"
 city: Leipzig
 street: "Härtelstraße"
 housenumber: 21

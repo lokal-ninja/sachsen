@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.04667430000001
 longitude: 13.708544900000001
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Löbtauer Straße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3008394
 longitude: 12.3973282
-postcode: 04279
+postcode: "04279"
 city: Leipzig
 street: "Johannes-R.-Becher-Straße"
 housenumber: 2

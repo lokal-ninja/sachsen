@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.822096900000005
 longitude: 12.9593588
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 153a

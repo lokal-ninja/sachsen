@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.7946334
 longitude: 12.788696300000002
-postcode: 09224
+postcode: "09224"
 city: Chemnitz
 street: "Hofer Straße"
 housenumber: 85

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0497316
 longitude: 13.730412800000002
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Annenstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.403381800000005
 longitude: 12.3948341
-postcode: 04356
+postcode: "04356"
 city: Leipzig
 street: ""
 housenumber: 

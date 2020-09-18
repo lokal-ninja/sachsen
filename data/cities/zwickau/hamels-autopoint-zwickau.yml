@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.72357340000001
 longitude: 12.4759785
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Kopernikusstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 50.7035825
 longitude: 13.0556041
-postcode: 09430
+postcode: "09430"
 city: Drebach
 street: "Bahnhofstraße"
 housenumber: 45 B

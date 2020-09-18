@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.8174275
 longitude: 12.541019700000001
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Dr.-Dörffel-Straße"
 housenumber: 3

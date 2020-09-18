@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.394505900000006
 longitude: 12.3732859
-postcode: 04158
+postcode: "04158"
 city: Leipzig
 street: "Delitzscher Landstraße"
 housenumber: 66

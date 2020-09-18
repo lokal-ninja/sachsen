@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.1516163
 longitude: 14.985936500000001
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Postplatz"
 housenumber: 14

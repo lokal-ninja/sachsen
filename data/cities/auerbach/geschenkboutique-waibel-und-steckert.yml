@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.5068831
 longitude: 12.399317400000001
-postcode: 08209
+postcode: "08209"
 city: Auerbach
 street: "Neumarkt"
 housenumber: 19

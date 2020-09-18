@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.1189611
 longitude: 13.1476538
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Richard-Köberlin-Straße"
 housenumber: 3

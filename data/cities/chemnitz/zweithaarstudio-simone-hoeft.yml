@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.8390635
 longitude: 12.892804700000001
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Paul-Jäkel-Straße"
 housenumber: 58

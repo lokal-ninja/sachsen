@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.9863943
 longitude: 12.977664800000001
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Rochlitzer Straße"
 housenumber: 44

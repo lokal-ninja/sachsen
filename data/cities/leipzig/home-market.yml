@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 51.3353534
 longitude: 12.464633800000001
-postcode: 04319
+postcode: "04319"
 city: Leipzig
 street: "Mühlweg"
 housenumber: 25

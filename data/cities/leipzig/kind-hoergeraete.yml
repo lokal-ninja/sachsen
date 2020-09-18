@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.3425747
 longitude: 12.378075500000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Nikolaistraße"
 housenumber: 

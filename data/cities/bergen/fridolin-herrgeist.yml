@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.4734087
 longitude: 12.2765217
-postcode: 08239
+postcode: "08239"
 city: Bergen
 street: "Falkensteiner Straße"
 housenumber: 10a

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.831654
 longitude: 12.8899608
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Bodelschwinghstraße"
 housenumber: 23

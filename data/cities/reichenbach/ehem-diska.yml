@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.62288220000001
 longitude: 12.2873655
-postcode: 08468
+postcode: "08468"
 city: Reichenbach
 street: "Obermylauer Weg"
 housenumber: 9

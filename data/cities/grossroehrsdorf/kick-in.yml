@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.1450752
 longitude: 14.0278501
-postcode: 01900
+postcode: "01900"
 city: Großröhrsdorf
 street: "Bandweberstraße"
 housenumber: 28

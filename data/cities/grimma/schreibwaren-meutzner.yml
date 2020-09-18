@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.237275600000004
 longitude: 12.7292386
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Hohnstädter Straße"
 housenumber: 1

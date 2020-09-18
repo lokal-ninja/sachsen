@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8344108
 longitude: 12.930956100000001
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Sonnenstraße"
 housenumber: 7

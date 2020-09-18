@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 50.980334500000005
 longitude: 14.110109600000001
-postcode: 01848
+postcode: "01848"
 city: Hohnstein
 street: "Obere Straße"
 housenumber: 2

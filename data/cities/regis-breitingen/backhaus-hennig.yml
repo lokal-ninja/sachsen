@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0910093
 longitude: 12.4439706
-postcode: 04565
+postcode: "04565"
 city: Regis-Breitingen
 street: "Goethestraße"
 housenumber: 13

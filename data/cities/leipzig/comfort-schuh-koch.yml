@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.316423900000004
 longitude: 12.373656800000001
-postcode: 04275
+postcode: "04275"
 city: Leipzig
 street: "Karl-Liebknecht-Straße"
 housenumber: 133

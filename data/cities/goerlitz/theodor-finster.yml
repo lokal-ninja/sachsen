@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.154161900000005
 longitude: 14.9867193
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Steinstraße"
 housenumber: 12

@@ -1,4 +1,4 @@
 ---
-title: "Blumen Röhringer"
+title: "Blumen-Röhringer"
 url: /klingenberg/blumen-roehringer/
 ---

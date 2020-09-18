@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.232901000000005
 longitude: 12.725146400000002
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Leipziger Straße"
 housenumber: 3

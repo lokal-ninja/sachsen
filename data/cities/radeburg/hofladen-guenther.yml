@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.1612735
 longitude: 13.7340645
-postcode: 01471
+postcode: "01471"
 city: Radeburg
 street: "An der Promnitz"
 housenumber: 51

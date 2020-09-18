@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.0537615
 longitude: 13.813686700000002
-postcode: 01326
+postcode: "01326"
 city: Dresden
 street: "Friedrich-Wieck-Straße"
 housenumber: 6

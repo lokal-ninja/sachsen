@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.492231600000004
 longitude: 12.149457600000002
-postcode: 08527
+postcode: "08527"
 city: Plauen
 street: "Bismarckstraße"
 housenumber: 35

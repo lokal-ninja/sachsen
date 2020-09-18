@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.8349982
 longitude: 12.8861574
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Limbacher Straße"
 housenumber: 146

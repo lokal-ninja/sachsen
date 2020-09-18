@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9062361
 longitude: 12.955491400000001
-postcode: 09244
+postcode: "09244"
 city: Lichtenau
 street: "Auerswalder Hauptstraße"
 housenumber: 2B

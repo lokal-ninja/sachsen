@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1613741
 longitude: 13.484225400000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Lutherstraße"
 housenumber: 8

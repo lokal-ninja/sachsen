@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.1117385
 longitude: 13.5671236
-postcode: 01665
+postcode: "01665"
 city: Klipphausen
 street: "Meißner Allee"
 housenumber: 21

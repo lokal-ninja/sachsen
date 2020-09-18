@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 51.1569141
 longitude: 12.2784753
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Markt"
 housenumber: 16

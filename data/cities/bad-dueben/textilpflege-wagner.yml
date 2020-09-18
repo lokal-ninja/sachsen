@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.591778500000004
 longitude: 12.5899008
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: ""
 housenumber: 

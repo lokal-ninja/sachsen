@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8221312
 longitude: 12.9600857
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 153b

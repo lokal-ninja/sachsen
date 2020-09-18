@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5866136
 longitude: 13.030556800000001
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Geyersdorfer Hauptstraße"
 housenumber: 47

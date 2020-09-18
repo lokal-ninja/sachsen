@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 50.8264002
 longitude: 12.969554700000002
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Augustusburger Straße"
 housenumber: 329
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
+opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-15:00; Su,PH off"
 website: ""

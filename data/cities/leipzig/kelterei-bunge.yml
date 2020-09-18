@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.3087413
 longitude: 12.4540611
-postcode: 04288
+postcode: "04288"
 city: Leipzig
 street: "Wiesenblumenweg"
 housenumber: 34

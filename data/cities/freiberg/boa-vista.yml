@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.9176658
 longitude: 13.343322800000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Burgstraße"
 housenumber: 10

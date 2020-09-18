@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.055617000000005
 longitude: 12.6985191
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Robert-Koch-Straße"
 housenumber: 

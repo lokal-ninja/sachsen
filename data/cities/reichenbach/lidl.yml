@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.630152700000004
 longitude: 12.3069684
-postcode: 08468
+postcode: "08468"
 city: Reichenbach
 street: "Zwickauer Straße"
 housenumber: 97

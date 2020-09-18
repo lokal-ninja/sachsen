@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.812253500000004
 longitude: 12.8059121
-postcode: 09224
+postcode: "09224"
 city: Chemnitz
 street: "An der Wiesenmühle"
 housenumber: 8

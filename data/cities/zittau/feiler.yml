@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.8961051
 longitude: 14.8198129
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Brückenstraße"
 housenumber: 7a

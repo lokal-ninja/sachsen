@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.861111900000004
 longitude: 13.166980200000001
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Große Kirchgasse"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.445575000000005
 longitude: 14.2390465
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Elsterstraße"
 housenumber: 106

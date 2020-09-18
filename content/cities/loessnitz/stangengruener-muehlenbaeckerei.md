@@ -1,0 +1,4 @@
+---
+title: "Stangengrüner Mühlenbäckerei"
+url: /loessnitz/stangengruener-muehlenbaeckerei/
+---

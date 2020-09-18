@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.765789600000005
 longitude: 13.757332600000002
-postcode: 01773
+postcode: "01773"
 city: Altenberg
 street: "Hirschsprunger Straße"
 housenumber: 2

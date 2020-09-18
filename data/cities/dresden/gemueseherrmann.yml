@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.072008000000004
 longitude: 13.7476383
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Bischofsplatz"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 50.708514300000004
 longitude: 12.8615905
-postcode: 09380
+postcode: "09380"
 city: Thalheim/Erzgebirge
 street: "Chemnitzer Straße"
 housenumber: 40

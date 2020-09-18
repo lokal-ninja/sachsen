@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.509743500000006
 longitude: 13.096906500000001
-postcode: 09477
+postcode: "09477"
 city: Jöhstadt
 street: "Innere Bahnhofstraße"
 housenumber: 76

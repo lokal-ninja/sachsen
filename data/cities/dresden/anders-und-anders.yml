@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0649074
 longitude: 13.7528593
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Böhmische Straße"
 housenumber: 18

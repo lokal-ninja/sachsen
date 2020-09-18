@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.6451811
 longitude: 12.5671359
-postcode: 08134
+postcode: "08134"
 city: Wildenfels
 street: "Gartenstraße"
 housenumber: 1

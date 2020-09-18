@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.051531700000005
 longitude: 12.7078387
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Peniger Straße"
 housenumber: 3

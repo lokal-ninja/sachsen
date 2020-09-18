@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0464308
 longitude: 12.8052512
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Clemens-Pfau-Platz"
 housenumber: 23

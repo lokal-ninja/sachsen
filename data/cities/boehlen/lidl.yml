@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.198745
 longitude: 12.391152400000001
-postcode: 04564
+postcode: "04564"
 city: Böhlen
 street: "Röthaer Straße"
 housenumber: 30C

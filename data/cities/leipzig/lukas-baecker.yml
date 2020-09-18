@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3395694
 longitude: 12.379580800000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Grimmaische Straße"
 housenumber: 

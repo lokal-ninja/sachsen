@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8348786
 longitude: 12.9394174
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Zietenstraße"
 housenumber: 37

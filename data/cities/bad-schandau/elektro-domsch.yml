@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.9184987
 longitude: 14.1538865
-postcode: 01814
+postcode: "01814"
 city: Bad Schandau
 street: "Poststraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7191655
 longitude: 12.491922500000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Dr.-Friedrichs-Ring"
 housenumber: 21a

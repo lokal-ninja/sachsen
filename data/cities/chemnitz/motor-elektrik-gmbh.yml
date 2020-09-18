@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8457261
 longitude: 12.9405555
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Hainstraße"
 housenumber: 139

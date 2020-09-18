@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3683263
 longitude: 12.4583992
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Torgauer Straße"
 housenumber: 279

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.501473600000004
 longitude: 12.1300769
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Friedrich-Engels-Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.335928
 longitude: 12.330717
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Lützner Straße"
 housenumber: 68

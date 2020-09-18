@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.8412811
 longitude: 12.9363907
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Hainstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.307662
 longitude: 12.3032649
-postcode: 08258
+postcode: "08258"
 city: Markneukirchen
 street: "Am Bahnhof"
 housenumber: 7

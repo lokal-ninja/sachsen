@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.043311100000004
 longitude: 13.6640806
-postcode: 01169
+postcode: "01169"
 city: Dresden
 street: "Altgorbitzer Ring"
 housenumber: 9

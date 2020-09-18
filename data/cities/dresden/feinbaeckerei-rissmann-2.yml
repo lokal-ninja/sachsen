@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0678733
 longitude: 13.747744200000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Königsbrücker Straße"
 housenumber: 32

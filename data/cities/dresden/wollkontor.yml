@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.0538462
 longitude: 13.814123
-postcode: 01326
+postcode: "01326"
 city: Dresden
 street: "Friedrich-Wieck-Straße"
 housenumber: 4

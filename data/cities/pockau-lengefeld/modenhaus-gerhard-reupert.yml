@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.718607500000005
 longitude: 13.1929428
-postcode: 09514
+postcode: "09514"
 city: Pockau-Lengefeld
 street: "Freiberger Straße"
 housenumber: 2

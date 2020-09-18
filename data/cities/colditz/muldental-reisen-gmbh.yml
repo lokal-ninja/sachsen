@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.130479400000006
 longitude: 12.8044363
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Badergasse"
 housenumber: 13

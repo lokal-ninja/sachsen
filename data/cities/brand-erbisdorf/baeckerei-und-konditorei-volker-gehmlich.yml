@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8456108
 longitude: 13.2928364
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Alte Bahnhofstraße"
 housenumber: 11

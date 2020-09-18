@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.1825386
 longitude: 14.4244678
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Fleischmarkt"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.971811100000004
 longitude: 13.122301100000001
-postcode: 09661
+postcode: "09661"
 city: Hainichen
 street: "Bahnhofstraße"
 housenumber: 4

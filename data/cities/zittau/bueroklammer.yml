@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.8966049
 longitude: 14.8089983
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Frauenstraße"
 housenumber: 7

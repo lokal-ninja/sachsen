@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.7184133
 longitude: 12.460145500000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Sonnenstraße"
 housenumber: 2

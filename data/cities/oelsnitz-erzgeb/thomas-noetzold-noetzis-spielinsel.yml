@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 50.7223759
 longitude: 12.6981531
-postcode: 09376
+postcode: "09376"
 city: Oelsnitz/Erzgeb.
 street: "Rathausplatz"
 housenumber: 2

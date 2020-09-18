@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.148060900000004
 longitude: 12.7646458
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Schönbacher Hohle"
 housenumber: 14

@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 50.717229800000005
 longitude: 12.496914700000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Hauptmarkt"
 housenumber: 2
-phone: "0375 / 213020"
+phone: "+49 375 213020"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
 website: ""

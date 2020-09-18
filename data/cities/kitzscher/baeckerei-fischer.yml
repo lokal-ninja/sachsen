@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.191746800000004
 longitude: 12.559439900000001
-postcode: 04567
+postcode: "04567"
 city: Kitzscher
 street: "Hauptstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.437845100000004
 longitude: 12.0919266
-postcode: 08538
+postcode: "08538"
 city: Weischlitz
 street: "Taltitzer Straße"
 housenumber: 80

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.036501300000005
 longitude: 13.704519300000001
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Tharandter Straße"
 housenumber: 48

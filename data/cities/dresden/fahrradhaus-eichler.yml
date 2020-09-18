@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.025956400000005
 longitude: 13.8365194
-postcode: 01279
+postcode: "01279"
 city: Dresden
 street: "Österreicher Straße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.0594052
 longitude: 13.876231200000001
-postcode: 01328
+postcode: "01328"
 city: Dresden
 street: "Bahnhofstraße"
 housenumber: 3

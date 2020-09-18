@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.293411600000006
 longitude: 13.527924
-postcode: 01558
+postcode: "01558"
 city: Großenhain
 street: "Berliner Straße"
 housenumber: 23

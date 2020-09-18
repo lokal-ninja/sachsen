@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1860027
 longitude: 13.838791100000002
-postcode: 01458
+postcode: "01458"
 city: Ottendorf-Okrilla
 street: "Radeberger Straße"
 housenumber: 22C

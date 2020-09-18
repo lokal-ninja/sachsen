@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.302789000000004
 longitude: 12.4646602
-postcode: 04288
+postcode: "04288"
 city: Leipzig
 street: "Händelstraße"
 housenumber: 17b

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.096110800000005
 longitude: 14.3085953
-postcode: 01904
+postcode: "01904"
 city: Neukirch/Lausitz
 street: "Hauptstraße"
 housenumber: 57

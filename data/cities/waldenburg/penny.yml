@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.878232600000004
 longitude: 12.5941442
-postcode: 08396
+postcode: "08396"
 city: Waldenburg
 street: "Altenburger Straße"
 housenumber: 81

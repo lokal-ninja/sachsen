@@ -3,10 +3,10 @@ type: way
 shop: Kleidung
 latitude: 51.4594608
 longitude: 12.6357005
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Breite Straße"
 housenumber: 8-9
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"
 website: ""

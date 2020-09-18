@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.2686744
 longitude: 12.498316500000001
-postcode: 04463
+postcode: "04463"
 city: Großpösna
 street: "Sepp-Verscht-Straße"
 housenumber: 1

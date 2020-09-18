@@ -1,4 +1,4 @@
 ---
-title: "Rewe to go"
+title: "Rewe To Go"
 url: /meissen/rewe-to-go/
 ---

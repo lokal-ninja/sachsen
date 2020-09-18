@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.207427800000005
 longitude: 13.736266700000002
-postcode: 01471
+postcode: "01471"
 city: Radeburg
 street: "Sachsenallee"
 housenumber: 1

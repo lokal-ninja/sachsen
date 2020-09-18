@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 51.1612348
 longitude: 13.677227
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Roßmarkt"
 housenumber: 2

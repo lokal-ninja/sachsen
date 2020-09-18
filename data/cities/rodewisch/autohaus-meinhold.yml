@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.5218755
 longitude: 12.382680800000001
-postcode: 08228
+postcode: "08228"
 city: Rodewisch
 street: "Göltzschtalblick"
 housenumber: 2a

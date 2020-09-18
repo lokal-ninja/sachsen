@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.0547843
 longitude: 12.693516
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Leipziger Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.304098
 longitude: 13.7027371
-postcode: 01561
+postcode: "01561"
 city: Schönfeld
 street: "Teichweg"
 housenumber: 3

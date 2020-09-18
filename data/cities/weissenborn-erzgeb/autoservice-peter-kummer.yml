@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8706048
 longitude: 13.4066892
-postcode: 09600
+postcode: "09600"
 city: Weißenborn/Erzgeb.
 street: "Dorfstraße"
 housenumber: 36

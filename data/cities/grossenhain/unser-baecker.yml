@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.2946869
 longitude: 13.5365613
-postcode: 01558
+postcode: "01558"
 city: Großenhain
 street: "Radeburger Straße"
 housenumber: 5a

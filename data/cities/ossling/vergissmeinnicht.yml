@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.35929410000001
 longitude: 14.1663741
-postcode: 01920
+postcode: "01920"
 city: Oßling
 street: "Wittichenauer Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.1822044
 longitude: 14.424539000000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Fleischmarkt"
 housenumber: 10

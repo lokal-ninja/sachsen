@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.957812100000005
 longitude: 13.9013907
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Kunstseidenstraße"
 housenumber: 8

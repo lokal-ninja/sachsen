@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.1655795
 longitude: 13.492277000000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Ferdinandstraße"
 housenumber: 2

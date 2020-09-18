@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.1243922
 longitude: 12.497463900000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Roßmarktsche Straße"
 housenumber: 1

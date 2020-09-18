@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.370252400000005
 longitude: 12.73778
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Jacobsgasse"
 housenumber: 25

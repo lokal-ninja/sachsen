@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8230845
 longitude: 12.959128600000001
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Hans-Ziegler-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.83132680000001
 longitude: 12.7386841
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Zum Kapellenberg"
 housenumber: 27

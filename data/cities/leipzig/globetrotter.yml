@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.3393346
 longitude: 12.376345200000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Neumarkt"
 housenumber: 10

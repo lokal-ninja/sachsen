@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.1003277
 longitude: 14.4008444
-postcode: 02681
+postcode: "02681"
 city: Wilthen
 street: "Straße der Befreiung"
 housenumber: 1

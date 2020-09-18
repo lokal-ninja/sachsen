@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.5121016
 longitude: 12.940532800000002
-postcode: 09474
+postcode: "09474"
 city: Crottendorf
 street: "Uferweg"
 housenumber: 232

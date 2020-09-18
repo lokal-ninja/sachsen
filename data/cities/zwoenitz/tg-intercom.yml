@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.6309642
 longitude: 12.808129800000001
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Bahnhofstraße"
 housenumber: 28

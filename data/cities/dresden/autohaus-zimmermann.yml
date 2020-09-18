@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.089871
 longitude: 13.705012
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Am Trachauer Bahnhof"
 housenumber: 9

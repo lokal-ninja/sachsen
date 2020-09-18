@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.116862000000005
 longitude: 13.3750718
-postcode: 01665
+postcode: "01665"
 city: Käbschütztal
 street: "Meißner Straße"
 housenumber: 21e

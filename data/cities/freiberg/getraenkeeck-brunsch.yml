@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.9206505
 longitude: 13.3300765
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Lessingstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.868813
 longitude: 13.3206755
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "August-Bebel-Straße"
 housenumber: 6

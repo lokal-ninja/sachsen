@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.7714554
 longitude: 12.9740602
-postcode: 09123
+postcode: "09123"
 city: Chemnitz
 street: "Am Plan"
 housenumber: 1

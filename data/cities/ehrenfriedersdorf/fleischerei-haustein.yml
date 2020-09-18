@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.6479087
 longitude: 12.971264600000001
-postcode: 09427
+postcode: "09427"
 city: Ehrenfriedersdorf
 street: "Wettinstraße"
 housenumber: 22

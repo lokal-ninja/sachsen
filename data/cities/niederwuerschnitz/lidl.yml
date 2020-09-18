@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.721051200000005
 longitude: 12.756038700000001
-postcode: 09399
+postcode: "09399"
 city: Niederwürschnitz
 street: "Stollberger Straße"
 housenumber: 7

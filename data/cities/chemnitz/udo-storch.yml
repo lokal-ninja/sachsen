@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.8160116
 longitude: 12.8394727
-postcode: 09117
+postcode: "09117"
 city: Chemnitz
 street: "Nevoigtstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5607946
 longitude: 12.9905685
-postcode: 04860
+postcode: "04860"
 city: Torgau
 street: "Dübener Straße"
 housenumber: 1

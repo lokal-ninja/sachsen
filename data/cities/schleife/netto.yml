@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.547329000000005
 longitude: 14.546341300000002
-postcode: 02959
+postcode: "02959"
 city: Schleife
 street: "Friedensstraße"
 housenumber: 51a

@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 50.7714385
 longitude: 12.2358486
-postcode: 07580
+postcode: "07580"
 city: Seelingstädt
 street: "Seelingstädt"
 housenumber: 53

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.7101222
 longitude: 13.220466700000001
-postcode: 09509
+postcode: "09509"
 city: Pockau-Lengefeld
 street: "Freiberger Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.373058900000004
 longitude: 12.480098
-postcode: 04425
+postcode: "04425"
 city: Taucha
 street: "Leipziger Straße"
 housenumber: 117

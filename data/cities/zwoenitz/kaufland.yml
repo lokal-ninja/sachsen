@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.635796500000005
 longitude: 12.7944247
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Albin-Trommler-Straße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

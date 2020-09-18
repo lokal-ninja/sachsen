@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.311494700000004
 longitude: 12.3792042
-postcode: 04277
+postcode: "04277"
 city: Leipzig
 street: "Arthur-Hoffmann-Straße"
 housenumber: 175

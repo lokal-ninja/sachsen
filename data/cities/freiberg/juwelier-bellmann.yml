@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.9181953
 longitude: 13.343703300000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Weingasse"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.604837
 longitude: 13.0677062
-postcode: 09456
+postcode: "09456"
 city: Mildenau
 street: "Streckewalder Straße"
 housenumber: 1

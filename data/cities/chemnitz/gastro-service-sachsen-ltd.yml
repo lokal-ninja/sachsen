@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 50.8135248
 longitude: 12.809223000000001
-postcode: 09224
+postcode: "09224"
 city: Chemnitz
 street: "Reichenbrander Straße"
 housenumber: 4

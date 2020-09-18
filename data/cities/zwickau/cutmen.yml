@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7200682
 longitude: 12.490178100000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Poetenweg"
 housenumber: 2

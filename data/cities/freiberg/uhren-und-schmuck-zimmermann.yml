@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.916590600000006
 longitude: 13.3431174
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Obermarkt"
 housenumber: 5

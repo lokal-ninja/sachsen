@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 51.117815300000004
 longitude: 13.1224675
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Roßweiner Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.3320257
 longitude: 12.3327033
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Merseburger Straße"
 housenumber: 35

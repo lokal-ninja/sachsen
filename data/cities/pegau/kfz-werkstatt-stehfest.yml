@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.166384900000004
 longitude: 12.267690400000001
-postcode: 04523
+postcode: "04523"
 city: Pegau
 street: "Audigaster Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.18107070000001
 longitude: 14.426284800000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Reichenstraße"
 housenumber: 18

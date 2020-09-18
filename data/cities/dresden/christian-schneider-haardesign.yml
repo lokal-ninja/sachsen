@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0680563
 longitude: 13.753519
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Alaunstraße"
 housenumber: 68

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.628991600000006
 longitude: 12.811247400000001
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Alte Schulstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.692271100000006
 longitude: 12.556771300000001
-postcode: 08141
+postcode: "08141"
 city: Reinsdorf
 street: "August-Horch-Straße"
 housenumber: 72

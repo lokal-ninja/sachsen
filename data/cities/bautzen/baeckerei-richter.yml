@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.175415300000004
 longitude: 14.453988
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Erich-Weinert-Straße"
 housenumber: 30

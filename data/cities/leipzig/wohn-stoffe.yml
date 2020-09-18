@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.320351200000005
 longitude: 12.341636300000001
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Könneritzstraße"
 housenumber: 90

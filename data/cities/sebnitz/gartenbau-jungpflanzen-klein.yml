@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.9670119
 longitude: 14.267188800000001
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Hainersdorfer Weg"
 housenumber: 10

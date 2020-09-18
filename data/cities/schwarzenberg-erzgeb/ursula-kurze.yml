@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.520371700000005
 longitude: 12.7745499
-postcode: 08340
+postcode: "08340"
 city: Schwarzenberg/Erzgeb.
 street: "Gemeindestraße"
 housenumber: 11

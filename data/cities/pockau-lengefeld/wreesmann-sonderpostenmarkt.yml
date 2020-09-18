@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.710801000000004
 longitude: 13.2219773
-postcode: 09509
+postcode: "09509"
 city: Pockau-Lengefeld
 street: "Fischereiweg"
 housenumber: 42B

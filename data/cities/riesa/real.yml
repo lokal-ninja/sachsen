@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.297962000000005
 longitude: 13.265547900000001
-postcode: 01587
+postcode: "01587"
 city: Riesa
 street: "Riesapark"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9327459
 longitude: 12.7059493
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Lutherplatz"
 housenumber: 4

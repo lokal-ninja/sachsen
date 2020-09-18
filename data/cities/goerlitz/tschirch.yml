@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.216294000000005
 longitude: 15.002682900000002
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Rothenburger Landstraße"
 housenumber: 267

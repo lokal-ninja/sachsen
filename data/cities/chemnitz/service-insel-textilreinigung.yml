@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.823051400000004
 longitude: 12.959065
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Hans-Ziegler-Straße"
 housenumber: 3

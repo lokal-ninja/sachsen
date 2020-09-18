@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6788753
 longitude: 13.4701582
-postcode: 09544
+postcode: "09544"
 city: Neuhausen/Erzgeb.
 street: "Neuwernsdorfer Weg"
 housenumber: 1

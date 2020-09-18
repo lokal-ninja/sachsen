@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.07511220000001
 longitude: 13.723436000000001
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Oschatzer Straße"
 housenumber: 6

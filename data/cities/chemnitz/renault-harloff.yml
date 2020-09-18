@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8206507
 longitude: 12.926294400000002
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Lutherstraße"
 housenumber: 72

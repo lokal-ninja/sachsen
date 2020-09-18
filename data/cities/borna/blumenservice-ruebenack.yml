@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1338444
 longitude: 12.493487400000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Gerhart-Hauptmann-Straße"
 housenumber: 1A

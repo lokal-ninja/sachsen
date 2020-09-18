@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.781567700000004
 longitude: 12.4776574
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Dänkritzer Straße"
 housenumber: 7

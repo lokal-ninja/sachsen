@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2365129
 longitude: 13.048245900000001
-postcode: 04769
+postcode: "04769"
 city: Mügeln
 street: "Dr.-Friedrichs-Straße"
 housenumber: 8

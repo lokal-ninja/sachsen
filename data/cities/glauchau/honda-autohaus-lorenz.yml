@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8346887
 longitude: 12.5002407
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Meeraner Straße"
 housenumber: 174a

@@ -1,12 +1,12 @@
-id: 983362183
+id: 961201818
 type: node
 shop: Supermarkt
-latitude: 51.1529238
-longitude: 14.9656067
-postcode: 02826
+latitude: 51.1527533
+longitude: 14.9887788
+postcode: "02826"
 city: Görlitz
-street: "Rauschwalder Straße"
-housenumber: 46
+street: "An der Frauenkirche"
+housenumber: 12
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
 website: ""

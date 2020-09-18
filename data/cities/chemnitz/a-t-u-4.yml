@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8413157
 longitude: 12.948957
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Planitzwiese"
 housenumber: 1

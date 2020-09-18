@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.718178
 longitude: 12.493493
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Peter-Breuer-Straße"
 housenumber: 40
-phone: "0375 88375782"
+phone: "+49 375 88375782"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-12:00"
 website: ""

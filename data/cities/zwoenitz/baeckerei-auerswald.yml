@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.685495800000005
 longitude: 12.8151772
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Franzberg"
 housenumber: 1

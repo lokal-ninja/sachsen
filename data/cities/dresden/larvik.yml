@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0440684
 longitude: 13.7364384
-postcode: 01069
+postcode: "01069"
 city: Dresden
 street: "St. Petersburger Straße"
 housenumber: 28

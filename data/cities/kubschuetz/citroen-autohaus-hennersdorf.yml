@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1632588
 longitude: 14.5070989
-postcode: 02627
+postcode: "02627"
 city: Kubschütz
 street: "Alte Löbauer Straße"
 housenumber: 2

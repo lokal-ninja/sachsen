@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7168052
 longitude: 12.4632394
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Bernhardstraße"
 housenumber: 5

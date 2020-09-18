@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.0466045
 longitude: 13.697819
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Altlöbtau"
 housenumber: 22

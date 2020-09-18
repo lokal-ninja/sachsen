@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2937206
 longitude: 13.286297200000002
-postcode: 01589
+postcode: "01589"
 city: Riesa
 street: "Nossener Straße"
 housenumber: 48

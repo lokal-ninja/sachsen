@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.562932800000006
 longitude: 12.6409844
-postcode: 08321
+postcode: "08321"
 city: Zschorlau
 street: "August-Bebel-Straße"
 housenumber: 100

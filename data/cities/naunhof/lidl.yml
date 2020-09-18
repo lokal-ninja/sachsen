@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.288439800000006
 longitude: 12.5886048
-postcode: 04683
+postcode: "04683"
 city: Naunhof
 street: "Brandiser Straße"
 housenumber: 88

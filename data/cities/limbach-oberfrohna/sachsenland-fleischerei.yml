@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8645269
 longitude: 12.7389103
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Frohnbachstraße"
 housenumber: 59-61

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3356787
 longitude: 12.389429100000001
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Prager Straße"
 housenumber: 12a

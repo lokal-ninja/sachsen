@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8486023
 longitude: 12.9283373
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Josephinenplatz"
 housenumber: 1

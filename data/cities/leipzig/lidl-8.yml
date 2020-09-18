@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3786168
 longitude: 12.4311208
-postcode: 04349
+postcode: "04349"
 city: Leipzig
 street: "Theklaer Straße"
 housenumber: 150

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5976968
 longitude: 12.804378100000001
-postcode: 04880
+postcode: "04880"
 city: Trossin
 street: "Eilenburger Straße"
 housenumber: 23

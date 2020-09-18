@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.9210362
 longitude: 13.345606
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Meißner Gasse"
 housenumber: 9

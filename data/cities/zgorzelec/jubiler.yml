@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.1501807
 longitude: 15.0051202
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Ignacego Daszyńskiego"
 housenumber: 75B

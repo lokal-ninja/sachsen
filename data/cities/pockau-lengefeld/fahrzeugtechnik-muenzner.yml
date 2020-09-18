@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.740532800000004
 longitude: 13.170661200000001
-postcode: 09514
+postcode: "09514"
 city: Pockau-Lengefeld
 street: "Augustusburger Straße"
 housenumber: 133

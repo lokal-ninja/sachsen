@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0293889
 longitude: 13.797210600000001
-postcode: 01277
+postcode: "01277"
 city: Dresden
 street: "Bodenbacher Straße"
 housenumber: 81

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8180829
 longitude: 12.9383946
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Bernsdorfer Straße"
 housenumber: 96

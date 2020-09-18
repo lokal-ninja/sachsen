@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.0938104
 longitude: 13.7201546
-postcode: 01129
+postcode: "01129"
 city: Dresden
 street: "Großenhainer Straße"
 housenumber: 184

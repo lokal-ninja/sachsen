@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.847155300000004
 longitude: 12.5430866
-postcode: 08373
+postcode: "08373"
 city: Remse
 street: "Waldenburger Straße"
 housenumber: 2

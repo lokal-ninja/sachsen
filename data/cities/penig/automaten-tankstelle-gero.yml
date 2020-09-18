@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.947915200000004
 longitude: 12.6789953
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Am Zeisig"
 housenumber: 18

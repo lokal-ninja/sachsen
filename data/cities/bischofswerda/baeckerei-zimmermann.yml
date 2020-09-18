@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.125129300000005
 longitude: 14.1794241
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Stolpener Straße"
 housenumber: 4

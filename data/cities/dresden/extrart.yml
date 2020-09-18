@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.062100300000004
 longitude: 13.843340600000001
-postcode: 01324
+postcode: "01324"
 city: Dresden
 street: "Bautzner Landstraße"
 housenumber: 109

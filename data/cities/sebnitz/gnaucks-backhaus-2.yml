@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9775859
 longitude: 14.2763193
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Doktor-Steudner-Straße"
 housenumber: 24

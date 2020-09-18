@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8253603
 longitude: 12.9370325
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Blücherstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7489208
 longitude: 12.9893069
-postcode: 09439
+postcode: "09439"
 city: Amtsberg
 street: "Dittersdorfer Straße"
 housenumber: 19

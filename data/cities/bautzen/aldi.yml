@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.186745800000004
 longitude: 14.440424700000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Gesundbrunnenring"
 housenumber: 4

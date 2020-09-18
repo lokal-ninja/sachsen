@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.123408000000005
 longitude: 12.490988900000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Sachsenallee"
 housenumber: 16

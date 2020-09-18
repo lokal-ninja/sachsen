@@ -1,12 +1,12 @@
-id: 39962162
-type: way
+id: 2129894053
+type: node
 shop: Supermarkt
-latitude: 51.317684500000006
-longitude: 12.378578200000002
-postcode: 04275
+latitude: 51.319522000000006
+longitude: 12.291841400000001
+postcode: "04209"
 city: Leipzig
-street: "Arthur-Hoffmann-Straße"
-housenumber: 113
+street: "Ludwigsburger Straße"
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: ""

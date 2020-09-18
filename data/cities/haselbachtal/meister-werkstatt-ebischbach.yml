@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.24704130000001
 longitude: 14.0093644
-postcode: 01920
+postcode: "01920"
 city: Haselbachtal
 street: "Bergstraße"
 housenumber: 8

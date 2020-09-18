@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.945230300000006
 longitude: 13.7611919
-postcode: 01731
+postcode: "01731"
 city: Kreischa
 street: "Lungkwitzer Straße"
 housenumber: 3

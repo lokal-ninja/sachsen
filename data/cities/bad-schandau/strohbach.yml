@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9200322
 longitude: 14.151196200000001
-postcode: 01814
+postcode: "01814"
 city: Bad Schandau
 street: "Sebnitzer Straße"
 housenumber: 5

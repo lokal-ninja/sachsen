@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4390073
 longitude: 14.232871000000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: ""
 housenumber: 

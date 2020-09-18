@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0893852
 longitude: 13.703596000000001
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Leipziger Straße"
 housenumber: 294

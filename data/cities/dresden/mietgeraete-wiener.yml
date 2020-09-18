@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.112145600000005
 longitude: 13.7610632
-postcode: 01109
+postcode: "01109"
 city: Dresden
 street: "Karl-Liebknecht-Straße"
 housenumber: 31

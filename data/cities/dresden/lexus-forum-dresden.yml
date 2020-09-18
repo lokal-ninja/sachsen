@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0919876
 longitude: 13.6708844
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Kötzschenbroder Straße"
 housenumber: 191

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.058472800000004
 longitude: 13.8275681
-postcode: 01326
+postcode: "01326"
 city: Dresden
 street: "Grundstraße"
 housenumber: 115

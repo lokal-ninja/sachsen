@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.169463400000005
 longitude: 14.970708600000002
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Nieskyer Straße"
 housenumber: 100

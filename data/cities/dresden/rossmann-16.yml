@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.02606230000001
 longitude: 13.8369651
-postcode: 01279
+postcode: "01279"
 city: Dresden
 street: "Österreicher Straße"
 housenumber: 33

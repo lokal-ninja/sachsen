@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.7190366
 longitude: 13.1917451
-postcode: 09514
+postcode: "09514"
 city: Pockau-Lengefeld
 street: "Wolkensteiner Straße"
 housenumber: 1

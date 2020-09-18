@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.2827245
 longitude: 12.426105100000001
-postcode: 04416
+postcode: "04416"
 city: Markkleeberg
 street: "Magdeborner Straße"
 housenumber: 15

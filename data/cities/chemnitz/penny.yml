@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.783232100000006
 longitude: 12.8782001
-postcode: 09123
+postcode: "09123"
 city: Chemnitz
 street: "Wolgograder Allee"
 housenumber: 207

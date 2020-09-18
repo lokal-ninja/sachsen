@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 51.0433743
 longitude: 13.7007708
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Reisewitzer Straße"
 housenumber: 16

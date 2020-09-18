@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.831716400000005
 longitude: 12.9485086
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Augustusburger Straße"
 housenumber: 168

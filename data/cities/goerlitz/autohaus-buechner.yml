@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.146353600000005
 longitude: 14.9287319
-postcode: 02827
+postcode: "02827"
 city: Görlitz
 street: "Schlaurother Allee"
 housenumber: 1

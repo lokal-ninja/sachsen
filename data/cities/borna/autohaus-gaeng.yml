@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1163358
 longitude: 12.485103800000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Am Wilhelmschacht"
 housenumber: 15

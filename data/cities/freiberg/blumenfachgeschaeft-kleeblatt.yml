@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9043514
 longitude: 13.345787600000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Hegelstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.685413000000004
 longitude: 12.8182545
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Brünloser Hauptstraße"
 housenumber: 4

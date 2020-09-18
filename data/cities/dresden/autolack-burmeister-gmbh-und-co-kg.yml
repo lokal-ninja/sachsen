@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 51.072864100000004
 longitude: 13.751069800000002
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Königsbrücker Straße"
 housenumber: 67 HH

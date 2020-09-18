@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.950178
 longitude: 13.9518555
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Longuyoner Straße"
 housenumber: 3

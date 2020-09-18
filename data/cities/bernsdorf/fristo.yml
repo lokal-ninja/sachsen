@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.375058700000004
 longitude: 14.0699664
-postcode: 02994
+postcode: "02994"
 city: Bernsdorf
 street: "Rathausallee"
 housenumber: 2F

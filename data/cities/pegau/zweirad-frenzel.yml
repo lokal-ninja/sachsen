@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.1707315
 longitude: 12.2491325
-postcode: 04523
+postcode: "04523"
 city: Pegau
 street: "Stöntzscher Straße"
 housenumber: 29a

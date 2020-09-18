@@ -1,12 +1,12 @@
-id: 301720809
-type: way
+id: 5249449521
+type: node
 shop: Supermarkt
-latitude: 50.7303379
-longitude: 13.3090858
-postcode: 09526
+latitude: 50.6565692
+longitude: 13.3469365
+postcode: "09526"
 city: Olbernhau
-street: "Haselbacher Straße"
-housenumber: 
+street: "Zum Poppschen Gut"
+housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

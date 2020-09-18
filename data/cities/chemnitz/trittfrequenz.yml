@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.8241208
 longitude: 12.9390049
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Senefelderstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.7181847
 longitude: 12.4841367
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Bahnhofstraße"
 housenumber: 26

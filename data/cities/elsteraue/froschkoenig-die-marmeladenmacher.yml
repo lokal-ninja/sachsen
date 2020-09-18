@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.1293061
 longitude: 12.2148608
-postcode: 06729
+postcode: "06729"
 city: Elsteraue
 street: "Profener Bahnhofstraße"
 housenumber: 2

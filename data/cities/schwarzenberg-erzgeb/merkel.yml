@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.530857000000005
 longitude: 12.8139011
-postcode: 08340
+postcode: "08340"
 city: Schwarzenberg/Erzgeb.
 street: "Schwarzenberger Straße"
 housenumber: 5

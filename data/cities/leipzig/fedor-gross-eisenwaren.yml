@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.3325046
 longitude: 12.3350568
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Josephstraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.049902900000006
 longitude: 13.754609
-postcode: 01069
+postcode: "01069"
 city: Dresden
 street: "Pillnitzer Straße"
 housenumber: 34

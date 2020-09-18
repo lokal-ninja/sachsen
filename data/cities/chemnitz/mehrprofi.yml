@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 50.804835100000005
 longitude: 12.9247534
-postcode: 09120
+postcode: "09120"
 city: Chemnitz
 street: "Friedrich-Oskar-Schimmel-Straße"
 housenumber: 2

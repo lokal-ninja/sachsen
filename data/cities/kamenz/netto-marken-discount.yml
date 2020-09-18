@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2731112
 longitude: 14.107431700000001
-postcode: 01917
+postcode: "01917"
 city: Kamenz
 street: "Fichtestraße"
 housenumber: 10

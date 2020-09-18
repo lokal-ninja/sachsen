@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.820565200000004
 longitude: 12.921591800000002
-postcode: 
+postcode: ""
 city: Chemnitz
 street: "Elsasser Straße"
 housenumber: 33

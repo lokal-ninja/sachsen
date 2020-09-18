@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.315434
 longitude: 12.3781982
-postcode: 04275
+postcode: "04275"
 city: Leipzig
 street: "Arthur-Hoffmann-Straße"
 housenumber: 120

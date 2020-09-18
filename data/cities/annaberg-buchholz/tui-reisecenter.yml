@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.5778643
 longitude: 13.0020652
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Buchholzer Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.564028
 longitude: 12.636482
-postcode: 08321
+postcode: "08321"
 city: Zschorlau
 street: "Karlsbader Straße"
 housenumber: 

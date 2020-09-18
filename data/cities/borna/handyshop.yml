@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.122081
 longitude: 12.494871300000002
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Bahnhofstraße"
 housenumber: 11

@@ -3,10 +3,10 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.3372418
 longitude: 12.374922600000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Petersstraße"
 housenumber: 44
 phone: ""
-opening_hours: ""
+opening_hours: "24/7"
 website: "http://www.petersbogen-leipzig.de/"

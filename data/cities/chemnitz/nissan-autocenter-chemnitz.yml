@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.815443
 longitude: 12.883550000000001
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Carl-Hamel-Straße"
 housenumber: 4

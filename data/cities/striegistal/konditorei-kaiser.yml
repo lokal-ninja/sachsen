@@ -1,12 +1,12 @@
-id: 306725059
-type: way
+id: 7703584881
+type: node
 shop: Konditorei
-latitude: 50.988412100000005
-longitude: 13.175869500000001
-postcode: 09661
+latitude: 50.988358500000004
+longitude: 13.175778900000001
+postcode: "09661"
 city: Striegistal
 street: "Richard-Witzsch-Straße"
 housenumber: 30
 phone: ""
-opening_hours: "Mo-Sa 05:30-17:00; Su,PH off"
+opening_hours: "Tu,Th,Fr 05:30-17:00; We 05:30-13:00; Sa 05:30-10:00; Mo,Su,PH off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.384571900000005
 longitude: 12.7253916
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Nischwitzer Breite"
 housenumber: 1

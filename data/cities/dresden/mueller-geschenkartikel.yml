@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.0659806
 longitude: 13.8927037
-postcode: 01328
+postcode: "01328"
 city: Dresden
 street: "An der Prießnitzaue"
 housenumber: 1

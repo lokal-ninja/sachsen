@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.709486500000004
 longitude: 12.7812104
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Ernst-Thälmann-Straße"
 housenumber: 22

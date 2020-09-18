@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.899930000000005
 longitude: 12.6074652
-postcode: 08396
+postcode: "08396"
 city: Waldenburg
 street: "Dorfstraße"
 housenumber: 3

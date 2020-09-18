@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.830290000000005
 longitude: 12.939069400000001
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Uferstraße"
 housenumber: 48-50

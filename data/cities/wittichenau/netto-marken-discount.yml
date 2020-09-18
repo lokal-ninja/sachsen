@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.383479
 longitude: 14.234178400000001
-postcode: 02997
+postcode: "02997"
 city: Wittichenau
 street: "Kamenzer Straße"
 housenumber: 40c

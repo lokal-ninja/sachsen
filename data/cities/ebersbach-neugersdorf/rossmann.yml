@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.983554000000005
 longitude: 14.6143517
-postcode: 02727
+postcode: "02727"
 city: Ebersbach-Neugersdorf
 street: "Spreequellstraße"
 housenumber: 6

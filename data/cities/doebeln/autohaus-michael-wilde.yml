@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.120327800000005
 longitude: 13.1486782
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Daniel-Wilhelm-Beck-Straße"
 housenumber: 2

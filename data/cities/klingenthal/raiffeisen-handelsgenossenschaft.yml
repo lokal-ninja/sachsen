@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.3560205
 longitude: 12.4529931
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Markneukirchner Straße"
 housenumber: 94

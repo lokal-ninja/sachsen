@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.298511600000005
 longitude: 13.1090362
-postcode: 04758
+postcode: "04758"
 city: Oschatz
 street: "Altmarkt"
 housenumber: 28

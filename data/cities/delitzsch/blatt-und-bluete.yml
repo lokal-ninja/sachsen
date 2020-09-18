@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.524711
 longitude: 12.343630200000002
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Eilenburger Straße"
 housenumber: 67

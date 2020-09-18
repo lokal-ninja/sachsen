@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.728560900000005
 longitude: 12.3740661
-postcode: 08412
+postcode: "08412"
 city: Werdau
 street: "Marienstraße"
 housenumber: 21

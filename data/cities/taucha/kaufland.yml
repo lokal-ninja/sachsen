@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.380861100000004
 longitude: 12.487402600000001
-postcode: 04425
+postcode: "04425"
 city: Taucha
 street: "Portitzer Straße"
 housenumber: 34

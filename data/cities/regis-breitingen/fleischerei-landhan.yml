@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.094075100000005
 longitude: 12.4435523
-postcode: 04565
+postcode: "04565"
 city: Regis-Breitingen
 street: "Blumrodaer Straße"
 housenumber: 2A

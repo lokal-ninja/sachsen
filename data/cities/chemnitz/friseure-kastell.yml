@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8224893
 longitude: 12.959904700000001
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 153

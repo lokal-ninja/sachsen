@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.0575674
 longitude: 13.746936100000001
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Wilhelm-Buck-Straße"
 housenumber: 2

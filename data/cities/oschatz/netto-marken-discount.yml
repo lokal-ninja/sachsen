@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.293795200000005
 longitude: 13.1185439
-postcode: 04758
+postcode: "04758"
 city: Oschatz
 street: "Am Dresdener Berg"
 housenumber: 1

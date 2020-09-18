@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.325311500000005
 longitude: 12.340366000000001
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Holbeinstraße"
 housenumber: 24

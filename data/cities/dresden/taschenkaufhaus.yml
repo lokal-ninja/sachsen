@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 51.044083300000004
 longitude: 13.735905800000001
-postcode: 01069
+postcode: "01069"
 city: Dresden
 street: "Prager Straße"
 housenumber: 4

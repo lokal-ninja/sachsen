@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.691267200000006
 longitude: 12.462707100000001
-postcode: 08062
+postcode: "08062"
 city: Zwickau
 street: "Neuplanitzer Straße"
 housenumber: 94

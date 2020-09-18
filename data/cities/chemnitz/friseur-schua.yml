@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8367099
 longitude: 12.934508200000002
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Fürstenstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.567148800000005
 longitude: 12.9984689
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Am Haltepunkt"
 housenumber: 2

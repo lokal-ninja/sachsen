@@ -2,11 +2,11 @@ id: 228697305
 type: way
 shop: Baumarkt
 latitude: 51.05483400000001
-longitude: 12.7002266
-postcode: 04643
+longitude: 12.7002269
+postcode: "04643"
 city: Geithain
 street: "Colditzer Straße"
 housenumber: 6
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH,Su off"
 website: ""

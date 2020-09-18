@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.159932000000005
 longitude: 13.5663038
-postcode: 01689
+postcode: "01689"
 city: Weinböhla
 street: "Südstraße"
 housenumber: 3

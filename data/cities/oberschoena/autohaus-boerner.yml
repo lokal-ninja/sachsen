@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.900790900000004
 longitude: 13.251598600000001
-postcode: 09600
+postcode: "09600"
 city: Oberschöna
 street: "An der Hauptstraße"
 housenumber: 3

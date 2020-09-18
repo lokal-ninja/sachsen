@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.1888507
 longitude: 12.259732000000001
-postcode: 04523
+postcode: "04523"
 city: Pegau
 street: "Dorfstraße"
 housenumber: 2

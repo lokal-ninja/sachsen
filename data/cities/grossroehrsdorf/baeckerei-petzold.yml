@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.153457100000004
 longitude: 14.027086500000001
-postcode: 01900
+postcode: "01900"
 city: Großröhrsdorf
 street: "Richard-Thieme-Straße"
 housenumber: 2

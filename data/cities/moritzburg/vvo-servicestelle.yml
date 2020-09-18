@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.1558033
 longitude: 13.683505700000001
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Am Bahnhof"
 housenumber: 1

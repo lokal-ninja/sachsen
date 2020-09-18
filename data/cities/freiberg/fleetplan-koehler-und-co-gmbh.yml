@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.9214743
 longitude: 13.346740500000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Meißner Gasse"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.7599874
 longitude: 12.476846700000001
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Altenburger Straße"
 housenumber: 30

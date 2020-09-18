@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.7907334
 longitude: 12.9028559
-postcode: 09123
+postcode: "09123"
 city: Chemnitz
 street: "Arno-Schreiter-Straße"
 housenumber: 5

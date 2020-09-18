@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0148452
 longitude: 13.7890233
-postcode: 01237
+postcode: "01237"
 city: Dresden
 street: "Reicker Straße"
 housenumber: 97

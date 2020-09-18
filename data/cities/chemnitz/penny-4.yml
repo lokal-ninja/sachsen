@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.836229100000004
 longitude: 12.8896539
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Limbacher Straße"
 housenumber: 114

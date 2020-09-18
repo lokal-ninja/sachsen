@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.0956983
 longitude: 14.391722300000001
-postcode: 02681
+postcode: "02681"
 city: Wilthen
 street: "Zittauer Straße"
 housenumber: 12

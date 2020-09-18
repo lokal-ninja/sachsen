@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.2794285
 longitude: 12.5918168
-postcode: 04683
+postcode: "04683"
 city: Naunhof
 street: "Ladestraße"
 housenumber: 5c

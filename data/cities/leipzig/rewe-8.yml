@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3257636
 longitude: 12.386466400000002
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Tarostraße"
 housenumber: 2

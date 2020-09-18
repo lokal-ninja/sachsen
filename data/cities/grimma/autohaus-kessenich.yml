@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.2642083
 longitude: 12.793992800000002
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Grimmaische Straße"
 housenumber: 57

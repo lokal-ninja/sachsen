@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.028748900000004
 longitude: 13.398435500000001
-postcode: 09629
+postcode: "09629"
 city: Reinsberg
 street: "Mörnerstraße"
 housenumber: 87

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.083058
 longitude: 13.728685400000002
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Großenhainer Straße"
 housenumber: 119

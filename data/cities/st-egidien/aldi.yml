@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.7735226
 longitude: 12.6243525
-postcode: 09356
+postcode: "09356"
 city: St. Egidien
 street: "Platanenstraße"
 housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

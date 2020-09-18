@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.347394400000006
 longitude: 12.4972519
-postcode: 04319
+postcode: "04319"
 city: Leipzig
 street: "Riesaer Straße"
 housenumber: 214a

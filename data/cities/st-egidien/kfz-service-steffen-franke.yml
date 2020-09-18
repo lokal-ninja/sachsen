@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7829798
 longitude: 12.632761200000001
-postcode: 09356
+postcode: "09356"
 city: St. Egidien
 street: "Platanenstraße"
 housenumber: 24

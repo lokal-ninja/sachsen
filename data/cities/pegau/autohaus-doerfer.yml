@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1778166
 longitude: 12.248505600000001
-postcode: 04523
+postcode: "04523"
 city: Pegau
 street: "Carsdorfer Höhe"
 housenumber: 24

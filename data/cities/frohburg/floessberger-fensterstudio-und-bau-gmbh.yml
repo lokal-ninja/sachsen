@@ -3,7 +3,7 @@ type: way
 shop: Glaserei
 latitude: 51.1236235
 longitude: 12.5876368
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Straße des Friedens"
 housenumber: 40

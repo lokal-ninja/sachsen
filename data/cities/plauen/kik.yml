@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.5128822
 longitude: 12.123104300000001
-postcode: 08525
+postcode: "08525"
 city: Plauen
 street: "Alleestraße"
 housenumber: 1

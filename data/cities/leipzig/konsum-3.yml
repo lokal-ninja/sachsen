@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3720511
 longitude: 12.363181
-postcode: 04157
+postcode: "04157"
 city: Leipzig
 street: "Viertelsweg"
 housenumber: 56

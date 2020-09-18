@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.4892844
 longitude: 12.0973246
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Vettersstraße"
 housenumber: 1

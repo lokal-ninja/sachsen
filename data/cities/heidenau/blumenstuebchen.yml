@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.977443400000006
 longitude: 13.861265900000001
-postcode: 01809
+postcode: "01809"
 city: Heidenau
 street: "August-Bebel-Straße"
 housenumber: 13

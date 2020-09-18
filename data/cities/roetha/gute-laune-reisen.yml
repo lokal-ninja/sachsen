@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.198133000000006
 longitude: 12.410786400000001
-postcode: 04571
+postcode: "04571"
 city: Rötha
 street: "August-Bebel-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.945226000000005
 longitude: 13.7602846
-postcode: 01731
+postcode: "01731"
 city: Kreischa
 street: "Lungkwitzer Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.8076693
 longitude: 12.8615855
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Im Neefepark"
 housenumber: 4

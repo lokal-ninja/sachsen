@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.499310300000005
 longitude: 12.7485756
-postcode: 04838
+postcode: "04838"
 city: Doberschütz
 street: "Eilenburger Chaussee"
 housenumber: 25

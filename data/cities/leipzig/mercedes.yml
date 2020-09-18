@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.370240900000006
 longitude: 12.463859300000001
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Torgauer Straße"
 housenumber: 333

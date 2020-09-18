@@ -3,10 +3,10 @@ type: node
 shop: Haushaltsartikel
 latitude: 51.4601631
 longitude: 12.634413400000001
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Torgauer Straße"
 housenumber: 33
-phone: "+49 3423 750020"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"
-website: "https://www.mac-geiz.de/"
+phone: ""
+opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00; Su,PH off"
+website: ""

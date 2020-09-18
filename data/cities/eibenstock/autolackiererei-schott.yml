@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.5013688
 longitude: 12.613760000000001
-postcode: 08309
+postcode: "08309"
 city: Eibenstock
 street: "Am Steinbächel"
 housenumber: 11

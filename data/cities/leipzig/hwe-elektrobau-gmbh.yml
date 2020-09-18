@@ -3,7 +3,7 @@ type: way
 shop: Elektrisch
 latitude: 51.382485200000005
 longitude: 12.4409775
-postcode: 04349
+postcode: "04349"
 city: Leipzig
 street: "Cleudner Straße"
 housenumber: 26

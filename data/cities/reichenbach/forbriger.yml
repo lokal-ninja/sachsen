@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.624822800000004
 longitude: 12.2939029
-postcode: 08468
+postcode: "08468"
 city: Reichenbach
 street: "Dr.-Külz-Straße"
 housenumber: 

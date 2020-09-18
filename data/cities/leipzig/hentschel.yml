@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3064283
 longitude: 12.422309100000001
-postcode: 04289
+postcode: "04289"
 city: Leipzig
 street: "Prager Straße"
 housenumber: 220

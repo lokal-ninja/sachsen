@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.580620800000005
 longitude: 13.0150625
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Robert-Blum-Straße"
 housenumber: 33

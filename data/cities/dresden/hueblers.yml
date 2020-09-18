@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0519668
 longitude: 13.8062681
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Hüblerstraße"
 housenumber: 2

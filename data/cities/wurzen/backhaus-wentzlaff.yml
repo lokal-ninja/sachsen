@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.371628
 longitude: 12.7425014
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Bürgermeister-Schmidt-Platz"
 housenumber: 21

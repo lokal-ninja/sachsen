@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.0683359
 longitude: 13.748196400000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Königsbrücker Straße"
 housenumber: 38

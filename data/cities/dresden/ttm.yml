@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.007533900000006
 longitude: 13.7848755
-postcode: 01239
+postcode: "01239"
 city: Dresden
 street: "Dohnaer Straße"
 housenumber: 174

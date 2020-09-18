@@ -3,7 +3,7 @@ type: node
 shop: Lotterie
 latitude: 50.8224583
 longitude: 12.959566
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 153

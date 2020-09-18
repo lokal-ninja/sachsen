@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.34286590000001
 longitude: 12.3023611
-postcode: 04179
+postcode: "04179"
 city: Leipzig
 street: "Merseburger Straße"
 housenumber: 166

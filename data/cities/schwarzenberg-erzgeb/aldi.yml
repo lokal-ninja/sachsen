@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.5500941
 longitude: 12.7744107
-postcode: 08340
+postcode: "08340"
 city: Schwarzenberg/Erzgeb.
 street: "Roter Mühlenweg"
 housenumber: 28

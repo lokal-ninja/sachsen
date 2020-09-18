@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.7178082
 longitude: 12.4567443
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Marienthaler Straße"
 housenumber: 119

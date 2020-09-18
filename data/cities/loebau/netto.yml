@@ -1,12 +1,12 @@
-id: 182469389
-type: way
+id: 498254373
+type: node
 shop: Supermarkt
-latitude: 51.087602600000004
-longitude: 14.666742300000001
-postcode: 02708
+latitude: 51.102304600000004
+longitude: 14.670257000000001
+postcode: "02708"
 city: Löbau
-street: "Ahornallee"
-housenumber: 21a
+street: "Breitscheidstraße"
+housenumber: 21
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

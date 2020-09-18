@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.860769000000005
 longitude: 13.162897300000001
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Chemnitzer Straße"
 housenumber: 39

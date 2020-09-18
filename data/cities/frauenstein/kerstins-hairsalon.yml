@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8017375
 longitude: 13.5340409
-postcode: 09623
+postcode: "09623"
 city: Frauenstein
 street: "Freiberger Straße"
 housenumber: 29

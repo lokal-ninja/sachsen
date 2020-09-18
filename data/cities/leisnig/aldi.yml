@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1546183
 longitude: 12.9166626
-postcode: 04703
+postcode: "04703"
 city: Leisnig
 street: "Colditzer Straße"
 housenumber: 39

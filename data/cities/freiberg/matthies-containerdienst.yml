@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.911130400000005
 longitude: 13.362520400000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Knappenweg"
 housenumber: 1c

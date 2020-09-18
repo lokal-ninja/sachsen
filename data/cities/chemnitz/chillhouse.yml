@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.8350414
 longitude: 12.9248779
-postcode: 09111
+postcode: "09111"
 city: Chemnitz
 street: "Brückenstraße"
 housenumber: 8

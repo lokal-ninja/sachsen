@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7093402
 longitude: 12.619275
-postcode: 08132
+postcode: "08132"
 city: Mülsen
 street: "Ortmannsdorfer Straße"
 housenumber: 58

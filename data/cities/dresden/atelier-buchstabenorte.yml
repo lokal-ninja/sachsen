@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.068225600000005
 longitude: 13.7534462
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Alaunstraße"
 housenumber: 70

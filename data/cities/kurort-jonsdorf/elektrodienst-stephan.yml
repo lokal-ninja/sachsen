@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.85467310000001
 longitude: 14.698811000000001
-postcode: 02796
+postcode: "02796"
 city: Kurort Jonsdorf
 street: "Auf der Heide"
 housenumber: 18

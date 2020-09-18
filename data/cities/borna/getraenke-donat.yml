@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.113871100000004
 longitude: 12.4938786
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Gnandorfer Straße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.335981800000006
 longitude: 12.4782302
-postcode: 04319
+postcode: "04319"
 city: Leipzig
 street: "Arthur-Winkler-Straße"
 housenumber: 37

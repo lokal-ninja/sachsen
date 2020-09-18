@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.715004900000004
 longitude: 12.4602385
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Olzmannstraße"
 housenumber: 41

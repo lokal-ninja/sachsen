@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.1566187
 longitude: 12.279679600000001
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Angergasse"
 housenumber: 2

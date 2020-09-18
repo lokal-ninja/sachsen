@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.709659800000004
 longitude: 12.781472500000001
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Ernst-Thälmann-Straße"
 housenumber: 26

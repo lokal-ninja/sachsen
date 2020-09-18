@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.8151743
 longitude: 12.9540263
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Zschopauer Straße"
 housenumber: 273

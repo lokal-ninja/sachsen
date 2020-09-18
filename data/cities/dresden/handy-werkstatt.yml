@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 51.0429326
 longitude: 13.7972424
-postcode: 01277
+postcode: "01277"
 city: Dresden
 street: "Schandauer Straße"
 housenumber: 29

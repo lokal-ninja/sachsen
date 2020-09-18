@@ -1,12 +1,12 @@
-id: 3497700998
-type: node
+id: 822838879
+type: way
 shop: Kleidung
-latitude: 50.7967692
-longitude: 12.9202893
-postcode: 09125
+latitude: 50.796629300000006
+longitude: 12.9192374
+postcode: "09125"
 city: Chemnitz
 street: "Annaberger Straße"
 housenumber: 315
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 09:00-20:00; PH,Su off"
 website: ""

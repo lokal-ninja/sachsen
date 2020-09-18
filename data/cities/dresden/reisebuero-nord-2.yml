@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.069163700000004
 longitude: 13.7489012
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Königsbrücker Straße"
 housenumber: 48

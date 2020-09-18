@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.4013496
 longitude: 12.3965957
-postcode: 04356
+postcode: "04356"
 city: Leipzig
 street: "An der Passage"
 housenumber: 1

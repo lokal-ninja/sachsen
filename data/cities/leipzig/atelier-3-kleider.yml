@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3351534
 longitude: 12.330547200000002
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Endersstraße"
 housenumber: 6

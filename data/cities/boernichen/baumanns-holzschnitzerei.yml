@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.75250380000001
 longitude: 13.148506800000002
-postcode: 09437
+postcode: "09437"
 city: Börnichen
 street: "Rathausstraße"
 housenumber: 29

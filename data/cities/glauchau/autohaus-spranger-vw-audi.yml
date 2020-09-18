@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.819725600000005
 longitude: 12.5062859
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Bayernweg"
 housenumber: 22

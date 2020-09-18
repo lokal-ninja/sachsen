@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.438924300000004
 longitude: 13.2225479
-postcode: 04931
+postcode: "04931"
 city: Mühlberg/Elbe
 street: "Liebenwerdaer Straße"
 housenumber: 36

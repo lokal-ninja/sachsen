@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.219255800000006
 longitude: 12.3278899
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Leipziger Straße"
 housenumber: 33

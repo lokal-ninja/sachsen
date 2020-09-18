@@ -3,10 +3,10 @@ type: node
 shop: Basteln
 latitude: 51.0459632
 longitude: 13.7355864
-postcode: 01069
+postcode: "01069"
 city: Dresden
 street: "Prager Straße"
 housenumber: 15
 phone: "+49 351 4817027"
-opening_hours: ""
+opening_hours: "Mo-Sa 09:30-20:00"
 website: ""

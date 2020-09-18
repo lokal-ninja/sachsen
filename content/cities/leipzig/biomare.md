@@ -1,4 +1,4 @@
 ---
-title: "Biomare"
+title: "biomare"
 url: /leipzig/biomare/
 ---

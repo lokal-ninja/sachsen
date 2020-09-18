@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3151341
 longitude: 12.307568900000001
-postcode: 04207
+postcode: "04207"
 city: Leipzig
 street: "Ratzelstraße"
 housenumber: 

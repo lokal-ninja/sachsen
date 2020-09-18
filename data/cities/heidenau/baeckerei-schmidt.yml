@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9824884
 longitude: 13.865870300000001
-postcode: 01809
+postcode: "01809"
 city: Heidenau
 street: "Dresdner Straße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.3399306
 longitude: 12.4047728
-postcode: 04315
+postcode: "04315"
 city: Leipzig
 street: "Lilienstraße"
 housenumber: 14

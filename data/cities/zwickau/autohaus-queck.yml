@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7117377
 longitude: 12.5051793
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Reinsdorfer Straße"
 housenumber: 10

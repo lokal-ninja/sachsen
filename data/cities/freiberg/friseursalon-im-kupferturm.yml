@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9051223
 longitude: 13.3230854
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Karl-Kegel-Straße"
 housenumber: 20A

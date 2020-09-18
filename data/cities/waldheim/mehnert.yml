@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.072666600000005
 longitude: 13.023892
-postcode: 04736
+postcode: "04736"
 city: Waldheim
 street: "Obermarkt"
 housenumber: 43

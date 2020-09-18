@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8118483
 longitude: 12.9484098
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Bernsdorfer Straße"
 housenumber: 186

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.839595800000005
 longitude: 12.446745900000002
-postcode: 08393
+postcode: "08393"
 city: Meerane
 street: "Guteborner Allee"
 housenumber: 3

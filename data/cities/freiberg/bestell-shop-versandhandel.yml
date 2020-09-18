@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.916461700000006
 longitude: 13.3450535
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Stollngasse"
 housenumber: 3

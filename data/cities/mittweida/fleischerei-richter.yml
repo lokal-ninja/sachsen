@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9939186
 longitude: 12.965102100000001
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Leisniger Straße"
 housenumber: 68

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.6249168
 longitude: 12.920501400000001
-postcode: 09468
+postcode: "09468"
 city: Geyer
 street: "Goethestraße"
 housenumber: 2

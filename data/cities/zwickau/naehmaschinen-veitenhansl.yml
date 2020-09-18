@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.7205736
 longitude: 12.495397800000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Marienstraße"
 housenumber: 70

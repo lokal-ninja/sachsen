@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.4936841
 longitude: 12.1067497
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Liebknechtstraße"
 housenumber: 82

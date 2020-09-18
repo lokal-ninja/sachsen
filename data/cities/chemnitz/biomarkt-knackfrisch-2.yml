@@ -1,9 +1,9 @@
 id: 4436267538
 type: node
-shop: Lebensmittel
+shop: Supermarkt
 latitude: 50.8317186
 longitude: 12.900320800000001
-postcode: 09112
+postcode: "09112"
 city: Chemnitz
 street: "Weststraße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4571752
 longitude: 12.615666800000001
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Bergstraße"
 housenumber: 45

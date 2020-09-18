@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3820957
 longitude: 12.4785702
-postcode: 04425
+postcode: "04425"
 city: Taucha
 street: "Portitzer Straße"
 housenumber: 69

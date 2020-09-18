@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 51.103778000000005
 longitude: 12.338783600000001
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Nehmitz"
 housenumber: 34

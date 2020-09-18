@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.324251600000004
 longitude: 12.5624012
-postcode: 04824
+postcode: "04824"
 city: Brandis
 street: "Dorfstraße"
 housenumber: 27

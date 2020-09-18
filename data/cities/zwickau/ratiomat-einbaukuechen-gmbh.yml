@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 50.7470378
 longitude: 12.485880900000002
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Franz-Mehring-Straße"
 housenumber: 176

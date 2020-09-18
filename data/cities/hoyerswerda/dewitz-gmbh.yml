@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.4481775
 longitude: 14.274843200000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Merzdorfer Straße"
 housenumber: 1a

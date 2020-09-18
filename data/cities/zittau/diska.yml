@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.950107
 longitude: 14.887393600000001
-postcode: 02788
+postcode: "02788"
 city: Zittau
 street: "Görlitzer Straße"
 housenumber: 29a

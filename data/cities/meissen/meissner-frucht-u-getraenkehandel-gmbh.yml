@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.167483700000005
 longitude: 13.4788788
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Niederfährer Straße"
 housenumber: 14

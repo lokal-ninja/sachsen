@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3420914
 longitude: 12.3734183
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Hainstraße"
 housenumber: 17-19

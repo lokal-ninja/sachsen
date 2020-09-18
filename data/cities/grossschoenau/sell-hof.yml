@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.8692623
 longitude: 14.6718106
-postcode: 02799
+postcode: "02799"
 city: Großschönau
 street: ""
 housenumber: 5

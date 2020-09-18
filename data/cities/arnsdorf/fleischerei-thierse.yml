@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.0932624
 longitude: 13.987956200000001
-postcode: 01477
+postcode: "01477"
 city: Arnsdorf
 street: "Karl-Liebknecht-Straße"
 housenumber: 1

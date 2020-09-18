@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 50.8957119
 longitude: 13.3277707
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Häuersteig"
 housenumber: 2

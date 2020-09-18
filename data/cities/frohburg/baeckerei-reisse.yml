@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0176238
 longitude: 12.604567900000001
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Kohrener Markt"
 housenumber: 6

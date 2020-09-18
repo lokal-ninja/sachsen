@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.159277
 longitude: 12.3955829
-postcode: 04575
+postcode: "04575"
 city: Neukieritzsch
 street: "Buffalo-Ranch"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4418057
 longitude: 14.258253100000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Frederic-Joliot-Curie-Straße"
 housenumber: 23

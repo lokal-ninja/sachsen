@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7980432
 longitude: 13.2343153
-postcode: 09575
+postcode: "09575"
 city: Eppendorf
 street: "Großwaltersdorfer Straße"
 housenumber: 18

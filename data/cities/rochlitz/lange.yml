@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.0460386
 longitude: 12.805091200000001
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Clemens-Pfau-Platz"
 housenumber: 7

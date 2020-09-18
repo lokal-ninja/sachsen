@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.441725600000005
 longitude: 14.258025700000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Frederic-Joliot-Curie-Straße"
 housenumber: 25

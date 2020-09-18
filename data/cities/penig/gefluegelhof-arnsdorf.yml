@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 50.95218860000001
 longitude: 12.7333595
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Eduard-Bilz-Weg"
 housenumber: 3
 phone: "+493738169477"
 opening_hours: ""
-website: "www.gefluegelhof-arnsdorf.de"
+website: "https://www.gefluegelhof-arnsdorf.de"

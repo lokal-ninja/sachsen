@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.160005600000005
 longitude: 13.470559900000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Neugasse"
 housenumber: 19

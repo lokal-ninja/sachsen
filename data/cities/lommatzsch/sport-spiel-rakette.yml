@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.196221800000004
 longitude: 13.307595200000002
-postcode: 01623
+postcode: "01623"
 city: Lommatzsch
 street: "Döbelner Straße"
 housenumber: 16

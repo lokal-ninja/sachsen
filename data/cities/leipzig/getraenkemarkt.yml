@@ -3,10 +3,10 @@ type: node
 shop: Getränke
 latitude: 51.370082700000005
 longitude: 12.367791100000002
-postcode: 04157
+postcode: "04157"
 city: Leipzig
 street: "Franz-Mehring-Straße"
 housenumber: 22
-phone: ""
+phone: "+49 341 9106898"
 opening_hours: ""
 website: ""

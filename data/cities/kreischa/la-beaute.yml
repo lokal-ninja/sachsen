@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9454507
 longitude: 13.7596132
-postcode: 01731
+postcode: "01731"
 city: Kreischa
 street: "Haußmannplatz"
 housenumber: 4

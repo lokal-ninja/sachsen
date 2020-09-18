@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.52755440000001
 longitude: 12.3428322
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Eisenbahnstraße"
 housenumber: 30

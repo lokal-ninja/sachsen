@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0730219
 longitude: 13.0245274
-postcode: 04736
+postcode: "04736"
 city: Waldheim
 street: "Obermarkt"
 housenumber: 4

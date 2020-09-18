@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9074352
 longitude: 13.360453900000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Frauensteiner Straße"
 housenumber: 

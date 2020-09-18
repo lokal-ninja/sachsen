@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.2505983
 longitude: 12.9603794
-postcode: 04779
+postcode: "04779"
 city: Wermsdorf
 street: "Lindenstraße"
 housenumber: 17

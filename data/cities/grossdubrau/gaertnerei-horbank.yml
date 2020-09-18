@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.2563352
 longitude: 14.465354600000001
-postcode: 02694
+postcode: "02694"
 city: Großdubrau
 street: "August-Bebel-Straße"
 housenumber: 4a

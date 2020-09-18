@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.0496179
 longitude: 13.741114600000001
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Wilsdruffer Straße"
 housenumber: 13

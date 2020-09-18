@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.741858900000004
 longitude: 13.175437
-postcode: 09514
+postcode: "09514"
 city: Pockau-Lengefeld
 street: "Querweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.917661200000005
 longitude: 14.153500600000001
-postcode: 01814
+postcode: "01814"
 city: Bad Schandau
 street: "Marktplatz"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Badezimmer
 latitude: 51.07331670000001
 longitude: 13.752123300000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Königsbrücker Straße"
 housenumber: 71

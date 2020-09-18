@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.36837250000001
 longitude: 14.308507100000002
-postcode: 02999
+postcode: "02999"
 city: Lohsa
 street: "Hauptstraße"
 housenumber: 15

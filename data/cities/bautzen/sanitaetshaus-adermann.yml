@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.1782477
 longitude: 14.428089000000002
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Goschwitzstraße"
 housenumber: 31

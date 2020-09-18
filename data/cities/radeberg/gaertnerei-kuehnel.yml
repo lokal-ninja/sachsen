@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.1416875
 longitude: 13.8978604
-postcode: 01454
+postcode: "01454"
 city: Radeberg
 street: "Wachauer Straße"
 housenumber: 9

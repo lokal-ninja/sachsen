@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.053010300000004
 longitude: 13.7813704
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Augsburger Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.719233300000006
 longitude: 12.495493600000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Marienstraße"
 housenumber: 26

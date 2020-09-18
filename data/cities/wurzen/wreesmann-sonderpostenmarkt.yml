@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.363329
 longitude: 12.7490552
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Käthe-Kollwitz-Straße"
 housenumber: 6

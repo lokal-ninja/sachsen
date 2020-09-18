@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.8541389
 longitude: 14.705555100000002
-postcode: 02796
+postcode: "02796"
 city: Kurort Jonsdorf
 street: "Zittauer Straße"
 housenumber: 60

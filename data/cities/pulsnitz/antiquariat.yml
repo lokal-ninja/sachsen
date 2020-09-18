@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.1815104
 longitude: 14.012433900000001
-postcode: 01896
+postcode: "01896"
 city: Pulsnitz
 street: "Robert-Koch-Straße"
 housenumber: 26

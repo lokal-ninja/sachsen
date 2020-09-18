@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3389619
 longitude: 12.3268508
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Georg-Schwarz-Straße"
 housenumber: 15

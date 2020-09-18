@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1435024
 longitude: 12.6414098
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
 street: "August-Bebel-Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.871841200000006
 longitude: 12.969209600000001
-postcode: 09131
+postcode: "09131"
 city: Chemnitz
 street: "Frankenberger Straße"
 housenumber: 283

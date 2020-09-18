@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.524117000000004
 longitude: 12.337668
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Marienstraße"
 housenumber: 12

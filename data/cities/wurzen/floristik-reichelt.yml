@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.330557400000004
 longitude: 12.810318400000002
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Sachsendorfer Straße"
 housenumber: 13

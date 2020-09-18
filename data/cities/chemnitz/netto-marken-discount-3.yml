@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.821080300000006
 longitude: 12.9180238
-postcode: 09120
+postcode: "09120"
 city: Chemnitz
 street: "Wilhelm-Raabe-Straße"
 housenumber: 6

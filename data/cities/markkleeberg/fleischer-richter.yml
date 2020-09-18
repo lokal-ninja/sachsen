@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.27163710000001
 longitude: 12.3646674
-postcode: 04416
+postcode: "04416"
 city: Markkleeberg
 street: "Städtelner Straße"
 housenumber: 54

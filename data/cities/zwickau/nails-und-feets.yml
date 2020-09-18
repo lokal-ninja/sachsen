@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.734366300000005
 longitude: 12.5246238
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Max-Planck-Straße"
 housenumber: 21

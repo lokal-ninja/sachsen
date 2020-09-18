@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.857392700000005
 longitude: 13.329849900000001
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Kohlenstraße"
 housenumber: 20

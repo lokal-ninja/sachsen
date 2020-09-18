@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.820826000000004
 longitude: 12.5171145
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Grenayer Straße"
 housenumber: 1

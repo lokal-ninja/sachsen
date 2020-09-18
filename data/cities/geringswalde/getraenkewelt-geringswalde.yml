@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.0717827
 longitude: 12.9017894
-postcode: 09326
+postcode: "09326"
 city: Geringswalde
 street: "Rochlitzer Straße"
 housenumber: 9

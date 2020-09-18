@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7075954
 longitude: 12.758647900000001
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Auer Straße"
 housenumber: 18

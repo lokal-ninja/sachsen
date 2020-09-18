@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.4892144
 longitude: 12.097514100000001
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Lindemannstraße"
 housenumber: 2A

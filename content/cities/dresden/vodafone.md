@@ -1,4 +1,4 @@
 ---
-title: "vodafone"
+title: "Vodafone"
 url: /dresden/vodafone/
 ---

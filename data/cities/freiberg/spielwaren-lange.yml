@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.9158848
 longitude: 13.343262600000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Fischerstraße"
 housenumber: 6A

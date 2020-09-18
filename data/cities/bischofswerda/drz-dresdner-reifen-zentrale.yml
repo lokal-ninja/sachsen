@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.1379883
 longitude: 14.194918600000001
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Forsthausstraße"
 housenumber: 7

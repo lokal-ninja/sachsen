@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.3976929
 longitude: 12.3280778
-postcode: 08261
+postcode: "08261"
 city: Schöneck/Vogtl.
 street: "Oelsnitzer Straße"
 housenumber: 6

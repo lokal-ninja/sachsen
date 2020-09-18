@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.0259238
 longitude: 13.713087100000001
-postcode: 01187
+postcode: "01187"
 city: Dresden
 street: "Bernhardstraße"
 housenumber: 101

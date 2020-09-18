@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.829138900000004
 longitude: 12.9402822
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Clausstraße"
 housenumber: 3-13

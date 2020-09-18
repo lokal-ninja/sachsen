@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.739437
 longitude: 12.495623
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Angerstraße"
 housenumber: 21

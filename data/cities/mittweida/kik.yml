@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.995390900000004
 longitude: 12.964624800000001
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Sonnenstraße"
 housenumber: 11

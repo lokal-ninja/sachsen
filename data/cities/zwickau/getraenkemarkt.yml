@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.736752200000005
 longitude: 12.5247977
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Ernst-Thälmann-Straße"
 housenumber: 122

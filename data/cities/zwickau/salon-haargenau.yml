@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7374512
 longitude: 12.4785322
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Feuerbachweg"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.217129
 longitude: 12.3268524
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Pegauer Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.8491836
 longitude: 12.7214311
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Waldenburger Straße"
 housenumber: 147

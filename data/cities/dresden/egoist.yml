@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.049374400000005
 longitude: 13.735524000000002
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Webergasse"
 housenumber: 1

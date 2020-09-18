@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.967716100000004
 longitude: 14.244485300000001
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Hohnsteiner Straße"
 housenumber: 2A

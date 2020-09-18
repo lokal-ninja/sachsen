@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.389010000000006
 longitude: 12.806221800000001
-postcode: 04808
+postcode: "04808"
 city: Lossatal
 street: "Postgasse"
 housenumber: 1b

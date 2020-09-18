@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.121177200000005
 longitude: 14.192978400000001
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Ernst-Thälmann-Straße"
 housenumber: 3

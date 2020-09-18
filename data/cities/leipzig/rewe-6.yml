@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.341587200000006
 longitude: 12.3960165
-postcode: 04315
+postcode: "04315"
 city: Leipzig
 street: "Kreuzstraße"
 housenumber: 31

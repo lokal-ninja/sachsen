@@ -3,10 +3,10 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.786881
 longitude: 12.5081889
-postcode: 08132
+postcode: "08132"
 city: Mülsen
 street: "Crossener Straße"
 housenumber: 4
-phone: "037604334998"
+phone: "+49 37604334998"
 opening_hours: ""
 website: "http://www.landgarten-potpourri.de"

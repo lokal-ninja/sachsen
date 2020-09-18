@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4352424
 longitude: 14.238959500000002
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Friedrichsstraße"
 housenumber: 40

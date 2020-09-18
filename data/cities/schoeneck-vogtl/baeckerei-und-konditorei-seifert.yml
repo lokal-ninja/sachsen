@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3956497
 longitude: 12.337886300000001
-postcode: 08261
+postcode: "08261"
 city: Schöneck/Vogtl.
 street: "Klingenthaler Straße"
 housenumber: 2

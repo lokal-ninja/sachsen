@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.052328
 longitude: 13.806026000000001
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Angelsteg"
 housenumber: 5

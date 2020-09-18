@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.7199323
 longitude: 12.521504700000001
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Äußere Dresdner Straße"
 housenumber: 25

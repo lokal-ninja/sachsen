@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.198607200000005
 longitude: 12.3966545
-postcode: 04564
+postcode: "04564"
 city: Böhlen
 street: "Jahnstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.148903000000004
 longitude: 12.2875644
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Schusterstraße"
 housenumber: 7

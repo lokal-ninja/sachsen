@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.6705369
 longitude: 13.4518605
-postcode: 09544
+postcode: "09544"
 city: Neuhausen/Erzgeb.
 street: "Olbernhauer Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.824623700000004
 longitude: 12.9076128
-postcode: 09119
+postcode: "09119"
 city: Chemnitz
 street: "Neefestraße"
 housenumber: 40

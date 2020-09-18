@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.0678886
 longitude: 13.7546517
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Görlitzer Straße"
 housenumber: 25

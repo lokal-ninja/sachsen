@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4581275
 longitude: 14.268813900000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Am Wasserschloß"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3339895
 longitude: 12.3821197
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Bauhofstraße"
 housenumber: 3-5

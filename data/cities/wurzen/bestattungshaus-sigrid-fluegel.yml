@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.37010110000001
 longitude: 12.740362300000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Friedrich-Engels-Straße"
 housenumber: 25

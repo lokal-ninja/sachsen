@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.8826729
 longitude: 13.007178000000001
-postcode: 09577
+postcode: "09577"
 city: Niederwiesa
 street: "Schloßallee"
 housenumber: 11

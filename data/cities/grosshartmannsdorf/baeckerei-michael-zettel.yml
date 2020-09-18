@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.764937
 longitude: 13.312127
-postcode: 09618
+postcode: "09618"
 city: Großhartmannsdorf
 street: "Annaberger Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5480506
 longitude: 12.629572900000001
-postcode: 04838
+postcode: "04838"
 city: Laußig
 street: "Leipziger Straße"
 housenumber: 22

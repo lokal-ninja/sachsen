@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.822102
 longitude: 12.9595306
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 153a

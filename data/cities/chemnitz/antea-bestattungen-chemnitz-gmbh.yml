@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.8171576
 longitude: 12.937265400000001
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Wartburgstraße"
 housenumber: 30

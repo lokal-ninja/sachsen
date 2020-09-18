@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9725181
 longitude: 14.273675
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Rosenstraße"
 housenumber: 6

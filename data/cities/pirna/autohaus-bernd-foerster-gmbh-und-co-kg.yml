@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9745117
 longitude: 13.9415372
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Lohmener Straße"
 housenumber: 13a

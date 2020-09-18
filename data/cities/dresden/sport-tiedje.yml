@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.0494761
 longitude: 13.729651500000001
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Annenstraße"
 housenumber: 10

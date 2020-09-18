@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.582138300000004
 longitude: 12.7633796
-postcode: 08315
+postcode: "08315"
 city: Lauter-Bernsbach
 street: "Straße der Einheit"
 housenumber: 60

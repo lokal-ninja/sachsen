@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.9675523
 longitude: 12.893612500000001
-postcode: 09306
+postcode: "09306"
 city: Königshain-Wiederau
 street: "Dorfstraße"
 housenumber: 197

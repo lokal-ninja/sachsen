@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1801478
 longitude: 13.967976400000001
-postcode: 01896
+postcode: "01896"
 city: Lichtenberg
 street: "Mittelbacher Straße"
 housenumber: 33

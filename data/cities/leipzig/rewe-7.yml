@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.295797300000004
 longitude: 12.3862263
-postcode: 04279
+postcode: "04279"
 city: Leipzig
 street: "Bornaische Straße"
 housenumber: 111

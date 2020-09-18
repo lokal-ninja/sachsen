@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 50.722250200000005
 longitude: 12.490631500000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Moritzstraße"
 housenumber: 22

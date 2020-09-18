@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.076031300000004
 longitude: 13.689494300000002
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Washingtonstraße"
 housenumber: 16/16a

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.9189171
 longitude: 13.3419714
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Burgstraße"
 housenumber: 32

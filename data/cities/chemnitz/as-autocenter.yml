@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.861896
 longitude: 12.920820800000001
-postcode: 09114
+postcode: "09114"
 city: Chemnitz
 street: "Chemnitztalstraße"
 housenumber: 75

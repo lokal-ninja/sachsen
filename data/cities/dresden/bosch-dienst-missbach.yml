@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0608908
 longitude: 13.855928700000002
-postcode: 01324
+postcode: "01324"
 city: Dresden
 street: "Quohrener Straße"
 housenumber: 7
-phone: ""
+phone: "+49 351 2678511"
 opening_hours: ""
-website: ""
+website: "https://www.boschcarservice.com/de/de/werkstatt/boschservice-missbach"

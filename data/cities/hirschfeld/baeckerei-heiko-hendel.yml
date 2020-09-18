@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.623034600000004
 longitude: 12.461872900000001
-postcode: 08144
+postcode: "08144"
 city: Hirschfeld
 street: "Stangengrüner Straße"
 housenumber: 1

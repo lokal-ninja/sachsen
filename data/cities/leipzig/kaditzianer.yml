@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.3466554
 longitude: 12.255532800000001
-postcode: 04178
+postcode: "04178"
 city: Leipzig
 street: "Sandberg"
 housenumber: 10

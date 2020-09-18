@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.1768767
 longitude: 12.2485946
-postcode: 04523
+postcode: "04523"
 city: Pegau
 street: "Carsdorfer Höhe"
 housenumber: 4

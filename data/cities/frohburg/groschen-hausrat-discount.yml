@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.0505933
 longitude: 12.555598900000001
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Peniger Straße"
 housenumber: 38

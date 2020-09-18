@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8056989
 longitude: 13.1022607
-postcode: 09573
+postcode: "09573"
 city: Augustusburg
 street: "Marienberger Straße"
 housenumber: 46

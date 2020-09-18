@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.343693800000004
 longitude: 12.3730767
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Brühl"
 housenumber: 1

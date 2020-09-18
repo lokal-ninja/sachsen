@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.8456276
 longitude: 12.924238
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Eckstraße"
 housenumber: 1

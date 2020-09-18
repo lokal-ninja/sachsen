@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.357595700000005
 longitude: 12.469612900000001
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Auerbacher Straße"
 housenumber: 19

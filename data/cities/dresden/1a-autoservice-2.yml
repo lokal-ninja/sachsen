@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0789935
 longitude: 13.718669400000001
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Arno-Lade-Straße"
 housenumber: 7

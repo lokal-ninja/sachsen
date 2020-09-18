@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 50.7038821
 longitude: 12.7754496
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Schneeberger Straße"
 housenumber: 13

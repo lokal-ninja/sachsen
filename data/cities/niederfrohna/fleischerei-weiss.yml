@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.879988000000004
 longitude: 12.7455941
-postcode: 09243
+postcode: "09243"
 city: Niederfrohna
 street: "Obere Hauptstraße"
 housenumber: 2

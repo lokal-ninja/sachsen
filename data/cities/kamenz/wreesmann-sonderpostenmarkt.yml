@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.276036500000004
 longitude: 14.103345500000001
-postcode: 01917
+postcode: "01917"
 city: Kamenz
 street: "Auenstraße"
 housenumber: 10

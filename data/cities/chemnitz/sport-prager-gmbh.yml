@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.8500335
 longitude: 12.9221573
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Schönherrstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.8678928
 longitude: 13.336129000000001
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "An der Zugspitze"
 housenumber: 1-2

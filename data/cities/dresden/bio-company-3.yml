@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.050679800000005
 longitude: 13.733009000000001
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Postplatz"
 housenumber: 2

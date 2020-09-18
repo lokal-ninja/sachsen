@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.978043500000005
 longitude: 12.9808316
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Chemnitzer Straße"
 housenumber: 28a

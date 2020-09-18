@@ -1,12 +1,12 @@
-id: 199394631
+id: 219039031
 type: way
 shop: Supermarkt
-latitude: 50.715104800000006
-longitude: 12.4819802
-postcode: 08056
+latitude: 50.7253386
+longitude: 12.493067300000002
+postcode: "08056"
 city: Zwickau
-street: "Reichenbacher Straße"
-housenumber: 50
+street: "Hölderlinstraße"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

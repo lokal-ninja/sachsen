@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.255604500000004
 longitude: 12.731538200000001
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Wurzener Straße"
 housenumber: 91

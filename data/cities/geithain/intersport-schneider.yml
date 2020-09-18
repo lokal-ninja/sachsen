@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.0526764
 longitude: 12.697271
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Chemnitzer Straße"
 housenumber: 46

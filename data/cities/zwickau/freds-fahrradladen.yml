@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 50.718865900000004
 longitude: 12.457307
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Antonstraße"
 housenumber: 13
-phone: "0375 2118038"
+phone: "+49 375 2118038"
 opening_hours: ""
 website: ""

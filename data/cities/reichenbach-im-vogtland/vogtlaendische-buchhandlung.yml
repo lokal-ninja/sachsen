@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.6226372
 longitude: 12.302781600000001
-postcode: 08468
+postcode: "08468"
 city: Reichenbach im Vogtland
 street: "Zenkergasse"
 housenumber: 2

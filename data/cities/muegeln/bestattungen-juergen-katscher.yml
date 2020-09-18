@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.2445837
 longitude: 13.0345402
-postcode: 04769
+postcode: "04769"
 city: Mügeln
 street: "Zum Lehmberg"
 housenumber: 3

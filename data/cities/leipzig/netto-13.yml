@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.354555000000005
 longitude: 12.3016909
-postcode: 04178
+postcode: "04178"
 city: Leipzig
 street: "Burgauenstraße"
 housenumber: 2
 phone: ""
-opening_hours: ""
-website: "https://www.netto.de/"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.082847900000004
 longitude: 13.729128200000002
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Großenhainer Straße"
 housenumber: 109

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9189182
 longitude: 14.152676300000001
-postcode: 01814
+postcode: "01814"
 city: Bad Schandau
 street: "Zaukenstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.0504626
 longitude: 13.7127517
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Cottaer Straße"
 housenumber: 2

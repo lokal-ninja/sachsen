@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.598855500000006
 longitude: 13.021522200000001
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Gewerbering"
 housenumber: 2

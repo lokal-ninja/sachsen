@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.1277169
 longitude: 12.8036475
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Nicolaistraße"
 housenumber: 12

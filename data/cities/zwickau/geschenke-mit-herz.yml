@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.7185945
 longitude: 12.4959533
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Mariengäßchen"
 housenumber: 1

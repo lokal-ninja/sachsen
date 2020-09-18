@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.1935391
 longitude: 12.2881239
-postcode: 04523
+postcode: "04523"
 city: Pegau
 street: "Hauptstraße"
 housenumber: 26

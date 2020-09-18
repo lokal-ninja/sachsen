@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.701999
 longitude: 12.8573707
-postcode: 09380
+postcode: "09380"
 city: Thalheim/Erzgebirge
 street: "Gornsdorfer Straße"
 housenumber: 4g

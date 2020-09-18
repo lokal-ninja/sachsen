@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.6502556
 longitude: 13.1641568
-postcode: 09496
+postcode: "09496"
 city: Marienberg
 street: "Baderstraße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0224204
 longitude: 14.927859300000001
-postcode: 02899
+postcode: "02899"
 city: Ostritz
 street: "An den Schrebergärten"
 housenumber: 2

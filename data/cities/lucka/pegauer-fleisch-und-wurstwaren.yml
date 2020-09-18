@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.101047400000006
 longitude: 12.332975900000001
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Bachgasse"
 housenumber: 10

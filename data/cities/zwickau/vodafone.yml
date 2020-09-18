@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.7189333
 longitude: 12.493348000000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Innere Plauensche Straße"
 housenumber: 16

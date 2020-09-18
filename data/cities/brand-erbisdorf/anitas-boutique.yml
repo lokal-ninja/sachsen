@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.870845700000004
 longitude: 13.3227642
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Freiberger Straße"
 housenumber: 5

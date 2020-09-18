@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.153242000000006
 longitude: 12.507817800000002
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Gewerbegebiet Eula West"
 housenumber: 3

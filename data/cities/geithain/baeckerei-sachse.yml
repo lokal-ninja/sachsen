@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.054498300000006
 longitude: 12.6949579
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Markt"
 housenumber: 3

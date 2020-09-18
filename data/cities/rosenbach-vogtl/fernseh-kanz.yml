@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 50.507546700000006
 longitude: 11.997545800000001
-postcode: 08539
+postcode: "08539"
 city: Rosenbach/Vogtl.
 street: "Leubnitzer Straße"
 housenumber: 16

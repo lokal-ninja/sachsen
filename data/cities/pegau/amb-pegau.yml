@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.165152500000005
 longitude: 12.2653032
-postcode: 04523
+postcode: "04523"
 city: Pegau
 street: "Leipziger Vorstadt"
 housenumber: 24

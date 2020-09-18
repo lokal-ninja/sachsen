@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0585163
 longitude: 13.6567033
-postcode: 01157
+postcode: "01157"
 city: Dresden
 street: "Freiheit"
 housenumber: 47

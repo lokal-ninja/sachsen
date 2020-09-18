@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.527968200000004
 longitude: 12.3420444
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Dübener Straße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.0291122
 longitude: 13.7953337
-postcode: 01277
+postcode: "01277"
 city: Dresden
 street: "Bodenbacher Straße"
 housenumber: 81a

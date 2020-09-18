@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.223962900000004
 longitude: 14.1310575
-postcode: 01920
+postcode: "01920"
 city: Elstra
 street: "Stadtring"
 housenumber: 2

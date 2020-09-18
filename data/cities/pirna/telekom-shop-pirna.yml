@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.9623335
 longitude: 13.938950100000001
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Jacobäerstraße"
 housenumber: 1

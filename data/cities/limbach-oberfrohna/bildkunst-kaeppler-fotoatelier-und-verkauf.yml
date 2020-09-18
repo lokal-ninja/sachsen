@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.8592093
 longitude: 12.763331
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Hechinger Straße"
 housenumber: 5

@@ -3,10 +3,10 @@ type: node
 shop: Massage
 latitude: 50.7136422
 longitude: 12.485186200000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Gutwasserstraße"
 housenumber: 19
-phone: "0375 – 27 36 78 1"
+phone: "+49 375 27 36 78 1"
 opening_hours: "Termin nach Vereinbarung"
 website: "http://www.zentrumfgl.de/"

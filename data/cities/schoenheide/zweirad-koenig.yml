@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.5030687
 longitude: 12.5295249
-postcode: 08304
+postcode: "08304"
 city: Schönheide
 street: "Hauptstraße"
 housenumber: 80

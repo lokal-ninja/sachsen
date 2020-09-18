@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.717444500000006
 longitude: 12.4973521
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Hauptmarkt"
 housenumber: 1

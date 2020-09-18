@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.259617500000004
 longitude: 14.114480700000001
-postcode: 01917
+postcode: "01917"
 city: Kamenz
 street: "Bischofswerdaer Straße"
 housenumber: 10

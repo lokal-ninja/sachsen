@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.877097600000006
 longitude: 13.2062545
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Zum Goldenen Stern"
 housenumber: 49

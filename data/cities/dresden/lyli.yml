@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.033603400000004
 longitude: 13.7359027
-postcode: 01069
+postcode: "01069"
 city: Dresden
 street: "Reichenbachstraße"
 housenumber: 23

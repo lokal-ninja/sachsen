@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7195431
 longitude: 12.5233111
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Äußere Dresdner Straße"
 housenumber: 25

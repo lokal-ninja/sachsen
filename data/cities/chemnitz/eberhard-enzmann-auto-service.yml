@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.859083600000005
 longitude: 12.8878091
-postcode: 09114
+postcode: "09114"
 city: Chemnitz
 street: "Bornaer Straße"
 housenumber: 65

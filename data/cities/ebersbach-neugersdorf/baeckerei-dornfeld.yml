@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9808351
 longitude: 14.6168279
-postcode: 02727
+postcode: "02727"
 city: Ebersbach-Neugersdorf
 street: "Humboldtstraße"
 housenumber: 20

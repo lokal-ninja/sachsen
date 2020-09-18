@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9849679
 longitude: 12.9810633
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Weberstraße"
 housenumber: 1

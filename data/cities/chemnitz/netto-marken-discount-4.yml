@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8777564
 longitude: 12.9552031
-postcode: 09114
+postcode: "09114"
 city: Chemnitz
 street: "Max-Saupe-Straße"
 housenumber: 77

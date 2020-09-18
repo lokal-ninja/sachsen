@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.146131100000005
 longitude: 13.799761
-postcode: 01108
+postcode: "01108"
 city: Dresden
 street: "Königsbrücker Landstraße"
 housenumber: 303

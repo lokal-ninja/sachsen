@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.343597100000004
 longitude: 12.3600113
-postcode: 04105
+postcode: "04105"
 city: Leipzig
 street: "Gustav-Adolf-Straße"
 housenumber: 40

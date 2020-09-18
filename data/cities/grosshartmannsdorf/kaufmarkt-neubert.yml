@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.8041744
 longitude: 13.3228004
-postcode: 09618
+postcode: "09618"
 city: Großhartmannsdorf
 street: "Hauptstraße"
 housenumber: 216

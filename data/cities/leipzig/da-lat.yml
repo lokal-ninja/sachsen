@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.322475700000005
 longitude: 12.3427813
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Könneritzstraße"
 housenumber: 62

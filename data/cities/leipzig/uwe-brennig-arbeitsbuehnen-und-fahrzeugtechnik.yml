@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.364561300000005
 longitude: 12.433340600000001
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Stöhrerstraße"
 housenumber: 16a

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.051802800000004
 longitude: 13.715799400000002
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Wölfnitzstraße"
 housenumber: 19

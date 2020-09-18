@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.0774399
 longitude: 13.7166934
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Leipziger Straße"
 housenumber: 109

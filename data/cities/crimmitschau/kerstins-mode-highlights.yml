@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.813684200000004
 longitude: 12.3871224
-postcode: 08451
+postcode: "08451"
 city: Crimmitschau
 street: "Silberstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.123099700000004
 longitude: 13.579427500000001
-postcode: 01640
+postcode: "01640"
 city: Coswig
 street: "Bahnhofstraße"
 housenumber: 2

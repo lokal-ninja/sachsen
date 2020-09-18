@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.1596995
 longitude: 13.6803121
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Schloßallee"
 housenumber: 31

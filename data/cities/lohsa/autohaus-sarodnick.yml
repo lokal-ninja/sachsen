@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4132188
 longitude: 14.389376
-postcode: 02999
+postcode: "02999"
 city: Lohsa
 street: "Am Schlangenberg"
 housenumber: 9

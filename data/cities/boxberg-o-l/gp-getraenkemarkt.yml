@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.4038309
 longitude: 14.580882500000001
-postcode: 02943
+postcode: "02943"
 city: Boxberg/O.L.
 street: "Südstraße"
 housenumber: 1

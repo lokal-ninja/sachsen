@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0880165
 longitude: 13.7647116
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Hermann-Mende-Straße"
 housenumber: 3

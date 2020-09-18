@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.396623600000005
 longitude: 12.2223985
-postcode: 04435
+postcode: "04435"
 city: Schkeuditz
 street: "Rathausplatz"
 housenumber: 

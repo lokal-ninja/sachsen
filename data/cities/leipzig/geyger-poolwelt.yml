@@ -3,7 +3,7 @@ type: way
 shop: Pool
 latitude: 51.382422600000005
 longitude: 12.310890200000001
-postcode: 04159
+postcode: "04159"
 city: Leipzig
 street: "Druckereistraße"
 housenumber: 9

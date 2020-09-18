@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.778503400000005
 longitude: 12.774968900000001
-postcode: 09385
+postcode: "09385"
 city: Lugau
 street: "Untere Dorfstraße"
 housenumber: 6

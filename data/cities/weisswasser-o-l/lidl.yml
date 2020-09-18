@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.499038000000006
 longitude: 14.6340499
-postcode: 02943
+postcode: "02943"
 city: Weißwasser/O.L.
 street: "Bautzener Straße"
 housenumber: 31

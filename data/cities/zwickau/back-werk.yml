@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.719842400000005
 longitude: 12.4901426
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Äußere Plauensche Straße"
 housenumber: 30

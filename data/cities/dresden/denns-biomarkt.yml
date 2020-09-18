@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.071274
 longitude: 13.7513418
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Königsbrücker Straße"
 housenumber: 76

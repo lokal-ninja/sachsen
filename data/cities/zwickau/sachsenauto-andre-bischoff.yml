@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7259466
 longitude: 12.504620800000001
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Trillerstraße"
 housenumber: 6

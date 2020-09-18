@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.608983200000004
 longitude: 12.6877013
-postcode: 08301
+postcode: "08301"
 city: Aue-Bad Schlema
 street: "Auer Talstraße"
 housenumber: 34

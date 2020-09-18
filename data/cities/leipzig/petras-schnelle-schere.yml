@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3722809
 longitude: 12.385972200000001
-postcode: 04129
+postcode: "04129"
 city: Leipzig
 street: "Delitzscher Straße"
 housenumber: 134

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.701728800000005
 longitude: 12.8507391
-postcode: 09380
+postcode: "09380"
 city: Thalheim/Erzgebirge
 street: "Untere Bahnhofstraße"
 housenumber: 5c

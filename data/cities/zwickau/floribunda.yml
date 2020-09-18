@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.6968395
 longitude: 12.4606046
-postcode: 08062
+postcode: "08062"
 city: Zwickau
 street: "Marchlewskistraße"
 housenumber: 1

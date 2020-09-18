@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.5317622
 longitude: 12.178417300000001
-postcode: 08543
+postcode: "08543"
 city: Pöhl
 street: "Hauptstraße"
 housenumber: 49

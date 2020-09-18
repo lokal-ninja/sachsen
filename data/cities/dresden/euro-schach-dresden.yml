@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.039098100000004
 longitude: 13.6797027
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Oskar-Mai-Straße"
 housenumber: 6

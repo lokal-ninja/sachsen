@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8026393
 longitude: 13.320581800000001
-postcode: 09618
+postcode: "09618"
 city: Großhartmannsdorf
 street: "Hauptstraße"
 housenumber: 193B

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.649808500000006
 longitude: 13.163338900000001
-postcode: 09496
+postcode: "09496"
 city: Marienberg
 street: "Annaberger Straße"
 housenumber: 1

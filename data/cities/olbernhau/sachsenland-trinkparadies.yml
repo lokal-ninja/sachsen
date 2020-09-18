@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.662531400000006
 longitude: 13.3210385
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Blumenauer Straße"
 housenumber: 29a

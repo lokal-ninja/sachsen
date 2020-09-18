@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7179857
 longitude: 13.1941278
-postcode: 09514
+postcode: "09514"
 city: Pockau-Lengefeld
 street: "Freiberger Straße"
 housenumber: 12

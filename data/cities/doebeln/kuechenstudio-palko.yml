@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.122446100000005
 longitude: 13.122959900000001
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Marktstraße"
 housenumber: 8

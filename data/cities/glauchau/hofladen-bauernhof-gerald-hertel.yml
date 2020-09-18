@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.821454700000004
 longitude: 12.499163600000001
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Teichweg"
 housenumber: 18

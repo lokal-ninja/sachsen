@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.897492
 longitude: 13.3297317
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Häuersteig"
 housenumber: 25

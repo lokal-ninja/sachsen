@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.570158500000005
 longitude: 14.5689931
-postcode: 02959
+postcode: "02959"
 city: Groß Düben
 street: "Dorfstraße"
 housenumber: 23

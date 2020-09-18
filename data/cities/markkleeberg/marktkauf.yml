@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2717709
 longitude: 12.3651725
-postcode: 04416
+postcode: "04416"
 city: Markkleeberg
 street: "Städtelner Straße"
 housenumber: 54

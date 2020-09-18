@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.491070900000004
 longitude: 13.025056900000001
-postcode: 09471
+postcode: "09471"
 city: Bärenstein
 street: "Oberwiesenthaler Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1609883
 longitude: 13.4833189
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Kurt-Hein-Straße"
 housenumber: 2

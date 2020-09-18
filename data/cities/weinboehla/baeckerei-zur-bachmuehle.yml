@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.1628635
 longitude: 13.565817000000001
-postcode: 01689
+postcode: "01689"
 city: Weinböhla
 street: "Sachsenstraße"
 housenumber: 6

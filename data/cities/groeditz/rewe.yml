@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4121168
 longitude: 13.4452876
-postcode: 01609
+postcode: "01609"
 city: Gröditz
 street: "Marktstraße"
 housenumber: 16

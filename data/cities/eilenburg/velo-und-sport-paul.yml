@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.4653046
 longitude: 12.650458700000001
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Ziegelstraße"
 housenumber: 11A

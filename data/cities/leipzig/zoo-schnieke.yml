@@ -1,12 +1,12 @@
-id: 33820387
-type: way
+id: 7581482716
+type: node
 shop: Tiere
-latitude: 51.34702600000001
-longitude: 12.3923836
-postcode: 04103
+latitude: 51.347156500000004
+longitude: 12.392511800000001
+postcode: "04103"
 city: Leipzig
 street: "Lagerhofstraße"
 housenumber: 2
-phone: "+49341 6895748"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; PH off"
+phone: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su,PH off"
 website: ""

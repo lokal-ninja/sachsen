@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 51.0818541
 longitude: 13.7130097
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Leipziger Straße"
 housenumber: 182

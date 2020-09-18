@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.280701
 longitude: 13.6254983
-postcode: 01561
+postcode: "01561"
 city: Ebersbach
 street: "Im Gut"
 housenumber: 2

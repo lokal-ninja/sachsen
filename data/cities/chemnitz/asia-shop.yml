@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.843606900000005
 longitude: 12.941216200000001
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Reinhardtstraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.8224857
 longitude: 12.959732500000001
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 153

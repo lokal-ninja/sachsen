@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.3341992
 longitude: 12.365914100000001
-postcode: 04107
+postcode: "04107"
 city: Leipzig
 street: "Karl-Tauchnitz-Straße"
 housenumber: 9-11

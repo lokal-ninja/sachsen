@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9760902
 longitude: 14.272445000000001
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Bahnhofstraße"
 housenumber: 17

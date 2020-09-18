@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7474599
 longitude: 13.0695387
-postcode: 09405
+postcode: "09405"
 city: Zschopau
 street: "Neumarkt"
 housenumber: 4

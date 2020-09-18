@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.843927
 longitude: 12.445029300000002
-postcode: 08393
+postcode: "08393"
 city: Meerane
 street: "Äußere Crimmitschauer Straße"
 housenumber: 86C

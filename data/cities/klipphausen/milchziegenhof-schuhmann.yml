@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.0953487
 longitude: 13.462196100000002
-postcode: 01665
+postcode: "01665"
 city: Klipphausen
 street: "Hauptstraße"
 housenumber: 60

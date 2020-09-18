@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.831706700000005
 longitude: 12.953142600000001
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Augustusburger Straße"
 housenumber: 187

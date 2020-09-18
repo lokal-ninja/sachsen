@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.8002556
 longitude: 12.9460695
-postcode: 09125
+postcode: "09125"
 city: Chemnitz
 street: "Jägerschlößchenstraße"
 housenumber: 30

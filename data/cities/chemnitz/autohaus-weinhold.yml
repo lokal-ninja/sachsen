@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 50.8361384
 longitude: 12.8905145
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Limbacher Straße"
-housenumber: 110
+housenumber: 110-112
 phone: ""
 opening_hours: ""
 website: ""

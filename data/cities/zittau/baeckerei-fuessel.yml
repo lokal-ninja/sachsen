@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8996213
 longitude: 14.7944858
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Dresdner Straße"
 housenumber: 42

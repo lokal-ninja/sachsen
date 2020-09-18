@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.709572300000005
 longitude: 12.7813447
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Ernst-Thälmann-Straße"
 housenumber: 24

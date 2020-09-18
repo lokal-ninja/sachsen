@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.896368900000006
 longitude: 14.8087554
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Frauenstraße"
 housenumber: 2

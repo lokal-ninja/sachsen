@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3750524
 longitude: 12.4117812
-postcode: 04357
+postcode: "04357"
 city: Leipzig
 street: "Essener Straße"
 housenumber: 102

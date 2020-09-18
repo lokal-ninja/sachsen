@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.356738400000005
 longitude: 12.384797500000001
-postcode: 04129
+postcode: "04129"
 city: Leipzig
 street: "Haferkornstraße"
 housenumber: 3

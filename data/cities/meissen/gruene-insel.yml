@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.160004900000004
 longitude: 13.472344900000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Neumarkt"
 housenumber: 54

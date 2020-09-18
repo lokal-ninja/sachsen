@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 51.366632100000004
 longitude: 12.349651300000001
-postcode: 04159
+postcode: "04159"
 city: Leipzig
 street: "Huygensstraße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
 website: ""

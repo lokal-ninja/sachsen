@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.785166000000004
 longitude: 12.9547998
-postcode: 09125
+postcode: "09125"
 city: Chemnitz
 street: "Erfenschlager Straße"
 housenumber: 98

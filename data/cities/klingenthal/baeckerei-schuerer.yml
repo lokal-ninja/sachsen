@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.382708
 longitude: 12.483992
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Zollstraße"
 housenumber: 1

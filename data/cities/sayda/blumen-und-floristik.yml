@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.7107806
 longitude: 13.423774300000002
-postcode: 09619
+postcode: "09619"
 city: Sayda
 street: "Dresdner Straße"
 housenumber: 68

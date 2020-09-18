@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.715524800000004
 longitude: 12.783601
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Chemnitzer Straße"
 housenumber: 27

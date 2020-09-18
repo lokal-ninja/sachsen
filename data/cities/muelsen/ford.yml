@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7498026
 longitude: 12.571615600000001
-postcode: 08132
+postcode: "08132"
 city: Mülsen
 street: "St. Michelner Hauptstraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.1920032
 longitude: 12.466057500000002
-postcode: 04571
+postcode: "04571"
 city: Rötha
 street: "Otto-Heinig-Straße"
 housenumber: 3

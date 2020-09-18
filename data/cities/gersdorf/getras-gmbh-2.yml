@@ -3,10 +3,10 @@ type: node
 shop: Reifen
 latitude: 50.780709300000005
 longitude: 12.6932782
-postcode: 09355
+postcode: "09355"
 city: Gersdorf
 street: "Hofer Straße"
 housenumber: 8
-phone: "0 37 23 / 69 70 - 30"
+phone: "+49 3723 6970 30"
 opening_hours: ""
 website: "http://www.getras.de"

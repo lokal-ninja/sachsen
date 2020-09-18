@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7153666
 longitude: 12.4965016
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Klosterstraße"
 housenumber: 22a

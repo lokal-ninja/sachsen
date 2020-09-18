@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.737282900000004
 longitude: 12.472025400000001
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Crimmitschauer Straße"
 housenumber: 94

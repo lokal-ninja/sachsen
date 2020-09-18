@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.3415206
 longitude: 12.377989000000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Nikolaistraße"
 housenumber: 

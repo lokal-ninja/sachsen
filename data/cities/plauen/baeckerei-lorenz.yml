@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.489894500000005
 longitude: 12.098003100000001
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Heineplatz"
 housenumber: 14

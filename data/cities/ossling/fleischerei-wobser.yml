@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3593242
 longitude: 14.1665699
-postcode: 01920
+postcode: "01920"
 city: Oßling
 street: "Wittichenauer Straße"
 housenumber: 8 + 11

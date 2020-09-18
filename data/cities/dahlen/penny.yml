@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3587946
 longitude: 12.9913173
-postcode: 04774
+postcode: "04774"
 city: Dahlen
 street: "Bahnhofstraße"
 housenumber: 98

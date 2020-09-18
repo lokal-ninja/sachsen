@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.4988461
 longitude: 12.8980923
-postcode: 04862
+postcode: "04862"
 city: Mockrehna
 street: "Kirchstraße"
 housenumber: 35

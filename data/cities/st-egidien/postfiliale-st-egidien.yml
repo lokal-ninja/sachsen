@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.78820150000001
 longitude: 12.6017255
-postcode: 09356
+postcode: "09356"
 city: St. Egidien
 street: "Thurmer Straße"
 housenumber: 20a

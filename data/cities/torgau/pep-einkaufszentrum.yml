@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.562499800000005
 longitude: 12.9686216
-postcode: 04860
+postcode: "04860"
 city: Torgau
 street: "Außenring"
 housenumber: 1

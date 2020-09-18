@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.0163293
 longitude: 14.7381261
-postcode: 02747
+postcode: "02747"
 city: Herrnhut
 street: "Oderwitzer Straße"
 housenumber: 8

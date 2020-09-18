@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.061663800000005
 longitude: 13.8519021
-postcode: 01324
+postcode: "01324"
 city: Dresden
 street: "Bautzner Landstraße"
 housenumber: 144

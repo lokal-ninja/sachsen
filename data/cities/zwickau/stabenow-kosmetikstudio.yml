@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 50.7233461
 longitude: 12.520343700000002
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Lerchenweg"
 housenumber: 31
-phone: "0375/5674816"
+phone: "+49 375 5674816"
 opening_hours: ""
 website: ""

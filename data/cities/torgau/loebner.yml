@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 51.5589543
 longitude: 13.0038598
-postcode: 04860
+postcode: "04860"
 city: Torgau
 street: "Bäckerstraße"
 housenumber: 2

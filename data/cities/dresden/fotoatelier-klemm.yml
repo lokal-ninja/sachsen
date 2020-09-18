@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.06324
 longitude: 13.823078500000001
-postcode: 01324
+postcode: "01324"
 city: Dresden
 street: "Bautzner Landstraße"
 housenumber: 12

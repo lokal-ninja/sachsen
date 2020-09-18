@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.1782971
 longitude: 14.4282374
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Goschwitzstraße"
 housenumber: 33

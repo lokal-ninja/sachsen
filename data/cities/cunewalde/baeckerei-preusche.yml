@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0984144
 longitude: 14.499676500000001
-postcode: 02733
+postcode: "02733"
 city: Cunewalde
 street: "Hauptstraße"
 housenumber: 16

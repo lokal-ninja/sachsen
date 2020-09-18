@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0960747
 longitude: 14.6668514
-postcode: 02708
+postcode: "02708"
 city: Löbau
 street: "Nicolaiplatz"
 housenumber: 6

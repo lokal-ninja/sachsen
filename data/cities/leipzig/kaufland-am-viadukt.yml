@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.373200800000006
 longitude: 12.329120300000001
-postcode: 04159
+postcode: "04159"
 city: Leipzig
 street: "Georg-Schumann-Straße"
 housenumber: 290

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.045313400000005
 longitude: 13.7066184
-postcode: 
+postcode: ""
 city: Dresden
 street: "Löbtauer Straße"
 housenumber: 71

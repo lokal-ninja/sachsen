@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9785454
 longitude: 13.6341178
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "Kirchstraße"
 housenumber: 16

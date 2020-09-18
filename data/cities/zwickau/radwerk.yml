@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.725775000000006
 longitude: 12.4940692
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Hölderlinstraße"
 housenumber: 14

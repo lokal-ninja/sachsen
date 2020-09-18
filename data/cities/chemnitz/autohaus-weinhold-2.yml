@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8372681
 longitude: 12.8909383
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Erzbergerstraße"
 housenumber: 1a

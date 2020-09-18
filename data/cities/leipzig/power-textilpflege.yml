@@ -3,10 +3,10 @@ type: node
 shop: Wäscherei
 latitude: 51.3671487
 longitude: 12.3872125
-postcode: 04129
+postcode: "04129"
 city: Leipzig
 street: "Schönefelder Straße"
-housenumber: 
+housenumber: 6a
 phone: ""
 opening_hours: ""
 website: ""

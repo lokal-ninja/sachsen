@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.069604500000004
 longitude: 13.530724500000002
-postcode: 01665
+postcode: "01665"
 city: Klipphausen
 street: "Poststraße"
 housenumber: 4a

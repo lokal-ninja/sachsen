@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.01349990000001
 longitude: 13.8736233
-postcode: 01326
+postcode: "01326"
 city: Dresden
 street: "Meixstraße"
 housenumber: 15

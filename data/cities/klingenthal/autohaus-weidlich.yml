@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.368141800000004
 longitude: 12.4675892
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Kirchstraße"
 housenumber: 89

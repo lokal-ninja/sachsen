@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.2377392
 longitude: 13.054010100000001
-postcode: 04769
+postcode: "04769"
 city: Mügeln
 street: "Goethestraße"
 housenumber: 11

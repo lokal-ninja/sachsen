@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.562598900000005
 longitude: 12.9987829
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Talstraße"
 housenumber: 22

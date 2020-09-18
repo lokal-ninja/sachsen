@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7353547
 longitude: 12.5076272
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Scheffelstraße"
 housenumber: 46

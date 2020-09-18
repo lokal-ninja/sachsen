@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.5927896
 longitude: 12.547213500000002
-postcode: 08107
+postcode: "08107"
 city: Hartmannsdorf bei Kirchberg
 street: "An der Hammerschänke"
 housenumber: 2

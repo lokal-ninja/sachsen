@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9823449
 longitude: 13.865639900000001
-postcode: 01809
+postcode: "01809"
 city: Heidenau
 street: "Dresdner Straße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.0644769
 longitude: 13.7453561
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Antonstraße"
 housenumber: 2a

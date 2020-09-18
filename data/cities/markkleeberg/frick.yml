@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 51.280602800000004
 longitude: 12.4291631
-postcode: 04416
+postcode: "04416"
 city: Markkleeberg
 street: "Apelsteinallee"
 housenumber: 26

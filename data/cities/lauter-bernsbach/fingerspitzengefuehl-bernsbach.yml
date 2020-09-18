@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.576974
 longitude: 12.769837200000001
-postcode: 08315
+postcode: "08315"
 city: Lauter-Bernsbach
 street: "Ernst-Schneller-Straße"
 housenumber: 4

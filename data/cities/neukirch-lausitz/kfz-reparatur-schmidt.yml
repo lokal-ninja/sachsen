@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.096932800000005
 longitude: 14.279137700000001
-postcode: 01904
+postcode: "01904"
 city: Neukirch/Lausitz
 street: "Dresdener Straße"
 housenumber: 29

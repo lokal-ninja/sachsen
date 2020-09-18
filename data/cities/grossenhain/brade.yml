@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2853075
 longitude: 13.5395306
-postcode: 01558
+postcode: "01558"
 city: Großenhain
 street: "Theodor-Neubauer-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.491223100000006
 longitude: 12.163242
-postcode: 08529
+postcode: "08529"
 city: Plauen
 street: "Reusaer Straße"
 housenumber: 86

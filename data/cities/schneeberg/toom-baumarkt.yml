@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.6045291
 longitude: 12.646237500000002
-postcode: 08289
+postcode: "08289"
 city: Schneeberg
 street: "Prof.-Dr.-Konrad-Zuse-Straße"
 housenumber: 1

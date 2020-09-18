@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.3783826
 longitude: 14.271956300000001
-postcode: 02997
+postcode: "02997"
 city: Wittichenau
 street: "Brischko"
 housenumber: 41

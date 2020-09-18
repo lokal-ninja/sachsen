@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.355725
 longitude: 12.467854
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Schloßstraße"
 housenumber: 1b

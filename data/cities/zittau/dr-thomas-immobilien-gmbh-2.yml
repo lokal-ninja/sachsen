@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 50.8967241
 longitude: 14.8082413
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Brüderstraße"
 housenumber: 3

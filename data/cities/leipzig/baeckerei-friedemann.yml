@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3314156
 longitude: 12.3729508
-postcode: 04107
+postcode: "04107"
 city: Leipzig
 street: "Riemannstraße"
 housenumber: 48

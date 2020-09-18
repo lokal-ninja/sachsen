@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.3719636
 longitude: 12.7471168
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Marienstraße"
 housenumber: 14

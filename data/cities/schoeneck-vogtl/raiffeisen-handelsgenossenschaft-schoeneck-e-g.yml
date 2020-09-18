@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.3946273
 longitude: 12.344092600000002
-postcode: 08261
+postcode: "08261"
 city: Schöneck/Vogtl.
 street: "Am Bahnhof"
 housenumber: 2

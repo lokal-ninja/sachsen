@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9619775
 longitude: 14.2095088
-postcode: 01848
+postcode: "01848"
 city: Hohnstein
 street: "Dorfstraße"
 housenumber: 29

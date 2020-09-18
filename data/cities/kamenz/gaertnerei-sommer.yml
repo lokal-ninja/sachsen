@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.307907500000006
 longitude: 14.0489923
-postcode: 01917
+postcode: "01917"
 city: Kamenz
 street: "Hauptstraße"
 housenumber: 44

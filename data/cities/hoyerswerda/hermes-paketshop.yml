@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4391455
 longitude: 14.232885300000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Schulstraße"
 housenumber: 12b

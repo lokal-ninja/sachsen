@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.140875
 longitude: 12.6549829
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
 street: "Silikastraße"
 housenumber: 1

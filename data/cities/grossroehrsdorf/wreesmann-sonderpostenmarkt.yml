@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.146044100000005
 longitude: 14.022797700000002
-postcode: 01900
+postcode: "01900"
 city: Großröhrsdorf
 street: "Mühlstraße"
 housenumber: 1

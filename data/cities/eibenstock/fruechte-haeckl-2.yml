@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 50.433265500000005
 longitude: 12.592079700000001
-postcode: 08309
+postcode: "08309"
 city: Eibenstock
 street: "Carlsfelder Hauptstraße"
 housenumber: 33a

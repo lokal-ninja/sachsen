@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9010455
 longitude: 14.8182474
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Leipziger Straße"
 housenumber: 39

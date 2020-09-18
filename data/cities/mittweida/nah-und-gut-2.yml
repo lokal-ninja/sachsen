@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9901701
 longitude: 12.977441800000001
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Lauenhainer Straße"
 housenumber: 18

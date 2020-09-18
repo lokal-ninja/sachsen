@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.831395300000004
 longitude: 12.8952594
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Weststraße"
 housenumber: 86

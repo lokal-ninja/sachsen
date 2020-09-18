@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.591025300000005
 longitude: 12.5869356
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: "Altstädter Straße"
 housenumber: 3

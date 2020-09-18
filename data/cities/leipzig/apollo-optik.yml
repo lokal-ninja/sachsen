@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.3397425
 longitude: 12.3784729
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Grimmaische Straße"
 housenumber: 23

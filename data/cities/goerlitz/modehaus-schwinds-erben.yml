@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1538556
 longitude: 14.987049
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Steinstraße"
 housenumber: 9

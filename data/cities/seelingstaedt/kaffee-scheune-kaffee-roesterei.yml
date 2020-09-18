@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.772038200000004
 longitude: 12.2496472
-postcode: 07580
+postcode: "07580"
 city: Seelingstädt
 street: "Seelingstädt"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.1751852
 longitude: 14.4629256
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Am Carolagarten"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8338441
 longitude: 12.922896900000001
-postcode: 09111
+postcode: "09111"
 city: Chemnitz
 street: "Straße der Nationen"
 housenumber: 12

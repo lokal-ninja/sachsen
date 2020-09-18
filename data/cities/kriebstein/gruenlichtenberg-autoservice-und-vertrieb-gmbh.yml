@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0451374
 longitude: 13.0889216
-postcode: 09648
+postcode: "09648"
 city: Kriebstein
 street: "Südstraße"
 housenumber: 2

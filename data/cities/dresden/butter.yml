@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.043559
 longitude: 13.781835500000001
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Borsbergstraße"
 housenumber: 44

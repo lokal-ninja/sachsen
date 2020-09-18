@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8547662
 longitude: 12.7778115
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Chemnitzer Straße"
 housenumber: 40

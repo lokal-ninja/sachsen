@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.3023341
 longitude: 13.3106667
-postcode: 01589
+postcode: "01589"
 city: Riesa
 street: "Hauptstraße"
 housenumber: 9

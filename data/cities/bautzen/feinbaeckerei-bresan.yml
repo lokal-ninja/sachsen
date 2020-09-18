@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.181072400000005
 longitude: 14.428162700000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Wendischer Graben"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6683303
 longitude: 12.526542200000002
-postcode: 08112
+postcode: "08112"
 city: Wilkau-Haßlau
 street: "Kirchberger Straße"
 housenumber: 55

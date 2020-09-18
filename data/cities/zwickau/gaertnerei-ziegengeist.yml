@@ -3,10 +3,10 @@ type: way
 shop: Blumen
 latitude: 50.7231548
 longitude: 12.4774492
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Fröbelstraße"
 housenumber: 20
-phone: "0049 (0)375 241826"
+phone: "+49 375 241826"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
 website: "http://www.gaertnerei-ziegengeist.de/"

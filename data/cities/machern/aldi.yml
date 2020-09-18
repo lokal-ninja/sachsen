@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.360516200000006
 longitude: 12.6161805
-postcode: 04827
+postcode: "04827"
 city: Machern
 street: "Gartenallee"
 housenumber: 4

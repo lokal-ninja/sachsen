@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.01696260000001
 longitude: 14.7436599
-postcode: 02747
+postcode: "02747"
 city: Herrnhut
 street: "Dürningerstraße"
 housenumber: 16

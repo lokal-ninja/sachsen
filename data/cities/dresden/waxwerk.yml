@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.0578632
 longitude: 13.772715700000001
-postcode: 01307
+postcode: "01307"
 city: Dresden
 street: "Pfotenhauerstraße"
 housenumber: 65

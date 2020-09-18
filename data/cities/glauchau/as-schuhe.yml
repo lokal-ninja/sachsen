@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.825123700000006
 longitude: 12.527577500000001
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Lampertstraße"
 housenumber: 3

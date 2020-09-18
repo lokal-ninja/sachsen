@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.864983200000005
 longitude: 13.177381400000002
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Freiberger Straße"
 housenumber: 31

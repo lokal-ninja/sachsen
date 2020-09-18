@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.090596100000006
 longitude: 13.705250300000001
-postcode: 01129
+postcode: "01129"
 city: Dresden
 street: "Industriestraße"
 housenumber: 59b

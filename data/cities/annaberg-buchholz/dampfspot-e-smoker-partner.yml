@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 50.5782169
 longitude: 13.002155700000001
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Buchholzer Straße"
 housenumber: 17

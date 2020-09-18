@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.918266900000006
 longitude: 14.152863600000002
-postcode: 01814
+postcode: "01814"
 city: Bad Schandau
 street: "Marktstraße"
 housenumber: 8
 phone: "+49 35022 42461"
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; PH closed"
 website: "https://www.ihr-foerster-baecker.de"

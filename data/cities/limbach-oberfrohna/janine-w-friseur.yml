@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8607877
 longitude: 12.769064400000001
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Burgstädter Straße"
 housenumber: 10

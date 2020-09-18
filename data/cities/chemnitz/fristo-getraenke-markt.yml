@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.804715300000005
 longitude: 12.921436900000002
-postcode: 09120
+postcode: "09120"
 city: Chemnitz
 street: "Hermann-Pöge-Straße"
 housenumber: 3

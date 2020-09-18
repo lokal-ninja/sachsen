@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.375928300000005
 longitude: 14.069979900000002
-postcode: 02994
+postcode: "02994"
 city: Bernsdorf
 street: "Ernst-Thälmann-Straße"
 housenumber: 10

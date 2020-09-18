@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.16254300000001
 longitude: 13.680386100000002
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Schloßallee"
 housenumber: 9

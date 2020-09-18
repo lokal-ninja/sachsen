@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1701959
 longitude: 14.4358917
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Dr.-Peter-Jordan-Straße"
 housenumber: 34

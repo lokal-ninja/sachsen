@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.673972500000005
 longitude: 12.5254133
-postcode: 08112
+postcode: "08112"
 city: Wilkau-Haßlau
 street: "Schneeberger Straße"
 housenumber: 81a

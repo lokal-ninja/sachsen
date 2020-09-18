@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.175265800000005
 longitude: 14.4616495
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Am Carolagarten"
 housenumber: 3

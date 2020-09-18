@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.734318200000004
 longitude: 12.5252703
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Max-Planck-Straße"
 housenumber: 36

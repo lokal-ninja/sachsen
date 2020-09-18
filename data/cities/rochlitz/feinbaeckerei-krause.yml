@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.045427800000006
 longitude: 12.801132500000001
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Hauptstraße"
 housenumber: 9

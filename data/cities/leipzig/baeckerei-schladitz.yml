@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.366904000000005
 longitude: 12.373908700000001
-postcode: 04157
+postcode: "04157"
 city: Leipzig
 street: "Coppistraße"
 housenumber: 63

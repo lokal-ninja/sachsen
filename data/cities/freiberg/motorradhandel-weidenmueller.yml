@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 50.918600700000006
 longitude: 13.3600755
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Schachtweg"
 housenumber: 14

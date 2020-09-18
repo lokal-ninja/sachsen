@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.6300948
 longitude: 12.810268800000001
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Am Mühlgraben"
 housenumber: 2

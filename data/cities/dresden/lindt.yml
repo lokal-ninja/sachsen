@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 51.0513264
 longitude: 13.7372043
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Schloßstraße"
 housenumber: 5

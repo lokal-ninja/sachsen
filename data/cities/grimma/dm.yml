@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.239702300000005
 longitude: 12.729855800000001
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Wurzener Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.047117
 longitude: 13.765755
-postcode: 01307
+postcode: "01307"
 city: Dresden
 street: "Nicolaistraße"
 housenumber: 1

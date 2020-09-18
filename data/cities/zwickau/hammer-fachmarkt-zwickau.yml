@@ -3,10 +3,10 @@ type: way
 shop: Raumausstattung
 latitude: 50.7029368
 longitude: 12.4441181
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Reichenbacher Straße"
 housenumber: 188a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
 website: ""

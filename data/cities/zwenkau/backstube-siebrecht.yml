@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2176059
 longitude: 12.324653900000001
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Weinhold-Arkade"
 housenumber: 2

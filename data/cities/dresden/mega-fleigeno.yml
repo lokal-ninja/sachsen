@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 51.071462100000005
 longitude: 13.7333181
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Erfurter Straße"
 housenumber: 12

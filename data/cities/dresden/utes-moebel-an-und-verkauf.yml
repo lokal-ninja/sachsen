@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.080453500000004
 longitude: 13.731744
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Großenhainer Straße"
 housenumber: 68

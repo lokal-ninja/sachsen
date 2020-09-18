@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.87078270000001
 longitude: 13.527811300000002
-postcode: 01774
+postcode: "01774"
 city: Klingenberg
 street: "Thomas-Müntzer-Straße"
 housenumber: 59

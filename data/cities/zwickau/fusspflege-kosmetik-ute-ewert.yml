@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6897766
 longitude: 12.4598765
-postcode: 08062
+postcode: "08062"
 city: Zwickau
 street: "Zaanstader Straße"
 housenumber: 7

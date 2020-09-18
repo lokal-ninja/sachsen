@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.341138300000004
 longitude: 12.392910500000001
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Kreuzstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.496003300000005
 longitude: 12.170561300000001
-postcode: 08529
+postcode: "08529"
 city: Plauen
 street: "Äußere Reichenbacher Straße"
 housenumber: 64

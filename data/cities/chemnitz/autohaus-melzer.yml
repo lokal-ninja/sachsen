@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.7878009
 longitude: 12.993649600000001
-postcode: 09128
+postcode: "09128"
 city: Chemnitz
 street: "Am Erlenwald"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 50.6921466
 longitude: 12.9012834
-postcode: 09392
+postcode: "09392"
 city: Auerbach
 street: "Hauptstraße"
 housenumber: 19

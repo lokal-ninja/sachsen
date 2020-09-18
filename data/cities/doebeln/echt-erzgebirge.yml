@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.1219029
 longitude: 13.1212499
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Stadthausstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.07471
 longitude: 13.733557000000001
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Großenhainer Straße"
 housenumber: 39

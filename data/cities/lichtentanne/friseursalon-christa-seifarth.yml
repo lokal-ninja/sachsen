@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6724905
 longitude: 12.4307014
-postcode: 08115
+postcode: "08115"
 city: Lichtentanne
 street: "Juri-Gagarin-Straße"
 housenumber: 54

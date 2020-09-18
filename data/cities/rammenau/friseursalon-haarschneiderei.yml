@@ -1,12 +1,12 @@
 id: 6656784719
 type: node
 shop: Friseur
-latitude: 51.153427400000005
-longitude: 14.141938900000001
-postcode: 01877
+latitude: 51.1534957
+longitude: 14.141951200000001
+postcode: "01877"
 city: Rammenau
 street: "Hauptstraße"
 housenumber: 49A
-phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su,PH off"
+phone: "+49 3594 7455372"
+opening_hours: "Mo-Fr 08:00-18:00; PH,Sa,Su off"
 website: ""

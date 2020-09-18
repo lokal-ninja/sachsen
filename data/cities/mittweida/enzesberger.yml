@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9859136
 longitude: 12.981589000000001
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Brühl"
 housenumber: 9

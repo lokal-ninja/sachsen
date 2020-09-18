@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 51.3763109
 longitude: 12.3645197
-postcode: 04157
+postcode: "04157"
 city: Leipzig
 street: "Max-Liebermann-Straße"
 housenumber: 39

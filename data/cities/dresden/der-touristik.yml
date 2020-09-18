@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.043100200000005
 longitude: 13.6930311
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Kesselsdorfer Straße"
 housenumber: 56

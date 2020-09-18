@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.529634
 longitude: 11.962082700000002
-postcode: 08539
+postcode: "08539"
 city: Rosenbach/Vogtl.
 street: "Bahnhofstraße"
 housenumber: 2b

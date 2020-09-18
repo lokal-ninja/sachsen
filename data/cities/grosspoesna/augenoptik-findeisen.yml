@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.268042900000005
 longitude: 12.497302300000001
-postcode: 04463
+postcode: "04463"
 city: Großpösna
 street: "Sepp-Verscht-Straße"
 housenumber: 1

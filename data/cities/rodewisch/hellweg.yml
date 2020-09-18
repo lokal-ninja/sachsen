@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.540439400000004
 longitude: 12.3949219
-postcode: 08228
+postcode: "08228"
 city: Rodewisch
 street: "Lengenfelder Straße"
 housenumber: 35

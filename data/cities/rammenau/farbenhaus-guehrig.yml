@@ -3,7 +3,7 @@ type: node
 shop: Modellbau
 latitude: 51.153904100000005
 longitude: 14.1350888
-postcode: 01877
+postcode: "01877"
 city: Rammenau
 street: "Hauptstraße"
 housenumber: 17

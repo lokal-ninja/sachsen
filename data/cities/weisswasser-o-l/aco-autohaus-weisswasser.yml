@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4910476
 longitude: 14.6621351
-postcode: 02943
+postcode: "02943"
 city: Weißwasser/O.L.
 street: "Industriestraße Ost"
 housenumber: 1

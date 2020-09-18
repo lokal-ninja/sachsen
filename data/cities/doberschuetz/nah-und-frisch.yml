@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4988625
 longitude: 12.743969600000002
-postcode: 04838
+postcode: "04838"
 city: Doberschütz
 street: "Breite Straße"
 housenumber: 21

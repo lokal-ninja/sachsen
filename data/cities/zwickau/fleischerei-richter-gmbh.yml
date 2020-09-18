@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7465424
 longitude: 12.4857294
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Schubertstraße"
 housenumber: 3

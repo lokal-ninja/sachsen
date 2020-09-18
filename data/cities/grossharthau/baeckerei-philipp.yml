@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1016088
 longitude: 14.0365376
-postcode: 01909
+postcode: "01909"
 city: Großharthau
 street: "Hauptstraße"
 housenumber: 27

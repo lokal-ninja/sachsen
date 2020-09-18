@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.494936800000005
 longitude: 12.136864200000002
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Klostermarkt"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.278967200000004
 longitude: 12.370051700000001
-postcode: 04416
+postcode: "04416"
 city: Markkleeberg
 street: "Rathausstraße"
 housenumber: 33-35

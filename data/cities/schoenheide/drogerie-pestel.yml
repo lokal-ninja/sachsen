@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.502825
 longitude: 12.5298859
-postcode: 08304
+postcode: "08304"
 city: Schönheide
 street: "Hauptstraße"
 housenumber: 78

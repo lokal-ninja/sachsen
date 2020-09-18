@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.1768153
 longitude: 14.964117400000001
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Gewerbering"
 housenumber: 6

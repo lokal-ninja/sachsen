@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.109039800000005
 longitude: 12.4874887
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Am Wilhelmschacht"
 housenumber: 34

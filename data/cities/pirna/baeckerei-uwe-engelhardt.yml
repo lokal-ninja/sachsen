@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9174365
 longitude: 13.9773112
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Alt-Neundorf"
 housenumber: 19

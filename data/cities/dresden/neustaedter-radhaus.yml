@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.0600699
 longitude: 13.7509758
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Glacisstraße"
 housenumber: 5

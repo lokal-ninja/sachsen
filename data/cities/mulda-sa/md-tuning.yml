@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.805139800000006
 longitude: 13.346159700000001
-postcode: 09619
+postcode: "09619"
 city: Mulda/Sa.
 street: "Helbigsdorf"
 housenumber: 83

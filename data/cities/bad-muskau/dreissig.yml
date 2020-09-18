@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.54645
 longitude: 14.720449
-postcode: 02953
+postcode: "02953"
 city: Bad Muskau
 street: "Kirchstraße"
 housenumber: 34

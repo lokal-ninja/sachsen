@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.857416
 longitude: 12.885873
-postcode: 09114
+postcode: "09114"
 city: Chemnitz
 street: "Bornaer Straße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.071732000000004
 longitude: 13.7267706
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Leipziger Straße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 51.3303346
 longitude: 12.331001800000001
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Karl-Heine-Straße"
 housenumber: 85

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8525556
 longitude: 12.943650400000001
-postcode: 09131
+postcode: "09131"
 city: Chemnitz
 street: "Gneisenaustraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.6139139
 longitude: 12.1694796
-postcode: 07985
+postcode: "07985"
 city: Elsterberg
 street: "Sachswitzer Straße"
 housenumber: 3

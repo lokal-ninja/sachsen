@@ -1,4 +1,4 @@
 ---
-title: "Dani´s Haarmonie Inh.D.Agsten´"
+title: "Dani´s Haarmonie Inh.D. Agsten´"
 url: /zwickau/dani-s-haarmonie-inh-d-agsten/
 ---

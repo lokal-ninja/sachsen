@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9835615
 longitude: 14.614730900000001
-postcode: 02727
+postcode: "02727"
 city: Ebersbach-Neugersdorf
 street: "Spreequellstraße"
 housenumber: 6

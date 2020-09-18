@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.723416500000006
 longitude: 13.1065514
-postcode: 09434
+postcode: "09434"
 city: Zschopau
 street: "Hauptstraße"
 housenumber: 122

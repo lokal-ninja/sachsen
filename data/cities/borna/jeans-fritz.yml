@@ -3,9 +3,9 @@ type: node
 shop: Kleidung
 latitude: 51.154214200000006
 longitude: 12.507449800000002
-postcode: 04552
+postcode: "04552"
 city: Borna
-street: "An der Bundesstr. 95"
+street: "Gewerbegebiet Eula West"
 housenumber: 
 phone: "+49 3433 204653"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-13:00"

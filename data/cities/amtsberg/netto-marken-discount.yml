@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7384427
 longitude: 12.999736100000002
-postcode: 09439
+postcode: "09439"
 city: Amtsberg
 street: "Gelenauer Straße"
 housenumber: 2

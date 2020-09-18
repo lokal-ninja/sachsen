@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.2604441
 longitude: 14.112051200000002
-postcode: 01917
+postcode: "01917"
 city: Kamenz
 street: "Wiesaer Kirchweg"
 housenumber: 60a

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.0450785
 longitude: 13.7774394
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Borsbergstraße"
 housenumber: 25

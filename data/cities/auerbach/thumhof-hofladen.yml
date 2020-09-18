@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.6921696
 longitude: 12.9012203
-postcode: 09392
+postcode: "09392"
 city: Auerbach
 street: "Hauptstraße"
 housenumber: 19

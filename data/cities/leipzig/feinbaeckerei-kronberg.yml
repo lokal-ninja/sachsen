@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3586952
 longitude: 12.4731766
-postcode: 04329
+postcode: "04329"
 city: Leipzig
 street: "Hermelinstraße"
 housenumber: 2-4

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.546587300000006
 longitude: 13.0468118
-postcode: 09471
+postcode: "09471"
 city: Königswalde
 street: "Annaberger Straße"
 housenumber: 2A

@@ -3,7 +3,7 @@ type: node
 shop: Nahrungsergänzung
 latitude: 50.941685500000006
 longitude: 13.305004700000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Walterstal"
 housenumber: 50

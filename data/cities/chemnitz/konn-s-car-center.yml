@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.852583800000005
 longitude: 12.928465800000001
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Blankenauer Straße"
 housenumber: 61

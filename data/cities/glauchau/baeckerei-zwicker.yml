@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.820925700000004
 longitude: 12.515102
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Sachsenallee"
 housenumber: 1

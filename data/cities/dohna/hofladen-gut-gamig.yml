@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.961995200000004
 longitude: 13.841708400000002
-postcode: 01809
+postcode: "01809"
 city: Dohna
 street: "Gamig"
 housenumber: 2

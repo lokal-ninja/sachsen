@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 50.9173994
 longitude: 13.345493300000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Kesselgasse"
 housenumber: 18

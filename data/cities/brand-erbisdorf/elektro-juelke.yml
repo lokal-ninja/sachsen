@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 50.871307300000005
 longitude: 13.3251693
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Wettinstraße"
 housenumber: 10a

@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.919079800000006
 longitude: 14.0710732
-postcode: 01824
+postcode: "01824"
 city: Königstein
 street: "Pirnaer Straße"
 housenumber: 20
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-12:00"
 website: ""

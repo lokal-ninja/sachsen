@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.323630200000004
 longitude: 12.475046800000001
-postcode: 04316
+postcode: "04316"
 city: Leipzig
 street: "Apelsteinweg"
 housenumber: 1

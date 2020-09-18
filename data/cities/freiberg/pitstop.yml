@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.913580700000004
 longitude: 13.336508400000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Chemnitzer Straße"
 housenumber: 15

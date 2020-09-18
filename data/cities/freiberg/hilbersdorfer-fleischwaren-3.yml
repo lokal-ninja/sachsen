@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.921321000000006
 longitude: 13.3458029
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Meißner Gasse"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.300112500000004
 longitude: 12.253825200000001
-postcode: 08645
+postcode: "08645"
 city: Bad Elster
 street: "Brambacher Straße"
 housenumber: 1

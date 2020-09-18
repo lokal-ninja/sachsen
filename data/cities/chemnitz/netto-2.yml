@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.815929700000005
 longitude: 12.9493229
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Zschopauer Straße"
 housenumber: 202

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.638015700000004
 longitude: 12.8175238
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Niederzwönitzer Straße"
 housenumber: 72

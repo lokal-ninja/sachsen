@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.722870900000004
 longitude: 12.443503300000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Karl-Keil-Straße"
 housenumber: 2

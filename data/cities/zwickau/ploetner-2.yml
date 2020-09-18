@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7314979
 longitude: 12.4917409
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Leipziger Straße"
 housenumber: 73

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.276944400000005
 longitude: 12.479044900000002
-postcode: 04288
+postcode: "04288"
 city: Leipzig
 street: "Großpösnaer Straße"
 housenumber: 72

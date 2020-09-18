@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8384836
 longitude: 12.907653400000001
-postcode: 09112
+postcode: "09112"
 city: Chemnitz
 street: "Reichsstraße"
 housenumber: 58

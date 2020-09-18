@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.8221239
 longitude: 12.959857000000001
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 153

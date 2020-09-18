@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9858294
 longitude: 12.9807647
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Markt"
 housenumber: 5

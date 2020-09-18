@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.3181111
 longitude: 12.371504000000002
-postcode: 04275
+postcode: "04275"
 city: Leipzig
 street: "Kochstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.077021300000006
 longitude: 13.727073200000001
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Leisniger Straße"
 housenumber: 1

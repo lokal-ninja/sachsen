@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.0427192
 longitude: 13.700881
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Reisewitzer Straße"
 housenumber: 22

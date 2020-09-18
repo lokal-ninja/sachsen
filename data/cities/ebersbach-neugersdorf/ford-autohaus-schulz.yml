@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9840371
 longitude: 14.6052683
-postcode: 02727
+postcode: "02727"
 city: Ebersbach-Neugersdorf
 street: "Schillerstraße"
 housenumber: 11

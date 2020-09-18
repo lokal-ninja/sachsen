@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.5928825
 longitude: 12.546865400000002
-postcode: 08107
+postcode: "08107"
 city: Hartmannsdorf bei Kirchberg
 street: "An der Hammerschänke"
 housenumber: 1

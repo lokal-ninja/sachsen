@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.4186514
 longitude: 12.969596300000001
-postcode: 09484
+postcode: "09484"
 city: Kurort Oberwiesenthal
 street: "Zechenstraße"
 housenumber: 7

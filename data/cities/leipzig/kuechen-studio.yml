@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.335077500000004
 longitude: 12.3270633
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Lützner Straße"
 housenumber: 90

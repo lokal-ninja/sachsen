@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2483112
 longitude: 14.4586479
-postcode: 
+postcode: ""
 city: Großdubrau
 street: "Martin-Hoop-Weg"
 housenumber: 30

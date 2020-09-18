@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.6983225
 longitude: 12.849013500000002
-postcode: 09380
+postcode: "09380"
 city: Thalheim/Erzgebirge
 street: "Friedrichstraße"
 housenumber: 10a

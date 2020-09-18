@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9621634
 longitude: 13.9417708
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Am Markt"
 housenumber: 11

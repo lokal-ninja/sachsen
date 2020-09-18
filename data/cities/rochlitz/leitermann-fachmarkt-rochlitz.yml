@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.047606300000005
 longitude: 12.8005709
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Poststraße"
 housenumber: 1

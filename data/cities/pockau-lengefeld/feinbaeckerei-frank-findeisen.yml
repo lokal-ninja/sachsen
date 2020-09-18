@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.7006068
 longitude: 13.268786
-postcode: 09509
+postcode: "09509"
 city: Pockau-Lengefeld
 street: "Am Müllerberg"
 housenumber: 17

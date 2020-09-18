@@ -1,6 +1,6 @@
 ---
 title: Beiersdorf
 url: /beiersdorf/
-latitude: 50.6805164
-longitude: 12.3459476
+latitude: 51.2618092
+longitude: 12.6859009
 ---

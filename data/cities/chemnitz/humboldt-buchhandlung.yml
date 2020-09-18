@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.8304533
 longitude: 12.922376600000002
-postcode: 09111
+postcode: "09111"
 city: Chemnitz
 street: "Moritzstraße"
 housenumber: 24

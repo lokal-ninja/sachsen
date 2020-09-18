@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 50.9031943
 longitude: 14.772692000000001
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Hörnitzer Straße"
 housenumber: 5

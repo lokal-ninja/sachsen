@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8533576
 longitude: 12.575140000000001
-postcode: 08373
+postcode: "08373"
 city: Remse
 street: "Am Berg"
 housenumber: 22

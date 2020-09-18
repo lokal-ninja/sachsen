@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.333776900000004
 longitude: 12.378436200000001
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Brüderstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.0744169
 longitude: 13.749222900000001
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Rudolf-Leonhard-Straße"
 housenumber: 33

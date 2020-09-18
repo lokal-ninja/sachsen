@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.9625282
 longitude: 13.9409577
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Schössergasse"
 housenumber: 1

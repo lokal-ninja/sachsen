@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.305523
 longitude: 13.278852800000001
-postcode: 01587
+postcode: "01587"
 city: Riesa
 street: "Lange Straße"
 housenumber: 1

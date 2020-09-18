@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.0369377
 longitude: 13.583168
-postcode: 01723
+postcode: "01723"
 city: Wilsdruff
 street: "Kaufbacher Ring"
 housenumber: 9

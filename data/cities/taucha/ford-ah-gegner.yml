@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3738978
 longitude: 12.478444000000001
-postcode: 04425
+postcode: "04425"
 city: Taucha
 street: "Leipziger Straße"
 housenumber: 102

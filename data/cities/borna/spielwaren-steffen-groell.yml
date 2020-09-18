@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 51.1234965
 longitude: 12.4980133
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Reichsstraße"
 housenumber: 4

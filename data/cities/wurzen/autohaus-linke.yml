@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3823273
 longitude: 12.739427300000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Collmener Straße"
 housenumber: 20

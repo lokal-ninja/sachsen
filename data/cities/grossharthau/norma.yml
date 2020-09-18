@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.106534700000005
 longitude: 14.103204700000001
-postcode: 01909
+postcode: "01909"
 city: Großharthau
 street: "Zur Wesenitzaue"
 housenumber: 1

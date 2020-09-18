@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.733963900000006
 longitude: 12.4764584
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Crimmitschauer Straße"
 housenumber: 67a

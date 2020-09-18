@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0276968
 longitude: 14.213265700000001
-postcode: 01844
+postcode: "01844"
 city: Neustadt in Sachsen
 street: "Wilhelm-Kaulisch-Straße"
 housenumber: 29

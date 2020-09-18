@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9130024
 longitude: 13.3466131
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Bahnhofstraße"
 housenumber: 1

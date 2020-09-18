@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.128716100000005
 longitude: 14.1787196
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Kamenzer Straße"
 housenumber: 12

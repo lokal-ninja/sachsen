@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 51.322749400000006
 longitude: 12.561633700000002
-postcode: 04824
+postcode: "04824"
 city: Brandis
 street: "Dorfstraße"
 housenumber: 15

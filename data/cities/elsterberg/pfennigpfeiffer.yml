@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.6113105
 longitude: 12.172899200000002
-postcode: 07985
+postcode: "07985"
 city: Elsterberg
 street: "An der Elsteraue"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.986325300000004
 longitude: 12.974304700000001
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Rochlitzer Straße"
 housenumber: 80

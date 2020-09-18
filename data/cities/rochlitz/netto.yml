@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0560534
 longitude: 12.791406700000001
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Poppitzer Straße"
 housenumber: 5a

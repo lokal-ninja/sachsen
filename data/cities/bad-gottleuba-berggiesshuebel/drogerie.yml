@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.873705
 longitude: 13.9451824
-postcode: 01816
+postcode: "01816"
 city: Bad Gottleuba-Berggießhübel
 street: "Giesensteiner Straße"
 housenumber: 4

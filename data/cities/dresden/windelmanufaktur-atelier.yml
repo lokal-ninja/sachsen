@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 51.0739358
 longitude: 13.735095900000001
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Großenhainer Straße"
 housenumber: 32

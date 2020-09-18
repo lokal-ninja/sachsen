@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 50.895574800000006
 longitude: 13.3298982
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Häuersteig"
 housenumber: 6

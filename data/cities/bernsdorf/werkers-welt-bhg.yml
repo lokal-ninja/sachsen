@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.378461200000004
 longitude: 14.075132700000001
-postcode: 02994
+postcode: "02994"
 city: Bernsdorf
 street: "Hoyerswerdaer Straße"
 housenumber: 22

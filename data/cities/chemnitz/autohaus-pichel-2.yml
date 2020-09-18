@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8603603
 longitude: 12.908759000000002
-postcode: 09114
+postcode: "09114"
 city: Chemnitz
 street: "Blankenburgstraße"
 housenumber: 75

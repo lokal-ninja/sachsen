@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1967269
 longitude: 14.659405900000001
-postcode: 02627
+postcode: "02627"
 city: Weißenberg
 street: ""
 housenumber: 

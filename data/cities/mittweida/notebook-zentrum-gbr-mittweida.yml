@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.9861153
 longitude: 12.9743557
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Rochlitzer Straße"
 housenumber: 73

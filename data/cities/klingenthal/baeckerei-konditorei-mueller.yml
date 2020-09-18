@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.355590400000004
 longitude: 12.451804200000002
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Markneukirchner Straße"
 housenumber: 100

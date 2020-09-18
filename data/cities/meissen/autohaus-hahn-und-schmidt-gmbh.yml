@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1667998
 longitude: 13.4854251
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Melzerstraße"
 housenumber: 23

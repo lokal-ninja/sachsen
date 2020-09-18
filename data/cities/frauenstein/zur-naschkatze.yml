@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 50.801974900000005
 longitude: 13.5357812
-postcode: 09623
+postcode: "09623"
 city: Frauenstein
 street: "Freiberger Straße"
 housenumber: 12

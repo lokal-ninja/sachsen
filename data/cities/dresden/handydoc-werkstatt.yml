@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.029833800000006
 longitude: 13.7061104
-postcode: 01187
+postcode: "01187"
 city: Dresden
 street: "F.-C.-Weiskopf-Platz"
 housenumber: 9

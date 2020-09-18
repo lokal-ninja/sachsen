@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.083106
 longitude: 13.728934700000002
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Großenhainer Straße"
 housenumber: 113-115

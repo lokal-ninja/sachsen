@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.034083100000004
 longitude: 13.711694300000001
-postcode: 01187
+postcode: "01187"
 city: Dresden
 street: "Bamberger Straße"
 housenumber: 8

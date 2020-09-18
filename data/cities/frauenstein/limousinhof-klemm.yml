@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.7993584
 longitude: 13.544596700000001
-postcode: 09623
+postcode: "09623"
 city: Frauenstein
 street: "Reichenauer Weg"
 housenumber: 18

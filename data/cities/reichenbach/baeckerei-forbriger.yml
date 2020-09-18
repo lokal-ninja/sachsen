@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.624051
 longitude: 12.2789117
-postcode: 08468
+postcode: "08468"
 city: Reichenbach
 street: "Obermylauer Weg"
 housenumber: 39

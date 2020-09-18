@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.803066
 longitude: 12.3852107
-postcode: 08459
+postcode: "08459"
 city: Neukirchen
 street: "Werdauer Straße"
 housenumber: 19

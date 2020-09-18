@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.909090500000005
 longitude: 14.1662964
-postcode: 01814
+postcode: "01814"
 city: Bad Schandau
 street: "Friedrich-Gottlob-Keller-Straße"
 housenumber: 36

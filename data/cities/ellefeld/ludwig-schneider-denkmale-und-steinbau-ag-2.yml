@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.4841351
 longitude: 12.390250400000001
-postcode: 08236
+postcode: "08236"
 city: Ellefeld
 street: "Alter Schulweg"
 housenumber: 1

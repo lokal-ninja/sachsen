@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.025593300000004
 longitude: 13.762030900000001
-postcode: 01219
+postcode: "01219"
 city: Dresden
 street: "Lockwitzer Straße"
 housenumber: 15

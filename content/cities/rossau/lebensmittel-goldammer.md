@@ -1,4 +1,4 @@
 ---
-title: "Lebensmittel  Goldammer"
+title: "Lebensmittel Goldammer"
 url: /rossau/lebensmittel-goldammer/
 ---

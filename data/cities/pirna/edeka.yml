@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9558861
 longitude: 13.9070458
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Heidenauer Straße"
 housenumber: 1

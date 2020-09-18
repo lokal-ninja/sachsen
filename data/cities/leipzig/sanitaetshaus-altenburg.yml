@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.3139125
 longitude: 12.2645461
-postcode: 04207
+postcode: "04207"
 city: Leipzig
 street: "Selliner Straße"
 housenumber: 1B

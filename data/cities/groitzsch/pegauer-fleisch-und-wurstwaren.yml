@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.15643480000001
 longitude: 12.2797227
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Breitstraße"
 housenumber: 6

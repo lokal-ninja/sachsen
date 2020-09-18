@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.42496250000001
 longitude: 14.223699000000002
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Am Adler"
 housenumber: 2a

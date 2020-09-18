@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7097708
 longitude: 12.416746700000001
-postcode: 08412
+postcode: "08412"
 city: Werdau
 street: "Stiftstraße"
 housenumber: 6

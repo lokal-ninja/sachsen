@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7761171
 longitude: 12.9709967
-postcode: 09123
+postcode: "09123"
 city: Chemnitz
 street: "Einsiedler Hauptstraße"
 housenumber: 45

@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.062800800000005
 longitude: 13.750796900000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Bautzner Straße"
 housenumber: 12

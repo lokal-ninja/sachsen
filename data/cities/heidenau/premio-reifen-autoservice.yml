@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.972049500000004
 longitude: 13.862954700000001
-postcode: 01809
+postcode: "01809"
 city: Heidenau
 street: "Werner-Seelenbinder-Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.43857070000001
 longitude: 14.243046900000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Senftenberger Straße"
 housenumber: 1

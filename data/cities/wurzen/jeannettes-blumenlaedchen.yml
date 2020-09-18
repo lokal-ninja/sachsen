@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.3703165
 longitude: 12.7436311
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Martin-Luther-Straße"
 housenumber: 25

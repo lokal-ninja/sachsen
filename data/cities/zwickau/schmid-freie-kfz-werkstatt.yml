@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.6857428
 longitude: 12.4948951
-postcode: 08064
+postcode: "08064"
 city: Zwickau
 street: "Am Hammerwald"
 housenumber: 7

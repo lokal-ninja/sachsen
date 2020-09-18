@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.0240743
 longitude: 13.7438026
-postcode: 
+postcode: ""
 city: Dresden
 street: "Paradiesstraße"
 housenumber: 40

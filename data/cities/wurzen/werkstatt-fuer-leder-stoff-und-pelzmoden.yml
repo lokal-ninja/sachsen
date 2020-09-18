@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 51.3702892
 longitude: 12.737189500000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Jacobsgasse"
 housenumber: 19

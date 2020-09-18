@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 51.059512000000005
 longitude: 12.6821842
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Straße der Deutschen Einheit"
 housenumber: 10

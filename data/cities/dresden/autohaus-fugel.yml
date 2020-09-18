@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.061736800000006
 longitude: 13.685388000000001
-postcode: 01157
+postcode: "01157"
 city: Dresden
 street: "Hamburger Straße"
 housenumber: 69-73

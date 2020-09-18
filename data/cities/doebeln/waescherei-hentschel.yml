@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.1169457
 longitude: 13.148382400000001
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Richard-Köberlin-Straße"
 housenumber: 6

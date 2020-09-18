@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 50.597884300000004
 longitude: 13.0745673
-postcode: 09456
+postcode: "09456"
 city: Mildenau
 street: "Am Sportplatz"
 housenumber: 5

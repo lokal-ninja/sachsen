@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.1459069
 longitude: 12.778897200000001
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Sermuther Straße"
 housenumber: 11

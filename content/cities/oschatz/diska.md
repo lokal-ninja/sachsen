@@ -1,4 +1,4 @@
 ---
-title: "diska"
+title: "Diska"
 url: /oschatz/diska/
 ---

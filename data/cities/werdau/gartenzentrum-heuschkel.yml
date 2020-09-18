@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.7470383
 longitude: 12.373187600000001
-postcode: 08412
+postcode: "08412"
 city: Werdau
 street: "Crimmitschauer Straße"
 housenumber: 42

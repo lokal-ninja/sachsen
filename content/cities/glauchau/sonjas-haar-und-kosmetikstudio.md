@@ -1,0 +1,4 @@
+---
+title: "Sonjas Haar- und Kosmetikstudio"
+url: /glauchau/sonjas-haar-und-kosmetikstudio/
+---

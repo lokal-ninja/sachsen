@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.124180800000005
 longitude: 12.4960321
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Wilhelm-Külz-Straße"
 housenumber: 4-16

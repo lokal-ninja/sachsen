@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8498838
 longitude: 13.0771323
-postcode: 09557
+postcode: "09557"
 city: Flöha
 street: "Augustusburger Straße"
 housenumber: 77

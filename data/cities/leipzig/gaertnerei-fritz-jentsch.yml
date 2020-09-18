@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.308519700000005
 longitude: 12.3872099
-postcode: 04277
+postcode: "04277"
 city: Leipzig
 street: "Threnaer Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0467844
 longitude: 13.7162933
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Jagdweg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9000593
 longitude: 12.771897500000001
-postcode: 09241
+postcode: "09241"
 city: Mühlau
 street: "Ringstraße"
 housenumber: 6

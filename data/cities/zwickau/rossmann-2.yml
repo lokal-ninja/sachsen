@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 50.7200293
 longitude: 12.471904400000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Marienthaler Straße"
 housenumber: 19
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

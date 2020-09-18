@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5186962
 longitude: 12.335063600000002
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Leipziger Straße"
 housenumber: 21

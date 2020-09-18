@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.237472000000004
 longitude: 12.7227458
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Straße des Friedens"
 housenumber: 20

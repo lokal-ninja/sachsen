@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9412518
 longitude: 14.3320121
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Hinterhermsdorfer Straße"
 housenumber: 2

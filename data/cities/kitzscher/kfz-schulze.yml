@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.176486000000004
 longitude: 12.5304172
-postcode: 04567
+postcode: "04567"
 city: Kitzscher
 street: "Landstraße"
 housenumber: 48

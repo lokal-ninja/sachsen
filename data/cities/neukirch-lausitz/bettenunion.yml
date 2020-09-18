@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 51.097466700000005
 longitude: 14.2755708
-postcode: 01904
+postcode: "01904"
 city: Neukirch/Lausitz
 street: "Dresdener Straße"
 housenumber: 37

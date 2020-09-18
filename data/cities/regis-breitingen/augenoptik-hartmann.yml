@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.0947583
 longitude: 12.440338
-postcode: 04565
+postcode: "04565"
 city: Regis-Breitingen
 street: "Deutzener Straße"
 housenumber: 37

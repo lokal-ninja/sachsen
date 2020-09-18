@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.0812059
 longitude: 13.71311
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Dreyßigplatz"
 housenumber: 3

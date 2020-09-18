@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.5994162
 longitude: 13.309724600000001
-postcode: 09496
+postcode: "09496"
 city: Marienberg
 street: "Olbernhauer Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0142339
 longitude: 13.7239471
-postcode: 01217
+postcode: "01217"
 city: Dresden
 street: "Altkaitz"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.812680300000004
 longitude: 12.8646536
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Clemens-Winkler-Straße"
 housenumber: 6b

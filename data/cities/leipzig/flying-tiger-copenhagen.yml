@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.343264500000004
 longitude: 12.375628200000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Brühl"
 housenumber: 1

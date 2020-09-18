@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8312049
 longitude: 12.9444525
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Adelsbergstraße"
 housenumber: 32

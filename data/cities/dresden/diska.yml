@@ -1,9 +1,9 @@
 id: 370038410
 type: node
 shop: Supermarkt
-latitude: 51.0569295
-longitude: 13.771946600000001
-postcode: 01307
+latitude: 51.0569244
+longitude: 13.772009700000002
+postcode: "01307"
 city: Dresden
 street: "Pfotenhauerstraße"
 housenumber: 64

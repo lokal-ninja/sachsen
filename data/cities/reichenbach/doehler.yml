@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.6247819
 longitude: 12.2940129
-postcode: 08468
+postcode: "08468"
 city: Reichenbach
 street: "Dr.-Külz-Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.1715499
 longitude: 12.2867443
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Audigast"
 housenumber: 60

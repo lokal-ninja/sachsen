@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.428384300000005
 longitude: 14.2385596
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Kamenzer Bogen"
 housenumber: 3

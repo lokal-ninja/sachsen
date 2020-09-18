@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 51.127481
 longitude: 12.506252900000002
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Geschwister-Scholl-Straße"
 housenumber: 12-14
-phone: "+49 3433 2490"
-opening_hours: ""
-website: "https://www.amb-autowelt.de/"
+phone: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00; Su,PH off"
+website: ""

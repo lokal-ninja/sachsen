@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.822841000000004
 longitude: 12.9367579
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Gutenbergstraße"
 housenumber: 4

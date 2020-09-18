@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1489337
 longitude: 15.0070069
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Warszawska"
 housenumber: 4

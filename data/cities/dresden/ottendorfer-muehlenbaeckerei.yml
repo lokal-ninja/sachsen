@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.118005600000004
 longitude: 13.723452
-postcode: 01109
+postcode: "01109"
 city: Dresden
 street: "Keulenbergstraße"
 housenumber: 44

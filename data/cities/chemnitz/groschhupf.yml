@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.843505300000004
 longitude: 12.903166500000001
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Winklerstraße"
 housenumber: 1

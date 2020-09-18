@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.0187949
 longitude: 12.5738585
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Am Teichdamm"
 housenumber: 3

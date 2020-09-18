@@ -1,12 +1,12 @@
-id: 94094550
-type: node
+id: 39130734
+type: way
 shop: Allgemein
-latitude: 51.0925037
-longitude: 13.6705061
-postcode: 01139
+latitude: 51.09451120000001
+longitude: 13.7357081
+postcode: "01129"
 city: Dresden
-street: "Kötzschenbroder Straße"
-housenumber: 193
+street: "Radeburger Straße"
+housenumber: 50
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00; Su, PH 07:00-20:00"
+opening_hours: "24/7"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.331023200000004
 longitude: 12.3732512
-postcode: 04107
+postcode: "04107"
 city: Leipzig
 street: "Karl-Liebknecht-Straße"
 housenumber: 4

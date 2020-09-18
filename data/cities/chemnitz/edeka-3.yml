@@ -1,12 +1,12 @@
-id: 87237918
-type: way
+id: 7825757362
+type: node
 shop: Supermarkt
-latitude: 50.8302476
-longitude: 12.8950385
-postcode: 09112
+latitude: 50.8227648
+longitude: 12.940449200000002
+postcode: "09126"
 city: Chemnitz
-street: "Weststraße"
-housenumber: 77
+street: "Jahnstraße"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Fr 7:00-20:00, Sa 7:00-16:00"
 website: ""

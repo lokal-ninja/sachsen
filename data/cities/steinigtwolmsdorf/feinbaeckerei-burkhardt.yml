@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.0767996
 longitude: 14.3621095
-postcode: 01904
+postcode: "01904"
 city: Steinigtwolmsdorf
 street: "Wiesenstraße"
 housenumber: 7

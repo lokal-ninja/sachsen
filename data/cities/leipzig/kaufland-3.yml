@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3506963
 longitude: 12.476584500000001
-postcode: 04329
+postcode: "04329"
 city: Leipzig
 street: "Paunsdorfer Allee"
 housenumber: 1

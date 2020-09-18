@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4389515
 longitude: 14.261379900000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Lausitzer Platz"
 housenumber: 1a

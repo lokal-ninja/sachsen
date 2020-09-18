@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.8928802
 longitude: 14.810419800000002
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Ottokarplatz"
 housenumber: 10

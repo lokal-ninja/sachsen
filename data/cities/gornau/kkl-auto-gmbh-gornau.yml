@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7591667
 longitude: 13.0496642
-postcode: 09405
+postcode: "09405"
 city: Gornau
 street: "Waldkirchener Straße"
 housenumber: 2

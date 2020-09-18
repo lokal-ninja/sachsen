@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.1529809
 longitude: 14.089431000000001
-postcode: 01900
+postcode: "01900"
 city: Großröhrsdorf
 street: "Hauptstraße"
 housenumber: 53

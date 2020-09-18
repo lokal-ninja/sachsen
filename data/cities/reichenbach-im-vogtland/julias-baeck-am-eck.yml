@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6204181
 longitude: 12.301588
-postcode: 08468
+postcode: "08468"
 city: Reichenbach im Vogtland
 street: ""
 housenumber: 

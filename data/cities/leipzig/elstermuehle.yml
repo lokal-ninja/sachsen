@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 51.3380528
 longitude: 12.36091
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Käthe-Kollwitz-Straße"
 housenumber: 67a

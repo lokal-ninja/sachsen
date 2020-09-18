@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.8318414
 longitude: 12.5177434
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Meeraner Straße"
 housenumber: 106

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0467913
 longitude: 13.691251900000001
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Braunsdorfer Straße"
 housenumber: 21

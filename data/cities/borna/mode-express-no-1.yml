@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1238455
 longitude: 12.499226700000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Reichsstraße"
 housenumber: 17

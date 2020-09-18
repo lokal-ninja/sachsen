@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.061710500000004
 longitude: 13.831477300000001
-postcode: 01324
+postcode: "01324"
 city: Dresden
 street: "Bautzner Landstraße"
 housenumber: 64

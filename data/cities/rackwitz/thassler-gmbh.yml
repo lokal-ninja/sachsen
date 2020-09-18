@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4298432
 longitude: 12.3692556
-postcode: 04519
+postcode: "04519"
 city: Rackwitz
 street: "Kömmlitzer Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.036757900000005
 longitude: 14.5308492
-postcode: 02742
+postcode: "02742"
 city: Neusalza-Spremberg
 street: "Obermarkt"
 housenumber: 3

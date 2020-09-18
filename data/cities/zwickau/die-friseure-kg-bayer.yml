@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.726741100000005
 longitude: 12.5102673
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Hans-Ackermann-Weg"
 housenumber: 6
 phone: ""
-opening_hours: ""
+opening_hours: "Mo 08:30-12:00; Tu-Fr 08:30-18:00; Sa 08:30-12:00"
 website: ""

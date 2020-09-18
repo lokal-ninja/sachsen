@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.813647700000004
 longitude: 12.9711189
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Mickiewiczstraße"
 housenumber: 14

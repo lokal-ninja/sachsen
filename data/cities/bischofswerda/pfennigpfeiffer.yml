@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.137203400000004
 longitude: 14.191097500000001
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Carl-Maria-von-Weber-Straße"
 housenumber: 18

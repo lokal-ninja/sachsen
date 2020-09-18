@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.3038322
 longitude: 12.4251819
-postcode: 04289
+postcode: "04289"
 city: Leipzig
 street: "Prager Straße"
 housenumber: 278a

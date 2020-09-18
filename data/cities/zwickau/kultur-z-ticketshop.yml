@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 50.7071131
 longitude: 12.4961637
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Äußere Schneeberger Straße"
 housenumber: 100

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.2075952
 longitude: 12.3253769
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Bornaer Straße"
 housenumber: 1
 phone: "+49 34203 629673"
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
-website: "http://www.netto-online.de"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+website: ""

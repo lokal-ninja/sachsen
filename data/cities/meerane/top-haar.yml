@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.84939120000001
 longitude: 12.4664213
-postcode: 08393
+postcode: "08393"
 city: Meerane
 street: "Marienstraße"
 housenumber: 30

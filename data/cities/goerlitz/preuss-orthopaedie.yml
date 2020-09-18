@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.149751800000004
 longitude: 14.981518300000001
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Salomonstraße"
 housenumber: 39

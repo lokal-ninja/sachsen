@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.288642100000004
 longitude: 13.4937033
-postcode: 01558
+postcode: "01558"
 city: Großenhain
 street: "Riesaer Straße"
 housenumber: 50

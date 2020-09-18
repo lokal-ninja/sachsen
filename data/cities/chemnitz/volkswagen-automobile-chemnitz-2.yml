@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.867291900000005
 longitude: 12.857035900000001
-postcode: 09247
+postcode: "09247"
 city: Chemnitz
 street: "Röhrsdorfer Allee"
 housenumber: 8

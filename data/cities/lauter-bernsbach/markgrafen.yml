@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.574209
 longitude: 12.7741182
-postcode: 08315
+postcode: "08315"
 city: Lauter-Bernsbach
 street: "Beierfelder Straße"
 housenumber: 

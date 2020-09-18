@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.1634156
 longitude: 13.4739298
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Gerbergasse"
 housenumber: 2

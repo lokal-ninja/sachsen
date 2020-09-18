@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1432884
 longitude: 13.798898000000001
-postcode: 01108
+postcode: "01108"
 city: Dresden
 street: "August-Wagner-Straße"
 housenumber: 1

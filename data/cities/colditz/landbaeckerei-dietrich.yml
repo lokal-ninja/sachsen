@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.12939840000001
 longitude: 12.8055105
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Markt"
 housenumber: 13

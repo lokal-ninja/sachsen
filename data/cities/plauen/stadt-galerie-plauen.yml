@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.495544100000004
 longitude: 12.137741400000001
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Postplatz"
 housenumber: 1

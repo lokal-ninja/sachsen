@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.7369434
 longitude: 12.747068200000001
-postcode: 09385
+postcode: "09385"
 city: Lugau
 street: "Stollberger Straße"
 housenumber: 10

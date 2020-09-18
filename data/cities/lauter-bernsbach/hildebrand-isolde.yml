@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.573884
 longitude: 12.771806300000001
-postcode: 08315
+postcode: "08315"
 city: Lauter-Bernsbach
 street: "Lauterer Straße"
 housenumber: 19

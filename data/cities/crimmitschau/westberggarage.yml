@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8097414
 longitude: 12.372174300000001
-postcode: 08451
+postcode: "08451"
 city: Crimmitschau
 street: "Neukirchener Straße"
 housenumber: 2

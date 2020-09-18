@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9219822
 longitude: 12.715493400000002
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Chemnitzer Straße"
 housenumber: 102

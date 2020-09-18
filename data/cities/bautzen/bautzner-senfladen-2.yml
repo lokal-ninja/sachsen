@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.181077300000005
 longitude: 14.422273500000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Heringstraße"
 housenumber: 13

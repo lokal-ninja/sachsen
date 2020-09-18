@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 51.101999500000005
 longitude: 13.243046300000001
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Rüsseinaer Straße"
 housenumber: 5b

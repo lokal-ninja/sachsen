@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 50.6924536
 longitude: 12.4731915
-postcode: 08062
+postcode: "08062"
 city: Zwickau
 street: "Innere Zwickauer Straße"
 housenumber: 54
 phone: "+49 375 5950154"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-17:00"
 website: "http://www.beautydream-unger.de"

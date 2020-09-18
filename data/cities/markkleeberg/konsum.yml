@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.277196
 longitude: 12.3978555
-postcode: 04416
+postcode: "04416"
 city: Markkleeberg
 street: "Arndtstraße"
 housenumber: 2

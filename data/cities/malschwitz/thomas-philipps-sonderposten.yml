@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2228969
 longitude: 14.469550600000002
-postcode: 02694
+postcode: "02694"
 city: Malschwitz
 street: "Gewerbepark"
 housenumber: 3

@@ -3,10 +3,10 @@ type: way
 shop: Sanitätshaus
 latitude: 50.7371739
 longitude: 12.4901254
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Leipziger Straße"
 housenumber: 160
-phone: "0375883030"
+phone: "+49 375 883030"
 opening_hours: "Mo-Fr 09:00-18:00"
 website: "https://www.alippi.de/"

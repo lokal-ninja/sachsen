@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.152421700000005
 longitude: 14.3934966
-postcode: 02692
+postcode: "02692"
 city: Doberschau-Gaußig
 street: "Alter Dorfplatz"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0717676
 longitude: 13.7401794
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Hansastraße"
 housenumber: 50

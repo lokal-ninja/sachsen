@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1606777
 longitude: 13.486846600000002
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Zaschendorfer Straße"
 housenumber: 10

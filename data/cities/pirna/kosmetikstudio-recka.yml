@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9699219
 longitude: 13.935455600000001
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Schillerstraße"
 housenumber: 4

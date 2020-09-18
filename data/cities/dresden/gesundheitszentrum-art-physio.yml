@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.0569251
 longitude: 13.7272458
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Maxstraße"
 housenumber: 6

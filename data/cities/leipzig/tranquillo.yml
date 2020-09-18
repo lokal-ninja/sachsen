@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3422634
 longitude: 12.377982900000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Nikolaistraße"
 housenumber: 

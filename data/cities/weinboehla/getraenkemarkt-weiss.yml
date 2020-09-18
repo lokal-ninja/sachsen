@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.168883300000005
 longitude: 13.564383900000001
-postcode: 01689
+postcode: "01689"
 city: Weinböhla
 street: "Großenhainer Straße"
 housenumber: 52

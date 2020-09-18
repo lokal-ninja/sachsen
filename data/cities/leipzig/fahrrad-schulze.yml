@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3777855
 longitude: 12.4210952
-postcode: 04357
+postcode: "04357"
 city: Leipzig
 street: "Kieler Straße"
 housenumber: 16

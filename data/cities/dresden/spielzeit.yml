@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.064573800000005
 longitude: 13.752954200000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Rothenburger Straße"
 housenumber: 24

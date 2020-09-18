@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.843930400000005
 longitude: 12.536854600000002
-postcode: 08373
+postcode: "08373"
 city: Remse
 street: "Lipprandiser Straße"
 housenumber: 27

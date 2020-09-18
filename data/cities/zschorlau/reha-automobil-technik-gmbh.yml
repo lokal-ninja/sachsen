@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.562208000000005
 longitude: 12.6354225
-postcode: 08321
+postcode: "08321"
 city: Zschorlau
 street: "Am Kuchenhaus"
 housenumber: 18

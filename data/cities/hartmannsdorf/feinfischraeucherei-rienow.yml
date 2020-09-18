@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 50.895112700000006
 longitude: 12.7871514
-postcode: 09232
+postcode: "09232"
 city: Hartmannsdorf
 street: "Niederfrohnaer Weg"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Musik
 latitude: 50.747609600000004
 longitude: 12.755115100000001
-postcode: 09385
+postcode: "09385"
 city: Lugau
 street: "Chemnitzer Straße"
 housenumber: 41

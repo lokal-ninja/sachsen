@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.1223935
 longitude: 12.4987761
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Mühlgasse"
 housenumber: 48

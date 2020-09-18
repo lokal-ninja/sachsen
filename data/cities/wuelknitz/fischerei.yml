@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.3920648
 longitude: 13.4041463
-postcode: 01609
+postcode: "01609"
 city: Wülknitz
 street: "Fischergasse"
 housenumber: 10

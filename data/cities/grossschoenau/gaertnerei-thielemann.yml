@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.894265000000004
 longitude: 14.6635621
-postcode: 02779
+postcode: "02779"
 city: Großschönau
 street: "Prof.-Krumbholz-Straße"
 housenumber: 9

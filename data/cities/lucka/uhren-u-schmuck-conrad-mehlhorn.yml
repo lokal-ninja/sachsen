@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 51.09889020000001
 longitude: 12.331682
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Pegauer Straße"
 housenumber: 9

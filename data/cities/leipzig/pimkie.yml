@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.348075400000006
 longitude: 12.477723600000001
-postcode: 04329
+postcode: "04329"
 city: Leipzig
 street: "Paunsdorfer Allee"
 housenumber: 1

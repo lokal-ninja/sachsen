@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.1930289
 longitude: 12.3793591
-postcode: 04564
+postcode: "04564"
 city: Böhlen
 street: "Werkstraße"
 housenumber: 38

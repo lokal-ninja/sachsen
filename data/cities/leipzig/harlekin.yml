@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.334751600000004
 longitude: 12.3710129
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Martin-Luther-Ring"
 housenumber: 5

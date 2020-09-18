@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8283014
 longitude: 12.8972247
-postcode: 09112
+postcode: "09112"
 city: Chemnitz
 street: "Hoffmannstraße"
 housenumber: 33

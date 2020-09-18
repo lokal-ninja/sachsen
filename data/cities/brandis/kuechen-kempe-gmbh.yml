@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.3298714
 longitude: 12.574587000000001
-postcode: 04824
+postcode: "04824"
 city: Brandis
 street: "Lindenring"
 housenumber: 85

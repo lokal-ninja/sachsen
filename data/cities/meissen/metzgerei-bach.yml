@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.161225300000005
 longitude: 13.471594600000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Neugasse"
 housenumber: 6

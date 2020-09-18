@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.902480800000006
 longitude: 14.8137623
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Gubenstraße"
 housenumber: 33

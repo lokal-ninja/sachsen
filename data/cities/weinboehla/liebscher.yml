@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.152973700000004
 longitude: 13.566476300000001
-postcode: 01689
+postcode: "01689"
 city: Weinböhla
 street: "Dresdner Straße"
 housenumber: 61

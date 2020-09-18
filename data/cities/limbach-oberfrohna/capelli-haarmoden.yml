@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.850773000000004
 longitude: 12.7730454
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Siedlung am Friedhof"
 housenumber: 12
-phone: "03722600045"
-opening_hours: "Di-Fr 08:00-19:00"
+phone: "+49 3722600045"
+opening_hours: "Tu-Fr 08:00-19:00"
 website: "https://mycapelli.de"

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5906919
 longitude: 12.461846300000001
-postcode: 04509
+postcode: "04509"
 city: Löbnitz
 street: "Zschernweg"
 housenumber: 2

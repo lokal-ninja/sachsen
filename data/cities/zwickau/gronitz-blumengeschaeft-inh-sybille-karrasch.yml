@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.7208331
 longitude: 12.4650549
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Goethestraße"
 housenumber: 13

@@ -2,8 +2,8 @@ id: 1625824080
 type: node
 shop: Autohaus
 latitude: 51.007436500000004
-longitude: 13.6516386
-postcode: 01705
+longitude: 13.651638
+postcode: "01705"
 city: Freital
 street: "Lutherstraße"
 housenumber: 14

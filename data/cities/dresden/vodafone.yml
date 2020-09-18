@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.0437048
 longitude: 13.6988596
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Kesselsdorfer Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.3367115
 longitude: 12.374830900000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Markgrafenstraße"
 housenumber: 2

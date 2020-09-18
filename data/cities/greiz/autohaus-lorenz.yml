@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6366103
 longitude: 12.192590000000001
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Plauensche Straße"
 housenumber: 6a

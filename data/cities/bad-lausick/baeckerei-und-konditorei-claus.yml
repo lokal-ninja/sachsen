@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.142613100000005
 longitude: 12.654521800000001
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
 street: "Erich-Weinert-Straße"
 housenumber: 5B

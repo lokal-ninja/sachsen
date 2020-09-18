@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.1167479
 longitude: 13.922238
-postcode: 01454
+postcode: "01454"
 city: Radeberg
 street: "Pirnaer Straße"
 housenumber: 21

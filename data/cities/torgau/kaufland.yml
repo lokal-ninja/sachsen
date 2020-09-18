@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5633883
 longitude: 12.970574500000001
-postcode: 04860
+postcode: "04860"
 city: Torgau
 street: "Außenring"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 51.169723000000005
 longitude: 13.142862500000001
-postcode: 04720
+postcode: "04720"
 city: Zschaitz-Ottewig
 street: "Am Wolfsgut"
 housenumber: 1

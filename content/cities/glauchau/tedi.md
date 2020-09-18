@@ -1,4 +1,4 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /glauchau/tedi/
 ---

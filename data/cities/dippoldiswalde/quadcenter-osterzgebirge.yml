@@ -3,7 +3,7 @@ type: node
 shop: Quad
 latitude: 50.8614497
 longitude: 13.6651693
-postcode: 01744
+postcode: "01744"
 city: Dippoldiswalde
 street: "Dresdner Straße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.965857400000004
 longitude: 12.943773400000001
-postcode: 09648
+postcode: "09648"
 city: Altmittweida
 street: "Hauptstraße"
 housenumber: 102a

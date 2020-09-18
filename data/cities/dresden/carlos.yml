@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.071288
 longitude: 13.7493721
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Bischofsweg"
 housenumber: 4

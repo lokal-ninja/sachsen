@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.831659200000004
 longitude: 12.5180919
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Meeraner Straße"
 housenumber: 57

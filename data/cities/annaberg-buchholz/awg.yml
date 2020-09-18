@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.5980738
 longitude: 13.020953
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Gewerbering"
 housenumber: 2

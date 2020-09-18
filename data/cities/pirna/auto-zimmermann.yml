@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.956943200000005
 longitude: 13.903647600000001
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Heidenauer Straße"
 housenumber: 104

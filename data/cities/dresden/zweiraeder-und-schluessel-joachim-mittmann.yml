@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.085440500000004
 longitude: 13.630941700000001
-postcode: 01156
+postcode: "01156"
 city: Dresden
 street: "Bahnhofstraße"
 housenumber: 8

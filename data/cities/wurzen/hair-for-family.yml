@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.367788000000004
 longitude: 12.740506900000002
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Kantstraße"
 housenumber: 8

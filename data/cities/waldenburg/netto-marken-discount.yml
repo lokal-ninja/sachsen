@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.870771100000006
 longitude: 12.6100738
-postcode: 08396
+postcode: "08396"
 city: Waldenburg
 street: "Bahnhofstraße"
 housenumber: 25
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
 website: ""

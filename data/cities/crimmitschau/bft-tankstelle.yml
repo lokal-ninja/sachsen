@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.814068500000005
 longitude: 12.388852900000002
-postcode: 08451
+postcode: "08451"
 city: Crimmitschau
 street: "Friedrich-August-Straße"
 housenumber: 2c

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0681822
 longitude: 13.761511400000002
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Bischofsweg"
 housenumber: 31

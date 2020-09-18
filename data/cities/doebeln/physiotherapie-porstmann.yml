@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.1225193
 longitude: 13.123298
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Obermarkt"
 housenumber: 20

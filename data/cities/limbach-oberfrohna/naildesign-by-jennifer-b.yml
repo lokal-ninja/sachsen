@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 50.855206900000006
 longitude: 12.770442000000001
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Ingelheimer Straße"
 housenumber: 9
-phone: "03722 7982525"
+phone: "+49 3722 7982525"
 opening_hours: "Mo-Fr 09:00-15:00"
 website: ""

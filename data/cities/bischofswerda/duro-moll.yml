@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.1246823
 longitude: 14.1797175
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Stolpener Straße"
 housenumber: 11

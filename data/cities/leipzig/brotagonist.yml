@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.359848400000004
 longitude: 12.3856435
-postcode: 04129
+postcode: "04129"
 city: Leipzig
 street: "Wittenberger Straße"
 housenumber: 25

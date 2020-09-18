@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.987771
 longitude: 13.177883000000001
-postcode: 09661
+postcode: "09661"
 city: Striegistal
 street: "Richard-Witzsch-Straße"
 housenumber: 42

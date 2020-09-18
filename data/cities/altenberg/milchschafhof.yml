@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.8077854
 longitude: 13.7741482
-postcode: 01773
+postcode: "01773"
 city: Altenberg
 street: "Feilenweg"
 housenumber: 3

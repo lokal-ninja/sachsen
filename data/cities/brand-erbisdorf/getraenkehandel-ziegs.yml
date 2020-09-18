@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.869156200000006
 longitude: 13.323197700000001
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Schillerplatz"
 housenumber: 2

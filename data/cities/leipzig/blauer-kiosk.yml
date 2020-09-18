@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.369042900000004
 longitude: 12.3766665
-postcode: 04157
+postcode: "04157"
 city: Leipzig
 street: "Virchowstraße"
 housenumber: 28

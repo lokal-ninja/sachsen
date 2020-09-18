@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.0162862
 longitude: 12.5589837
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Gewerbegebiet Nord"
 housenumber: 1

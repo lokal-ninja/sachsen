@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.6902291
 longitude: 12.5519148
-postcode: 08141
+postcode: "08141"
 city: Reinsdorf
 street: "Am Feldschlösschen"
 housenumber: 1

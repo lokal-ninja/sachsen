@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.6646403
 longitude: 13.333880200000001
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Freiberger Straße"
 housenumber: 38

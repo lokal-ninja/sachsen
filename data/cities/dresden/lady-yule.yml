@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0682916
 longitude: 13.753217300000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Alaunstraße"
 housenumber: 70

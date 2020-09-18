@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8747915
 longitude: 13.327200300000001
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Dr.-Wilhelm-Külz-Straße"
 housenumber: 92

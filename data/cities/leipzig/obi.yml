@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3032407
 longitude: 12.424567000000001
-postcode: 04289
+postcode: "04289"
 city: Leipzig
 street: "Chemnitzer Straße"
 housenumber: 6

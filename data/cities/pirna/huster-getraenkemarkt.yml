@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.9806376
 longitude: 13.9270826
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Äußere Pillnitzer Straße"
 housenumber: 18

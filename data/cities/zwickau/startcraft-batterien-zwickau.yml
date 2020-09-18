@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.7135842
 longitude: 12.498672200000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Amalienstraße"
 housenumber: 1a

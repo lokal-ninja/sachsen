@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.9354826
 longitude: 12.7038705
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Dittmannsdorfer Straße"
 housenumber: 1

@@ -1,12 +1,12 @@
-id: 731252248
-type: way
+id: 6035103439
+type: node
 shop: Drogerie
-latitude: 51.0353216
-longitude: 13.785285600000002
-postcode: 01277
+latitude: 51.050242700000005
+longitude: 13.661726900000001
+postcode: "01169"
 city: Dresden
-street: "Zwinglistraße"
-housenumber: 44
+street: "Harthaer Straße"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-14:00; PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

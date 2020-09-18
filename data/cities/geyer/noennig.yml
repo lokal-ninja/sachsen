@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6250024
 longitude: 12.9232586
-postcode: 09468
+postcode: "09468"
 city: Geyer
 street: "Straße der Freundschaft"
 housenumber: 8

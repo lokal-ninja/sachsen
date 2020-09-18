@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.0549538
 longitude: 13.689348200000001
-postcode: 01157
+postcode: "01157"
 city: Dresden
 street: "Klopstockstraße"
 housenumber: 5

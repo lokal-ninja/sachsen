@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 50.452395900000006
 longitude: 12.363464800000001
-postcode: 08223
+postcode: "08223"
 city: Grünbach
 street: "Falkensteiner Straße"
 housenumber: 20

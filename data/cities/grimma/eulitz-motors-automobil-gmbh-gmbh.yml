@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.256617500000004
 longitude: 12.722865200000001
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Hengstbergstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3594152
 longitude: 12.6226696
-postcode: 04827
+postcode: "04827"
 city: Machern
 street: "Neumarkt"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.6962538
 longitude: 12.461141600000001
-postcode: 08062
+postcode: "08062"
 city: Zwickau
 street: "Marchlewskistraße"
 housenumber: 1

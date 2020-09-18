@@ -1,4 +1,0 @@
----
-title: "Autoglas Schmalz"
-url: /chemnitz/autoglas-schmalz-2/
----

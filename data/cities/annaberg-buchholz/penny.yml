@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5748211
 longitude: 13.010215
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Große Kirchgasse"
 housenumber: 67

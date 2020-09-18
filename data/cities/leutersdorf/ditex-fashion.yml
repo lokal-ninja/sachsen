@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9510579
 longitude: 14.6624899
-postcode: 02794
+postcode: "02794"
 city: Leutersdorf
 street: "An der Zeile"
 housenumber: 15

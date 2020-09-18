@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.335792000000005
 longitude: 12.406114
-postcode: 04317
+postcode: "04317"
 city: Leipzig
 street: "Täubchenweg"
 housenumber: 84

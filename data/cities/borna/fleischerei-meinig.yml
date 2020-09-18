@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.124218400000004
 longitude: 12.503282200000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Königsstraße"
 housenumber: 2

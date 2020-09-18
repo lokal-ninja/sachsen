@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.7067993
 longitude: 12.5031063
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Am Krebsgraben"
 housenumber: 6

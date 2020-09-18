@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.075146600000004
 longitude: 13.684659400000001
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Marie-Curie-Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.218636700000005
 longitude: 13.718135
-postcode: 01471
+postcode: "01471"
 city: Radeburg
 street: "Großenhainer Straße"
 housenumber: 58

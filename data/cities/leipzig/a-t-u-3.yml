@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.347652100000005
 longitude: 12.4731158
-postcode: 04328
+postcode: "04328"
 city: Leipzig
 street: "Schongauerstraße"
 housenumber: 27

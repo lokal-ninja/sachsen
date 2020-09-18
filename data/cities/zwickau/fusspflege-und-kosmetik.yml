@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.718853900000006
 longitude: 12.4591591
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Mörikestraße"
 housenumber: 6

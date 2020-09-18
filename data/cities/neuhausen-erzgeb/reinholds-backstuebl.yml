@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6736809
 longitude: 13.4661521
-postcode: 09544
+postcode: "09544"
 city: Neuhausen/Erzgeb.
 street: "Brüxer Straße"
 housenumber: 4

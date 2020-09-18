@@ -1,12 +1,12 @@
-id: 57744526
-type: way
+id: 7557516001
+type: node
 shop: Kramladen
-latitude: 50.6420923
-longitude: 12.817790200000001
-postcode: 08297
+latitude: 50.642086400000004
+longitude: 12.818195500000002
+postcode: "08297"
 city: Zwönitz
 street: "Wehrgasse"
-housenumber: 1c
+housenumber: 1C
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1490408
 longitude: 13.796856
-postcode: 01108
+postcode: "01108"
 city: Dresden
 street: "Altgomlitz"
 housenumber: 15

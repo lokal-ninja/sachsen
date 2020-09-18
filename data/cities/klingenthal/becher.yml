@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.3595917
 longitude: 12.470067700000001
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Auerbacher Straße"
 housenumber: 42

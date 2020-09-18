@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0540438
 longitude: 13.781145400000002
-postcode: 01307
+postcode: "01307"
 city: Dresden
 street: "Fiedlerstraße"
 housenumber: 36

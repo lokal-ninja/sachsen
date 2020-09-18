@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.961948500000005
 longitude: 13.9395634
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Schmiedestraße"
 housenumber: 32

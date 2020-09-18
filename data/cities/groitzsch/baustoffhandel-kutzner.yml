@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.1281667
 longitude: 12.284808100000001
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Nöthnitz"
 housenumber: 35

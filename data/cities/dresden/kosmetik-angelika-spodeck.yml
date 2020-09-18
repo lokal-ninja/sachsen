@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.023065300000006
 longitude: 13.813404100000001
-postcode: 01237
+postcode: "01237"
 city: Dresden
 street: "Basedowstraße"
 housenumber: 16

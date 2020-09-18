@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.281848800000006
 longitude: 12.9421388
-postcode: 04779
+postcode: "04779"
 city: Wermsdorf
 street: "Clara-Zetkin-Straße"
 housenumber: 15

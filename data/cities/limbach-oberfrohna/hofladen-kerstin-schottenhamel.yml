@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.8482173
 longitude: 12.7130384
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Feldstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 50.7244174
 longitude: 12.472183000000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Herschelstraße"
 housenumber: 13

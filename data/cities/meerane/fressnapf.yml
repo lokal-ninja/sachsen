@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.839662100000005
 longitude: 12.447547400000001
-postcode: 08393
+postcode: "08393"
 city: Meerane
 street: "Guteborner Allee"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.767092100000006
 longitude: 13.756265500000001
-postcode: 01773
+postcode: "01773"
 city: Altenberg
 street: "Hirschsprunger Straße"
 housenumber: 11

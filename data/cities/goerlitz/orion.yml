@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 51.1692855
 longitude: 14.971246200000001
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Nieskyer Straße"
 housenumber: 100

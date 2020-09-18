@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1685158
 longitude: 14.426141200000002
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Neusalzaer Straße"
 housenumber: 41

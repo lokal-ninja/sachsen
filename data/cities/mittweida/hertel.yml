@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9868992
 longitude: 12.9813772
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Frankenberger Straße"
 housenumber: 1

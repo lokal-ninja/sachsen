@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.5139611
 longitude: 12.521474300000001
-postcode: 08304
+postcode: "08304"
 city: Schönheide
 street: "Neuheider Straße"
 housenumber: 75

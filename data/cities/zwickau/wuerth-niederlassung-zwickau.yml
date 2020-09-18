@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.7381648
 longitude: 12.4798971
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Alfred-Schön-Allee"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6557411
 longitude: 12.768674200000001
-postcode: 08294
+postcode: "08294"
 city: Lößnitz
 street: "Am Katzenstein"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1024012
 longitude: 13.4884757
-postcode: 01665
+postcode: "01665"
 city: Klipphausen
 street: "Wilsdruffer Chaussee"
 housenumber: 36

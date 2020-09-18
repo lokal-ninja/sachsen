@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.541175200000005
 longitude: 12.1370485
-postcode: 08547
+postcode: "08547"
 city: Plauen
 street: "Bahnhofstraße"
 housenumber: 17

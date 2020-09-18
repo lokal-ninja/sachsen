@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.127155800000004
 longitude: 12.503641100000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Leipziger Straße"
 housenumber: 24

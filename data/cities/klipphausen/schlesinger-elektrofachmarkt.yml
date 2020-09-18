@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.065472
 longitude: 13.391591600000002
-postcode: 01665
+postcode: "01665"
 city: Klipphausen
 street: "Rittergut"
 housenumber: 1

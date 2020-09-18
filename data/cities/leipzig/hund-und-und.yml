@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.332522600000004
 longitude: 12.3372676
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Birkenstraße"
 housenumber: 32

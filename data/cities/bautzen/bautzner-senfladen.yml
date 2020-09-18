@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.181836200000006
 longitude: 14.423337400000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Fleischmarkt"
 housenumber: 5

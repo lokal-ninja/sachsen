@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.198584100000005
 longitude: 14.059100500000001
-postcode: 01920
+postcode: "01920"
 city: Steina
 street: "Elstraer Straße"
 housenumber: 10

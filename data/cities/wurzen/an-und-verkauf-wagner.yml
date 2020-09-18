@@ -3,7 +3,7 @@ type: way
 shop: Staubsauger
 latitude: 51.3690456
 longitude: 12.7344419
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Domgasse"
 housenumber: 7

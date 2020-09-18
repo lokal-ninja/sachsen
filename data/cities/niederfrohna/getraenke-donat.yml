@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.8694591
 longitude: 12.750442000000001
-postcode: 09243
+postcode: "09243"
 city: Niederfrohna
 street: "Limbacher Straße"
 housenumber: 81a

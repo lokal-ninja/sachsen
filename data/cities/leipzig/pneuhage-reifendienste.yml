@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.366207100000004
 longitude: 12.436911700000001
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Stöhrerstraße"
 housenumber: 23

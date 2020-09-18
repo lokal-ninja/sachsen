@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 50.9170924
 longitude: 13.342071
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Obermarkt"
 housenumber: 12

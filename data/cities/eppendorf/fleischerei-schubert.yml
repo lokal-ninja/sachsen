@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7989849
 longitude: 13.227957700000001
-postcode: 09575
+postcode: "09575"
 city: Eppendorf
 street: "Borstendorfer Straße"
 housenumber: 3

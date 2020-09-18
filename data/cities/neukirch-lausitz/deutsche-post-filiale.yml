@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 51.093237300000006
 longitude: 14.3145985
-postcode: 01904
+postcode: "01904"
 city: Neukirch/Lausitz
 street: "Hauptstraße"
 housenumber: 23

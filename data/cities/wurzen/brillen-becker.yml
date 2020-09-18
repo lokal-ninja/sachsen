@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.3701865
 longitude: 12.7372951
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Jacobsgasse"
 housenumber: 21

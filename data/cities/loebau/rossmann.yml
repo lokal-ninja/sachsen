@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.0988611
 longitude: 14.668181200000001
-postcode: 02708
+postcode: "02708"
 city: Löbau
 street: "Sachsenstraße"
 housenumber: 4

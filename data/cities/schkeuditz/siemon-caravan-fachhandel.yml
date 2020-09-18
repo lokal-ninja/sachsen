@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.34924
 longitude: 12.2032489
-postcode: 04435
+postcode: "04435"
 city: Schkeuditz
 street: "Westringstraße"
 housenumber: 195

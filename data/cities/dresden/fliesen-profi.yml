@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 51.0797394
 longitude: 13.6903444
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Washingtonstraße"
 housenumber: 8

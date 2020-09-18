@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.012478800000004
 longitude: 13.794757700000002
-postcode: 01237
+postcode: "01237"
 city: Dresden
 street: "Lübbenauer Straße"
 housenumber: 10

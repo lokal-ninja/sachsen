@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.084854500000006
 longitude: 13.696104100000001
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Peschelstraße"
 housenumber: 33

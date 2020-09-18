@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.044208000000005
 longitude: 13.735957200000001
-postcode: 01069
+postcode: "01069"
 city: Dresden
 street: "Prager Straße"
 housenumber: 4

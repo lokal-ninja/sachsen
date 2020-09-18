@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.300259800000006
 longitude: 12.3971269
-postcode: 04279
+postcode: "04279"
 city: Leipzig
 street: "Zwickauer Straße"
 housenumber: 129

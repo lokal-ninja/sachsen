@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3414214
 longitude: 12.3613263
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Elsterstraße"
 housenumber: 51

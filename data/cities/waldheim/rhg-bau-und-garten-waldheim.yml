@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.0822445
 longitude: 12.998698000000001
-postcode: 04736
+postcode: "04736"
 city: Waldheim
 street: "Mendener Weg"
 housenumber: 9

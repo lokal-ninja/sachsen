@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4643567
 longitude: 12.2703319
-postcode: 04509
+postcode: "04509"
 city: Wiedemar
 street: "Leipziger Straße"
 housenumber: 35b

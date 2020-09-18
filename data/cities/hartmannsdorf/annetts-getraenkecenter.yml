@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.885187300000005
 longitude: 12.789433500000001
-postcode: 09232
+postcode: "09232"
 city: Hartmannsdorf
 street: "Limbacher Straße"
 housenumber: 22B

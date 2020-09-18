@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.07419470000001
 longitude: 13.699070500000001
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Scharfenberger Straße"
 housenumber: 17

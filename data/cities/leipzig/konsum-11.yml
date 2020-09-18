@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3307019
 longitude: 12.3733784
-postcode: 04107
+postcode: "04107"
 city: Leipzig
 street: "Karl-Liebknecht-Straße"
 housenumber: 6b

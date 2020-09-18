@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8920656
 longitude: 14.8108391
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Friedensstraße"
 housenumber: 16

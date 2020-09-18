@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 50.7389998
 longitude: 12.4956318
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Angerstraße"
 housenumber: 30

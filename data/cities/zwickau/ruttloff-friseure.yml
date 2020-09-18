@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.719000300000005
 longitude: 12.4528776
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Marienthaler Straße"
 housenumber: 143

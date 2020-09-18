@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8755165
 longitude: 13.5249234
-postcode: 01774
+postcode: "01774"
 city: Klingenberg
 street: "Dresdner Straße"
 housenumber: 48a

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7581336
 longitude: 13.7651909
-postcode: 01773
+postcode: "01773"
 city: Altenberg
 street: "Zinnwalder Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.552648100000006
 longitude: 12.9897997
-postcode: 04860
+postcode: "04860"
 city: Torgau
 street: "Röhrweg"
 housenumber: 23

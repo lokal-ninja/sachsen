@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.718935300000005
 longitude: 12.461549300000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Windbergstraße"
 housenumber: 2

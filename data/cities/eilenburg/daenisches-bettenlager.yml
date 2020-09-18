@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 51.4665253
 longitude: 12.6563855
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Wurzener Straße"
 housenumber: 5
-phone: "+49 3423 7586500"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-13:00"
+phone: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off"
 website: ""

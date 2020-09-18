@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7501089
 longitude: 12.2397843
-postcode: 08428
+postcode: "08428"
 city: Langenbernsdorf
 street: "Zur Eichleithe"
 housenumber: 10

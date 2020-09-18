@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9577467
 longitude: 13.937130100000001
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Königsteiner Straße"
 housenumber: 5

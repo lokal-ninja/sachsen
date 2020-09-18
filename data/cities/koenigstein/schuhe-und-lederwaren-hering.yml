@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.918608000000006
 longitude: 14.072610800000001
-postcode: 01824
+postcode: "01824"
 city: Königstein
 street: "Pirnaer Straße"
 housenumber: 7

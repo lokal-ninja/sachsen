@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.5190034
 longitude: 12.3830916
-postcode: 08209
+postcode: "08209"
 city: Auerbach
 street: "Göltzschtalblick"
 housenumber: 4

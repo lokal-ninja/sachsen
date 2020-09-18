@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 51.1947022
 longitude: 13.617261000000001
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Bruchwiesenweg"
 housenumber: 18

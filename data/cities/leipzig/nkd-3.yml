@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.329440600000005
 longitude: 12.3366872
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Zschochersche Straße"
 housenumber: 48

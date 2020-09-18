@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.533611900000004
 longitude: 12.7694393
-postcode: 08340
+postcode: "08340"
 city: Schwarzenberg/Erzgebirge
 street: "Am Lindengarten"
 housenumber: 2

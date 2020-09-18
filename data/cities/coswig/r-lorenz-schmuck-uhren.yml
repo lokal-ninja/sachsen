@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 51.1285846
 longitude: 13.5804921
-postcode: 01640
+postcode: "01640"
 city: Coswig
 street: "Hauptstraße"
 housenumber: 35

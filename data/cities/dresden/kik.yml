@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.027595700000006
 longitude: 13.759936900000001
-postcode: 01219
+postcode: "01219"
 city: Dresden
 street: "Lockwitzer Straße"
 housenumber: 1

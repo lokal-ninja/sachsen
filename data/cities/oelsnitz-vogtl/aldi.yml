@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.424828500000004
 longitude: 12.1710612
-postcode: 08606
+postcode: "08606"
 city: Oelsnitz/Vogtl.
 street: "Willy-Brandt-Ring"
 housenumber: 2

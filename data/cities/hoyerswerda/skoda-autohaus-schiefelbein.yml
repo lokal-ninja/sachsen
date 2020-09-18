@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4503677
 longitude: 14.219154300000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Nardter Weg"
 housenumber: 1

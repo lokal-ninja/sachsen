@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.0244325
 longitude: 14.229923000000001
-postcode: 01844
+postcode: "01844"
 city: Neustadt in Sachsen
 street: "Sebnitzer Straße"
 housenumber: 50

@@ -1,9 +1,9 @@
 id: 1332028718
 type: node
-shop: Motorrad
+shop: Kleidung
 latitude: 51.376602600000005
 longitude: 12.392494800000001
-postcode: 04129
+postcode: "04129"
 city: Leipzig
 street: "Essener Straße"
 housenumber: 11

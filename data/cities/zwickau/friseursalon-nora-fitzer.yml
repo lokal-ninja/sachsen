@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.7197054
 longitude: 12.465267
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Goethestraße"
 housenumber: 3
-phone: "(03 75) 57 20 20"
+phone: "+49 375 57 20 20"
 opening_hours: "Mo,Sa 08:00-12:00, Tu-Fr 08:00-18:00"
 website: ""

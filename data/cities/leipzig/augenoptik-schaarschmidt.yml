@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.3312858
 longitude: 12.333980500000001
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Karl-Heine-Straße"
 housenumber: 67

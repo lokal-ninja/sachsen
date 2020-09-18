@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 50.720344000000004
 longitude: 12.469833300000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Lerschstraße"
 housenumber: 2

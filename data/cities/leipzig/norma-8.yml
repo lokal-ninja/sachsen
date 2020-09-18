@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.325243400000005
 longitude: 12.4089171
-postcode: 04317
+postcode: "04317"
 city: Leipzig
 street: "Stötteritzer Straße"
 housenumber: 38

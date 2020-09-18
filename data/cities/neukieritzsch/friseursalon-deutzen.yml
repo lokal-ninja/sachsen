@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.1111474
 longitude: 12.426738400000001
-postcode: 04575
+postcode: "04575"
 city: Neukieritzsch
 street: "Am Markt"
 housenumber: 2

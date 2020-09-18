@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.831859
 longitude: 12.901352000000001
-postcode: 09112
+postcode: "09112"
 city: Chemnitz
 street: "Barbarossastraße"
 housenumber: 39

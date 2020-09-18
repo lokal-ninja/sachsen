@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8649374
 longitude: 13.1772027
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Freiberger Straße"
 housenumber: 31

@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 50.8615153
 longitude: 13.167393800000001
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Markt"
 housenumber: 10
-phone: "+49 37292 4974"
-opening_hours: "Mo-Fr 08:30-18:00,Sa 08:30-12:00"
-website: "http://herrenausstatter-bellmann.de/"
+phone: ""
+opening_hours: "Mo-Fr 08:30-18:00,Sa 08:30-12:00; Su,PH off"
+website: ""

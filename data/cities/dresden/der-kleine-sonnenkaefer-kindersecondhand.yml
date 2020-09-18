@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.046429700000004
 longitude: 13.7924872
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Wittenberger Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.63575530000001
 longitude: 12.322861300000001
-postcode: 08468
+postcode: "08468"
 city: Reichenbach
 street: "Eschenstraße"
 housenumber: 1

@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 51.45998
 longitude: 12.634060000000002
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Marktplatz"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-13:00; Su,PH off"
 website: ""

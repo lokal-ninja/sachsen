@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9201345
 longitude: 14.0673864
-postcode: 01824
+postcode: "01824"
 city: Königstein
 street: "Dresdner Straße"
 housenumber: 6b

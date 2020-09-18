@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8549766
 longitude: 12.929762700000001
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Blankenauer Straße"
 housenumber: 60a

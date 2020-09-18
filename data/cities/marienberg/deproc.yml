@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.6574961
 longitude: 13.156824
-postcode: 09496
+postcode: "09496"
 city: Marienberg
 street: "Am Abrahamschacht"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.327893100000004
 longitude: 12.327345000000001
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Gießerstraße"
 housenumber: 16

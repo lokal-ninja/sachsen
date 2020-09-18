@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.4995005
 longitude: 12.1369863
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Bahnhofstraße"
 housenumber: 24

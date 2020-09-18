@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8164287
 longitude: 12.3870938
-postcode: 08451
+postcode: "08451"
 city: Crimmitschau
 street: "Badergasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0001582
 longitude: 13.8004639
-postcode: 01239
+postcode: "01239"
 city: Dresden
 street: "Langer Weg"
 housenumber: 50

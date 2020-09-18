@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.5767059
 longitude: 13.0019229
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Buchholzer Straße"
 housenumber: 41

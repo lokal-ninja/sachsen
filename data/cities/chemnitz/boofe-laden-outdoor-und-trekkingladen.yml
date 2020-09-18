@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 50.819904400000006
 longitude: 12.9350885
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Bernsdorfer Straße"
 housenumber: 68

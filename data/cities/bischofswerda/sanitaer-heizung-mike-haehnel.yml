@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.126167300000006
 longitude: 14.1770075
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Dresdener Straße"
 housenumber: 26

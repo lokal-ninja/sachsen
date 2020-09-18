@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3808136
 longitude: 12.739495900000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Collmener Straße"
 housenumber: 

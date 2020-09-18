@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 51.331361900000005
 longitude: 12.3734692
-postcode: 04107
+postcode: "04107"
 city: Leipzig
 street: ""
 housenumber: 

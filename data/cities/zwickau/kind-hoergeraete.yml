@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.719015500000005
 longitude: 12.4930923
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Innere Plauensche Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.343071900000005
 longitude: 12.3639554
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Jahnallee"
 housenumber: 6

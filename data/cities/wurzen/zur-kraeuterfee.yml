@@ -3,7 +3,7 @@ type: way
 shop: Kräuter
 latitude: 51.370001
 longitude: 12.737049800000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Jacobsgasse"
 housenumber: 12

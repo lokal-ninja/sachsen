@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.0680404
 longitude: 13.890708
-postcode: 01328
+postcode: "01328"
 city: Dresden
 street: "An der Prießnitzaue"
 housenumber: 24

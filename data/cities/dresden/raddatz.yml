@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.077590400000005
 longitude: 13.717611000000002
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Leipziger Straße"
 housenumber: 120

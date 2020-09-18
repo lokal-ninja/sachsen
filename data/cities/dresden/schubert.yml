@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.051874600000005
 longitude: 13.806494200000001
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Hüblerstraße"
 housenumber: 1

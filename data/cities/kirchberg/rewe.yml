@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6223844
 longitude: 12.5308477
-postcode: 08107
+postcode: "08107"
 city: Kirchberg
 street: "Schneeberger Straße"
 housenumber: 1

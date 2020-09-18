@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.125884400000004
 longitude: 12.4828322
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Abtsdorfer Straße"
 housenumber: 31

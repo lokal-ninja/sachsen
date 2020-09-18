@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3481765
 longitude: 12.265798
-postcode: 04178
+postcode: "04178"
 city: Leipzig
 street: "Miltitzer Straße"
 housenumber: 13

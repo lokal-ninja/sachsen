@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0671891
 longitude: 13.7541913
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Görlitzer Straße"
 housenumber: 13

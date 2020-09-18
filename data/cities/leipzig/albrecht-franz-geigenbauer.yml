@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.3285065
 longitude: 12.3418598
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Nonnenstraße"
 housenumber: 42 A

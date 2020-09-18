@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0333668
 longitude: 13.7012955
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Reisewitzer Straße"
 housenumber: 82

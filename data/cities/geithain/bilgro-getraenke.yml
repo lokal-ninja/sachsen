@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.0555321
 longitude: 12.653541700000002
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Niedergräfenhain"
 housenumber: 60

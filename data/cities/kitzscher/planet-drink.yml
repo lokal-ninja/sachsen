@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.1698029
 longitude: 12.5511198
-postcode: 04567
+postcode: "04567"
 city: Kitzscher
 street: "Feuerwehrstraße"
 housenumber: 13

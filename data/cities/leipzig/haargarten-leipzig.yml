@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.366910100000005
 longitude: 12.374059500000001
-postcode: 04157
+postcode: "04157"
 city: Leipzig
 street: "Coppistraße"
 housenumber: 63

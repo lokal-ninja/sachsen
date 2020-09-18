@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1238965
 longitude: 14.9823236
-postcode: 
+postcode: ""
 city: Görlitz
 street: "Zittauer Straße"
 housenumber: 144

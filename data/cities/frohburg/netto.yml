@@ -3,10 +3,10 @@ type: node
 shop: Getränke
 latitude: 51.059225600000005
 longitude: 12.554933400000001
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "An der Wyhraaue"
 housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: ""

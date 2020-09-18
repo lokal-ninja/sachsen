@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.358390400000005
 longitude: 12.7163632
-postcode: 04828
+postcode: "04828"
 city: Bennewitz
 street: "An der Mulde"
 housenumber: 5

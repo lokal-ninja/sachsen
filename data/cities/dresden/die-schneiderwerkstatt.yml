@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.076702600000004
 longitude: 13.724890700000001
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Oschatzer Straße"
 housenumber: 28

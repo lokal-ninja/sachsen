@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6276992
 longitude: 12.5209883
-postcode: 08107
+postcode: "08107"
 city: Kirchberg
 street: "Bahnhofstraße"
 housenumber: 28

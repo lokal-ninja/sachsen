@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.72361840000001
 longitude: 12.6973035
-postcode: 09376
+postcode: "09376"
 city: Oelsnitz/Erzgeb.
 street: "Kirchplatz"
 housenumber: 2

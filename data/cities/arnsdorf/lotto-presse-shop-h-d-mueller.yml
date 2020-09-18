@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.0935519
 longitude: 13.9880691
-postcode: 01477
+postcode: "01477"
 city: Arnsdorf
 street: "Bahnhofstraße"
 housenumber: 4

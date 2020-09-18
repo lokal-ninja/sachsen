@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.373375
 longitude: 14.0682047
-postcode: 02994
+postcode: "02994"
 city: Bernsdorf
 street: "Ernst-Thälmann-Straße"
 housenumber: 29

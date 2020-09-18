@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 51.343745500000004
 longitude: 12.3615764
-postcode: 
+postcode: ""
 city: Leipzig
 street: "Gustav-Adolf-Straße"
 housenumber: 27
 phone: ""
-opening_hours: ""
+opening_hours: "We-Fr 09:00-18:00; Tu 08:00-15:00"
 website: "http://www.danielakovacs.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1227973
 longitude: 14.9829491
-postcode: 02827
+postcode: "02827"
 city: Görlitz
 street: "Seidenberger Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.059666
 longitude: 13.7412586
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Rähnitzgasse"
 housenumber: 12

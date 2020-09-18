@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.0549916
 longitude: 12.695404400000001
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Bahnhofstraße"
 housenumber: 2B

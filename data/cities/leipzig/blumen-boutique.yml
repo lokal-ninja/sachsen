@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.358366600000004
 longitude: 12.421408000000001
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Bautzner Straße"
 housenumber: 16

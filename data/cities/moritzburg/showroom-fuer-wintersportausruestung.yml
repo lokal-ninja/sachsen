@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.15118390000001
 longitude: 13.6775882
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Am Bildchen"
 housenumber: 13

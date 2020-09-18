@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8889592
 longitude: 14.6589901
-postcode: 02779
+postcode: "02779"
 city: Großschönau
 street: "Waltersdorfer Straße"
 housenumber: 54

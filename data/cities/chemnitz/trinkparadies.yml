@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.846753500000005
 longitude: 12.9248816
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Further Straße"
 housenumber: 4A

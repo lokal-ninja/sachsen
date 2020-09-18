@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.86088590000001
 longitude: 13.1628348
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Chemnitzer Straße"
 housenumber: 39

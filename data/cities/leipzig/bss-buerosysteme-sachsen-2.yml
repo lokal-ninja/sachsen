@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.3401969
 longitude: 12.3792907
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Ritterstraße"
 housenumber: 8-10

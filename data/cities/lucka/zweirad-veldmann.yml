@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.0998579
 longitude: 12.331780700000001
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Pegauer Straße"
 housenumber: 23

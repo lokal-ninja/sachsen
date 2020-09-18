@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 51.0670032
 longitude: 13.754065200000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Görlitzer Straße"
 housenumber: 9

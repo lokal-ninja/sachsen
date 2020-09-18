@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.531812200000005
 longitude: 12.3552835
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Dübener Straße"
 housenumber: 121a

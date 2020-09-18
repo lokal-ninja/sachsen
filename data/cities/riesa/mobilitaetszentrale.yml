@@ -3,7 +3,7 @@ type: way
 shop: Tickets
 latitude: 51.309136900000006
 longitude: 13.288636700000001
-postcode: 01587
+postcode: "01587"
 city: Riesa
 street: "Bahnhofstraße"
 housenumber: 47

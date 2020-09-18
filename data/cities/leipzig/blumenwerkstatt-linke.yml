@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.3428368
 longitude: 12.362965200000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Jahnallee"
 housenumber: 8

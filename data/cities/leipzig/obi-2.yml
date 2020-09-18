@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3485074
 longitude: 12.391501100000001
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Brandenburger Straße"
 housenumber: 21

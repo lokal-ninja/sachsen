@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.84115490000001
 longitude: 12.688654900000001
-postcode: 09337
+postcode: "09337"
 city: Callenberg
 street: "Rathausstraße"
 housenumber: 49

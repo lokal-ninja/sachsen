@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.9205881
 longitude: 12.747371300000001
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Landgutweg"
 housenumber: 25

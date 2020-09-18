@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.3447029
 longitude: 12.37963
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Willy-Brandt-Platz"
 housenumber: 5

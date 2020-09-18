@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.3582515
 longitude: 12.473242
-postcode: 04329
+postcode: "04329"
 city: Leipzig
 street: "Rotfuchsstraße"
 housenumber: 7

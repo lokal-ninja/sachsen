@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 50.7279579
 longitude: 12.4688713
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Herschelstraße"
 housenumber: 31
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
 website: ""

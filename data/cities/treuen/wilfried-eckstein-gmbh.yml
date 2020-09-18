@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.5265289
 longitude: 12.3351354
-postcode: 08233
+postcode: "08233"
 city: Treuen
 street: "Auerbacher Straße"
 housenumber: 10a

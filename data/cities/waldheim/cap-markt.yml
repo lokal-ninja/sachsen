@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0740105
 longitude: 13.0200492
-postcode: 04736
+postcode: "04736"
 city: Waldheim
 street: "Andreas-Hecht-Straße"
 housenumber: 13

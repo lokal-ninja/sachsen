@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.8699012
 longitude: 13.323214100000001
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Bahnhofstraße"
 housenumber: 4

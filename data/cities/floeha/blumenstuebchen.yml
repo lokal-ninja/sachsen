@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8622627
 longitude: 13.074099200000001
-postcode: 09557
+postcode: "09557"
 city: Flöha
 street: "Lärchenstraße"
 housenumber: 1

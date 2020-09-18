@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0195408
 longitude: 14.7385511
-postcode: 02747
+postcode: "02747"
 city: Herrnhut
 street: "Löbauer Straße"
 housenumber: 45

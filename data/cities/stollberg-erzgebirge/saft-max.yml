@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.702872400000004
 longitude: 12.7743873
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Hartensteiner Straße"
 housenumber: 5

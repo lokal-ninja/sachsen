@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1274956
 longitude: 12.806687400000001
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Sophienstraße"
 housenumber: 18

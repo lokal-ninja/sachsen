@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0380217
 longitude: 13.700776300000001
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Bonhoefferplatz"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1572205
 longitude: 14.9830336
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Pontestraße"
 housenumber: 16

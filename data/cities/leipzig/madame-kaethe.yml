@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.331006800000004
 longitude: 12.331622900000001
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Karl-Heine-Straße"
 housenumber: 68

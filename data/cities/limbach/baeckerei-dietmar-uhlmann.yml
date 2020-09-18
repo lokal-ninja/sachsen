@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.582814500000005
 longitude: 12.2489799
-postcode: 08491
+postcode: "08491"
 city: Limbach
 street: "Pestalozzistraße"
 housenumber: 5A

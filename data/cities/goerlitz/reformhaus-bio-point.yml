@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.151573600000006
 longitude: 14.985963000000002
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Postplatz"
 housenumber: 13

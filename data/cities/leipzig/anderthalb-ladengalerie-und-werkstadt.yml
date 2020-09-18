@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.3321796
 longitude: 12.3325995
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Merseburger Straße"
 housenumber: 37

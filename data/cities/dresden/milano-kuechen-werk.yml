@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.0856105
 longitude: 13.763523600000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Werner-Hartmann-Straße"
 housenumber: 3

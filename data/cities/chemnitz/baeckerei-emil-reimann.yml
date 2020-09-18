@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.823117100000005
 longitude: 12.958957600000002
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Hans-Ziegler-Straße"
 housenumber: 3

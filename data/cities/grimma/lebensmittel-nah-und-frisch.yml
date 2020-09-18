@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2377872
 longitude: 12.7291678
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Hohnstädter Straße"
 housenumber: 8

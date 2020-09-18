@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8614984
 longitude: 14.7570954
-postcode: 02797
+postcode: "02797"
 city: Oybin
 street: "Friedrich-Engels-Straße"
 housenumber: 1

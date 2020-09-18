@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.620026700000004
 longitude: 13.4263838
-postcode: 09548
+postcode: "09548"
 city: Deutschneudorf
 street: ""
 housenumber: 4

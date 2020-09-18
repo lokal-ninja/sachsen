@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9484098
 longitude: 14.7372569
-postcode: 02791
+postcode: "02791"
 city: Oderwitz
 street: "Untere Dorfstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 50.957661
 longitude: 13.935758400000001
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Königsteiner Straße"
 housenumber: 8

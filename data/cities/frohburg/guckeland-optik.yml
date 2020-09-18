@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.0580367
 longitude: 12.5582677
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Bahnhofstraße"
 housenumber: 26

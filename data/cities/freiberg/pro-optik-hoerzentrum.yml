@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.916897500000005
 longitude: 13.344147900000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Kesselgasse"
 housenumber: 2

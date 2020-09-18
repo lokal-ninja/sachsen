@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.495714500000005
 longitude: 12.171075700000001
-postcode: 08529
+postcode: "08529"
 city: Plauen
 street: "Äußere Reichenbacher Straße"
 housenumber: 64

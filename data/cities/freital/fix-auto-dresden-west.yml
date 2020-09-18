@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.0098464
 longitude: 13.655532000000001
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "Wilsdruffer Straße"
 housenumber: 5

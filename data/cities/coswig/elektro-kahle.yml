@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.1461624
 longitude: 13.546830100000001
-postcode: 01640
+postcode: "01640"
 city: Coswig
 street: "Köhlerstraße"
 housenumber: 6

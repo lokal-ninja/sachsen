@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.490497500000004
 longitude: 12.123764300000001
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Siegener Straße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.024744500000004
 longitude: 14.2319498
-postcode: 01844
+postcode: "01844"
 city: Neustadt in Sachsen
 street: "Sebnitzer Straße"
 housenumber: 41

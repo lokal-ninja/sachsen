@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.039159700000006
 longitude: 13.720917
-postcode: 01069
+postcode: "01069"
 city: Dresden
 street: "Leubnitzer Straße"
 housenumber: 8

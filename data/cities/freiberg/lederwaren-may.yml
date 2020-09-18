@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 50.9174737
 longitude: 13.343573200000002
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Enge Gasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.023516400000005
 longitude: 13.8389141
-postcode: 01279
+postcode: "01279"
 city: Dresden
 street: "Österreicher Straße"
 housenumber: 63

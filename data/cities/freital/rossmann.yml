@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9765333
 longitude: 13.6229393
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "An der Spinnerei"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 50.8448143
 longitude: 13.082699600000002
-postcode: 09557
+postcode: "09557"
 city: Flöha
 street: "Am Mörbitzbach"
 housenumber: 3

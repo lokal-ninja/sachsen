@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.0141694
 longitude: 13.750442600000001
-postcode: 01217
+postcode: "01217"
 city: Dresden
 street: "Boderitzer Straße"
 housenumber: 17

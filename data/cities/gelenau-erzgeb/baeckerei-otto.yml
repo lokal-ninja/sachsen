@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.711148200000004
 longitude: 12.996040200000001
-postcode: 09423
+postcode: "09423"
 city: Gelenau/Erzgeb.
 street: "Venusberger Straße"
 housenumber: 3

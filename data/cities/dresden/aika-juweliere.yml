@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.062840300000005
 longitude: 13.7500239
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Bautzner Straße"
 housenumber: 6

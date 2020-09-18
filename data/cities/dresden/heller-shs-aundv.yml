@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.0181291
 longitude: 13.7788584
-postcode: 
+postcode: ""
 city: Dresden
 street: "Otto-Dix-Ring"
 housenumber: 60

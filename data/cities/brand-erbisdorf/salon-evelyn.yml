@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8592102
 longitude: 13.320109200000001
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Großhartmannsdorfer Straße"
 housenumber: 9

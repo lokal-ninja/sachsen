@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.8401501
 longitude: 14.7378376
-postcode: 02797
+postcode: "02797"
 city: Oybin
 street: "Straße der Jugend"
 housenumber: 13

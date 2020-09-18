@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0113531
 longitude: 13.499432400000002
-postcode: 01723
+postcode: "01723"
 city: Wilsdruff
 street: "Landbergweg"
 housenumber: 1

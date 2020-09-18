@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9227776
 longitude: 13.656537400000001
-postcode: 01744
+postcode: "01744"
 city: Dippoldiswalde
 street: "Kurhausstraße"
 housenumber: 3

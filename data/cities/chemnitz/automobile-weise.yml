@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.804806600000006
 longitude: 12.9261178
-postcode: 09120
+postcode: "09120"
 city: Chemnitz
 street: "F.-O.-Schimmel-Straße"
 housenumber: 6 - 10

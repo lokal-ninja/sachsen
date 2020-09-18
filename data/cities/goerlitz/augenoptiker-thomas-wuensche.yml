@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.1506078
 longitude: 14.985993200000001
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Jakobstraße"
 housenumber: 4a

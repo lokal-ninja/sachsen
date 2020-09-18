@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.5062976
 longitude: 12.225957900000001
-postcode: 08541
+postcode: "08541"
 city: Neuensalz
 street: "Hauptstraße"
 housenumber: 31

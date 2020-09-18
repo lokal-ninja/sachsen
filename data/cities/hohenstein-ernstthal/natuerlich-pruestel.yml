@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.8000337
 longitude: 12.708556100000001
-postcode: 09337
+postcode: "09337"
 city: Hohenstein-Ernstthal
 street: "Weinkellerstraße"
 housenumber: 28

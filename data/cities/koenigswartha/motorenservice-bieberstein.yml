@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.3154698
 longitude: 14.3324011
-postcode: 02699
+postcode: "02699"
 city: Königswartha
 street: "Hauptstraße"
 housenumber: 68

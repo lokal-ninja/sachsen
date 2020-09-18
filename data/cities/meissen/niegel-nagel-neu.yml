@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.159596
 longitude: 13.4703131
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Neugasse"
 housenumber: 24

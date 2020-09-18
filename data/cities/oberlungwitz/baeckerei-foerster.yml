@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7827861
 longitude: 12.709147100000001
-postcode: 09353
+postcode: "09353"
 city: Oberlungwitz
 street: "Neue Welt"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.031555000000004
 longitude: 13.897372
-postcode: 01328
+postcode: "01328"
 city: Dresden
 street: "Borsbergstraße"
 housenumber: 10

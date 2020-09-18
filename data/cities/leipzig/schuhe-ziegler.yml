@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.3620834
 longitude: 12.365457000000001
-postcode: 04155
+postcode: "04155"
 city: Leipzig
 street: "Lindenthaler Straße"
 housenumber: 20

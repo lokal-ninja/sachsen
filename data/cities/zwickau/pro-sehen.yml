@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 50.718203800000005
 longitude: 12.4967837
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Hauptstraße"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Fr 09:30-18:00; Tu 09:30-19:00; We 09:00-18:00; Th 13:00-18:00"
 website: ""

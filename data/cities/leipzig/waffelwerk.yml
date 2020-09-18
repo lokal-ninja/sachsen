@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.343351000000006
 longitude: 12.3730369
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Brühl"
 housenumber: 1

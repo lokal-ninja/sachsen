@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.3702655
 longitude: 12.426935700000001
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Theklaer Straße"
 housenumber: 92

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.063082200000004
 longitude: 14.3490497
-postcode: 01904
+postcode: "01904"
 city: Steinigtwolmsdorf
 street: "Zittauer Straße"
 housenumber: 1

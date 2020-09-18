@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.934812
 longitude: 12.702581700000001
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Leipziger Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0095918
 longitude: 13.653708400000001
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "Wilsdruffer Straße"
 housenumber: 5

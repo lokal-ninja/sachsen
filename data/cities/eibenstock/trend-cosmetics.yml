@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.50507210000001
 longitude: 12.6446366
-postcode: 08309
+postcode: "08309"
 city: Eibenstock
 street: "Dürrer Berg"
 housenumber: 41

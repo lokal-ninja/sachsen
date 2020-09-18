@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.994283100000004
 longitude: 12.965011100000002
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Sonnenstraße"
 housenumber: 7

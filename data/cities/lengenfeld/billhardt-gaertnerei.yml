@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.5694043
 longitude: 12.367398000000001
-postcode: 08485
+postcode: "08485"
 city: Lengenfeld
 street: "Viehmarkt"
 housenumber: 3

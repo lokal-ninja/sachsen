@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1744527
 longitude: 14.471413900000002
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Löbauer Straße"
 housenumber: 121

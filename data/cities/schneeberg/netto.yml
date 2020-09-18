@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5969515
 longitude: 12.634711600000001
-postcode: 08289
+postcode: "08289"
 city: Schneeberg
 street: "Zwickauer Straße"
 housenumber: 52

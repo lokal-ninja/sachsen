@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.046334900000005
 longitude: 13.770264500000001
-postcode: 01307
+postcode: "01307"
 city: Dresden
 street: "Nicolaistraße"
 housenumber: 26

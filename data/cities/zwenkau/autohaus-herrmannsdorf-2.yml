@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.207861900000005
 longitude: 12.3354367
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Spenglerallee"
 housenumber: 16

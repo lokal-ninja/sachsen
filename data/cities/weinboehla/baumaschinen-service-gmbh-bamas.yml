@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1618348
 longitude: 13.5661736
-postcode: 01689
+postcode: "01689"
 city: Weinböhla
 street: "Hauptstraße"
 housenumber: 8

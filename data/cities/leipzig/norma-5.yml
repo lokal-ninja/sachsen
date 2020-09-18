@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.3280619
 longitude: 12.4418126
-postcode: 04316
+postcode: "04316"
 city: Leipzig
 street: "Zweinaundorfer Straße"
-housenumber: 163
+housenumber: 165
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
 website: "http://www.norma-online.de"

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.15883710000001
 longitude: 14.052707000000002
-postcode: 01900
+postcode: "01900"
 city: Großröhrsdorf
 street: "Gewerbering Süd"
 housenumber: 3

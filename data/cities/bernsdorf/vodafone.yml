@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.3747837
 longitude: 14.0699269
-postcode: 02994
+postcode: "02994"
 city: Bernsdorf
 street: "Rathausallee"
 housenumber: 3

@@ -3,10 +3,10 @@ type: node
 shop: Musik
 latitude: 50.732842000000005
 longitude: 12.491238800000001
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Leipziger Straße"
 housenumber: 93
-phone: "0375/2040586"
+phone: "+49 375 2040586"
 opening_hours: "Mo-Fr 13:00-17:00"
 website: "http://www.schallplatte-zwickau.de/39994.html"

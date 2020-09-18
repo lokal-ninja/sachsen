@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 50.703314000000006
 longitude: 12.491286500000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Reuterweg"
 housenumber: 2

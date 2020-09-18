@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.040411000000006
 longitude: 13.748675800000001
-postcode: 01069
+postcode: "01069"
 city: Dresden
 street: "Lennéstraße"
 housenumber: 12

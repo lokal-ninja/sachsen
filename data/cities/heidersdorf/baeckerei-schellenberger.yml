@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6627468
 longitude: 13.417117500000002
-postcode: 09526
+postcode: "09526"
 city: Heidersdorf
 street: "Mortelbachstraße"
 housenumber: 12

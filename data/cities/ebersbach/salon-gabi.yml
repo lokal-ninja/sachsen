@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2342797
 longitude: 13.6582279
-postcode: 01561
+postcode: "01561"
 city: Ebersbach
 street: "Hauptstraße"
 housenumber: 139

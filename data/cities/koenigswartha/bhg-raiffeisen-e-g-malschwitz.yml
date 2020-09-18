@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3089639
 longitude: 14.319977000000002
-postcode: 02699
+postcode: "02699"
 city: Königswartha
 street: "Bahnhofstraße"
 housenumber: 16

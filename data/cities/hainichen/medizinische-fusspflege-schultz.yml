@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9714669
 longitude: 13.1215261
-postcode: 09661
+postcode: "09661"
 city: Hainichen
 street: "Bahnhofstraße"
 housenumber: 15

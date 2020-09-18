@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.812325
 longitude: 12.797868000000001
-postcode: 09224
+postcode: "09224"
 city: Chemnitz
 street: "Chemnitzer Straße"
 housenumber: 43

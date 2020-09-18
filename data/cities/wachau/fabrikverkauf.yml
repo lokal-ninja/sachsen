@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.1520474
 longitude: 13.961430400000001
-postcode: 01454
+postcode: "01454"
 city: Wachau
 street: "August-Bebel-Straße"
 housenumber: 4

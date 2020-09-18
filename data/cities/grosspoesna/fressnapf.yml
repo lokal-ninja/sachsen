@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.268475800000004
 longitude: 12.4993166
-postcode: 04463
+postcode: "04463"
 city: Großpösna
 street: "Sepp-Verscht-Straße"
 housenumber: 1

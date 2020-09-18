@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.038829400000004
 longitude: 13.632444000000001
-postcode: 01156
+postcode: "01156"
 city: Dresden
 street: "Gompitzer Höhe"
 housenumber: 1

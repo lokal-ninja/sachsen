@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1733221
 longitude: 14.967625400000001
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Nieskyer Straße"
 housenumber: 913

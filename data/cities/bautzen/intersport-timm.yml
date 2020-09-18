@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.178938200000005
 longitude: 14.424036300000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Goschwitzstraße"
 housenumber: 2

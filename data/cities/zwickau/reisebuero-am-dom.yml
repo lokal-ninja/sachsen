@@ -1,12 +1,12 @@
 id: 1497273173
 type: node
 shop: Reisebüro
-latitude: 50.7182669
-longitude: 12.4933025
-postcode: 08056
+latitude: 50.7180673
+longitude: 12.4935209
+postcode: "08056"
 city: Zwickau
 street: "Peter-Breuer-Straße"
-housenumber: 31
-phone: "0375 2721790"
+housenumber: 36-38
+phone: ""
 opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-13:00"
-website: "https://reiseboerse-zwickau.de/"
+website: ""

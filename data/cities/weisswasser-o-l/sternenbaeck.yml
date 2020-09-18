@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.507749000000004
 longitude: 14.644278000000002
-postcode: 02943
+postcode: "02943"
 city: Weißwasser/O.L.
 street: "Muskauer Straße"
 housenumber: 89

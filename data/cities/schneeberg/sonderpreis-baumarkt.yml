@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.6011667
 longitude: 12.6259438
-postcode: 08289
+postcode: "08289"
 city: Schneeberg
 street: "Bruno-Dost-Straße"
 housenumber: 27

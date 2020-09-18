@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.0628297
 longitude: 13.750576700000002
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Bautzner Straße"
 housenumber: 10

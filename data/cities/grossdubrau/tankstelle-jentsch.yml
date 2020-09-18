@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.252468400000005
 longitude: 14.4620218
-postcode: 02694
+postcode: "02694"
 city: Großdubrau
 street: "Ernst-Thälmann-Straße"
 housenumber: 25a

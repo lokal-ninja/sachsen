@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6301551
 longitude: 13.120386000000002
-postcode: 09518
+postcode: "09518"
 city: Großrückerswalde
 street: "Marienberger Straße"
 housenumber: 139

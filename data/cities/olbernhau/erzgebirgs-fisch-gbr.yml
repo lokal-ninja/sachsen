@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 50.685031900000006
 longitude: 13.3242759
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Freiberger Straße"
 housenumber: 315

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7188596
 longitude: 12.467702500000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Hoferstraße"
 housenumber: 12a

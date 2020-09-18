@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.8173055
 longitude: 12.542146
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Markt"
 housenumber: 6

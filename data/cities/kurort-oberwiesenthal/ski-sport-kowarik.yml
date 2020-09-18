@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.4188161
 longitude: 12.9692401
-postcode: 09484
+postcode: "09484"
 city: Kurort Oberwiesenthal
 street: "Breite Gasse"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 51.277626000000005
 longitude: 12.947244600000001
-postcode: 04779
+postcode: "04779"
 city: Wermsdorf
 street: "Oschatzer Straße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.910058600000006
 longitude: 14.167329500000001
-postcode: 01814
+postcode: "01814"
 city: Bad Schandau
 street: "Bächelweg"
 housenumber: 11

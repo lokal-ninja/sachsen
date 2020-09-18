@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.141190800000004
 longitude: 12.6493499
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
 street: "Reichersdorfer Straße"
 housenumber: 3

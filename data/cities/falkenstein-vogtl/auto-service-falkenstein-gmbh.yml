@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.474493100000004
 longitude: 12.3549618
-postcode: 08223
+postcode: "08223"
 city: Falkenstein/Vogtl.
 street: "Gewerbering"
 housenumber: 1

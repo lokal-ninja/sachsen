@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9005889
 longitude: 14.817861800000001
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Leipziger Straße"
 housenumber: 35

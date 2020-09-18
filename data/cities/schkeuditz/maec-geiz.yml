@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.396770800000006
 longitude: 12.222505900000002
-postcode: 04435
+postcode: "04435"
 city: Schkeuditz
 street: "Rathausplatz"
 housenumber: 

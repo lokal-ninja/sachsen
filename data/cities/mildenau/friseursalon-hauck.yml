@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5996419
 longitude: 13.067540300000001
-postcode: 09456
+postcode: "09456"
 city: Mildenau
 street: "Annaberger Straße"
 housenumber: 9

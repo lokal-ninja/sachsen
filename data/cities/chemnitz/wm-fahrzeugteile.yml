@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.818409100000004
 longitude: 12.9155195
-postcode: 09120
+postcode: "09120"
 city: Chemnitz
 street: "Annaberger Straße"
 housenumber: 101

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0697314
 longitude: 13.776146700000002
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Waldschlößchenstraße"
 housenumber: 22

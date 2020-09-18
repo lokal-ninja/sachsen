@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.703893
 longitude: 12.6821152
-postcode: 09376
+postcode: "09376"
 city: Oelsnitz/Erzgeb.
 street: "Obere Hauptstraße"
 housenumber: 119

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.123537400000004
 longitude: 13.1293772
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Ziegelstraße"
 housenumber: 5

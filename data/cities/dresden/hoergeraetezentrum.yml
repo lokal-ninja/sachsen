@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.0254666
 longitude: 13.7619509
-postcode: 01219
+postcode: "01219"
 city: Dresden
 street: "Lockwitzer Straße"
 housenumber: 15

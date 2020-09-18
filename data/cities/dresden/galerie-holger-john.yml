@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.05986600000001
 longitude: 13.7408499
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Rähnitzgasse"
 housenumber: 17

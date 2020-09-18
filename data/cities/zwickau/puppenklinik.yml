@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.720248100000006
 longitude: 12.479184400000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Werdauer Straße"
 housenumber: 40

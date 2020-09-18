@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.0442498
 longitude: 13.7791774
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Borsbergstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3702686
 longitude: 12.743556000000002
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Martin-Luther-Straße"
 housenumber: 23

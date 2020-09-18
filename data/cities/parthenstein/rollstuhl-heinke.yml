@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.2371775
 longitude: 12.609131600000001
-postcode: 04668
+postcode: "04668"
 city: Parthenstein
 street: "Otterwischer Straße"
 housenumber: 8

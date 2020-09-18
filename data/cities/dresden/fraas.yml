@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0518524
 longitude: 13.737994700000002
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Sporergasse"
 housenumber: 3

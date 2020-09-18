@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.718063300000004
 longitude: 12.457091400000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Döhnerstraße"
 housenumber: 1

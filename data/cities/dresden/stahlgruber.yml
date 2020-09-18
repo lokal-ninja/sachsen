@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.0716693
 longitude: 13.6842588
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Marie-Curie-Straße"
 housenumber: 3

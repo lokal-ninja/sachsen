@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.986213500000005
 longitude: 12.981536
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Waldheimer Straße"
 housenumber: 6

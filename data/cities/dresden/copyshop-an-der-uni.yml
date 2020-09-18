@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 51.0270263
 longitude: 13.7303545
-postcode: 01069
+postcode: "01069"
 city: Dresden
 street: "Mommsenstraße"
 housenumber: 3

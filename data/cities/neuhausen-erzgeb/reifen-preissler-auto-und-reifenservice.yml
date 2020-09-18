@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.675439600000004
 longitude: 13.467782300000001
-postcode: 09544
+postcode: "09544"
 city: Neuhausen/Erzgeb.
 street: "Poststraße"
 housenumber: 1c

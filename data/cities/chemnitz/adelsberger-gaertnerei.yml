@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8137586
 longitude: 12.986824
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Adelsbergstraße"
 housenumber: 290b

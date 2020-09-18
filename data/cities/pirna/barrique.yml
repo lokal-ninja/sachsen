@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 50.9599301
 longitude: 13.9305178
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Siegfried-Rädel-Straße"
 housenumber: 38

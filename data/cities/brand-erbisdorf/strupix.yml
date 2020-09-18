@@ -3,7 +3,7 @@ type: node
 shop: Eisprodukte
 latitude: 50.860801
 longitude: 13.3190501
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Untere Dorfstraße"
 housenumber: 6

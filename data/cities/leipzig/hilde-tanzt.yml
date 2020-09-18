@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3400405
 longitude: 12.3260518
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Georg-Schwarz-Straße"
 housenumber: 20

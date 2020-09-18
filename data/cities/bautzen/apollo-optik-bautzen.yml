@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.1885315
 longitude: 14.4564309
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Niederkainaer Straße"
 housenumber: 14

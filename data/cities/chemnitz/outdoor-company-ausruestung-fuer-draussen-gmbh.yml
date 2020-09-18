@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 50.8418872
 longitude: 12.9068223
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Leipziger Straße"
 housenumber: 48

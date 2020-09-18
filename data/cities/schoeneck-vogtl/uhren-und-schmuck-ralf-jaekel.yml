@@ -3,7 +3,7 @@ type: way
 shop: Uhren
 latitude: 50.3944173
 longitude: 12.333192400000001
-postcode: 08261
+postcode: "08261"
 city: Schöneck/Vogtl.
 street: "Hauptstraße"
 housenumber: 36

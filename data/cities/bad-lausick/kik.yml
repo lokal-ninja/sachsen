@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.143861300000005
 longitude: 12.6395385
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
 street: "Straße der Einheit"
 housenumber: 46

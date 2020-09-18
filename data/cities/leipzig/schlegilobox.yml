@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.3304508
 longitude: 12.3374477
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Zschochersche Straße"
 housenumber: 36

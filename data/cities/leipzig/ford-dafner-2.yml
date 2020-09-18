@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.326291700000006
 longitude: 12.436738400000001
-postcode: 04316
+postcode: "04316"
 city: Leipzig
 street: "Handwerkerhof"
 housenumber: 1

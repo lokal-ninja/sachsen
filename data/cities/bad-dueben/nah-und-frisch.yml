@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6001879
 longitude: 12.587504800000001
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: "Blücherstraße"
 housenumber: 15

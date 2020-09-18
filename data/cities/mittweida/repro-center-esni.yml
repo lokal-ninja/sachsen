@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9860933
 longitude: 12.9741832
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Rochlitzer Straße"
 housenumber: 75

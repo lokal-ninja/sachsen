@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.957847400000006
 longitude: 13.9424918
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Am Felsenkeller"
 housenumber: 1

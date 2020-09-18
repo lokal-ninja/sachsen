@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.180002200000004
 longitude: 14.425959500000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Kornmarkt"
 housenumber: 7

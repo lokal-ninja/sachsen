@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1586389
 longitude: 12.9347624
-postcode: 04703
+postcode: "04703"
 city: Leisnig
 street: "Friedrich-Naumann-Straße"
 housenumber: 20

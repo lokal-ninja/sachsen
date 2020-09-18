@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.726452800000004
 longitude: 12.9047456
-postcode: 09235
+postcode: "09235"
 city: Burkhardtsdorf
 street: "Obere Hauptstraße"
 housenumber: 61

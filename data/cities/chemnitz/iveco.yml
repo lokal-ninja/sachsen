@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8611902
 longitude: 12.9242269
-postcode: 09114
+postcode: "09114"
 city: Chemnitz
 street: "Chemnitztalstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3174781
 longitude: 12.3817863
-postcode: 04275
+postcode: "04275"
 city: Leipzig
 street: "Steinstraße"
 housenumber: 74

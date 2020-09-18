@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7299896
 longitude: 12.488554500000001
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Lassallestraße"
 housenumber: 39

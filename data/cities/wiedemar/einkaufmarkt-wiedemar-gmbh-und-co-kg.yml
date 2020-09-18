@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4670538
 longitude: 12.2010631
-postcode: 04509
+postcode: "04509"
 city: Wiedemar
 street: "Hauptstraße"
 housenumber: 25

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.808413900000005
 longitude: 12.9692255
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Kleinolbersdorfer Straße"
 housenumber: 12a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.6301135
 longitude: 12.8112083
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Lange Gasse"
 housenumber: 12

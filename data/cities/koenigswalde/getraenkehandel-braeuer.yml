@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.5431067
 longitude: 13.0496849
-postcode: 09471
+postcode: "09471"
 city: Königswalde
 street: "August-Bebel-Straße"
 housenumber: 19

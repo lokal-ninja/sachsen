@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 51.325627000000004
 longitude: 12.4094814
-postcode: 04317
+postcode: "04317"
 city: Leipzig
 street: "Stötteritzer Straße"
 housenumber: 85

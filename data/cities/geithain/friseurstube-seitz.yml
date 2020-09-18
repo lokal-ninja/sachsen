@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0516134
 longitude: 12.7003471
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Marienstraße"
 housenumber: 10

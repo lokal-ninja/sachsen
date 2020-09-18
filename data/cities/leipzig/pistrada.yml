@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3373265
 longitude: 12.3278555
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Merseburger Straße"
 housenumber: 90

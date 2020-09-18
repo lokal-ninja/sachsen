@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9502764
 longitude: 14.8875831
-postcode: 02788
+postcode: "02788"
 city: Zittau
 street: "Görlitzer Straße"
 housenumber: 29A

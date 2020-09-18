@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 51.1570139
 longitude: 13.5749247
-postcode: 01689
+postcode: "01689"
 city: Weinböhla
 street: "Friedensstraße"
 housenumber: 66a

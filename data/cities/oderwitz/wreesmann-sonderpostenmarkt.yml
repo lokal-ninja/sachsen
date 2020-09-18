@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.966247100000004
 longitude: 14.710518800000001
-postcode: 02791
+postcode: "02791"
 city: Oderwitz
 street: "Hauptstraße"
 housenumber: 94b

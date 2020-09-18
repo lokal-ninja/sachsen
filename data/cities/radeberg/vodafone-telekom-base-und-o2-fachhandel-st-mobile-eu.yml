@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.1165141
 longitude: 13.919953600000001
-postcode: 01454
+postcode: "01454"
 city: Radeberg
 street: "Hauptstraße"
 housenumber: 33-37

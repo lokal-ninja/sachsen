@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.043492300000004
 longitude: 13.6966899
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Kesselsdorfer Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.734375400000005
 longitude: 12.5253476
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Max-Planck-Straße"
 housenumber: 36

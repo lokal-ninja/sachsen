@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4442183
 longitude: 14.216532
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Ackerstraße"
 housenumber: 24

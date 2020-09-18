@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.7188359
 longitude: 12.493005700000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Innere Plauensche Straße"
 housenumber: 31

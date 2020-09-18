@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.051791
 longitude: 13.7386926
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Sporergasse"
 housenumber: 7

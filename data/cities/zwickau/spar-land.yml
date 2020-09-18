@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.7173038
 longitude: 12.4958503
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Münzstraße"
 housenumber: 2

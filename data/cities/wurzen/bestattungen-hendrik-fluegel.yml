@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.370589900000006
 longitude: 12.737961100000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Jacobsplatz"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.014590600000005
 longitude: 12.5601508
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Gewerbegebiet Nord"
 housenumber: 3

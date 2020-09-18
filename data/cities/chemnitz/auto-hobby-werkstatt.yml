@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.806170200000004
 longitude: 12.9108003
-postcode: 09120
+postcode: "09120"
 city: Chemnitz
 street: "Annaberger Straße"
 housenumber: 150

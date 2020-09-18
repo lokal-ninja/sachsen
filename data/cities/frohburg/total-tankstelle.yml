@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.0498381
 longitude: 12.556087400000001
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Peniger Straße"
 housenumber: 40

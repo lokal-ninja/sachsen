@@ -1,12 +1,12 @@
-id: 2507469676
-type: node
+id: 822838863
+type: way
 shop: Handy
-latitude: 50.795793200000006
-longitude: 12.9228655
-postcode: 09125
+latitude: 50.795673900000004
+longitude: 12.9229327
+postcode: "09125"
 city: Chemnitz
 street: "Annaberger Straße"
 housenumber: 315
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
 website: ""

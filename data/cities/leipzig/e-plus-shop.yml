@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.3121555
 longitude: 12.373546200000002
-postcode: 04277
+postcode: "04277"
 city: Leipzig
 street: "Karl-Liebknecht-Straße"
 housenumber: 151

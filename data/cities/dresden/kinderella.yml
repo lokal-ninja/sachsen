@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.0662231
 longitude: 13.893634400000002
-postcode: 01328
+postcode: "01328"
 city: Dresden
 street: "An der Prießnitzaue"
 housenumber: 1

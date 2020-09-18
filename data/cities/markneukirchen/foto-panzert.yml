@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.311989800000006
 longitude: 12.330631200000001
-postcode: 08258
+postcode: "08258"
 city: Markneukirchen
 street: "Oberer Markt"
 housenumber: 23

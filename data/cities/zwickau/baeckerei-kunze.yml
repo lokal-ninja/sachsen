@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7171614
 longitude: 12.4961473
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Münzstraße"
 housenumber: 1

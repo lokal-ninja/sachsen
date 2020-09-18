@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.337620400000006
 longitude: 12.3318559
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Demmeringstraße"
 housenumber: 23

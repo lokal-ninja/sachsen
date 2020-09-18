@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.833866300000004
 longitude: 12.9571635
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Fürstenstraße"
 housenumber: 143

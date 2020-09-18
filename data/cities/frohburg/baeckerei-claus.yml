@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0573306
 longitude: 12.582916200000001
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Straße der Einheit"
 housenumber: 1

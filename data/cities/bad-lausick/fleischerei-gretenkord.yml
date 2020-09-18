@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.142740200000006
 longitude: 12.654891800000001
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
 street: "Erich-Weinert-Straße"
 housenumber: 5B

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8202098
 longitude: 12.8927761
-postcode: 09119
+postcode: "09119"
 city: Chemnitz
 street: "Neefestraße"
 housenumber: 76

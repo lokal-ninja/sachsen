@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9400266
 longitude: 13.767924800000001
-postcode: 01731
+postcode: "01731"
 city: Kreischa
 street: "Dippoldiswalder Straße"
 housenumber: 15

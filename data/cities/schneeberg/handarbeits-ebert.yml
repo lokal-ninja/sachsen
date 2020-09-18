@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.5950543
 longitude: 12.641047700000001
-postcode: 08289
+postcode: "08289"
 city: Schneeberg
 street: "Markt"
 housenumber: 25

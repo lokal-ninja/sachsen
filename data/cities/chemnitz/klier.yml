@@ -1,12 +1,12 @@
-id: 2507469753
-type: node
+id: 822838872
+type: way
 shop: Friseur
-latitude: 50.795383
-longitude: 12.921822
-postcode: 09125
+latitude: 50.7953454
+longitude: 12.921698200000002
+postcode: "09125"
 city: Chemnitz
 street: "Annaberger Straße"
 housenumber: 315
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
 website: ""

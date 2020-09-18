@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 51.3883972
 longitude: 14.404436100000002
-postcode: 02999
+postcode: "02999"
 city: Lohsa
-street: ""
-housenumber: 
+street: "Am Park"
+housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

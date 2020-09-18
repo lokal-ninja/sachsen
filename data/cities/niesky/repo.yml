@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.2859403
 longitude: 14.818653800000002
-postcode: 02906
+postcode: "02906"
 city: Niesky
 street: "Kollmer Straße"
 housenumber: 1

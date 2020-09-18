@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0771449
 longitude: 13.7073032
-postcode: 
+postcode: ""
 city: Dresden
 street: "Böcklinstraße"
 housenumber: 5

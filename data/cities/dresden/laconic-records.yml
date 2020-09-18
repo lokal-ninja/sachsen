@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.067575700000006
 longitude: 13.7477964
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Königsbrücker Straße"
 housenumber: 30

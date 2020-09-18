@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3420527
 longitude: 12.359953
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Elsterstraße"
 housenumber: 65

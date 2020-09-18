@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.3005961
 longitude: 12.4325589
-postcode: 04289
+postcode: "04289"
 city: Leipzig
 street: "Franzosenallee"
 housenumber: 12a

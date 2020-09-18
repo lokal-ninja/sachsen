@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.0488732
 longitude: 13.734835100000002
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Wallstraße"
 housenumber: 13

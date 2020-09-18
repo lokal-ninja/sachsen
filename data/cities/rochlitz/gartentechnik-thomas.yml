@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.043697300000005
 longitude: 12.8078222
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Brückenplatz"
 housenumber: 1

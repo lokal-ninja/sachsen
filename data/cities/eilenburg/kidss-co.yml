@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.459762600000005
 longitude: 12.635077800000001
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Breite Straße"
 housenumber: 7

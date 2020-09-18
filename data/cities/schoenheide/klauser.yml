@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.504051600000004
 longitude: 12.516128700000001
-postcode: 08304
+postcode: "08304"
 city: Schönheide
 street: "Alte Auerbacher Straße"
 housenumber: 32

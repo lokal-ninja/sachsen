@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.3668777
 longitude: 12.3468326
-postcode: 04159
+postcode: "04159"
 city: Leipzig
 street: "Georg-Schumann-Straße"
 housenumber: 

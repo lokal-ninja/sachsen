@@ -3,10 +3,10 @@ type: node
 shop: Andenken
 latitude: 50.7202137
 longitude: 12.478323000000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Werdauer Straße"
 housenumber: 48
-phone: "0375- 30 32 078"
+phone: "+49 375 30 32 078"
 opening_hours: "Mo-Fr 09:00-18:00"
 website: "http://www.octopus-tinten-haus.de/"

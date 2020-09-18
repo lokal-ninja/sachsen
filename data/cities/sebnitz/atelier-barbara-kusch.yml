@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 50.942863
 longitude: 14.245379300000002
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Talstraße"
 housenumber: 29

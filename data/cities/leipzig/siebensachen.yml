@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.30907010000001
 longitude: 12.3765947
-postcode: 04277
+postcode: "04277"
 city: Leipzig
 street: "Bernhard-Göring-Straße"
 housenumber: 161

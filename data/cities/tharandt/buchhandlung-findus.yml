@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.984016700000005
 longitude: 13.5823008
-postcode: 01737
+postcode: "01737"
 city: Tharandt
 street: "Schillerstraße"
 housenumber: 1

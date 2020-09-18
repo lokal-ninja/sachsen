@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.482189600000005
 longitude: 12.377339800000001
-postcode: 08223
+postcode: "08223"
 city: Falkenstein/Vogtl.
-street: "Hangweg"
-housenumber: 9
+street: "Ellefelder Straße"
+housenumber: 19
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0147709
 longitude: 13.783935300000001
-postcode: 01237
+postcode: "01237"
 city: Dresden
 street: "Keplerstraße"
 housenumber: 14

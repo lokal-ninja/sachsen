@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.80728310000001
 longitude: 12.7501086
-postcode: 09337
+postcode: "09337"
 city: Hohenstein-Ernstthal
 street: "Dr.-Charlotte-Krenzer-Straße"
 housenumber: 1B

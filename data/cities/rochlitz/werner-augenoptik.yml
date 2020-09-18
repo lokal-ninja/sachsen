@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.046106300000005
 longitude: 12.800638200000002
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Rathausstraße"
 housenumber: 14

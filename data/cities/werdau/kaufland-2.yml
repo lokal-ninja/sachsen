@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.735372100000006
 longitude: 12.3716947
-postcode: 08412
+postcode: "08412"
 city: Werdau
 street: "Uferstraße"
 housenumber: 5b

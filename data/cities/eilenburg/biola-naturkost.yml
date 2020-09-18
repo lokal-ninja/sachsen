@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.458710800000006
 longitude: 12.6331591
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Steinstraße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3743885
 longitude: 12.485671400000001
-postcode: 04425
+postcode: "04425"
 city: Taucha
 street: "Friedrich-Engels-Straße"
 housenumber: 24a

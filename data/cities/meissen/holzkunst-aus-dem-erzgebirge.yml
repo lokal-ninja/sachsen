@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.161930100000006
 longitude: 13.4716293
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Roßmarkt"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5209514
 longitude: 12.3247754
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Hallesche Straße"
 housenumber: 55

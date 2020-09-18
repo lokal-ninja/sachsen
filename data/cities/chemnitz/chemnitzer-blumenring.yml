@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8220906
 longitude: 12.9592276
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 153a

@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 51.301582200000006
 longitude: 13.318559800000001
-postcode: 01589
+postcode: "01589"
 city: Riesa
 street: "Großenhainer Straße"
 housenumber: 49

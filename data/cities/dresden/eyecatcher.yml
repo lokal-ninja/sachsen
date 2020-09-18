@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 51.0639647
 longitude: 13.752220300000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Rothenburger Straße"
 housenumber: 11

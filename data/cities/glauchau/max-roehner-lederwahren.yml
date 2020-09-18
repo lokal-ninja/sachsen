@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 50.817841200000004
 longitude: 12.5414197
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Markt"
 housenumber: 21

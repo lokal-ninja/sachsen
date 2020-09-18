@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.435171100000005
 longitude: 12.588983200000001
-postcode: 08309
+postcode: "08309"
 city: Eibenstock
 street: "Carlsfelder Hauptstraße"
 housenumber: 54

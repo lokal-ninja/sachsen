@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1590773
 longitude: 14.955516800000002
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Am Flugplatz"
 housenumber: 20

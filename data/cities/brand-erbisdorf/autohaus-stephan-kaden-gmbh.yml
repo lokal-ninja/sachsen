@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8790853
 longitude: 13.3249306
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Freiberger Straße"
 housenumber: 41

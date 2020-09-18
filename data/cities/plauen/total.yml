@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.5081556
 longitude: 12.158589300000001
-postcode: 08529
+postcode: "08529"
 city: Plauen
 street: "Friedrich-Eckardt-Straße"
 housenumber: 2

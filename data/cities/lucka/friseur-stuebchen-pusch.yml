@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0982366
 longitude: 12.3306052
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Zeitzer Straße"
 housenumber: 13

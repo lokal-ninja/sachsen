@@ -1,12 +1,12 @@
 id: 279692239
 type: node
 shop: Supermarkt
-latitude: 51.060385000000004
-longitude: 14.499353000000001
-postcode: 02736
+latitude: 51.060281
+longitude: 14.499378900000002
+postcode: "02736"
 city: Oppach
 street: "Bautzener Straße"
 housenumber: 7a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

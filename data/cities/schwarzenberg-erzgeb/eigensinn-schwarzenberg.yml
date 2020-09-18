@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.5378218
 longitude: 12.7836213
-postcode: 08340
+postcode: "08340"
 city: Schwarzenberg/Erzgeb.
 street: "Markt"
 housenumber: 9

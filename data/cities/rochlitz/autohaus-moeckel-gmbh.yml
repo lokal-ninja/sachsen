@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.056864100000006
 longitude: 12.7971888
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Am Mönchswinkel"
 housenumber: 4

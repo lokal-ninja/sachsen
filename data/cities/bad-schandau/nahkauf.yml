@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.918245500000005
 longitude: 14.151893300000001
-postcode: 01814
+postcode: "01814"
 city: Bad Schandau
 street: "Dresdner Straße"
 housenumber: 2b

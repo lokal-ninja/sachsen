@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.014525400000004
 longitude: 13.667549200000002
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "Fichtestraße"
 housenumber: 8

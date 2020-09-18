@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1238602
 longitude: 12.4924689
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Sachsenallee"
 housenumber: 26

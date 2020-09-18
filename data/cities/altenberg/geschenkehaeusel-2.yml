@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 50.7944077
 longitude: 13.7120873
-postcode: 01773
+postcode: "01773"
 city: Altenberg
 street: "Kurplatz"
 housenumber: 2

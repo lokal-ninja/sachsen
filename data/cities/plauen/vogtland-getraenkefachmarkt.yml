@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.4959932
 longitude: 12.1247626
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Friedensstraße"
 housenumber: 89

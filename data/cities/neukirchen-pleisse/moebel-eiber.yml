@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.790183500000005
 longitude: 12.3784594
-postcode: 08459
+postcode: "08459"
 city: Neukirchen/Pleiße
 street: "Pleißenweg"
 housenumber: 7

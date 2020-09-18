@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.349092500000005
 longitude: 14.6008425
-postcode: 02943
+postcode: "02943"
 city: Boxberg/O.L.
 street: "Ernst-Thälmann-Straße"
 housenumber: 14a

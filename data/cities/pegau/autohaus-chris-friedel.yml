@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1692383
 longitude: 12.254489000000001
-postcode: 04523
+postcode: "04523"
 city: Pegau
 street: "Ernst-Reinsdorf-Straße"
 housenumber: 7

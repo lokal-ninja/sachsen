@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.3748316
 longitude: 14.0706857
-postcode: 02994
+postcode: "02994"
 city: Bernsdorf
 street: "Rathausallee"
 housenumber: 2D

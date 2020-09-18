@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.860925400000006
 longitude: 13.167039
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Große Kirchgasse"
 housenumber: 10

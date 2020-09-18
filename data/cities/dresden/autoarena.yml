@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0171556
 longitude: 13.673280900000002
-postcode: 01187
+postcode: "01187"
 city: Dresden
 street: "Tharandter Straße"
 housenumber: 199

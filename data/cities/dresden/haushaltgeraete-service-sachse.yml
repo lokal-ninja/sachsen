@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.037174400000005
 longitude: 13.787091100000001
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Schrammsteinstraße"
 housenumber: 3

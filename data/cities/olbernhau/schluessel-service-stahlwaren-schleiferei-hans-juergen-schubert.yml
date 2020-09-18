@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.660262800000005
 longitude: 13.3407134
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Töpfergasse"
 housenumber: 2a

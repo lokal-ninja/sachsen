@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.364270000000005
 longitude: 12.3841278
-postcode: 04129
+postcode: "04129"
 city: Leipzig
 street: "Delitzscher Straße"
 housenumber: 64

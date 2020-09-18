@@ -3,7 +3,7 @@ type: way
 shop: Holz
 latitude: 50.757102200000006
 longitude: 13.302452500000001
-postcode: 09618
+postcode: "09618"
 city: Großhartmannsdorf
 street: "Schulstraße"
 housenumber: 16

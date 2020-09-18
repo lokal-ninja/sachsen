@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 50.9130508
 longitude: 13.361234000000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Turmhofschacht"
 housenumber: 11

@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 51.233209900000006
 longitude: 12.705615900000002
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Gerichtswiesen"
-housenumber: 1
-phone: "+49 3437 707328"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.rossmann.de/"
+housenumber: 39
+phone: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+website: ""

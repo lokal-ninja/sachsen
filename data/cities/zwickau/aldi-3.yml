@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.719633200000004
 longitude: 12.513186500000002
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Lerchenweg"
 housenumber: 3

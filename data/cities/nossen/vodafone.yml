@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.0574486
 longitude: 13.2985784
-postcode: 01683
+postcode: "01683"
 city: Nossen
 street: "Markt"
 housenumber: 30

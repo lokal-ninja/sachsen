@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.218492000000005
 longitude: 12.222295500000001
-postcode: 04523
+postcode: "04523"
 city: Pegau
 street: "Ernst-Thälmann-Straße"
 housenumber: 59

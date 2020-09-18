@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.158716600000005
 longitude: 13.680445700000002
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Schloßallee"
 housenumber: 35

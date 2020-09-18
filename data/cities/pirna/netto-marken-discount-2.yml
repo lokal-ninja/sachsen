@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.953859200000004
 longitude: 13.9354189
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Einsteinstraße"
 housenumber: 20

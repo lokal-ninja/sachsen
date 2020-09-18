@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.217725900000005
 longitude: 12.3268456
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Leipziger Straße"
 housenumber: 13

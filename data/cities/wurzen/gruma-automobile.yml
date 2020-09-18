@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.385783800000006
 longitude: 12.7382769
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Schützstraße"
 housenumber: 3

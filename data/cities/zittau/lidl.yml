@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.886588
 longitude: 14.801795100000001
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Kantstraße"
 housenumber: 31

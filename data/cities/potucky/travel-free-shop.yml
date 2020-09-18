@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.4295801
 longitude: 12.734493400000002
-postcode: 36235
+postcode: "36235"
 city: Potůčky
 street: "Potůčky"
 housenumber: 155

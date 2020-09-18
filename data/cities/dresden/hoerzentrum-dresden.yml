@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.0520555
 longitude: 13.806192800000002
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: ""
 housenumber: 

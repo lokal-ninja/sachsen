@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.0131419
 longitude: 13.6479333
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "Wilsdruffer Straße"
 housenumber: 33

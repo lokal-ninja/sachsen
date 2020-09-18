@@ -3,7 +3,7 @@ type: way
 shop: Gasflaschen
 latitude: 51.065429300000005
 longitude: 13.031891600000002
-postcode: 04736
+postcode: "04736"
 city: Waldheim
 street: "Mortelstraße"
 housenumber: 27

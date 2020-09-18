@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.831850200000005
 longitude: 12.918697000000002
-postcode: 09111
+postcode: "09111"
 city: Chemnitz
 street: "Rosenhof"
 housenumber: 

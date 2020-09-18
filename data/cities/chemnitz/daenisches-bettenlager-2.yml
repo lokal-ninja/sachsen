@@ -1,12 +1,12 @@
-id: 4535422389
-type: node
+id: 822838866
+type: way
 shop: Möbel
-latitude: 50.833107700000006
-longitude: 12.9229841
-postcode: 09111
+latitude: 50.795652800000006
+longitude: 12.9211088
+postcode: "09125"
 city: Chemnitz
-street: "Johannisplatz"
-housenumber: 8
+street: "Annaberger Straße"
+housenumber: 315
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 09:30-18:00"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off"
 website: ""

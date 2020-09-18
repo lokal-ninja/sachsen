@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.825815500000004
 longitude: 12.832009000000001
-postcode: 09117
+postcode: "09117"
 city: Chemnitz
 street: "Oberfrohnaer Straße"
 housenumber: 63

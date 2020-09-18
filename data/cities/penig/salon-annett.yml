@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.947399000000004
 longitude: 12.647814700000001
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Kleine Seite"
 housenumber: 3 A

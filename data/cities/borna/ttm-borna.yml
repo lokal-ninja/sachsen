@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 51.1142204
 longitude: 12.487182
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Am Wilhelmschacht"
 housenumber: 23

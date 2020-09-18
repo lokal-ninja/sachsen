@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 51.3284712
 longitude: 12.403766500000001
-postcode: 04317
+postcode: "04317"
 city: Leipzig
 street: "Riebeckstraße"
 housenumber: 36

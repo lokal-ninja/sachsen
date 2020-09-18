@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0658309
 longitude: 13.6740501
-postcode: 01157
+postcode: "01157"
 city: Dresden
 street: "Altbriesnitz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8715758
 longitude: 13.5272427
-postcode: 01774
+postcode: "01774"
 city: Klingenberg
 street: "Platz der Jugend"
 housenumber: 3

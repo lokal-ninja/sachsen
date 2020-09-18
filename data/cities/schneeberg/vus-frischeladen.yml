@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.5949911
 longitude: 12.642254000000001
-postcode: 08289
+postcode: "08289"
 city: Schneeberg
 street: "Markt"
 housenumber: 9

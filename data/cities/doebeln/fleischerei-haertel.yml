@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.1216245
 longitude: 13.1211333
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Bäckerstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.129045000000005
 longitude: 14.180339100000001
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Bautzener Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4595697
 longitude: 12.491065800000001
-postcode: 08262
+postcode: "08262"
 city: Muldenhammer
 street: "Bahnhofstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.0512947
 longitude: 13.741269
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "An der Frauenkirche"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.900411500000004
 longitude: 14.655088000000001
-postcode: 02779
+postcode: "02779"
 city: Großschönau
 street: "Hauptstraße"
 housenumber: 27

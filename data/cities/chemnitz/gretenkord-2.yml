@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7967516
 longitude: 12.8809655
-postcode: 09122
+postcode: "09122"
 city: Chemnitz
 street: "Stollberger Straße"
 housenumber: 174

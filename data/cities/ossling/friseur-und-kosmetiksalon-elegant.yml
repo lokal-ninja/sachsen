@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3600092
 longitude: 14.167869600000001
-postcode: 01920
+postcode: "01920"
 city: Oßling
 street: "Wittichenauer Straße"
 housenumber: 12B

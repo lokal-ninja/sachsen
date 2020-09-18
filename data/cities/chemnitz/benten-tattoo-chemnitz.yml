@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.8303135
 longitude: 12.953728300000002
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Bernhardstraße"
 housenumber: 129

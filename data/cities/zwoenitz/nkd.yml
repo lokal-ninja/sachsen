@@ -1,12 +1,12 @@
 id: 4904104455
 type: node
-shop: Warenhaus
+shop: Kleidung
 latitude: 50.630124
 longitude: 12.811691600000001
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Lange Gasse"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00; Su,PH off"
 website: ""

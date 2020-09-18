@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.028073000000006
 longitude: 14.2189139
-postcode: 01844
+postcode: "01844"
 city: Neustadt in Sachsen
 street: "Wilhelm-Kaulisch-Straße"
 housenumber: 26

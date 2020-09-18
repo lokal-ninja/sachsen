@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 50.3553986
 longitude: 12.465182
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Markneukirchner Straße"
 housenumber: 13

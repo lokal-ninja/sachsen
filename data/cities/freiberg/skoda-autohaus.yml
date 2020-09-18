@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.930663
 longitude: 13.325071300000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Leipziger Straße"
 housenumber: 54

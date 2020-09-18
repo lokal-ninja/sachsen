@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.4191325
 longitude: 12.9726621
-postcode: 09484
+postcode: "09484"
 city: Kurort Oberwiesenthal
 street: "Annaberger Straße"
 housenumber: 7

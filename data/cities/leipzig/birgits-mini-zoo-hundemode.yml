@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.367297
 longitude: 12.344004
-postcode: 04159
+postcode: "04159"
 city: Leipzig
 street: "Georg-Schumann-Straße"
 housenumber: 

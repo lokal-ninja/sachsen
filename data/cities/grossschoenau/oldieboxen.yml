@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 50.895230600000005
 longitude: 14.662679800000001
-postcode: 02779
+postcode: "02779"
 city: Großschönau
 street: "An der Sense"
 housenumber: 2

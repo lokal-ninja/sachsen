@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.837067100000006
 longitude: 12.9390911
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Tschaikowskistraße"
 housenumber: 

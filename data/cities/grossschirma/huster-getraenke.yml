@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.024094000000005
 longitude: 13.303298400000001
-postcode: 09603
+postcode: "09603"
 city: Großschirma
 street: "Weststraße"
 housenumber: 57

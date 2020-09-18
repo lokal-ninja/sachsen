@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.342963000000005
 longitude: 12.374297
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Brühl"
 housenumber: 14 - 16

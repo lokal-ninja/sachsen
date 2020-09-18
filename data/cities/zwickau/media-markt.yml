@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 50.746687800000004
 longitude: 12.4834826
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Franz-Mehring-Straße"
 housenumber: 169

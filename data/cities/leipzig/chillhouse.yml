@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.343014600000004
 longitude: 12.374137900000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Brühl"
 housenumber: 10-12

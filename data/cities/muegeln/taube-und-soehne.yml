@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2367409
 longitude: 13.046968000000001
-postcode: 04769
+postcode: "04769"
 city: Mügeln
 street: "Markt"
 housenumber: 5

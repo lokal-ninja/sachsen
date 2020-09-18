@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.527740800000004
 longitude: 12.4103464
-postcode: 08228
+postcode: "08228"
 city: Rodewisch
 street: "Rützengrüner Straße"
 housenumber: 28

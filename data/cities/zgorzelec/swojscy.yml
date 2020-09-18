@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.1503707
 longitude: 15.004642200000001
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Ignacego Daszyńskiego"
 housenumber: 77

@@ -3,10 +3,10 @@ type: node
 shop: Computer
 latitude: 50.708324700000006
 longitude: 12.371317000000001
-postcode: 08427
+postcode: "08427"
 city: Fraureuth
 street: "Steinpleiser Straße"
 housenumber: 1
-phone: "+49 3761 72700"
-opening_hours: ""
+phone: ""
+opening_hours: "Tu-Fr 09:00-12:30, 13:30-17:00"
 website: ""

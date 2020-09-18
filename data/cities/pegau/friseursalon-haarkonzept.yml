@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.165115500000006
 longitude: 12.2624192
-postcode: 04523
+postcode: "04523"
 city: Pegau
 street: "Leipziger Vorstadt"
 housenumber: 20

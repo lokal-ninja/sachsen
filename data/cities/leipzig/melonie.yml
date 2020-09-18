@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.340974700000004
 longitude: 12.3680017
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Gottschedstraße"
 housenumber: 9

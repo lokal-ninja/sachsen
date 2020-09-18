@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.808461
 longitude: 12.9717496
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Otto-Thörner-Straße"
 housenumber: 18

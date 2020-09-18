@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3651678
 longitude: 12.3769199
-postcode: 04157
+postcode: "04157"
 city: Leipzig
 street: "Lützowstraße"
 housenumber: 52

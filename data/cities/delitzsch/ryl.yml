@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.524587800000006
 longitude: 12.3422307
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Eilenburger Straße"
 housenumber: 57

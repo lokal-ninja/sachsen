@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 50.732207800000005
 longitude: 12.4937646
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Rosa-Luxemburg-Straße"
 housenumber: 84
-phone: "(03 75) 2 14 43 21"
+phone: "+49 375 2 14 43 21"
 opening_hours: "Mo-Fr 08:00-19:00"
 website: ""

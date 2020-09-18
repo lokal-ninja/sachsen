@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.410688300000004
 longitude: 12.9228754
-postcode: 36262
+postcode: "36262"
 city: Boží Dar
 street: ""
 housenumber: 189

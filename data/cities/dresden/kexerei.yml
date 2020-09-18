@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 51.0847032
 longitude: 13.6961606
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Peschelstraße"
 housenumber: 33

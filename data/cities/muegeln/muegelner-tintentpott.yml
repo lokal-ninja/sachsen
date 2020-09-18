@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.236505
 longitude: 13.0483878
-postcode: 04769
+postcode: "04769"
 city: Mügeln
 street: "Dr.-Friedrichs-Straße"
 housenumber: 10

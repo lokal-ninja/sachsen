@@ -1,12 +1,12 @@
-id: 1102784571
+id: 639547711
 type: node
 shop: Supermarkt
-latitude: 51.3452026
-longitude: 12.380146900000002
-postcode: 04109
+latitude: 51.3459936
+longitude: 12.318254900000001
+postcode: "04179"
 city: Leipzig
-street: "Willy-Brandt-Platz"
-housenumber: 7
+street: "Georg-Schwarz-Straße"
+housenumber: 92 - 96
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 12:00-18:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+website: ""

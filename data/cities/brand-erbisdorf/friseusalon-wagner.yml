@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.870409200000005
 longitude: 13.322189400000001
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Freiberger Straße"
 housenumber: 1

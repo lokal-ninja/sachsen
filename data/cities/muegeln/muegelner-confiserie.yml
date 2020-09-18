@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.2364606
 longitude: 13.050228500000001
-postcode: 04769
+postcode: "04769"
 city: Mügeln
 street: "Dr.-Friedrichs-Straße"
 housenumber: 32

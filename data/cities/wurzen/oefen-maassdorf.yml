@@ -3,7 +3,7 @@ type: way
 shop: Kamine & Öfen
 latitude: 51.368369300000005
 longitude: 12.7445996
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Schillerstraße"
 housenumber: 26

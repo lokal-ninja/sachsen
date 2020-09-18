@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.5794301
 longitude: 13.002362300000001
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Buchholzer Straße"
 housenumber: 3

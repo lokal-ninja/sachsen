@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.3137994
 longitude: 14.3317046
-postcode: 02699
+postcode: "02699"
 city: Königswartha
 street: "Hauptstraße"
 housenumber: 58

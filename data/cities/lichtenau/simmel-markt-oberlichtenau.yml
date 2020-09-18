@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9053941
 longitude: 12.962119300000001
-postcode: 09244
+postcode: "09244"
 city: Lichtenau
 street: "Auerswalder Straße"
 housenumber: 5

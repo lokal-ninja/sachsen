@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6664965
 longitude: 12.8508163
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Thumer Straße"
 housenumber: 23

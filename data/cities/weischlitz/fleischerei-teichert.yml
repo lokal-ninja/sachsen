@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.44430130000001
 longitude: 12.0647044
-postcode: 08538
+postcode: "08538"
 city: Weischlitz
 street: "Schulstraße"
 housenumber: 2

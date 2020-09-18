@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.81043510000001
 longitude: 12.942390600000001
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Grünband"
 housenumber: 14

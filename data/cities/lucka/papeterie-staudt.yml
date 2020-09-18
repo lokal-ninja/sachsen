@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.098432700000004
 longitude: 12.332481900000001
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Altenburger Straße"
 housenumber: 17

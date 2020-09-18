@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.7041617
 longitude: 12.4994124
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Äußere Schneeberger Straße"
 housenumber: 95

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4571181
 longitude: 14.266339100000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Am Speicher"
 housenumber: 3

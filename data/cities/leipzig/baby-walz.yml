@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 51.341028
 longitude: 12.385606000000001
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Querstraße"
 housenumber: 18

@@ -1,12 +1,12 @@
-id: 3522363760
-type: node
+id: 438460561
+type: way
 shop: Bäckerei
-latitude: 51.3687765
-longitude: 14.063597600000001
-postcode: 02994
+latitude: 51.378450400000006
+longitude: 14.0658267
+postcode: "02994"
 city: Bernsdorf
-street: "Dresdener Straße"
-housenumber: 12
+street: "Am Schmelzteich"
+housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:15-18:00; Sa 06:15-12:00; Su 07:00-10:00"
 website: ""

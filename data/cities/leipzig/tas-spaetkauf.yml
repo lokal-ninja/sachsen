@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.3533552
 longitude: 12.4088905
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Dimpfelstraße"
 housenumber: 10

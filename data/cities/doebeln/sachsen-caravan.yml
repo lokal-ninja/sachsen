@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.118668400000004
 longitude: 13.1290606
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Fichtestraße"
 housenumber: 1

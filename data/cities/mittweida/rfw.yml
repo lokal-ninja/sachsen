@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9841429
 longitude: 12.979884400000001
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Weberstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.9217785
 longitude: 12.715854100000001
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Chemnitzer Straße"
 housenumber: 102

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.189264900000005
 longitude: 14.452867900000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Malschwitzer Straße"
 housenumber: 1

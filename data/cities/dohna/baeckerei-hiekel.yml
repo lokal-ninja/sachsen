@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9658486
 longitude: 13.8085552
-postcode: 01809
+postcode: "01809"
 city: Dohna
 street: "Am Landgut"
 housenumber: 1

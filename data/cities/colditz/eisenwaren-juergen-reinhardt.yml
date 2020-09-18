@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1281704
 longitude: 12.8065198
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Sophienplatz"
 housenumber: 4

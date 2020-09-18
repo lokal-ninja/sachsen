@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.272196
 longitude: 12.3688053
-postcode: 04416
+postcode: "04416"
 city: Markkleeberg
 street: "Städtelner Straße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2703818
 longitude: 14.0954399
-postcode: 01917
+postcode: "01917"
 city: Kamenz
 street: "Markt"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.270427500000004
 longitude: 14.0951953
-postcode: 01917
+postcode: "01917"
 city: Kamenz
 street: "Markt"
 housenumber: 14

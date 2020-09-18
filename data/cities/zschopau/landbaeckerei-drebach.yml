@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7477402
 longitude: 13.069317900000001
-postcode: 09405
+postcode: "09405"
 city: Zschopau
 street: "Neumarkt"
 housenumber: 11

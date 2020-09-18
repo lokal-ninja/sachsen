@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.1639266
 longitude: 13.482798800000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Großenhainer Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.761480500000005
 longitude: 13.628970800000001
-postcode: 01776
+postcode: "01776"
 city: Hermsdorf/Erzgebirge
 street: "Hauptstraße"
 housenumber: 29

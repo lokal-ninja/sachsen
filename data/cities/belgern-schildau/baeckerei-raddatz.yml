@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4562612
 longitude: 12.9230166
-postcode: 04889
+postcode: "04889"
 city: Belgern-Schildau
 street: "Eilenburger Straße"
 housenumber: 3

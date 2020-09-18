@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9824065
 longitude: 13.109708600000001
-postcode: 09661
+postcode: "09661"
 city: Hainichen
 street: "Ahornstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.000030800000005
 longitude: 13.6493164
-postcode: 
+postcode: ""
 city: Freital
 street: "Bahnhofstraße"
 housenumber: 32

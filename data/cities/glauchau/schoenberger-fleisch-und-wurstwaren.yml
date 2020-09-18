@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8167551
 longitude: 12.5411991
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Schloßstraße"
 housenumber: 3

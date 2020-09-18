@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.075721400000006
 longitude: 13.689447300000001
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Washingtonstraße"
 housenumber: 16/16a

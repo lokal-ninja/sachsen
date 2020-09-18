@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.5308598
 longitude: 12.1057974
-postcode: 08525
+postcode: "08525"
 city: Plauen
 street: "Alte Jößnitzer Straße"
 housenumber: 30

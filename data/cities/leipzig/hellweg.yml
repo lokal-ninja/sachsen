@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.386238600000006
 longitude: 12.263643
-postcode: 04159
+postcode: "04159"
 city: Leipzig
 street: "Hallesche Straße"
 housenumber: 214

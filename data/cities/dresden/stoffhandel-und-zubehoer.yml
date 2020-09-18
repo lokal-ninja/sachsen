@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.075962700000005
 longitude: 13.754246
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Königsbrücker Straße"
 housenumber: 99 HH

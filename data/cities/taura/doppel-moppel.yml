@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.914934800000005
 longitude: 12.889571700000001
-postcode: 09249
+postcode: "09249"
 city: Taura
 street: "Köthensdorfer Hauptstraße"
 housenumber: 122

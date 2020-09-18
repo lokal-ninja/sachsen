@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0958899
 longitude: 14.3916178
-postcode: 02681
+postcode: "02681"
 city: Wilthen
 street: "Zittauer Straße"
 housenumber: 16

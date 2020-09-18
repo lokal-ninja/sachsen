@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1035029
 longitude: 14.685282800000001
-postcode: 02708
+postcode: "02708"
 city: Löbau
 street: "Laubaner Straße"
 housenumber: 37

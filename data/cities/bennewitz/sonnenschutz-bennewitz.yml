@@ -3,7 +3,7 @@ type: way
 shop: Jalousien
 latitude: 51.3606143
 longitude: 12.694255400000001
-postcode: 04828
+postcode: "04828"
 city: Bennewitz
 street: "Leipziger Straße"
 housenumber: 77a

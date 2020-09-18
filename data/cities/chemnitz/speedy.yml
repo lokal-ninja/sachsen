@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.8420281
 longitude: 12.952404900000001
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Planitzwiese"
 housenumber: 24

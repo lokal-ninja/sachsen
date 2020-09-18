@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 51.5239545
 longitude: 12.3402244
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Töpfergasse"
 housenumber: 1

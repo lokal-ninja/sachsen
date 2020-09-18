@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.29928820000001
 longitude: 12.3953048
-postcode: 04279
+postcode: "04279"
 city: Leipzig
 street: "Dankwartstraße"
 housenumber: 3

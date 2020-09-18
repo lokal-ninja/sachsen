@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 51.1502008
 longitude: 15.005066000000001
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Ignacego Daszyńskiego"
 housenumber: 75B

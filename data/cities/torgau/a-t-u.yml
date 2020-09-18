@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.555472900000005
 longitude: 12.965505700000001
-postcode: 04860
+postcode: "04860"
 city: Torgau
 street: "Gewerbering"
 housenumber: 13

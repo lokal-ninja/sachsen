@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 51.3704255
 longitude: 12.739476400000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Jacobsplatz"
 housenumber: 19

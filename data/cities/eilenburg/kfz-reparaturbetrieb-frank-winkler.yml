@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.457754900000005
 longitude: 12.6361244
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Schulstraße"
 housenumber: 21

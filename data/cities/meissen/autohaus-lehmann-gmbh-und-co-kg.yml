@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.147701000000005
 longitude: 13.474933100000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Wilsdruffer Straße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.01951570000001
 longitude: 13.7221901
-postcode: 01189
+postcode: "01189"
 city: Dresden
 street: "Kohlenstraße"
 housenumber: 18

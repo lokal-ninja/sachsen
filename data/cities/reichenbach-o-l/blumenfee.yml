@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1410368
 longitude: 14.801104500000001
-postcode: 02894
+postcode: "02894"
 city: Reichenbach/O.L.
 street: "Markt"
 housenumber: 21

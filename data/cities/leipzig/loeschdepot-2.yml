@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.370859900000006
 longitude: 12.3378718
-postcode: 04159
+postcode: "04159"
 city: Leipzig
 street: "Blücherstraße"
 housenumber: 36

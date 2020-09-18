@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.093391800000006
 longitude: 12.3263949
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "An der Bahn"
 housenumber: 3

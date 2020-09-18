@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.7655438
 longitude: 13.756812600000002
-postcode: 01773
+postcode: "01773"
 city: Altenberg
 street: "Dippoldiswalder Straße"
 housenumber: 3

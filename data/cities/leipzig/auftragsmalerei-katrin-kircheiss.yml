@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.3381431
 longitude: 12.335306500000002
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Rabenerstraße"
 housenumber: 9

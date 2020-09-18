@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5428992
 longitude: 12.6863863
-postcode: 08324
+postcode: "08324"
 city: Bockau
 street: "Uferstraße"
 housenumber: 11

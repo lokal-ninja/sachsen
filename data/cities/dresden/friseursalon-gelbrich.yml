@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0615674
 longitude: 13.8540972
-postcode: 01324
+postcode: "01324"
 city: Dresden
 street: "Ullersdorfer Platz"
 housenumber: 1b

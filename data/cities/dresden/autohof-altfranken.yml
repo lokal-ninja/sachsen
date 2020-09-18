@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0378905
 longitude: 13.6360115
-postcode: 01156
+postcode: "01156"
 city: Dresden
 street: "Rudolf-Walther-Straße"
 housenumber: 2

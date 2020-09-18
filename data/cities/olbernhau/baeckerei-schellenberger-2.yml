@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.657650100000005
 longitude: 13.326887200000002
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Rungstockstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.464008
 longitude: 14.071695
-postcode: 02991
+postcode: "02991"
 city: Lauta
 street: "Dorfstraße"
 housenumber: 3a

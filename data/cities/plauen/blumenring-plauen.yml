@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.5062432
 longitude: 12.1432303
-postcode: 08525
+postcode: "08525"
 city: Plauen
 street: "Jößnitzer Straße"
 housenumber: 79

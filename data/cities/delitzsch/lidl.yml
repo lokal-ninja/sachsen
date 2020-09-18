@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5170279
 longitude: 12.3305384
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Richard-Wagner-Straße"
 housenumber: 9a

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.3061209
 longitude: 12.2598558
-postcode: 04207
+postcode: "04207"
 city: Leipzig
 street: "Lausener Straße"
 housenumber: 2

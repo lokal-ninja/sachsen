@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.2538217
 longitude: 12.7317116
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Wedniger Straße"
 housenumber: 6

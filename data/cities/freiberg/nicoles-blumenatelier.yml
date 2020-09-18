@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.92156730000001
 longitude: 13.3457728
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Meißner Gasse"
 housenumber: 17

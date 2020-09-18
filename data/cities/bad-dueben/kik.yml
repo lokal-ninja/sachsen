@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.599124100000004
 longitude: 12.5977826
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: "Schmiedeberger Straße"
 housenumber: 58b

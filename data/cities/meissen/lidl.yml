@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1621133
 longitude: 13.474715900000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Poststraße"
 housenumber: 11

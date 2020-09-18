@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.918582900000004
 longitude: 14.0742784
-postcode: 01824
+postcode: "01824"
 city: Königstein
 street: "Bielatalstraße"
 housenumber: 9
 phone: ""
-opening_hours: ""
+opening_hours: "Mo 08:00-14:00; Tu-Fr 08:00-18:00; Sa 08:00-12:00"
 website: ""

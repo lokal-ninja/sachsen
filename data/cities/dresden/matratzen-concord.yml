@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.0746857
 longitude: 13.723052200000001
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Leipziger Straße"
 housenumber: 80

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.5301039
 longitude: 12.815288800000001
-postcode: 08340
+postcode: "08340"
 city: Schwarzenberg/Erzgeb.
 street: "Schwarzenberger Straße"
 housenumber: 8

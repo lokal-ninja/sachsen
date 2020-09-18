@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.311703
 longitude: 12.4158225
-postcode: 04299
+postcode: "04299"
 city: Leipzig
 street: "Prager Straße"
 housenumber: 210

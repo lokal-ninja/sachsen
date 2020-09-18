@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.531038200000005
 longitude: 12.3405176
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Albert-Böhme-Straße"
 housenumber: 1

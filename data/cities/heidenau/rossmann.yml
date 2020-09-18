@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.980924800000004
 longitude: 13.8651111
-postcode: 01809
+postcode: "01809"
 city: Heidenau
 street: "Bahnhofstraße"
 housenumber: 14

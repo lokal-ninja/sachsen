@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.252143000000004
 longitude: 12.961897100000002
-postcode: 04779
+postcode: "04779"
 city: Wermsdorf
 street: "Siedlung"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0299094
 longitude: 13.8315625
-postcode: 01279
+postcode: "01279"
 city: Dresden
 street: "Alttolkewitz"
 housenumber: 26

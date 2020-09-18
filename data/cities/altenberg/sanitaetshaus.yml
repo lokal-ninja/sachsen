@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.765564600000005
 longitude: 13.7566979
-postcode: 01773
+postcode: "01773"
 city: Altenberg
 street: "Dippoldiswalder Straße"
 housenumber: 3

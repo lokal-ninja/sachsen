@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.024050200000005
 longitude: 13.7422678
-postcode: 01217
+postcode: "01217"
 city: Dresden
 street: "Räcknitzhöhe"
 housenumber: 33

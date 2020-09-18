@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8702808
 longitude: 13.325025
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Zuger Straße"
 housenumber: 2

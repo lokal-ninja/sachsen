@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 50.725808300000004
 longitude: 12.703867200000001
-postcode: 09376
+postcode: "09376"
 city: Oelsnitz/Erzgeb.
 street: "August-Bebel-Straße"
 housenumber: 4

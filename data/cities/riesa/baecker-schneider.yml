@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2948755
 longitude: 13.303335200000001
-postcode: 01589
+postcode: "01589"
 city: Riesa
 street: "Humboldtring"
 housenumber: 1

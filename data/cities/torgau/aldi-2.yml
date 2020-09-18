@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.552013800000005
 longitude: 12.9745901
-postcode: 04860
+postcode: "04860"
 city: Torgau
 street: "Zum Großen Teich"
 housenumber: 1

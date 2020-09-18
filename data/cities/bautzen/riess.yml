@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1804758
 longitude: 14.440143500000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Löbauer Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2303871
 longitude: 14.8939161
-postcode: 02923
+postcode: "02923"
 city: Kodersdorf
 street: "Straße der Einheit"
 housenumber: 15

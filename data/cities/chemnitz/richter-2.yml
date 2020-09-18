@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8317989
 longitude: 12.9199
-postcode: 09111
+postcode: "09111"
 city: Chemnitz
 street: "Am Rathaus"
 housenumber: 4

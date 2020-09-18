@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.119645600000005
 longitude: 13.5999108
-postcode: 01445
+postcode: "01445"
 city: Radebeul
 street: "Meißner Straße"
 housenumber: 438

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.045233800000005
 longitude: 13.2308736
-postcode: 09661
+postcode: "09661"
 city: Striegistal
 street: "Hauptstraße"
 housenumber: 126

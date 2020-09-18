@@ -3,10 +3,10 @@ type: node
 shop: Getränke
 latitude: 50.5136606
 longitude: 12.3978695
-postcode: 08209
+postcode: "08209"
 city: Auerbach
 street: "Bahnhofstraße"
 housenumber: 15a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off"
 website: ""

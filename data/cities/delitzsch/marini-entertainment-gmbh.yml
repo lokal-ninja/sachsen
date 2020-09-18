@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.5246974
 longitude: 12.343507200000001
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Eilenburger Straße"
 housenumber: 67

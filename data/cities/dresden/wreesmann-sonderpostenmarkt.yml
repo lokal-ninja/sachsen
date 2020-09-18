@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.0131944
 longitude: 13.798727600000001
-postcode: 01237
+postcode: "01237"
 city: Dresden
 street: "Seidnitzer Weg"
 housenumber: 3

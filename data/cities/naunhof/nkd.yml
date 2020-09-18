@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2794661
 longitude: 12.5919574
-postcode: 04683
+postcode: "04683"
 city: Naunhof
 street: "Ladestraße"
 housenumber: 5d

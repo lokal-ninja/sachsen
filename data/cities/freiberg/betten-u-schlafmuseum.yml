@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.912262000000005
 longitude: 13.345819700000002
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Bahnhofstraße"
 housenumber: 28

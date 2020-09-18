@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.4602038
 longitude: 12.929837800000001
-postcode: 04889
+postcode: "04889"
 city: Belgern-Schildau
 street: "Querstraße"
 housenumber: 2

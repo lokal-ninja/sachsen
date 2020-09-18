@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.3096468
 longitude: 12.3177328
-postcode: 08258
+postcode: "08258"
 city: Markneukirchen
 street: "Adorfer Straße"
 housenumber: 49

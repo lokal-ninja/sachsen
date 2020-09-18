@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.137542
 longitude: 12.791787600000001
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Flurteil Eule"
 housenumber: 2

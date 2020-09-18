@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.0275174
 longitude: 13.834832200000001
-postcode: 01279
+postcode: "01279"
 city: Dresden
 street: "Österreicher Straße"
 housenumber: 22

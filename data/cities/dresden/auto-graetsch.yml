@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.148239800000006
 longitude: 13.8730539
-postcode: 01465
+postcode: "01465"
 city: Dresden
 street: "Seifersdorfer Straße"
 housenumber: 27a

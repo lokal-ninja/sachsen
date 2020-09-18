@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 51.524010000000004
 longitude: 14.330751600000001
-postcode: 03130
+postcode: "03130"
 city: Spremberg
 street: "Franz-Mehring-Straße"
 housenumber: 2a

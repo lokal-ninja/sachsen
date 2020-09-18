@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.816517000000005
 longitude: 12.8974843
-postcode: 09119
+postcode: "09119"
 city: Chemnitz
 street: "Chopinstraße"
 housenumber: 56

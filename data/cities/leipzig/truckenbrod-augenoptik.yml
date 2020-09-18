@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.337407500000005
 longitude: 12.3858387
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Johannisplatz"
 housenumber: 19

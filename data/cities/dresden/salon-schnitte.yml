@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0760273
 longitude: 13.748982400000001
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Seitenstraße"
 housenumber: 3

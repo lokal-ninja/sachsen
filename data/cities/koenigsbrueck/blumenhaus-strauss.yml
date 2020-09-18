@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.259784200000006
 longitude: 13.895472100000001
-postcode: 01936
+postcode: "01936"
 city: Königsbrück
 street: "Dresdner Straße"
 housenumber: 15

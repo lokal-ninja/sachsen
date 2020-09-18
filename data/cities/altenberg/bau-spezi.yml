@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.7581555
 longitude: 13.7655107
-postcode: 01773
+postcode: "01773"
 city: Altenberg
 street: "Zinnwalder Straße"
 housenumber: 15

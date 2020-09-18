@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2155829
 longitude: 13.7311463
-postcode: 01471
+postcode: "01471"
 city: Radeburg
 street: "Lindenweg"
 housenumber: 1

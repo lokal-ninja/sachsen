@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.062835
 longitude: 13.750301700000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Bautzner Straße"
 housenumber: 8

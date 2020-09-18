@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.750937
 longitude: 13.0761555
-postcode: 09405
+postcode: "09405"
 city: Zschopau
 street: "Am Gräbel"
 housenumber: 1

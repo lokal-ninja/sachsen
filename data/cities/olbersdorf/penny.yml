@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8652747
 longitude: 14.760201700000001
-postcode: 02785
+postcode: "02785"
 city: Olbersdorf
 street: "Julius-Ringehan-Straße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 51.0656545
 longitude: 13.7533235
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Rothenburger Straße"
 housenumber: 33

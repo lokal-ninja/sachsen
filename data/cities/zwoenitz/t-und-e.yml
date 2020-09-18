@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.633335100000004
 longitude: 12.7969933
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Hartensteiner Straße"
 housenumber: 6

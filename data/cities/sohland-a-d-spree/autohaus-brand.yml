@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0543446
 longitude: 14.403613900000002
-postcode: 02689
+postcode: "02689"
 city: Sohland a. d. Spree
 street: "Am Pilzdörfel"
 housenumber: 31

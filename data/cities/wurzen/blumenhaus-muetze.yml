@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.370289400000004
 longitude: 12.740135100000002
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Jacobsplatz"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8183263
 longitude: 12.920724400000001
-postcode: 09120
+postcode: "09120"
 city: Chemnitz
 street: "Altchemnitzer Straße"
 housenumber: 50a

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.5639368
 longitude: 13.011313900000001
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Oberwiesenthaler Weg"
 housenumber: 2

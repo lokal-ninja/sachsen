@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.95720540000001
 longitude: 13.927421500000001
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Dresdner Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.7169553
 longitude: 12.4842694
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Robert-Müller-Straße"
 housenumber: 13

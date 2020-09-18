@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.066512
 longitude: 13.7607338
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Prießnitzstraße"
 housenumber: 44 HH

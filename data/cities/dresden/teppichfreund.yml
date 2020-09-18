@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 51.0046576
 longitude: 13.7976436
-postcode: 01239
+postcode: "01239"
 city: Dresden
 street: "Jacob-Winter-Platz"
 housenumber: 17

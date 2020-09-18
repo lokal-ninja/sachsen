@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 50.724786900000005
 longitude: 12.700476400000001
-postcode: 09376
+postcode: "09376"
 city: Oelsnitz/Erzgeb.
 street: "Meinertstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.5785691
 longitude: 12.360217700000002
-postcode: 08485
+postcode: "08485"
 city: Lengenfeld
 street: "Reichenbacher Straße"
 housenumber: 37

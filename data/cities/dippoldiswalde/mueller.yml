@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.863171400000006
 longitude: 13.665971
-postcode: 01744
+postcode: "01744"
 city: Dippoldiswalde
 street: "Dresdner Straße"
 housenumber: 67

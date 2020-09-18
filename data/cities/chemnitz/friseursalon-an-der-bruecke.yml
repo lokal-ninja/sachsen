@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.860300900000006
 longitude: 12.8915109
-postcode: 
+postcode: ""
 city: Chemnitz
 street: "Bornaer Straße"
 housenumber: 84

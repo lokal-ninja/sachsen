@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.2230183
 longitude: 13.4211653
-postcode: 01665
+postcode: "01665"
 city: Diera-Zehren
 street: "Elbufer"
 housenumber: 19

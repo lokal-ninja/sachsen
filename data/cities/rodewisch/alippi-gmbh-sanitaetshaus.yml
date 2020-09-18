@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 50.5378331
 longitude: 12.3994304
-postcode: 08228
+postcode: "08228"
 city: Rodewisch
 street: "Lengenfelder Straße"
 housenumber: 23

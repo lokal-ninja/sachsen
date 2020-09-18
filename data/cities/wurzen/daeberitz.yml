@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.364046800000004
 longitude: 12.7626442
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Roitzscher Hauptstraße"
 housenumber: 22

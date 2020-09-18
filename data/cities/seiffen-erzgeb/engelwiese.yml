@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.6458876
 longitude: 13.466467900000001
-postcode: 09548
+postcode: "09548"
 city: Seiffen/Erzgeb.
 street: "Alte Dorfstraße"
 housenumber: 18b

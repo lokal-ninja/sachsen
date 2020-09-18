@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.8540294
 longitude: 14.697523400000001
-postcode: 02796
+postcode: "02796"
 city: Kurort Jonsdorf
 street: "Auf der Heide"
 housenumber: 31

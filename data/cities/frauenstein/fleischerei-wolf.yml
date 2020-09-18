@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8035216
 longitude: 13.528659300000001
-postcode: 09623
+postcode: "09623"
 city: Frauenstein
 street: "Freiberger Straße"
 housenumber: 34

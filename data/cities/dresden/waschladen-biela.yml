@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.0710884
 longitude: 13.7513137
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Bischofsweg"
 housenumber: 10

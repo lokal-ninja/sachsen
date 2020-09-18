@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8669735
 longitude: 12.7740364
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Kreuzeiche"
 housenumber: 12

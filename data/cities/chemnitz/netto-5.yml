@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8291246
 longitude: 12.9618189
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Augustusburger Straße"
 housenumber: 263

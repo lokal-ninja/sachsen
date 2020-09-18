@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3082464
 longitude: 13.538040700000002
-postcode: 01558
+postcode: "01558"
 city: Großenhain
 street: "Am Rollfeld"
 housenumber: 1

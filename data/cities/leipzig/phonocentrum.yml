@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.3332634
 longitude: 12.373834400000002
-postcode: 04107
+postcode: "04107"
 city: Leipzig
 street: "Peterssteinweg"
 housenumber: 13

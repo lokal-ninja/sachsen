@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.4858528
 longitude: 12.9747713
-postcode: 09465
+postcode: "09465"
 city: Sehmatal
 street: "Karlsbader Straße"
 housenumber: 85

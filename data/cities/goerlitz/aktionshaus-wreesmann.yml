@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.1244035
 longitude: 14.981935900000002
-postcode: 02827
+postcode: "02827"
 city: Görlitz
 street: "Zittauer Straße"
 housenumber: 144

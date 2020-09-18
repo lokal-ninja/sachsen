@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.719058000000004
 longitude: 12.492925900000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Innere Plauensche Straße"
 housenumber: 20

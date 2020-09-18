@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9718807
 longitude: 13.1221385
-postcode: 09661
+postcode: "09661"
 city: Hainichen
 street: "Oberer Stadtgraben"
 housenumber: 6

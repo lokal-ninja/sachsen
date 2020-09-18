@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.845851
 longitude: 12.9401787
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Gellertstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.375542200000005
 longitude: 13.4878049
-postcode: 01609
+postcode: "01609"
 city: Röderaue
 street: "Großenhainer Straße"
 housenumber: 10

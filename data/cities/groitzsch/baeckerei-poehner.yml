@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.120597700000005
 longitude: 12.251714000000002
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Löbnitz-Bennewitz"
 housenumber: 67

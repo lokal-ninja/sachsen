@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.048067700000004
 longitude: 12.559984
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Ringstraße"
 housenumber: 2

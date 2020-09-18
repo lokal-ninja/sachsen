@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.838431400000005
 longitude: 12.447478700000001
-postcode: 08393
+postcode: "08393"
 city: Meerane
 street: "Guteborner Allee"
 housenumber: 3

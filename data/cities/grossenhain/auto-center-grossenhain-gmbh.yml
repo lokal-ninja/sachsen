@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.292104200000004
 longitude: 13.5275212
-postcode: 01558
+postcode: "01558"
 city: Großenhain
 street: "Mozartallee"
 housenumber: 135

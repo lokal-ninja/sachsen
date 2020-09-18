@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.722507900000004
 longitude: 12.7271157
-postcode: 09376
+postcode: "09376"
 city: Oelsnitz/Erzgeb.
 street: "Pflockenstraße"
 housenumber: 47

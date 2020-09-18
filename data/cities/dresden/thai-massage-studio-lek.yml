@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.0715562
 longitude: 13.727584
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Leipziger Straße"
 housenumber: 36

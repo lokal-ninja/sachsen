@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9620405
 longitude: 13.9393609
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Dohnaische Straße"
 housenumber: 64-66

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.513823200000004
 longitude: 12.397727600000001
-postcode: 08209
+postcode: "08209"
 city: Auerbach
 street: "Bahnhofstraße"
 housenumber: 15a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

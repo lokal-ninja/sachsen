@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.151513300000005
 longitude: 12.409974100000001
-postcode: 04575
+postcode: "04575"
 city: Neukieritzsch
 street: "Markt"
 housenumber: 7

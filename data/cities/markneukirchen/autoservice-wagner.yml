@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.3184187
 longitude: 12.337913100000002
-postcode: 08258
+postcode: "08258"
 city: Markneukirchen
 street: "Gewerbepark"
 housenumber: 10

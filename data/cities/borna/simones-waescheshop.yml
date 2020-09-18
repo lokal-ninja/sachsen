@@ -1,12 +1,12 @@
 id: 2504900187
 type: node
-shop: Modehaus
+shop: Kleidung
 latitude: 51.123911
 longitude: 12.499326600000002
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Reichsstraße"
 housenumber: 19
-phone: "+49 3433 207100"
+phone: ""
 opening_hours: ""
 website: ""

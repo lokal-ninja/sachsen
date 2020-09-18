@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.164050100000004
 longitude: 14.977214000000002
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Scultetusstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.160970400000004
 longitude: 13.6786203
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Roßmarkt"
 housenumber: 6

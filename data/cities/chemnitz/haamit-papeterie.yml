@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 50.8312339
 longitude: 12.896911600000001
-postcode: 09112
+postcode: "09112"
 city: Chemnitz
 street: "Weststraße"
 housenumber: 69

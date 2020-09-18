@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.042793
 longitude: 13.690968100000001
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Kesselsdorfer Straße"
 housenumber: 66

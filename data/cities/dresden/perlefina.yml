@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.044941
 longitude: 13.778044000000001
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Borsbergstraße"
 housenumber: 27

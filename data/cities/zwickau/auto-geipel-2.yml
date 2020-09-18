@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 50.726365900000005
 longitude: 12.4735683
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Herschelstraße"
 housenumber: 1
-phone: "0375/270130"
+phone: "+49 375 27013 0"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
 website: "https://www.autohaus-geipel.de/index.php/autohaus-zwickau"

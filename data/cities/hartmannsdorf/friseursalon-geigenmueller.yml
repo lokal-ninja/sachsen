@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.887162100000005
 longitude: 12.8004289
-postcode: 09232
+postcode: "09232"
 city: Hartmannsdorf
 street: "Untere Hauptstraße"
 housenumber: 109

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.842133600000004
 longitude: 13.070590900000001
-postcode: 09557
+postcode: "09557"
 city: Flöha
 street: "Friedhofstraße"
 housenumber: 4

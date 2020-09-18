@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1513592
 longitude: 13.8063847
-postcode: 01108
+postcode: "01108"
 city: Dresden
 street: "Königsbrücker Landstraße"
 housenumber: 369

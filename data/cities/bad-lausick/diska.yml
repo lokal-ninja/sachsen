@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.143198600000005
 longitude: 12.637241000000001
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
 street: "Hospitalstraße"
 housenumber: 6

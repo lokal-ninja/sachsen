@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.8538518
 longitude: 14.69461
-postcode: 02796
+postcode: "02796"
 city: Kurort Jonsdorf
 street: "Mühlbergweg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.8169921
 longitude: 12.541650500000001
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Markt"
 housenumber: 1

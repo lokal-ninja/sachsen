@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.8599838
 longitude: 13.1668813
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Lange Straße"
 housenumber: 4

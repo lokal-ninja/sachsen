@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.826267
 longitude: 12.8313819
-postcode: 09117
+postcode: "09117"
 city: Chemnitz
 street: "Oberfrohnaer Straße"
 housenumber: 63-65

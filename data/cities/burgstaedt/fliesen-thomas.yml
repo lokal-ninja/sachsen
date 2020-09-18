@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 50.897902
 longitude: 12.817415200000001
-postcode: 09217
+postcode: "09217"
 city: Burgstädt
 street: "Albert-Viertel-Straße"
 housenumber: 5

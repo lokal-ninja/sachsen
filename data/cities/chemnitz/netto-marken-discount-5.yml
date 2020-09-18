@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8426465
 longitude: 12.9080165
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Bergstraße"
 housenumber: 40

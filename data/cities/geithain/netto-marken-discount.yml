@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0562011
 longitude: 12.6825556
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Niedergräfenhainer Weg"
 housenumber: 6

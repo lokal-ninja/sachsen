@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.580889600000006
 longitude: 11.9976002
-postcode: 07952
+postcode: "07952"
 city: Pausa-Mühltroff
 street: "Freiheitsstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.8380573
 longitude: 12.4490741
-postcode: 08393
+postcode: "08393"
 city: Meerane
 street: "Guteborner Allee"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.032255600000006
 longitude: 13.709279700000002
-postcode: 01187
+postcode: "01187"
 city: Dresden
 street: "Chemnitzer Straße"
 housenumber: 68

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9836645
 longitude: 13.5813495
-postcode: 01737
+postcode: "01737"
 city: Tharandt
 street: "Am Markt"
 housenumber: 10

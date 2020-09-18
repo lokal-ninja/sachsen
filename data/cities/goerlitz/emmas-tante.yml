@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.151135100000005
 longitude: 14.9860184
-postcode: 
+postcode: ""
 city: Görlitz
 street: "Jakobstraße"
 housenumber: 40

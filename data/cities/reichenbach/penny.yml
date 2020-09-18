@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6245947
 longitude: 12.2933383
-postcode: 08468
+postcode: "08468"
 city: Reichenbach
 street: "Dr.-Külz-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.180511700000004
 longitude: 14.0151731
-postcode: 01896
+postcode: "01896"
 city: Pulsnitz
 street: "Großröhrsdorfer Straße"
 housenumber: 30

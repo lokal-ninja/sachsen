@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 51.3702982
 longitude: 12.7398404
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Jacobsplatz"
 housenumber: 12

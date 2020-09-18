@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1696162
 longitude: 14.752309200000001
-postcode: 02894
+postcode: "02894"
 city: Reichenbach/O.L.
 street: "Hauptstraße"
 housenumber: 39

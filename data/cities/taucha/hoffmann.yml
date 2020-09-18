@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.3773131
 longitude: 12.519424200000001
-postcode: 04425
+postcode: "04425"
 city: Taucha
 street: "Bergstraße"
 housenumber: 16

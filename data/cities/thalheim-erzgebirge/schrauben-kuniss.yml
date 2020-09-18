@@ -3,10 +3,10 @@ type: node
 shop: Eisenwaren
 latitude: 50.707284200000004
 longitude: 12.8420319
-postcode: 09380
+postcode: "09380"
 city: Thalheim/Erzgebirge
 street: "Stadtbadstraße"
 housenumber: 22
-phone: "03721 268070"
+phone: "+49 3721 268070"
 opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
 website: "https://schrauben-kuniss.de/"

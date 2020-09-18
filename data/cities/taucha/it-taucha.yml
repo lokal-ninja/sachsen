@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.3746601
 longitude: 12.485820400000001
-postcode: 04425
+postcode: "04425"
 city: Taucha
 street: "August-Bebel-Straße"
 housenumber: 11b

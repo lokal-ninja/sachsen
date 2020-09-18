@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.162645600000005
 longitude: 13.472111600000002
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Kleinmarkt"
 housenumber: 8
 phone: "+49 152 25727362"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 07:00-12:00; Beim Grünmarkt Sa bis 13:00"
+opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-12:00+13:00-17:00; PH off; Beim Grünmarkt Sa bis 13:00; So 13:00-17:00"
 website: "http://www.baeckerei-arnold-lommatzsch.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5765192
 longitude: 12.7673213
-postcode: 08315
+postcode: "08315"
 city: Lauter-Bernsbach
 street: "Ernst-Schneller-Straße"
 housenumber: 9

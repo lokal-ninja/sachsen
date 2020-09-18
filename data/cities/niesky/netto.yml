@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.292003900000005
 longitude: 14.821036800000002
-postcode: 02906
+postcode: "02906"
 city: Niesky
 street: "Bautzener Straße"
 housenumber: 3

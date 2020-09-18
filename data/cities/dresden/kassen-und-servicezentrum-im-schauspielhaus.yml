@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.052054000000005
 longitude: 13.732200200000001
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Theaterstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.54663600000001
 longitude: 13.2270006
-postcode: 43182
+postcode: "43182"
 city: Hora Svatého Šebestiána
 street: ""
 housenumber: 

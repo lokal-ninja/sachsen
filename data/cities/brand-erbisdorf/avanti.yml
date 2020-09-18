@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.8694703
 longitude: 13.3248703
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Bahnhofstraße"
 housenumber: 17

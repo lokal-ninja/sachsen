@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.9059803
 longitude: 12.951573600000001
-postcode: 09244
+postcode: "09244"
 city: Lichtenau
 street: "Ottendorfer Straße"
 housenumber: 3

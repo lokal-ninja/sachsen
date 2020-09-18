@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.071108800000005
 longitude: 13.750648300000002
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Königsbrücker Straße"
 housenumber: 72

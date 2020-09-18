@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 50.8077209
 longitude: 13.099405500000001
-postcode: 09573
+postcode: "09573"
 city: Augustusburg
 street: "Hans-Planer-Straße"
 housenumber: 1

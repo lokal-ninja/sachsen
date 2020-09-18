@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.93296410000001
 longitude: 14.111808600000002
-postcode: 01814
+postcode: "01814"
 city: Bad Schandau
 street: "Gründelweg"
 housenumber: 12

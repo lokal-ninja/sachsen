@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9696216
 longitude: 13.8725549
-postcode: 01809
+postcode: "01809"
 city: Heidenau
 street: "Hauptstraße"
 housenumber: 41

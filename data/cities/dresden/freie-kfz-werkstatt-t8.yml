@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.075506600000004
 longitude: 13.723052000000001
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Torgauer Straße"
 housenumber: 8

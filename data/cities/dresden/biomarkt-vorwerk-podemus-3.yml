@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.030025900000005
 longitude: 13.8314514
-postcode: 01279
+postcode: "01279"
 city: Dresden
 street: "Alttolkewitz"
 housenumber: 26

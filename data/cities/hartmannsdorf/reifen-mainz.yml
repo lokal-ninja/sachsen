@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.892397100000004
 longitude: 12.7877264
-postcode: 09232
+postcode: "09232"
 city: Hartmannsdorf
 street: "Leipziger Straße"
 housenumber: 47 C

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.3393196
 longitude: 12.3853199
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Johannisplatz"
 housenumber: 1

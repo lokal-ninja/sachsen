@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.28709490000001
 longitude: 14.819528100000001
-postcode: 02906
+postcode: "02906"
 city: Niesky
 street: "Kollmer Straße"
 housenumber: 2a

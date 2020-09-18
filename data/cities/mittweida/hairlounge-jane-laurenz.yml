@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.984056300000006
 longitude: 12.9800971
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Weberstraße"
 housenumber: 17

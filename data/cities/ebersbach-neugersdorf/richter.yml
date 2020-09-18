@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.983338
 longitude: 14.6147667
-postcode: 02727
+postcode: "02727"
 city: Ebersbach-Neugersdorf
 street: "Spreequellstraße"
 housenumber: 6

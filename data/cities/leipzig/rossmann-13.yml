@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3047132
 longitude: 12.3221728
-postcode: 04249
+postcode: "04249"
 city: Leipzig
 street: "Bismarckstraße"
 housenumber: 22

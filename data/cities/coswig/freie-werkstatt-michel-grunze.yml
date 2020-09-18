@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1426955
 longitude: 13.5513414
-postcode: 01640
+postcode: "01640"
 city: Coswig
 street: "Am Glaswerk"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7980712
 longitude: 13.234255600000001
-postcode: 09575
+postcode: "09575"
 city: Eppendorf
 street: "Großwaltersdorfer Straße"
 housenumber: 18

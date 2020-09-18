@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1008222
 longitude: 13.997904700000001
-postcode: 01477
+postcode: "01477"
 city: Arnsdorf
 street: "Tannebergstraße"
 housenumber: 12

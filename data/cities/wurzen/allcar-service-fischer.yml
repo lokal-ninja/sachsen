@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.355896300000005
 longitude: 12.7740723
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Albin-Schöne-Straße"
 housenumber: 4

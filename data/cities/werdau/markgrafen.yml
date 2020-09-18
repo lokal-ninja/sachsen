@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.7470489
 longitude: 12.3727216
-postcode: 08412
+postcode: "08412"
 city: Werdau
 street: "Crimmitschauer Straße"
 housenumber: 36

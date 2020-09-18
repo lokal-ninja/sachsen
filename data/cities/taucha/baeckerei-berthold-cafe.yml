@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.375210100000004
 longitude: 12.483058900000001
-postcode: 04425
+postcode: "04425"
 city: Taucha
 street: "Leipziger Straße"
 housenumber: 99

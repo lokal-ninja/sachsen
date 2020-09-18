@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.364406100000004
 longitude: 12.358785000000001
-postcode: 04155
+postcode: "04155"
 city: Leipzig
 street: "Wiederitzscher Straße"
 housenumber: 24

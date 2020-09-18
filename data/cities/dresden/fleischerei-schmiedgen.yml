@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.1163663
 longitude: 13.7357384
-postcode: 01109
+postcode: "01109"
 city: Dresden
 street: "Hellerstraße"
 housenumber: 16

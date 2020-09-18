@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.136085
 longitude: 14.190283800000001
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Bautzener Straße"
 housenumber: 113

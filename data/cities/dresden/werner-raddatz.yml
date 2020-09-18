@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0894935
 longitude: 13.707887300000001
-postcode: 01129
+postcode: "01129"
 city: Dresden
 street: "Industriestraße"
 housenumber: 55

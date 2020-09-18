@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 51.156207800000004
 longitude: 12.282724
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Bahnhofstraße"
 housenumber: 12

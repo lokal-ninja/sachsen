@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.0436355
 longitude: 13.701613
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Kesselsdorfer Straße"
 housenumber: 13

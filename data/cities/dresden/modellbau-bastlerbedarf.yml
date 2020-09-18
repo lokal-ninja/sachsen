@@ -3,7 +3,7 @@ type: node
 shop: Modellbau
 latitude: 51.0536899
 longitude: 13.8135858
-postcode: 01326
+postcode: "01326"
 city: Dresden
 street: "Friedrich-Wieck-Straße"
 housenumber: 8

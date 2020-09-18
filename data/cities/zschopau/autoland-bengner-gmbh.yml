@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7438717
 longitude: 13.0646316
-postcode: 09405
+postcode: "09405"
 city: Zschopau
 street: "Spinnereistraße"
 housenumber: 210

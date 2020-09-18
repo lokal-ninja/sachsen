@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 50.87104110000001
 longitude: 13.5273637
-postcode: 01774
+postcode: "01774"
 city: Klingenberg
 street: "Platz der Jugend"
 housenumber: 1

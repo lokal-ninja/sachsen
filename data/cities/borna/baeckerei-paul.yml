@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1219946
 longitude: 12.494664700000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Bahnhofstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.5394731
 longitude: 12.785361700000001
-postcode: 08340
+postcode: "08340"
 city: Schwarzenberg/Erzgebirge
 street: "Karlsbader Straße"
 housenumber: 2A

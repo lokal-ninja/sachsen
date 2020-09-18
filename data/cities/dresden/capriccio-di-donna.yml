@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.059497400000005
 longitude: 13.7413612
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Heinrichstraße"
 housenumber: 3

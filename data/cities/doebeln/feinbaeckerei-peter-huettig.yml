@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1350252
 longitude: 13.127956600000001
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Am Roten Kreuz"
 housenumber: 52

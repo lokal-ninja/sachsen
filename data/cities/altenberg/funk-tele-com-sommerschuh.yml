@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.76381790000001
 longitude: 13.762170800000002
-postcode: 01773
+postcode: "01773"
 city: Altenberg
 street: "Anton-Unger-Straße"
 housenumber: 3

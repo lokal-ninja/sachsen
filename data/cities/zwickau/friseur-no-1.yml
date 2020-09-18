@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.717969800000006
 longitude: 12.457074100000002
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Döhnerstraße"
 housenumber: 1
-phone: "0375-36081391"
+phone: "+49 375 36081391"
 opening_hours: "Tu-Fr 08:00-19:00; Sa 08:00-12:00; Su-Mo off"
 website: "http://www.friseur-no1.de/"

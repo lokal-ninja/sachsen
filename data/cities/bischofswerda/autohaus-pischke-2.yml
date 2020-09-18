@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1380477
 longitude: 14.192608300000002
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Carl-Maria-von-Weber-Straße"
 housenumber: 17

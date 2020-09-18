@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 50.7577134
 longitude: 12.7078038
-postcode: 09355
+postcode: "09355"
 city: Gersdorf
 street: "Hofgraben"
 housenumber: 1

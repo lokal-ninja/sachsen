@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.719225800000004
 longitude: 12.491806500000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Äußere Plauensche Straße"
 housenumber: 1

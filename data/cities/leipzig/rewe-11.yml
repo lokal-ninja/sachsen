@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3609747
 longitude: 12.360205200000001
-postcode: 04155
+postcode: "04155"
 city: Leipzig
 street: "Breitenfelder Straße"
 housenumber: 1a

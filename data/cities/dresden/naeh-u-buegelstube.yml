@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.990183200000004
 longitude: 13.802218400000001
-postcode: 01257
+postcode: "01257"
 city: Dresden
 street: "Nickerner Straße"
 housenumber: 2

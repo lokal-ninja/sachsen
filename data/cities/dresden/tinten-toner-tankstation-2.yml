@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.0772501
 longitude: 13.7171234
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Leipziger Straße"
 housenumber: 103

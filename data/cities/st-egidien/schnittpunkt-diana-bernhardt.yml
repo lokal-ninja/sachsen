@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7837625
 longitude: 12.624014500000001
-postcode: 09356
+postcode: "09356"
 city: St. Egidien
 street: "Lungwitzer Straße"
 housenumber: 82a

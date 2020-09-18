@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 50.4970793
 longitude: 12.1367423
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Postplatz"
 housenumber: 8

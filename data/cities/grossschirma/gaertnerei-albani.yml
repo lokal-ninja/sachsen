@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.0280697
 longitude: 13.3083361
-postcode: 09603
+postcode: "09603"
 city: Großschirma
 street: "Freiberger Straße"
 housenumber: 19

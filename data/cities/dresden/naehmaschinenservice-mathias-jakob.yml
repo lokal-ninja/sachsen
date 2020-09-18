@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 51.0773985
 longitude: 13.723550600000001
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Bürgerstraße"
 housenumber: 46

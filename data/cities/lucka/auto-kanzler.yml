@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0912177
 longitude: 12.326805700000001
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Meuselwitzer Straße"
 housenumber: 18

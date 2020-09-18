@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.03327710000001
 longitude: 13.7559929
-postcode: 01219
+postcode: "01219"
 city: Dresden
 street: "Wiener Straße"
 housenumber: 70

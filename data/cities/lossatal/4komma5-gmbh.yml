@@ -3,7 +3,7 @@ type: way
 shop: Waffen
 latitude: 51.3832676
 longitude: 12.780318000000001
-postcode: 04808
+postcode: "04808"
 city: Lossatal
 street: "Am Gabelsberg"
 housenumber: 7

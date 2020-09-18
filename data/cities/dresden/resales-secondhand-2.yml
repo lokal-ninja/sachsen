@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0805572
 longitude: 13.714139800000002
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Wurzener Straße"
 housenumber: 70

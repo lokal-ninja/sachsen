@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.3633808
 longitude: 12.395323600000001
-postcode: 04129
+postcode: "04129"
 city: Leipzig
 street: "Theresienstraße"
 housenumber: 75

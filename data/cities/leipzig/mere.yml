@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3822521
 longitude: 12.451560800000001
-postcode: 04349
+postcode: "04349"
 city: Leipzig
 street: "Tauchaer Straße"
 housenumber: 260

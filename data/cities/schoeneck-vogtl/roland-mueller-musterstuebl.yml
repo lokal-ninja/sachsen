@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 50.390835700000004
 longitude: 12.339913500000002
-postcode: 08261
+postcode: "08261"
 city: Schöneck/Vogtl.
 street: "Am Stadtpark"
 housenumber: 30a

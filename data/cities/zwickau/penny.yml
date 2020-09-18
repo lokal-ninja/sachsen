@@ -1,12 +1,12 @@
-id: 737999061
+id: 3179304025
 type: node
 shop: Supermarkt
-latitude: 50.736679200000005
-longitude: 12.472727800000001
-postcode: 08058
+latitude: 50.7070975
+longitude: 12.5001811
+postcode: "08056"
 city: Zwickau
-street: "Crimmitschauer Straße"
-housenumber: 90
+street: "Oskar-Arnold-Straße"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

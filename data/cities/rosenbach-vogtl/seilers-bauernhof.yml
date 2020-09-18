@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.495473600000004
 longitude: 12.034106600000001
-postcode: 08527
+postcode: "08527"
 city: Rosenbach/Vogtl.
 street: "Hauptstraße"
 housenumber: 18

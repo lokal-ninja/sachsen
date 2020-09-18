@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.359142500000004
 longitude: 12.293152500000001
-postcode: 04178
+postcode: "04178"
 city: Leipzig
 street: "Leipziger Straße"
 housenumber: 65

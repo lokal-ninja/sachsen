@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.963546900000004
 longitude: 12.9471097
-postcode: 09648
+postcode: "09648"
 city: Altmittweida
 street: "Dorfstraße"
 housenumber: 66

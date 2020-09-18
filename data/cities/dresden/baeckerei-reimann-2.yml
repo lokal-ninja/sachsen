@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1253497
 longitude: 13.7452745
-postcode: 01109
+postcode: "01109"
 city: Dresden
 street: "Rähnitzer Allee"
 housenumber: 10

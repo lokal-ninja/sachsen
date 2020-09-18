@@ -1,12 +1,12 @@
-id: 5592426316
+id: 4230666657
 type: node
 shop: Kramladen
-latitude: 50.74545680000001
-longitude: 12.4861967
-postcode: 08058
+latitude: 50.738534800000004
+longitude: 12.4945895
+postcode: "08058"
 city: Zwickau
-street: "Schubertstraße"
-housenumber: 1
+street: "Pölbitzer Straße"
+housenumber: 34
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-14:00"
-website: ""
+website: "https://www.tedi.com/"

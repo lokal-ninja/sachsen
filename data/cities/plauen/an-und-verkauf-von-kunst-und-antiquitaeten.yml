@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 50.507282800000006
 longitude: 12.130256300000001
-postcode: 08525
+postcode: "08525"
 city: Plauen
 street: "Pausaer Straße"
 housenumber: 16

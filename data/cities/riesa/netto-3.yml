@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2991115
 longitude: 13.3069567
-postcode: 01589
+postcode: "01589"
 city: Riesa
 street: "Doktor-Scheider-Straße"
 housenumber: 36

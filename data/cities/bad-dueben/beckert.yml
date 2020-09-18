@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.59105640000001
 longitude: 12.5841475
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: "Lutherstraße"
 housenumber: 19

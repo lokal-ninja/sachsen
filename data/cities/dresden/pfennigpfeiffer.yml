@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.0651031
 longitude: 13.8903797
-postcode: 01328
+postcode: "01328"
 city: Dresden
 street: "Zum Hutbergblick"
 housenumber: 16

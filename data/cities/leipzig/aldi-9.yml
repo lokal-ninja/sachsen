@@ -1,12 +1,12 @@
-id: 82614494
+id: 40905474
 type: way
 shop: Supermarkt
-latitude: 51.306958300000005
-longitude: 12.2591956
-postcode: 04207
+latitude: 51.3260555
+longitude: 12.3715442
+postcode: "04107"
 city: Leipzig
-street: "Straße am See"
-housenumber: 1
+street: "Braustraße"
+housenumber: 26
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.aldi-nord.de/"

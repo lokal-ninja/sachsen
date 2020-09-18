@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.830663900000005
 longitude: 12.8904633
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Weststraße"
 housenumber: 114

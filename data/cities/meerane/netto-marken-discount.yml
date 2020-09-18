@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8543278
 longitude: 12.4586967
-postcode: 08393
+postcode: "08393"
 city: Meerane
 street: "Rosa-Luxemburg-Straße"
 housenumber: 24

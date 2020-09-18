@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.04553790000001
 longitude: 12.8023027
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Topfmarkt"
 housenumber: 5

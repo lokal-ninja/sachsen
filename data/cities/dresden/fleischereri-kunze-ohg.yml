@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.089134900000005
 longitude: 13.7046121
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Am Trachauer Bahnhof"
 housenumber: 5

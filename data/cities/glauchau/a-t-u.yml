@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8331949
 longitude: 12.5536206
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Audörfel"
 housenumber: 12a

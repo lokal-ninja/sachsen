@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3464388
 longitude: 12.4600299
-postcode: 04328
+postcode: "04328"
 city: Leipzig
 street: "Riesaer Straße"
 housenumber: 75

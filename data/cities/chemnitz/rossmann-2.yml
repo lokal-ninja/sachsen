@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.822445
 longitude: 12.9594587
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 153

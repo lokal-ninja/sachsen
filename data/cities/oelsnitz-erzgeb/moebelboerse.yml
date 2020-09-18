@@ -3,10 +3,10 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.734077500000005
 longitude: 12.6937426
-postcode: 09376
+postcode: "09376"
 city: Oelsnitz/Erzgeb.
 street: "Bahnhofstraße"
 housenumber: 94
-phone: "0372963755"
+phone: "+49 372963755"
 opening_hours: "Mo,Fr 10:00-14:00; Tu 10:00-17:00; Th 14:00-17:00; We off"
 website: "https://www.moebelbahnhof.info/"

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.5019635
 longitude: 12.8184377
-postcode: 04862
+postcode: "04862"
 city: Mockrehna
 street: "Schildauer Straße"
 housenumber: 15b

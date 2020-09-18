@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.661691700000006
 longitude: 13.3304994
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Blumenauer Straße"
 housenumber: 9

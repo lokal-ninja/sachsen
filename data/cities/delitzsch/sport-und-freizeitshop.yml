@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.524630300000005
 longitude: 12.3411787
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Lindenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 51.06764930000001
 longitude: 13.749297700000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Louisenstraße"
 housenumber: 13

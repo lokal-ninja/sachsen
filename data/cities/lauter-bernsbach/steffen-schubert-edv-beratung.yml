@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.578326800000006
 longitude: 12.762470200000001
-postcode: 08315
+postcode: "08315"
 city: Lauter-Bernsbach
 street: "Karl-Liebknecht-Straße"
 housenumber: 50

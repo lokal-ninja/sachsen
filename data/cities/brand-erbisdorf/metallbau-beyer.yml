@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.859514700000005
 longitude: 13.320157100000001
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Obere Dorfstraße"
 housenumber: 2

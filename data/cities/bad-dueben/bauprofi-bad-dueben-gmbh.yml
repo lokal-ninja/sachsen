@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.605187300000004
 longitude: 12.6107125
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: "Schmiedeberger Straße"
 housenumber: 70

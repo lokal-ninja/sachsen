@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.3432812
 longitude: 12.2987385
-postcode: 04178
+postcode: "04178"
 city: Leipzig
 street: "Merseburger Straße"
 housenumber: 200

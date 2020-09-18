@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7473219
 longitude: 13.489227300000001
-postcode: 09623
+postcode: "09623"
 city: Rechenberg-Bienenmühle
 street: "Hauptstraße"
 housenumber: 13a

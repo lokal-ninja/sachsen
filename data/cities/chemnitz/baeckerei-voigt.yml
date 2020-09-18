@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8357791
 longitude: 12.9344915
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Glockenstraße"
 housenumber: 

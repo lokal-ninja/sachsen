@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.259396200000005
 longitude: 12.887233100000001
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Untere Hauptstraße"
 housenumber: 13

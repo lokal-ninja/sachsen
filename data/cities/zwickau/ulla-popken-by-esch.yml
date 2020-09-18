@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7183477
 longitude: 12.4947396
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Innere Plauensche Straße"
 housenumber: 7

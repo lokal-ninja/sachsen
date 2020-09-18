@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.893984100000004
 longitude: 14.796224800000001
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Äußere Oybiner Straße"
 housenumber: 19

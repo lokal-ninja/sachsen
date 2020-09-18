@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 50.8206945
 longitude: 13.4903402
-postcode: 09623
+postcode: "09623"
 city: Frauenstein
 street: "Frauensteiner Straße"
 housenumber: 122

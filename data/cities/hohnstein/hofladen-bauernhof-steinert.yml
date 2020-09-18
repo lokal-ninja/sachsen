@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.010477
 longitude: 14.139745300000001
-postcode: 01848
+postcode: "01848"
 city: Hohnstein
 street: "Bockmühlenstraße"
 housenumber: 71

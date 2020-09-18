@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.025621400000006
 longitude: 14.0064545
-postcode: 01833
+postcode: "01833"
 city: Dürrröhrsdorf-Dittersbach
 street: "Hauptstraße"
 housenumber: 158

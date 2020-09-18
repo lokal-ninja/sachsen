@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.727130100000004
 longitude: 12.4844854
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Crimmitschauer Straße"
 housenumber: 43a

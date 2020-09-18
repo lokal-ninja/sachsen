@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.709518700000004
 longitude: 12.780913600000002
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Ernst-Thälmann-Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0955826
 longitude: 14.423456100000001
-postcode: 02681
+postcode: "02681"
 city: Schirgiswalde-Kirschau
 street: "Wilthener Straße"
 housenumber: 1

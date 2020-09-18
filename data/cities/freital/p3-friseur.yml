@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.988540400000005
 longitude: 13.6599278
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "Wilhelm-Müller-Straße"
 housenumber: 11

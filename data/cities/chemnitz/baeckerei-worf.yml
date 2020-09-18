@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7708109
 longitude: 12.9736971
-postcode: 09123
+postcode: "09123"
 city: Chemnitz
 street: "Am Plan"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.5269373
 longitude: 12.345426400000001
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Berliner Straße"
 housenumber: 17

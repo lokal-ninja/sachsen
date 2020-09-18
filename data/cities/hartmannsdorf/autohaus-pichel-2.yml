@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8840723
 longitude: 12.7876436
-postcode: 09232
+postcode: "09232"
 city: Hartmannsdorf
 street: "Limbacher Straße"
 housenumber: 24A

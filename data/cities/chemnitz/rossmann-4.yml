@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.7956311
 longitude: 12.898803800000001
-postcode: 09122
+postcode: "09122"
 city: Chemnitz
 street: "Robert-Siewert-Straße"
 housenumber: 34

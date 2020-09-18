@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.1811482
 longitude: 14.421743000000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Heringstraße"
 housenumber: 11

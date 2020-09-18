@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.857939900000005
 longitude: 13.174085300000002
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Gerichtsstraße"
 housenumber: 25

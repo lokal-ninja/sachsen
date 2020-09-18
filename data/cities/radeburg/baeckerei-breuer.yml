@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.1860859
 longitude: 13.723728900000001
-postcode: 01471
+postcode: "01471"
 city: Radeburg
 street: "Berbisdorfer Hauptstraße"
 housenumber: 40

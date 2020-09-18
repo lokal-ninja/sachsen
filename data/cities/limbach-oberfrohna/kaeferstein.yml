@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.864577700000005
 longitude: 12.7389077
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Frohnbachstraße"
 housenumber: 59-61

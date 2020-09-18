@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.063313400000006
 longitude: 12.670011800000001
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Frankenhainer Straße"
 housenumber: 5

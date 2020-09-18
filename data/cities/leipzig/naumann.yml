@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.334759600000005
 longitude: 12.4601983
-postcode: 04316
+postcode: "04316"
 city: Leipzig
 street: "Gutberletstraße"
 housenumber: 15a

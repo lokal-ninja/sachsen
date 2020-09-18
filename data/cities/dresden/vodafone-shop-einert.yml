@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.0657786
 longitude: 13.8928179
-postcode: 01328
+postcode: "01328"
 city: Dresden
 street: "An der Prießnitzaue"
 housenumber: 1

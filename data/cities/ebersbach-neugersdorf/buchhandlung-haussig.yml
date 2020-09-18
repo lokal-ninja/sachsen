@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 50.9778827
 longitude: 14.6062712
-postcode: 02727
+postcode: "02727"
 city: Ebersbach-Neugersdorf
 street: "Hauptstraße"
 housenumber: 52

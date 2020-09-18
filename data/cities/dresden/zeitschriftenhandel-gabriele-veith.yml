@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.0856451
 longitude: 13.631217900000001
-postcode: 01156
+postcode: "01156"
 city: Dresden
 street: "Bahnhofstraße"
 housenumber: 7

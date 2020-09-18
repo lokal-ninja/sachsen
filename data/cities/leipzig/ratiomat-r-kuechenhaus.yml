@@ -3,10 +3,10 @@ type: node
 shop: Küchen
 latitude: 51.331428800000005
 longitude: 12.395567900000001
-postcode: 04317
+postcode: "04317"
 city: Leipzig
 street: "Prager Straße"
 housenumber: 34
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
 website: ""

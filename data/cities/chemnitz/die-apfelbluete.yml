@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.770762100000006
 longitude: 12.973507900000001
-postcode: 09123
+postcode: "09123"
 city: Chemnitz
 street: "Am Plan"
 housenumber: 6

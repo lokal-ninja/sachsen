@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4378545
 longitude: 14.239151600000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Schulstraße"
 housenumber: 2a

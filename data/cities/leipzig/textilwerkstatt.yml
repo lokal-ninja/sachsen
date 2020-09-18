@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.327184100000004
 longitude: 12.3389278
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Industriestraße"
 housenumber: 38

@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.718298600000004
 longitude: 12.4795598
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Spiegelstraße"
 housenumber: 48
-phone: "0375 281723"
+phone: "+49 375 281723"
 opening_hours: "Mo,Tu 09:00-14:00, We-Fr 09:00-18:00"
 website: "https://www.isi-haar.de/"

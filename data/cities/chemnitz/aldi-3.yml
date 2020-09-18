@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8148477
 longitude: 12.9123981
-postcode: 09120
+postcode: "09120"
 city: Chemnitz
 street: "Heinrich-Lorenz-Straße"
 housenumber: 39

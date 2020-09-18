@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.914339500000004
 longitude: 13.3400165
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Körnerstraße"
 housenumber: 2

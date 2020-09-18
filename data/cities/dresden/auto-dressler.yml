@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0397225
 longitude: 13.6636427
-postcode: 01169
+postcode: "01169"
 city: Dresden
 street: "Kesselsdorfer Straße"
 housenumber: 179

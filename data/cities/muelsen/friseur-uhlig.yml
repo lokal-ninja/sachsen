@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.7387528
 longitude: 12.573815000000002
-postcode: 08132
+postcode: "08132"
 city: Mülsen
 street: "St. Jacober Hauptstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9774144
 longitude: 13.930481400000001
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Rudolf-Renner-Straße"
 housenumber: 75

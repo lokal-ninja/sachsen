@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.1777626
 longitude: 14.9624097
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Gewerbering"
 housenumber: 18

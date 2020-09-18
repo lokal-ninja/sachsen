@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3453591
 longitude: 12.379652100000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Willy-Brandt-Platz"
 housenumber: 5

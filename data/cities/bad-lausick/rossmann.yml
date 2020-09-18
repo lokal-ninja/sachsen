@@ -1,12 +1,12 @@
-id: 7137773173
-type: node
+id: 508737858
+type: way
 shop: Drogerie
-latitude: 51.1413104
-longitude: 12.654713000000001
-postcode: 04651
+latitude: 51.1413111
+longitude: 12.654328900000001
+postcode: "04651"
 city: Bad Lausick
 street: "Silikastraße"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

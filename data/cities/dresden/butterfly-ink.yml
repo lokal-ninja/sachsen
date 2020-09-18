@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.0847331
 longitude: 13.726761600000001
-postcode: 01129
+postcode: "01129"
 city: Dresden
 street: "Barbarastraße"
 housenumber: 40

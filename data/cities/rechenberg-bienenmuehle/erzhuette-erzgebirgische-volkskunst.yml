@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.73841650000001
 longitude: 13.534816900000001
-postcode: 09623
+postcode: "09623"
 city: Rechenberg-Bienenmühle
 street: "Alte Straße"
 housenumber: 18

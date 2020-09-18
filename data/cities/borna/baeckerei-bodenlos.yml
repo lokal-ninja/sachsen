@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1515208
 longitude: 12.5118063
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Wiprechtstraße"
 housenumber: 12

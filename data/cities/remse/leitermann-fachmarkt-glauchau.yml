@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.8489305
 longitude: 12.544767700000001
-postcode: 08373
+postcode: "08373"
 city: Remse
 street: "Zum Vogelberg"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.709740100000005
 longitude: 12.7816369
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Ernst-Thälmann-Straße"
 housenumber: 28

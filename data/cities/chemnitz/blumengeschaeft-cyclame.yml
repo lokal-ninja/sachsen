@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8142944
 longitude: 12.9559124
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Zschopauer Straße"
 housenumber: 277

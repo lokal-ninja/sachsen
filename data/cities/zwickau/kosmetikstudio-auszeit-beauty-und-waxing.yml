@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 50.72311130000001
 longitude: 12.491797400000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Römerplatz"
 housenumber: 2
-phone: "0375 3909 3388"
+phone: "+49 375 3909 3388"
 opening_hours: "Termin nach Vereinbarung"
 website: "http://auszeit-zwickau.de/"

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.879260800000004
 longitude: 12.824105300000001
-postcode: 09228
+postcode: "09228"
 city: Chemnitz
 street: "Wittgensdorfer Höhe"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.922477
 longitude: 13.390819100000002
-postcode: 09627
+postcode: "09627"
 city: Bobritzsch-Hilbersdorf
 street: "Ahornstraße"
 housenumber: 1

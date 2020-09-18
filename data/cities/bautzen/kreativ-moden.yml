@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1811397
 longitude: 14.4217145
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Heringstraße"
 housenumber: 21

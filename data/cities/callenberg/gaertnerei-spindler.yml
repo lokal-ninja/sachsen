@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.84196540000001
 longitude: 12.7355017
-postcode: 09337
+postcode: "09337"
 city: Callenberg
 street: "Rußdorfer Straße"
 housenumber: 1

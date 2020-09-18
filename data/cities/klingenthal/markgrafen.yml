@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.355771000000004
 longitude: 12.449448100000001
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Markneukirchner Straße"
 housenumber: 124

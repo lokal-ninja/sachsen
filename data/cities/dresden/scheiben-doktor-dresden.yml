@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.040437000000004
 longitude: 13.7037688
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Tharandter Straße"
 housenumber: 24

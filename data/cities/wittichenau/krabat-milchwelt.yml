@@ -3,7 +3,7 @@ type: node
 shop: Milch
 latitude: 51.361530300000005
 longitude: 14.2481018
-postcode: 02997
+postcode: "02997"
 city: Wittichenau
 street: "Kotten"
 housenumber: 2

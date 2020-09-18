@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0785422
 longitude: 13.747546300000002
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Hechtstraße"
 housenumber: 2

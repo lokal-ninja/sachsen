@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3461933
 longitude: 12.4002493
-postcode: 04315
+postcode: "04315"
 city: Leipzig
 street: "Neustädter Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.9775513
 longitude: 14.605763600000001
-postcode: 02727
+postcode: "02727"
 city: Ebersbach-Neugersdorf
 street: "Hauptstraße"
 housenumber: 56

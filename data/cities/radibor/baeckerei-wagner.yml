@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.30300810000001
 longitude: 14.4562501
-postcode: 02627
+postcode: "02627"
 city: Radibor
 street: "Hauptstraße"
 housenumber: 23

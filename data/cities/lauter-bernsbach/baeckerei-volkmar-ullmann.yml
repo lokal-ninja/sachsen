@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5712927
 longitude: 12.766524400000002
-postcode: 08315
+postcode: "08315"
 city: Lauter-Bernsbach
 street: "Lauterer Straße"
 housenumber: 61

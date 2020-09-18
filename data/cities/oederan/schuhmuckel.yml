@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.861012900000006
 longitude: 13.167001800000001
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Große Kirchgasse"
 housenumber: 3

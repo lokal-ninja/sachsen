@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.057782700000004
 longitude: 12.785254400000001
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Geithainer Straße"
 housenumber: 21

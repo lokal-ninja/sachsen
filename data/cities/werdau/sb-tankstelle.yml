@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.755771300000006
 longitude: 12.3718926
-postcode: 08412
+postcode: "08412"
 city: Werdau
 street: "Crimmitschauer Straße"
 housenumber: 112

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.372782900000004
 longitude: 12.4717237
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Auerbacher Straße"
 housenumber: 167

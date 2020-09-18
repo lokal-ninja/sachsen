@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.061934
 longitude: 14.3453827
-postcode: 01904
+postcode: "01904"
 city: Steinigtwolmsdorf
 street: "Grenzstraße"
 housenumber: 8

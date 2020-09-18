@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.325134500000004
 longitude: 12.409285500000001
-postcode: 04317
+postcode: "04317"
 city: Leipzig
 street: "Stötteritzer Straße"
 housenumber: 38

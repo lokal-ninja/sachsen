@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.0979692
 longitude: 12.3320647
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Altenburger Straße"
 housenumber: 4

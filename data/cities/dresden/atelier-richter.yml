@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.0415627
 longitude: 13.6912284
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Malterstraße"
 housenumber: 38

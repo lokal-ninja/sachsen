@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.015447800000004
 longitude: 13.7678878
-postcode: 01219
+postcode: "01219"
 city: Dresden
 street: "Wilhelm-Franke-Straße"
 housenumber: 38

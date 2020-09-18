@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.318878600000005
 longitude: 12.399482200000001
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Straße des 18. Oktober"
 housenumber: 44

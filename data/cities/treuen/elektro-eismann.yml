@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.545295100000004
 longitude: 12.300773300000001
-postcode: 08233
+postcode: "08233"
 city: Treuen
 street: "Bahnhofstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9868352
 longitude: 13.8058893
-postcode: 01257
+postcode: "01257"
 city: Dresden
 street: "Röhrsdorfer Straße"
 housenumber: 4

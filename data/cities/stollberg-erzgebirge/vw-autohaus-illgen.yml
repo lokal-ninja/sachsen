@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.706349800000005
 longitude: 12.7855609
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Zwönitzer Straße"
 housenumber: 10b

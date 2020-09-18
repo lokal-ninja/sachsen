@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2367251
 longitude: 13.037169800000001
-postcode: 04769
+postcode: "04769"
 city: Mügeln
 street: "Franz-Mehring-Straße"
 housenumber: 16a

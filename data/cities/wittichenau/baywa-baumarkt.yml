@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3838796
 longitude: 14.234854
-postcode: 02997
+postcode: "02997"
 city: Wittichenau
 street: "Kamenzer Straße"
 housenumber: 40a

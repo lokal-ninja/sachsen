@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5374199
 longitude: 12.322701400000001
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Sachsenstraße"
 housenumber: 10

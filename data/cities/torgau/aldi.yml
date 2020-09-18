@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.5620837
 longitude: 13.006127200000002
-postcode: 04860
+postcode: "04860"
 city: Torgau
 street: "Elbstraße"
-housenumber: 14
+housenumber: 14a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
 website: "https://www.aldi-nord.de/"

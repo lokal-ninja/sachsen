@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.828351600000005
 longitude: 12.3982889
-postcode: 08451
+postcode: "08451"
 city: Crimmitschau
 street: "Feldstraße"
 housenumber: 5

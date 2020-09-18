@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.057485
 longitude: 12.5515016
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Wiesenmühlenweg"
 housenumber: 8

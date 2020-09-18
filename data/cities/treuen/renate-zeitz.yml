@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.5447253
 longitude: 12.3011785
-postcode: 08233
+postcode: "08233"
 city: Treuen
 street: "Bahnhofstraße"
 housenumber: 24a

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.127391100000004
 longitude: 12.510558300000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Magdeborner Straße"
-housenumber: 22
+housenumber: 22a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
+website: ""

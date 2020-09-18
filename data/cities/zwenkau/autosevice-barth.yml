@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.1865351
 longitude: 12.308186200000002
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Otto-Rudolph-Straße"
 housenumber: 3

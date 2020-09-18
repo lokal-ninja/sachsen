@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.999319
 longitude: 13.6471955
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "Bahnhofstraße"
 housenumber: 25

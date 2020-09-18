@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6693397
 longitude: 12.6021879
-postcode: 08134
+postcode: "08134"
 city: Wildenfels
 street: "Zwickauer Straße"
 housenumber: 51

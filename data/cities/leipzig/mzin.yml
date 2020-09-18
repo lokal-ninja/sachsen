@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.338092200000006
 longitude: 12.366169600000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Kolonnadenstraße"
 housenumber: 20

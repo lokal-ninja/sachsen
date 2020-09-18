@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.510615400000006
 longitude: 12.3394706
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Dr.-Helmut-Schreyer-Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.4720499
 longitude: 12.2694817
-postcode: 08239
+postcode: "08239"
 city: Bergen
 street: "Plauensche Straße"
 housenumber: 36

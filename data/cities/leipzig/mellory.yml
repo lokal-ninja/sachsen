@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.3424672
 longitude: 12.378010900000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Nikolaistraße"
 housenumber: 

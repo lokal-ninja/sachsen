@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.726606700000005
 longitude: 12.4865268
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Clara-Zetkin-Straße"
 housenumber: 2

@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 51.162072800000004
 longitude: 13.471256400000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Fleischergasse"
 housenumber: 10
 phone: "+49 3521 404426"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-16:00; So closed"
+opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-16:00; Su closed"
 website: ""

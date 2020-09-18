@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.496751
 longitude: 12.090788600000002
-postcode: 08527
+postcode: "08527"
 city: Plauen
 street: "Am Anger"
 housenumber: 5

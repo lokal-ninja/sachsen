@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.331244600000005
 longitude: 12.44144
-postcode: 04316
+postcode: "04316"
 city: Leipzig
 street: "Engelsdorfer Straße"
 housenumber: 45

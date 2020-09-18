@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3397808
 longitude: 14.962997900000001
-postcode: 02929
+postcode: "02929"
 city: Rothenburg/Oberlausitz
 street: "Noeser Straße"
 housenumber: 13

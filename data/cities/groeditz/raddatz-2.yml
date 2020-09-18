@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4134073
 longitude: 13.4467008
-postcode: 01609
+postcode: "01609"
 city: Gröditz
 street: "Reppiser Straße"
 housenumber: 7

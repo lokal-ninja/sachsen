@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.375741600000005
 longitude: 14.0707164
-postcode: 02994
+postcode: "02994"
 city: Bernsdorf
 street: "Rathausallee"
 housenumber: 2a

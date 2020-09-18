@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.1237702
 longitude: 12.5006594
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Dinterplatz"
 housenumber: 5A

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.67278760000001
 longitude: 13.0190265
-postcode: 09430
+postcode: "09430"
 city: Drebach
 street: "Hauptstraße"
 housenumber: 81

@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 50.9368683
 longitude: 14.126341400000001
-postcode: 01814
+postcode: "01814"
 city: Rathmannsdorf
 street: "Hohnsteiner Straße"
 housenumber: 49

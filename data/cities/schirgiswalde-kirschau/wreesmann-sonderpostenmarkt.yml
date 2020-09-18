@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.1016854
 longitude: 14.445850400000001
-postcode: 02681
+postcode: "02681"
 city: Schirgiswalde-Kirschau
 street: "Hauptstraße"
 housenumber: 41

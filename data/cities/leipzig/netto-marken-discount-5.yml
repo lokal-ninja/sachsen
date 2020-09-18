@@ -1,12 +1,12 @@
-id: 137254090
+id: 136415023
 type: way
 shop: Supermarkt
-latitude: 51.3060156
-longitude: 12.3279683
-postcode: 
+latitude: 51.363581100000005
+longitude: 12.3968582
+postcode: "04129"
 city: Leipzig
-street: "Hornstraße"
-housenumber: 2
+street: "Theresienstraße"
+housenumber: 77
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "http://www.netto-online.de"

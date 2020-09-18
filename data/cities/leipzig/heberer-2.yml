@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.343870700000004
 longitude: 12.3816194
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Willy-Brandt-Platz"
 housenumber: 7

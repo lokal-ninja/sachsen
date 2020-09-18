@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.342565300000004
 longitude: 12.307746400000001
-postcode: 04179
+postcode: "04179"
 city: Leipzig
 street: "Merseburger Straße"
 housenumber: 158

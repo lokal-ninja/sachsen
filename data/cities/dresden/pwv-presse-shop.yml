@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.019182400000005
 longitude: 13.779474100000002
-postcode: 
+postcode: ""
 city: Dresden
 street: "Otto-Dix-Ring"
 housenumber: 61

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1987517
 longitude: 12.391898000000001
-postcode: 04564
+postcode: "04564"
 city: Böhlen
 street: "Röthaer Straße"
 housenumber: 30D

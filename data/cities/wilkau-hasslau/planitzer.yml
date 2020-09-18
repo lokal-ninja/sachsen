@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6752436
 longitude: 12.5084402
-postcode: 08112
+postcode: "08112"
 city: Wilkau-Haßlau
 street: "Neuwilkauer Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7203948
 longitude: 12.4372322
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Steinpleiser Straße"
 housenumber: 6

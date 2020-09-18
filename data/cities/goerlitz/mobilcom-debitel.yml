@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.151141700000004
 longitude: 14.9839085
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Berliner Straße"
 housenumber: 60

@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 50.858556400000005
 longitude: 12.7712556
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Chemnitzer Straße"
 housenumber: 9

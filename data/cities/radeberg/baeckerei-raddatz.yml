@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.105326500000004
 longitude: 13.9213935
-postcode: 01454
+postcode: "01454"
 city: Radeberg
 street: "Pillnitzer Straße"
 housenumber: 36

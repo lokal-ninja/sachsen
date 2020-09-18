@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0222367
 longitude: 13.773954400000001
-postcode: 01219
+postcode: "01219"
 city: Dresden
 street: "Reicker Straße"
 housenumber: 38d

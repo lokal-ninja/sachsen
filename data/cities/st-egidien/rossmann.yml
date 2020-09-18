@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 50.7730989
 longitude: 12.6254731
-postcode: 09356
+postcode: "09356"
 city: St. Egidien
 street: "Platanenstraße"
 housenumber: 4
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

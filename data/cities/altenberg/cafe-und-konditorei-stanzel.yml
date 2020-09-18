@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 50.805310500000004
 longitude: 13.675617
-postcode: 01773
+postcode: "01773"
 city: Altenberg
 street: "Altenberger Straße"
 housenumber: 17

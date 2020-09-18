@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.636971
 longitude: 12.2717308
-postcode: 08468
+postcode: "08468"
 city: Reichenbach
 street: "Waltersdorfer Straße"
 housenumber: 12

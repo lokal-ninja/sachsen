@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.3711123
 longitude: 12.7445278
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Mozartstraße"
 housenumber: 10

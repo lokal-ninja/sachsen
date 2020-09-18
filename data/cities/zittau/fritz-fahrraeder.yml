@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.8935388
 longitude: 14.794143700000001
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Äußere Oybiner Straße"
 housenumber: 16

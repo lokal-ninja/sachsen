@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.813135100000004
 longitude: 12.387619500000001
-postcode: 08451
+postcode: "08451"
 city: Crimmitschau
 street: "Silberstraße"
 housenumber: 56

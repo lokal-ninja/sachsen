@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.709694600000006
 longitude: 12.7815249
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Ernst-Thälmann-Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.333288
 longitude: 12.305571500000001
-postcode: 04179
+postcode: "04179"
 city: Leipzig
 street: "Plautstraße"
 housenumber: 25

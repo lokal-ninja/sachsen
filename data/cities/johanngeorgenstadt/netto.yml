@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.4344594
 longitude: 12.7104791
-postcode: 08349
+postcode: "08349"
 city: Johanngeorgenstadt
 street: "Am Pulverturm"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1848934
 longitude: 13.722193200000001
-postcode: 01471
+postcode: "01471"
 city: Radeburg
 street: "Berbisdorfer Hauptstraße"
 housenumber: 51

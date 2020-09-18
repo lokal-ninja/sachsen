@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.097327500000006
 longitude: 14.509580300000001
-postcode: 02733
+postcode: "02733"
 city: Cunewalde
 street: "Hauptstraße"
 housenumber: 59

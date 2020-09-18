@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.3253326
 longitude: 12.374361200000001
-postcode: 04107
+postcode: "04107"
 city: Leipzig
 street: "Körnerstraße"
 housenumber: 29

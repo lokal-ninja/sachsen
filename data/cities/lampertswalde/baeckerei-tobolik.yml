@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.3155755
 longitude: 13.6744803
-postcode: 01561
+postcode: "01561"
 city: Lampertswalde
 street: "Ortrander Straße"
 housenumber: 1

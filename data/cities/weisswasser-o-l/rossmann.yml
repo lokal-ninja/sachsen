@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.504185
 longitude: 14.6373928
-postcode: 02943
+postcode: "02943"
 city: Weißwasser/O.L.
 street: "Berliner Straße"
 housenumber: 6

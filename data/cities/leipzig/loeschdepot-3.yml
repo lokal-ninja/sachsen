@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.3349647
 longitude: 12.4816946
-postcode: 04319
+postcode: "04319"
 city: Leipzig
 street: "Schulweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 50.6568954
 longitude: 13.344156900000002
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Grünthaler Straße"
 housenumber: 50

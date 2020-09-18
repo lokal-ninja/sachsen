@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 51.076257500000004
 longitude: 13.754473
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Königsbrücker Straße"
 housenumber: 103

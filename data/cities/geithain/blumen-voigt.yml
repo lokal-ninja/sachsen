@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.053071700000004
 longitude: 12.6965123
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Chemnitzer Straße"
 housenumber: 30

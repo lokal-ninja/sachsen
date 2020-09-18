@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.673342700000006
 longitude: 13.4626137
-postcode: 09544
+postcode: "09544"
 city: Neuhausen/Erzgeb.
 street: "Olbernhauer Straße"
 housenumber: 5

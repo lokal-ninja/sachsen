@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3948885
 longitude: 14.399051400000001
-postcode: 02999
+postcode: "02999"
 city: Lohsa
 street: "Am Strand Lohsa"
 housenumber: 1

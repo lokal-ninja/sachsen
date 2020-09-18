@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4250893
 longitude: 14.277007300000001
-postcode: 02977
+postcode: "02977"
 city: Hoyerswerda
 street: "Friedensstraße"
 housenumber: 2

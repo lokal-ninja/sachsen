@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8246794
 longitude: 12.928624500000002
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Bernsdorfer Straße"
 housenumber: 5e

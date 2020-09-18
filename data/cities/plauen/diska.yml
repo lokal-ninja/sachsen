@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.4919469
 longitude: 12.1720886
-postcode: 08529
+postcode: "08529"
 city: Plauen
 street: "Kleinfriesener Straße"
 housenumber: 29

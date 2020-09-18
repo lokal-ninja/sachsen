@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.370574500000004
 longitude: 12.7401581
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Straße des Friedens"
 housenumber: 1

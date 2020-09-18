@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3827852
 longitude: 12.451245100000001
-postcode: 04349
+postcode: "04349"
 city: Leipzig
 street: "Tauchaer Straße"
 housenumber: 260

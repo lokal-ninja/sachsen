@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.201276500000006
 longitude: 12.3857557
-postcode: 04564
+postcode: "04564"
 city: Böhlen
 street: "Karl-Bartelmann-Straße"
 housenumber: 3A

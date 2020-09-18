@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.425292500000005
 longitude: 12.1712974
-postcode: 08606
+postcode: "08606"
 city: Oelsnitz/Vogtl.
 street: "Willy-Brandt-Ring"
 housenumber: 2a

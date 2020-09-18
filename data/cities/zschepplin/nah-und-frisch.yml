@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5328965
 longitude: 12.5922681
-postcode: 04838
+postcode: "04838"
 city: Zschepplin
 street: "Schulstraße"
 housenumber: 6

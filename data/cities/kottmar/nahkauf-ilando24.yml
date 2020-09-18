@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9939678
 longitude: 14.6420072
-postcode: 02739
+postcode: "02739"
 city: Kottmar
 street: "Hauptstraße"
 housenumber: 199

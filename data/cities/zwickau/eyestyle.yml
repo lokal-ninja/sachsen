@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 50.7202349
 longitude: 12.493897100000002
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Dr.-Friedrichs-Ring"
 housenumber: 20
-phone: "0375 2739530"
+phone: "+49 375 2739530"
 opening_hours: "Mo-Fr 11:00-19:00, Sa 11:00-16:00"
 website: "https://www.eye-style.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.05228940000001
 longitude: 13.804590200000002
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Loschwitzer Straße"
 housenumber: 47

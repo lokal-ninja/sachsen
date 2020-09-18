@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.3698136
 longitude: 12.3674209
-postcode: 04157
+postcode: "04157"
 city: Leipzig
 street: "Matthissonstraße"
 housenumber: 9

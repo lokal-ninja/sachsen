@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.009496600000006
 longitude: 13.848758700000001
-postcode: 01259
+postcode: "01259"
 city: Dresden
 street: "Meußlitzer Straße"
 housenumber: 55

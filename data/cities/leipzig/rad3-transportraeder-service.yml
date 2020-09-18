@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.339133000000004
 longitude: 12.3273866
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Erich-Köhn-Straße"
 housenumber: 63b

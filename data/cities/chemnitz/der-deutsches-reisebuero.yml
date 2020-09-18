@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.8221186
 longitude: 12.9597054
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 153

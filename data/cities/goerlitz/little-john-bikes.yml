@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.1596399
 longitude: 14.977111700000002
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Heilige-Grab-Straße"
 housenumber: 26

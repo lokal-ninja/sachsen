@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8199503
 longitude: 12.5425772
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Leipziger Straße"
 housenumber: 84/85

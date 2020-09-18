@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.8019868
 longitude: 12.802588
-postcode: 09224
+postcode: "09224"
 city: Chemnitz
 street: "Mittelbacher Dorfstraße"
 housenumber: 13

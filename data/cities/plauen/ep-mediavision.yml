@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.532246300000004
 longitude: 12.103862000000001
-postcode: 08525
+postcode: "08525"
 city: Plauen
 street: "Alte Jößnitzer Straße"
 housenumber: 30

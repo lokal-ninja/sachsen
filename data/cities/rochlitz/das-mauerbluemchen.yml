@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.04537070000001
 longitude: 12.800074700000001
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Hauptstraße"
 housenumber: 23

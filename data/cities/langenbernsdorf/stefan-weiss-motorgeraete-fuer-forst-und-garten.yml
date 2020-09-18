@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.7478424
 longitude: 12.299124500000001
-postcode: 08428
+postcode: "08428"
 city: Langenbernsdorf
 street: "Hauptstraße"
 housenumber: 141

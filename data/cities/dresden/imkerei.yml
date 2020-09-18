@@ -3,7 +3,7 @@ type: way
 shop: Imkerei
 latitude: 51.02988980000001
 longitude: 13.6948638
-postcode: 01187
+postcode: "01187"
 city: Dresden
 street: "Am Kirschberg"
 housenumber: 24

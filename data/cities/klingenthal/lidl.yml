@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.3562713
 longitude: 12.452069000000002
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Holzhofstraße"
 housenumber: 4

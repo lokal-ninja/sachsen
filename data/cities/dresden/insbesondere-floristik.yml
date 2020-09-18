@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.044459200000006
 longitude: 13.788925800000001
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Bergmannstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0560446
 longitude: 12.558067300000001
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Straße der Freundschaft"
 housenumber: 7

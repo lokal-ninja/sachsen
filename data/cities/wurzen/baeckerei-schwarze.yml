@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.369900300000005
 longitude: 12.7495854
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Torgauer Straße"
 housenumber: 32

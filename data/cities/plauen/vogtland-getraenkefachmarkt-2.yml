@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.5026498
 longitude: 12.146592700000001
-postcode: 08525
+postcode: "08525"
 city: Plauen
 street: "Lessingstraße"
 housenumber: 52-56

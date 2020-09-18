@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.175566
 longitude: 14.1797084
-postcode: 01906
+postcode: "01906"
 city: Burkau
 street: "Straße der Jugend"
 housenumber: 15

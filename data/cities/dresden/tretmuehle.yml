@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.143543300000005
 longitude: 13.7989148
-postcode: 01108
+postcode: "01108"
 city: Dresden
 street: "August-Wagner-Straße"
 housenumber: 2

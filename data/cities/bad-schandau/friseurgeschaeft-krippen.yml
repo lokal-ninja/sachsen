@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.909346500000005
 longitude: 14.1663964
-postcode: 01814
+postcode: "01814"
 city: Bad Schandau
 street: "Friedrich-Gottlob-Keller-Straße"
 housenumber: 34

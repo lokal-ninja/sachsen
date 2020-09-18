@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.129513700000004
 longitude: 12.8057443
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Markt"
 housenumber: 15

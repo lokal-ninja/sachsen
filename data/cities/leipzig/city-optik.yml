@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.3418554
 longitude: 12.373848200000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Hainstraße"
 housenumber: 8

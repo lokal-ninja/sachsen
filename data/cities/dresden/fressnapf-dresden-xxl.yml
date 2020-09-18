@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 51.0408382
 longitude: 13.631055900000002
-postcode: 01156
+postcode: "01156"
 city: Dresden
 street: "Gompitzer Höhe"
 housenumber: 9

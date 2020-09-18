@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.053116
 longitude: 13.725732
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Schweriner Straße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4410037
 longitude: 14.1001173
-postcode: 02991
+postcode: "02991"
 city: Lauta
 street: "Friedensstraße"
 housenumber: 8

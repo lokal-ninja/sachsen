@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0733371
 longitude: 13.756043100000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Hans-Oster-Straße"
 housenumber: 2

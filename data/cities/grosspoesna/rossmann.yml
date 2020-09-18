@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.26822790000001
 longitude: 12.4986698
-postcode: 04463
+postcode: "04463"
 city: Großpösna
 street: "Sepp-Verscht-Straße"
 housenumber: 1

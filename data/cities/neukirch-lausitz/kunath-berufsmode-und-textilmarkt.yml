@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0976092
 longitude: 14.292550100000001
-postcode: 01904
+postcode: "01904"
 city: Neukirch/Lausitz
 street: "Hauptstraße"
 housenumber: 133

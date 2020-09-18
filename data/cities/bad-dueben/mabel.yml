@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.591365200000006
 longitude: 12.5860204
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: "Kirchstraße"
 housenumber: 8

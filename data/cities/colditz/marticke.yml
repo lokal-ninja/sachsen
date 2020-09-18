@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.130775500000006
 longitude: 12.8035502
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Badergasse"
 housenumber: 32

@@ -3,7 +3,7 @@ type: way
 shop: Waffen
 latitude: 50.9025417
 longitude: 13.2504851
-postcode: 09600
+postcode: "09600"
 city: Oberschöna
 street: "An der Hauptstraße"
 housenumber: 6

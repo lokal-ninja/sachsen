@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.4600826
 longitude: 12.633999300000001
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Marktplatz"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 05:30-18:00; Sa 07:00-14:00; Su 07:00-16:30"
 website: ""

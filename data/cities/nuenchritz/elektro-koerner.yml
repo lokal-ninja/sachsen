@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.301023
 longitude: 13.383142000000001
-postcode: 01612
+postcode: "01612"
 city: Nünchritz
 street: "Riesaer Straße"
 housenumber: 1

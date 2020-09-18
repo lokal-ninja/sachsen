@@ -3,10 +3,10 @@ type: way
 shop: Lebensmittel
 latitude: 50.672487700000005
 longitude: 12.463260100000001
-postcode: 08064
+postcode: "08064"
 city: Zwickau
 street: "Am Kreuzberg"
 housenumber: 44
 phone: ""
-opening_hours: ""
+opening_hours: "24/7"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.164615600000005
 longitude: 13.489149000000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Fabrikstraße"
 housenumber: 14a

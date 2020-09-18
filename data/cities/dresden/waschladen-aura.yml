@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.043202
 longitude: 13.6984797
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Bünaustraße"
 housenumber: 4

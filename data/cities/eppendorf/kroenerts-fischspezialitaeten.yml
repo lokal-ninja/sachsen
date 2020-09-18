@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 50.8025127
 longitude: 13.238404300000001
-postcode: 09575
+postcode: "09575"
 city: Eppendorf
 street: "Freiberger Straße"
 housenumber: 71

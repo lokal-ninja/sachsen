@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 50.9142512
 longitude: 13.3631597
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Dresdner Straße"
 housenumber: 27

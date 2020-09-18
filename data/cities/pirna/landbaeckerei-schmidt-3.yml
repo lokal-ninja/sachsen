@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.953827700000005
 longitude: 13.935404
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Einsteinstraße"
 housenumber: 20

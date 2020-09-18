@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.021185700000004
 longitude: 13.792489900000001
-postcode: 01237
+postcode: "01237"
 city: Dresden
 street: "Oskar-Röder-Straße"
 housenumber: 10

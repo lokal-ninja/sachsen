@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 50.7107413
 longitude: 12.4710888
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Reichenbacher Straße"
 housenumber: 128a

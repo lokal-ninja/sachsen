@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.236320400000004
 longitude: 13.659018300000001
-postcode: 01561
+postcode: "01561"
 city: Ebersbach
 street: "Kirchwinkel"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.854660700000004
 longitude: 12.777139900000002
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Chemnitzer Straße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8739241
 longitude: 12.916730300000001
-postcode: 09114
+postcode: "09114"
 city: Chemnitz
 street: "Am Berg"
 housenumber: 10

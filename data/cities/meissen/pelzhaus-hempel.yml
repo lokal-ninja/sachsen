@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.164214900000005
 longitude: 13.4701108
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Burgstraße"
 housenumber: 8

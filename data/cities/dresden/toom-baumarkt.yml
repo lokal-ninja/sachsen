@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.0175421
 longitude: 13.8312605
-postcode: 01279
+postcode: "01279"
 city: Dresden
 street: "Leubener Straße"
 housenumber: 61

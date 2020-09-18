@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 50.5777707
 longitude: 13.005974400000001
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Große Kirchgasse"
 housenumber: 27

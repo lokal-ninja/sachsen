@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.719901400000005
 longitude: 12.4963966
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Hauptstraße"
 housenumber: 40 - 42

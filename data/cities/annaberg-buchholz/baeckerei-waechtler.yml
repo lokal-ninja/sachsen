@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5796274
 longitude: 13.004054100000001
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Kleine Kirchgasse"
 housenumber: 11

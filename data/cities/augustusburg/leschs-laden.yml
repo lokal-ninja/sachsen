@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.8288476
 longitude: 13.111739100000001
-postcode: 09573
+postcode: "09573"
 city: Augustusburg
 street: "Hauptstraße"
 housenumber: 48

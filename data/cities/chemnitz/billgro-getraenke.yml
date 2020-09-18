@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.8048641
 longitude: 12.807685600000001
-postcode: 09224
+postcode: "09224"
 city: Chemnitz
 street: "Hofer Straße"
 housenumber: 5g

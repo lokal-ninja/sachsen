@@ -1,12 +1,12 @@
-id: 134817969
-type: way
+id: 7418186451
+type: node
 shop: Kramladen
-latitude: 50.497235800000006
-longitude: 12.421682500000001
-postcode: 08209
+latitude: 50.4972366
+longitude: 12.4214573
+postcode: "08209"
 city: Auerbach
-street: "Klingenthaler Straße"
+street: ""
 housenumber: 105
 phone: ""
-opening_hours: ""
-website: "https://www.action.com/"
+opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+website: ""

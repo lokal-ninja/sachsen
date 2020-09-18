@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 51.0566576
 longitude: 12.6957999
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Bahnhofstraße"
 housenumber: 11

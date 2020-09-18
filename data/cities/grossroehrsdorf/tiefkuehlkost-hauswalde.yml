@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.1544104
 longitude: 14.0908701
-postcode: 01900
+postcode: "01900"
 city: Großröhrsdorf
 street: "Ohorner Straße"
 housenumber: 1a

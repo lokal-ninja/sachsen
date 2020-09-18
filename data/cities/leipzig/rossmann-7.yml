@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3746747
 longitude: 12.412029800000001
-postcode: 04357
+postcode: "04357"
 city: Leipzig
 street: "Mockauer Straße"
 housenumber: 119

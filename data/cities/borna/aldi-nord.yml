@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.123988700000005
 longitude: 12.5065586
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Oststraße"
 housenumber: 3 A

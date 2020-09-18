@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9660993
 longitude: 14.269702800000001
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Schillerstraße"
 housenumber: 40A

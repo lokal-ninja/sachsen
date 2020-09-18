@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.8972714
 longitude: 14.8041321
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Innere Weberstraße"
 housenumber: 18

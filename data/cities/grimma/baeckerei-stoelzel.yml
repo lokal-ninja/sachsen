@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2523051
 longitude: 12.727038400000001
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Wurzener Straße"
 housenumber: 69

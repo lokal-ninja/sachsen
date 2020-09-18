@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.0176298
 longitude: 12.9013884
-postcode: 09306
+postcode: "09306"
 city: Erlau
 street: "Am Lagerhaus"
 housenumber: 1

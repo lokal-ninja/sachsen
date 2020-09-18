@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.0719165
 longitude: 13.736723900000001
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Großenhainer Straße"
 housenumber: 22

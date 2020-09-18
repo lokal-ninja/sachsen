@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.071440800000005
 longitude: 12.901934500000001
-postcode: 09326
+postcode: "09326"
 city: Geringswalde
 street: "Rochlitzer Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.1810406
 longitude: 14.431249000000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Steinstraße"
 housenumber: 33

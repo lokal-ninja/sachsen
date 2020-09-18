@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.0497407
 longitude: 12.7955769
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Leipziger Straße"
 housenumber: 28a

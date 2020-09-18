@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.870703400000004
 longitude: 12.693092900000002
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Untere Dorfstraße"
 housenumber: 50

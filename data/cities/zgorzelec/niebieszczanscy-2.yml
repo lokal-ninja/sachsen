@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.1573112
 longitude: 14.999864400000002
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Stanisława Wyspiańskiego"
 housenumber: 51

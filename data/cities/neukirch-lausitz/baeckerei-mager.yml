@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0972371
 longitude: 14.297333900000002
-postcode: 01904
+postcode: "01904"
 city: Neukirch/Lausitz
 street: "Parkstraße"
 housenumber: 1

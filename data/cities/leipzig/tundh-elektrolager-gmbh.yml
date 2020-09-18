@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 51.347833300000005
 longitude: 12.3928194
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Lagerhofstraße"
 housenumber: 4

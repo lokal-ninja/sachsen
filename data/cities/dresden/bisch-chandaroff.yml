@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 51.0491747
 longitude: 13.8067468
-postcode: 01277
+postcode: "01277"
 city: Dresden
 street: "Berggartenstraße"
 housenumber: 13

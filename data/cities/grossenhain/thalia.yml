@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.291477900000004
 longitude: 13.533570500000002
-postcode: 01558
+postcode: "01558"
 city: Großenhain
 street: "Frauenmarkt"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 51.1632431
 longitude: 13.472280300000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Heinrichsplatz"
 housenumber: 5

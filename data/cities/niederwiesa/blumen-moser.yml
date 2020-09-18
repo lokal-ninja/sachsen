@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.8845861
 longitude: 13.0043447
-postcode: 09577
+postcode: "09577"
 city: Niederwiesa
 street: "Frankenberger Straße"
 housenumber: 3

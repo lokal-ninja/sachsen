@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 50.7260294
 longitude: 12.7040971
-postcode: 09376
+postcode: "09376"
 city: Oelsnitz/Erzgeb.
 street: "August-Bebel-Straße"
 housenumber: 6

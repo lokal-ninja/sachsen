@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.1296557
 longitude: 12.8060504
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Markt"
 housenumber: 18

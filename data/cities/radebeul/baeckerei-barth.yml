@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0961665
 longitude: 13.678770100000001
-postcode: 01445
+postcode: "01445"
 city: Radebeul
 street: "Dresdner Straße"
 housenumber: 18

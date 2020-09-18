@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1396803
 longitude: 12.6540341
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
 street: "Ballendorfer Straße"
 housenumber: 18

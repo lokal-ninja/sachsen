@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1602272
 longitude: 12.9259626
-postcode: 04703
+postcode: "04703"
 city: Leisnig
 street: "Markt"
 housenumber: 18

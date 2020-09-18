@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 51.175549100000005
 longitude: 13.500159700000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Berghausstraße"
 housenumber: 9

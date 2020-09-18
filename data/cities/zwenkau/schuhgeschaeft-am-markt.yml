@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.217242600000006
 longitude: 12.3244167
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Marktstraße"
 housenumber: 9

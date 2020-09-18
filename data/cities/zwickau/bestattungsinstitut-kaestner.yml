@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.721178800000004
 longitude: 12.484880200000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Lutherstraße"
 housenumber: 18

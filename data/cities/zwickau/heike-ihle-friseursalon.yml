@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.722750600000005
 longitude: 12.495094900000002
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Leipziger Straße"
 housenumber: 16

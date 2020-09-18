@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.063283000000006
 longitude: 13.7553253
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Martin-Luther-Straße"
 housenumber: 2

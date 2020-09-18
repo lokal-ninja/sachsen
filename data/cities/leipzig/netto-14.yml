@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3244951
 longitude: 12.434609
-postcode: 04316
+postcode: "04316"
 city: Leipzig
 street: "Sommerfelder Straße"
 housenumber: 80

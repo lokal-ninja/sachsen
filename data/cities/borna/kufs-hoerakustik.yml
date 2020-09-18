@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.1248262
 longitude: 12.4955368
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Wilhelm-Külz-Straße"
 housenumber: 34

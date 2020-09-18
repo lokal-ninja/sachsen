@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1884789
 longitude: 14.4520777
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Niederkainaer Straße"
 housenumber: 3b

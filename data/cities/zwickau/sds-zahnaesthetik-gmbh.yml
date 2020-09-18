@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6934624
 longitude: 12.471803600000001
-postcode: 08062
+postcode: "08062"
 city: Zwickau
 street: "Ernst-Grube-Straße"
 housenumber: 16

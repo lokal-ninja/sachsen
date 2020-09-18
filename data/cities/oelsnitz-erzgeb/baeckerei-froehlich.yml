@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.718268900000005
 longitude: 12.682397600000002
-postcode: 09376
+postcode: "09376"
 city: Oelsnitz/Erzgeb.
 street: "Obere Hauptstraße"
 housenumber: 86

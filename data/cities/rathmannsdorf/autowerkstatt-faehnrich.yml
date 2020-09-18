@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9381915
 longitude: 14.1303063
-postcode: 01814
+postcode: "01814"
 city: Rathmannsdorf
 street: "Hohnsteiner Straße"
 housenumber: 80

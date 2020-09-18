@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.3966945
 longitude: 12.222453400000001
-postcode: 04435
+postcode: "04435"
 city: Schkeuditz
 street: "Rathausplatz"
 housenumber: 

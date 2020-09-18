@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.956973700000006
 longitude: 13.236096400000001
-postcode: 09600
+postcode: "09600"
 city: Oberschöna
 street: "Birkenweg"
 housenumber: 4

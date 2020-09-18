@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.04254340000001
 longitude: 13.829383300000002
-postcode: 01326
+postcode: "01326"
 city: Dresden
 street: "Am Steinberg"
 housenumber: 1-3

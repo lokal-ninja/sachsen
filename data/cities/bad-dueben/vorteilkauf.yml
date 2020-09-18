@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.613538600000005
 longitude: 12.565489000000001
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: "Hammermühlenweg"
 housenumber: 11

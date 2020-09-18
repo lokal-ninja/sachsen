@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.546707100000006
 longitude: 12.7839676
-postcode: 08340
+postcode: "08340"
 city: Schwarzenberg/Erzgeb.
 street: "Neustädter Ring"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off"
 website: ""

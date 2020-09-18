@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.735645600000005
 longitude: 13.5559027
-postcode: 09623
+postcode: "09623"
 city: Rechenberg-Bienenmühle
 street: "Markt"
 housenumber: 1

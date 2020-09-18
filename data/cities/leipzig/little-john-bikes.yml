@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3349795
 longitude: 12.371382500000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Martin-Luther-Ring"
 housenumber: 3-5

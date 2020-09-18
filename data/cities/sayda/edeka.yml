@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.711634000000004
 longitude: 13.4292303
-postcode: 09619
+postcode: "09619"
 city: Sayda
 street: "Dresdner Straße"
 housenumber: 81

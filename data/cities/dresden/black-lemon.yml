@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.0715846
 longitude: 13.7275311
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Leipziger Straße"
 housenumber: 36

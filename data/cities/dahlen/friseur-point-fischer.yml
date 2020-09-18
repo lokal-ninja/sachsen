@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3977494
 longitude: 12.993715000000002
-postcode: 04774
+postcode: "04774"
 city: Dahlen
 street: "Birkenweg"
 housenumber: 25

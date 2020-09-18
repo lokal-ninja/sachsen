@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.841337200000005
 longitude: 12.9186508
-postcode: 09111
+postcode: "09111"
 city: Chemnitz
 street: "Georgstraße"
 housenumber: 37

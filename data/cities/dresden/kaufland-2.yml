@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.085042900000005
 longitude: 13.6970004
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Peschelstraße"
 housenumber: 33

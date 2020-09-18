@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.023806400000005
 longitude: 13.772589
-postcode: 01219
+postcode: "01219"
 city: Dresden
 street: "Reicker Straße"
 housenumber: 35

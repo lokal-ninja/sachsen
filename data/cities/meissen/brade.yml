@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.168283100000004
 longitude: 13.484449000000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Rosa-Luxemburg-Straße"
 housenumber: 3/5

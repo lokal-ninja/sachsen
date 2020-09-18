@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.232467400000004
 longitude: 12.7065576
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Gerichtswiesen"
 housenumber: 31

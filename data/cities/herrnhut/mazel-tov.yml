@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.0176316
 longitude: 14.7436748
-postcode: 02747
+postcode: "02747"
 city: Herrnhut
 street: "August-Bebel-Straße"
 housenumber: 12

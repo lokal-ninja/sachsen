@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1651066
 longitude: 12.2625027
-postcode: 04523
+postcode: "04523"
 city: Pegau
 street: "Leipziger Vorstadt"
 housenumber: 20

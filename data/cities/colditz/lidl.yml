@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1294065
 longitude: 12.8030331
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Wassergasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 50.856409400000004
 longitude: 12.373406600000001
-postcode: 04639
+postcode: "04639"
 city: Ponitz
 street: "Talstraße"
 housenumber: 94

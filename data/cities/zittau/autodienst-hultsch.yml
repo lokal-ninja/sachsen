@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8976782
 longitude: 14.788457000000001
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Neue Burgstraße"
 housenumber: 15

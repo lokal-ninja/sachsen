@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.7123009
 longitude: 12.7686933
-postcode: 09366
+postcode: "09366"
 city: Stollberg/Erzgebirge
 street: "Hohensteiner Straße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7819731
 longitude: 12.463196600000002
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Bachweg"
 housenumber: 51

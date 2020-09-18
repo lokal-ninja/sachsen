@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.8171246
 longitude: 12.3861445
-postcode: 08451
+postcode: "08451"
 city: Crimmitschau
 street: "Silberstraße"
 housenumber: 1

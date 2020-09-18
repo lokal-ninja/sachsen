@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 51.1398762
 longitude: 13.528400300000001
-postcode: 01640
+postcode: "01640"
 city: Coswig
 street: "Elbgaustraße"
 housenumber: 45

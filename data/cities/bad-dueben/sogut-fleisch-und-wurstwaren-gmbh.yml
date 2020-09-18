@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.612918400000005
 longitude: 12.5655443
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: "Hammermühlenweg"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.054643000000006
 longitude: 12.6934085
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Leipziger Straße"
 housenumber: 9

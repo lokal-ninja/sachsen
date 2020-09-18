@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.869487400000004
 longitude: 13.3227287
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Markt"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.446739
 longitude: 12.0597574
-postcode: 08538
+postcode: "08538"
 city: Weischlitz
 street: "Thossener Straße"
 housenumber: 3

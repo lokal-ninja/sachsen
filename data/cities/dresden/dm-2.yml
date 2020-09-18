@@ -1,12 +1,12 @@
-id: 2054474523
+id: 373102199
 type: node
 shop: Drogerie
-latitude: 51.049623000000004
-longitude: 13.735581300000002
-postcode: 01067
+latitude: 51.04624870000001
+longitude: 13.770539900000001
+postcode: "01307"
 city: Dresden
-street: "Webergasse"
-housenumber: 1
+street: "Nicolaistraße"
+housenumber: 28
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
 website: ""

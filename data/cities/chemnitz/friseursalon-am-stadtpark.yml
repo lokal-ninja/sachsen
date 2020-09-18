@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8070103
 longitude: 12.897821500000001
-postcode: 09120
+postcode: "09120"
 city: Chemnitz
 street: "Am Stadtpark"
 housenumber: 1

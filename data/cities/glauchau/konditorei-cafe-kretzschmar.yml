@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 50.8165612
 longitude: 12.5407127
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Schloßplatz"
 housenumber: 9

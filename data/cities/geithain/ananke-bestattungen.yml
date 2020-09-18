@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.054864800000004
 longitude: 12.6883437
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Altenburger Straße"
 housenumber: 1

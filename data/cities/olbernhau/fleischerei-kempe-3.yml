@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.66331640000001
 longitude: 13.325961000000001
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Blumenauer Straße"
 housenumber: 32B

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.8639074
 longitude: 12.664673800000001
-postcode: 09337
+postcode: "09337"
 city: Callenberg
 street: "Waldenburger Straße"
 housenumber: 61

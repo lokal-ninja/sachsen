@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.7031671
 longitude: 13.238200200000001
-postcode: 09509
+postcode: "09509"
 city: Pockau-Lengefeld
 street: "Olbernhauer Straße"
 housenumber: 33A

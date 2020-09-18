@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.366063700000005
 longitude: 12.426372800000001
-postcode: 04347
+postcode: "04347"
 city: Leipzig
 street: "Stöhrerstraße"
 housenumber: 1b

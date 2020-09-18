@@ -1,6 +1,6 @@
 ---
 title: Gornau
 url: /gornau/
-latitude: 
-longitude: 
+latitude: 50.7602495
+longitude: 13.0283232
 ---

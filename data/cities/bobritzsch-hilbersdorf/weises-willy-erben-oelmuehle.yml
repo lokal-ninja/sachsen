@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.88019370000001
 longitude: 13.446596000000001
-postcode: 09627
+postcode: "09627"
 city: Bobritzsch-Hilbersdorf
 street: "Bobritzschtalstraße"
 housenumber: 131

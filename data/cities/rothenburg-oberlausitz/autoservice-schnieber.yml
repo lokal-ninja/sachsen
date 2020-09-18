@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.331471900000004
 longitude: 14.966436100000001
-postcode: 02929
+postcode: "02929"
 city: Rothenburg/Oberlausitz
 street: "Horkaer Straße"
 housenumber: 12

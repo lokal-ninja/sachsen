@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.7057264
 longitude: 13.3500212
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Freiberger Straße"
 housenumber: 465

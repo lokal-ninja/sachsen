@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.23728070000001
 longitude: 12.7074467
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Vorwerkstraße"
 housenumber: 29

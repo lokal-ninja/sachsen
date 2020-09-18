@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 51.365438000000005
 longitude: 12.374442100000001
-postcode: 04157
+postcode: "04157"
 city: Leipzig
 street: "Daumierstraße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00"
 website: "https://www.woll-lust-leipzig.de/"

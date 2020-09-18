@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3052901
 longitude: 13.303836800000001
-postcode: 01587
+postcode: "01587"
 city: Riesa
 street: "Hauptstraße"
 housenumber: 72

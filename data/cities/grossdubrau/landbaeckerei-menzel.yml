@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.252008100000005
 longitude: 14.4608483
-postcode: 
+postcode: ""
 city: Großdubrau
 street: "Poststraße"
 housenumber: 1

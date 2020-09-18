@@ -3,10 +3,10 @@ type: way
 shop: Andenken
 latitude: 50.9121225
 longitude: 14.1058991
-postcode: 01824
+postcode: "01824"
 city: Gohrisch
 street: "Neue Hauptstraße"
 housenumber: 109
 phone: "+49 1577 9093173"
-opening_hours: "Mo-So 13:00-18:00"
+opening_hours: "Mo-Su 13:00-18:00"
 website: "http://www.gohrischer-hofladen.de/"

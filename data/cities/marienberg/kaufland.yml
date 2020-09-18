@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.65795120000001
 longitude: 13.157906200000001
-postcode: 09496
+postcode: "09496"
 city: Marienberg
 street: "Am Lautengrund"
 housenumber: 4

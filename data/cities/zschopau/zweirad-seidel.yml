@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.750146
 longitude: 13.067669800000001
-postcode: 09405
+postcode: "09405"
 city: Zschopau
 street: "Chemnitzer Straße"
 housenumber: 58

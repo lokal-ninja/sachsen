@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6132861
 longitude: 12.5656751
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: "Hammermühlenweg"
 housenumber: 11

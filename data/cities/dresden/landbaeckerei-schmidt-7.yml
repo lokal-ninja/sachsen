@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.066081800000006
 longitude: 13.894358500000001
-postcode: 01328
+postcode: "01328"
 city: Dresden
 street: "An der Prießnitzaue"
 housenumber: 3

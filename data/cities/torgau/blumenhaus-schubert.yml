@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.5529838
 longitude: 12.9936539
-postcode: 04860
+postcode: "04860"
 city: Torgau
 street: "Thomas-Müntzer-Straße"
 housenumber: 2

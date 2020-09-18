@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.1549951
 longitude: 12.278742800000002
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Richard-Wagner-Straße"
 housenumber: 8

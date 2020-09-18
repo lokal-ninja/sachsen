@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9816578
 longitude: 14.6026091
-postcode: 02727
+postcode: "02727"
 city: Ebersbach-Neugersdorf
 street: "Ernst-Thälmann-Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2744215
 longitude: 12.6009606
-postcode: 04683
+postcode: "04683"
 city: Naunhof
 street: "Großsteinberger Straße"
 housenumber: 25

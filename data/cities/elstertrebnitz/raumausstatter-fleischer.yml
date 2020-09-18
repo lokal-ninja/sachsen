@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 51.1437219
 longitude: 12.230304100000001
-postcode: 04523
+postcode: "04523"
 city: Elstertrebnitz
 street: "F"
 housenumber: 59

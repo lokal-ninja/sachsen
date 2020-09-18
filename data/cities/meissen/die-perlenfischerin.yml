@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.1621127
 longitude: 13.471477700000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Fleischergasse"
 housenumber: 7

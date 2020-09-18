@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.595682100000005
 longitude: 12.6482302
-postcode: 08289
+postcode: "08289"
 city: Schneeberg
 street: "Kobaltstraße"
 housenumber: 2a

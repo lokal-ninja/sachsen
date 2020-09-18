@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.1623171
 longitude: 13.472741000000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Gerbergasse"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.1398683
 longitude: 12.6544097
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
 street: "Ballendorfer Straße"
 housenumber: 18

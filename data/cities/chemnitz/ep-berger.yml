@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.8301333
 longitude: 12.954762
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Geibelstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.3447661
 longitude: 12.264652400000001
-postcode: 04178
+postcode: "04178"
 city: Leipzig
 street: "Großer Marktweg"
 housenumber: 4

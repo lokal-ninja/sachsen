@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 51.3685947
 longitude: 12.735351300000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Badergraben"
 housenumber: 2

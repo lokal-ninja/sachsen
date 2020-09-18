@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.489249400000006
 longitude: 12.0973436
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Vettersstraße"
 housenumber: 1

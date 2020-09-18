@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4921048
 longitude: 12.120080900000001
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Moritzstraße"
 housenumber: 85

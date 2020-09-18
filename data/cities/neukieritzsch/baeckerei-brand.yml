@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1120815
 longitude: 12.428173600000001
-postcode: 04575
+postcode: "04575"
 city: Neukieritzsch
 street: "August-Bebel-Straße"
 housenumber: 13

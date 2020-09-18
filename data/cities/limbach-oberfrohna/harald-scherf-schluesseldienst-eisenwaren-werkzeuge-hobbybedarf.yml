@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.856193700000006
 longitude: 12.7650363
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Albert-Einstein-Straße"
 housenumber: 26

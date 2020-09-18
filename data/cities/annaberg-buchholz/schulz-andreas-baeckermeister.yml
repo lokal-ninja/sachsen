@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.580296600000004
 longitude: 13.009439
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Lindenstraße"
 housenumber: 18

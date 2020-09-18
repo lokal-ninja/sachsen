@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.971455500000005
 longitude: 13.857075600000002
-postcode: 01809
+postcode: "01809"
 city: Dohna
 street: "Müglitztalstraße"
 housenumber: 83

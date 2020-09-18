@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.652297000000004
 longitude: 13.352054500000001
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Grünthaler Straße"
 housenumber: 116

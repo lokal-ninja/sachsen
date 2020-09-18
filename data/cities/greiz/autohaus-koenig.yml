@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.634598600000004
 longitude: 12.1934368
-postcode: 07973
+postcode: "07973"
 city: Greiz
 street: "Plauensche Straße"
 housenumber: 3

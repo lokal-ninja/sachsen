@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.8333006
 longitude: 12.9219331
-postcode: 09111
+postcode: "09111"
 city: Chemnitz
 street: "Straße der Nationen"
 housenumber: 2-4

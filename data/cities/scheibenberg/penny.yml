@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.538809400000005
 longitude: 12.907475900000001
-postcode: 09481
+postcode: "09481"
 city: Scheibenberg
 street: "Silberstraße"
 housenumber: 46

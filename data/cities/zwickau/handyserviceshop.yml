@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.7242885
 longitude: 12.4945613
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Leipziger Straße"
 housenumber: 38

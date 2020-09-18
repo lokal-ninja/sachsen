@@ -1,12 +1,12 @@
 id: 2473217369
 type: node
 shop: Getränke
-latitude: 51.3415897
-longitude: 12.3270733
-postcode: 04177
+latitude: 51.344763400000005
+longitude: 12.448856900000001
+postcode: "04328"
 city: Leipzig
-street: "Uhlandstraße"
-housenumber: 9
+street: "Riesaer Straße"
+housenumber: 54
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-17:00"
 website: "https://www.liefermaus.de/"

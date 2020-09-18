@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.345908200000004
 longitude: 12.3187485
-postcode: 04179
+postcode: "04179"
 city: Leipzig
 street: "Georg-Schwarz-Straße"
 housenumber: 92-96

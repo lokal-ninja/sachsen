@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.4948898
 longitude: 12.599330700000001
-postcode: 08309
+postcode: "08309"
 city: Eibenstock
 street: "Schneeberger Straße"
 housenumber: 1a

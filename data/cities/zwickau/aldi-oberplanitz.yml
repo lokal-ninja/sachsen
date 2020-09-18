@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.672845
 longitude: 12.464261800000001
-postcode: 08064
+postcode: "08064"
 city: Zwickau
 street: "Am Kreuzberg"
 housenumber: 69

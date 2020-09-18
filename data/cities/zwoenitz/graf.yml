@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.633062200000005
 longitude: 12.804997100000001
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Goethestraße"
 housenumber: 6 C

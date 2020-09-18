@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.856017400000006
 longitude: 13.0735366
-postcode: 09557
+postcode: "09557"
 city: Flöha
 street: "Bahnhofstraße"
 housenumber: 7a

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.529091900000005
 longitude: 12.341231700000002
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Dübener Straße"
 housenumber: 39

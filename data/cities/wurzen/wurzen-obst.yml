@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.3677805
 longitude: 12.768802200000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "An der Obstplantage"
 housenumber: 13

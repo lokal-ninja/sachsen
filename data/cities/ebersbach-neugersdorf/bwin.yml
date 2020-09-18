@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 50.981744400000004
 longitude: 14.604857200000001
-postcode: 02727
+postcode: "02727"
 city: Ebersbach-Neugersdorf
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.913893800000004
 longitude: 13.340580600000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Bebelplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.275457
 longitude: 12.470078800000001
-postcode: 04288
+postcode: "04288"
 city: Leipzig
 street: "Zum Rosengarten"
 housenumber: 1

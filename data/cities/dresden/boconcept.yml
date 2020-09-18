@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.0487559
 longitude: 13.737023500000001
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Altmarkt"
 housenumber: 10a

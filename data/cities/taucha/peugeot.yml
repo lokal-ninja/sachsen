@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.4095358
 longitude: 12.4746053
-postcode: 04425
+postcode: "04425"
 city: Taucha
 street: "Seegeritzer Straße"
 housenumber: 13

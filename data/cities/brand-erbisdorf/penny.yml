@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.8652765
 longitude: 13.323721800000001
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Hauptstraße"
 housenumber: 35
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00; Su off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.2874489
 longitude: 12.588162
-postcode: 04683
+postcode: "04683"
 city: Naunhof
 street: "Brandiser Straße"
 housenumber: 86

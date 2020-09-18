@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0555503
 longitude: 13.761739500000001
-postcode: 01307
+postcode: "01307"
 city: Dresden
 street: "Elisenstraße"
 housenumber: 42

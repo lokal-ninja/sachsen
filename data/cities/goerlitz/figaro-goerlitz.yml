@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.1498858
 longitude: 14.9817569
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Salomonstraße"
 housenumber: 41

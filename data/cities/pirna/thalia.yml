@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.962462
 longitude: 13.938853900000002
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Jacobäerstraße"
 housenumber: 6

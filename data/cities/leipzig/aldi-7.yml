@@ -1,12 +1,12 @@
-id: 40905474
+id: 35783615
 type: way
 shop: Supermarkt
-latitude: 51.3260555
-longitude: 12.3715442
-postcode: 04107
+latitude: 51.292557900000006
+longitude: 12.3934487
+postcode: "04279"
 city: Leipzig
-street: "Braustraße"
-housenumber: 26
+street: "Friederikenstraße"
+housenumber: 25
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: "https://www.aldi-nord.de/"

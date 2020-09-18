@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.1589408
 longitude: 13.506014700000001
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Am Wall"
 housenumber: 4

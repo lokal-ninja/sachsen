@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.0063733
 longitude: 13.8747509
-postcode: 01326
+postcode: "01326"
 city: Dresden
 street: "Söbrigener Straße"
 housenumber: 1

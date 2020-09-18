@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.157034
 longitude: 14.999778500000001
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Jarosława Iwaszkiewicza"
 housenumber: 3

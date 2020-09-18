@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.597246000000005
 longitude: 12.265378
-postcode: 08491
+postcode: "08491"
 city: Limbach
 street: "Plauener Straße"
 housenumber: 7

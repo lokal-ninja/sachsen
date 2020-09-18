@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.98544750000001
 longitude: 13.862009800000001
-postcode: 01809
+postcode: "01809"
 city: Heidenau
 street: "Dresdner Straße"
 housenumber: 83

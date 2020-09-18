@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 51.4558151
 longitude: 12.6355404
-postcode: 04838
+postcode: "04838"
 city: Eilenburg
 street: "Kranoldstraße"
 housenumber: 26
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-13:00; Su,PH off"
 website: ""

@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.344633900000005
 longitude: 12.357488100000001
-postcode: 04105
+postcode: "04105"
 city: Leipzig
 street: "Waldstraße"
 housenumber: 25
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-19:00; Su 07:00-17:00"
 website: ""

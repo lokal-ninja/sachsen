@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.8402399
 longitude: 12.9365251
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: ""
 housenumber: 

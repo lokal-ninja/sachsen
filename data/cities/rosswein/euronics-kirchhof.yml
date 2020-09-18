@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 51.0662937
 longitude: 13.1835629
-postcode: 04741
+postcode: "04741"
 city: Roßwein
 street: "Lommatzscher Straße"
 housenumber: 9

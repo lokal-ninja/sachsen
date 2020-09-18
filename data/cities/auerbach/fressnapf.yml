@@ -3,10 +3,10 @@ type: node
 shop: Tiere
 latitude: 50.4938872
 longitude: 12.397272300000001
-postcode: 08209
+postcode: "08209"
 city: Auerbach
 street: "Göltzschtalstraße"
 housenumber: 79a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
 website: ""

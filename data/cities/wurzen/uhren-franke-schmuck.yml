@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 51.3703851
 longitude: 12.740063800000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Jacobsplatz"
 housenumber: 15

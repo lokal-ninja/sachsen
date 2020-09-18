@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.019767300000005
 longitude: 13.737510400000001
-postcode: 01217
+postcode: "01217"
 city: Dresden
 street: "Südhöhe"
 housenumber: 38

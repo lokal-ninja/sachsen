@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.1596622
 longitude: 13.561834800000002
-postcode: 01689
+postcode: "01689"
 city: Weinböhla
 street: "Zaschendorfer Weg"
 housenumber: 3a

@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 50.896937900000005
 longitude: 14.810321700000001
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Neustadt"
 housenumber: 34

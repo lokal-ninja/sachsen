@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.88849930000001
 longitude: 13.1929016
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Zum Erbgericht"
 housenumber: 7

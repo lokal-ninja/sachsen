@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0504802
 longitude: 13.778251200000001
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Dürerstraße"
 housenumber: 120

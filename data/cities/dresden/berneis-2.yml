@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.040612200000005
 longitude: 13.6889482
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Grillenburger Straße"
 housenumber: 19

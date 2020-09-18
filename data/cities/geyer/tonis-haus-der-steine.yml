@@ -3,10 +3,10 @@ type: way
 shop: Andenken
 latitude: 50.6468427
 longitude: 12.9157624
-postcode: 09468
+postcode: "09468"
 city: Geyer
 street: "Thumer Straße"
 housenumber: 71
 phone: ""
-opening_hours: "Apr-Okt Sa-Th 10:00-17:00; Nov-Mar Sa-So 10:00-17:00; SH,PH 10:00-17:00"
+opening_hours: "Apr-Oct: Sa-Th 10:00-17:00; Nov-Mar: Sa,Su 10:00-17:00; SH,PH 10:00-17:00"
 website: "https://www.tonis-haus-der-steine.de"

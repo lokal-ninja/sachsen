@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.580272
 longitude: 13.001521100000001
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Markt"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.047159
 longitude: 13.766297000000002
-postcode: 01307
+postcode: "01307"
 city: Dresden
 street: "Nicolaistraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1609014
 longitude: 13.4826259
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Dresdner Straße"
 housenumber: 20

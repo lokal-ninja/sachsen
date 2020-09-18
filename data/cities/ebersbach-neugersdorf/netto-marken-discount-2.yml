@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0025387
 longitude: 14.617724
-postcode: 02730
+postcode: "02730"
 city: Ebersbach-Neugersdorf
 street: "Hauptstraße"
 housenumber: 160

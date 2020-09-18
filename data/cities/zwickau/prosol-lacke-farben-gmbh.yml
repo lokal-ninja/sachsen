@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 50.70863790000001
 longitude: 12.4622183
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Reichenbacher Straße"
 housenumber: 146

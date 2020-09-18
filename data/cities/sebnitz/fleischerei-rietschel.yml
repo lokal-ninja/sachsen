@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.9772508
 longitude: 14.2813663
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Blumenstraße"
 housenumber: 10

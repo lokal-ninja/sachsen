@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.0411797
 longitude: 12.5180938
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Große Seite"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 50.8592784
 longitude: 12.754301600000002
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Albertstraße"
 housenumber: 20

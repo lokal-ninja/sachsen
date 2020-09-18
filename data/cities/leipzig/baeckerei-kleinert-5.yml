@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3421594
 longitude: 12.3261126
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "William-Zipperer-Straße"
 housenumber: 53

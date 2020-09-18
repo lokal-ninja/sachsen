@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.9911012
 longitude: 13.658804900000002
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "Poisentalstraße"
 housenumber: 51

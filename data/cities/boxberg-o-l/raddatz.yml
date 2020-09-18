@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4029934
 longitude: 14.578640600000002
-postcode: 02943
+postcode: "02943"
 city: Boxberg/O.L.
 street: "Friedensstraße"
 housenumber: 77

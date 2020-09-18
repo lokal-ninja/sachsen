@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 50.7303377
 longitude: 12.375012400000001
-postcode: 08412
+postcode: "08412"
 city: Werdau
 street: "Plauensche Straße"
 housenumber: 8

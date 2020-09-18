@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.123639700000005
 longitude: 13.6862443
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Großenhainer Straße"
 housenumber: 1f

@@ -1,12 +1,12 @@
-id: 1362841955
-type: node
+id: 822896905
+type: way
 shop: Schuhe
-latitude: 50.7967573
-longitude: 12.9209893
-postcode: 09125
+latitude: 50.796891900000006
+longitude: 12.9209648
+postcode: "09125"
 city: Chemnitz
 street: "Annaberger Straße"
 housenumber: 315
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 09:00-20:00; PH,Su off"
 website: ""

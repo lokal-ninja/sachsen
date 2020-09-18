@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7356756
 longitude: 12.6796179
-postcode: 09394
+postcode: "09394"
 city: Hohndorf
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 8

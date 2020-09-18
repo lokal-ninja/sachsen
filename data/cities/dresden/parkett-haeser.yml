@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.0740568
 longitude: 13.7378437
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Fritz-Reuter-Straße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1542474
 longitude: 13.6817492
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Schloßallee"
 housenumber: 53

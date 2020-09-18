@@ -1,12 +1,12 @@
 id: 6208560164
 type: node
-shop: Modehaus
+shop: Kleidung
 latitude: 51.1625352
 longitude: 13.4704335
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Fleischergasse"
 housenumber: 15
 phone: "+49 3521 453044"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-16:00; So closed"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-16:00; Su closed"
 website: ""

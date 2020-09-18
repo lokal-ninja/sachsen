@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.718989900000004
 longitude: 12.530436600000002
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Äußere Dresdner Straße"
 housenumber: 29

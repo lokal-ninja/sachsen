@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1073048
 longitude: 13.917008200000001
-postcode: 01454
+postcode: "01454"
 city: Radeberg
 street: "Schillerstraße"
 housenumber: 34

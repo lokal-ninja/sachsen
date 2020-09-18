@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.878421800000005
 longitude: 13.326236900000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Am Beschert Glück"
 housenumber: 31a

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 51.2954877
 longitude: 12.495675
-postcode: 04288
+postcode: "04288"
 city: Leipzig
 street: "Seifertshainer Straße"
 housenumber: 47

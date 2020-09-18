@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.1206128
 longitude: 12.4874904
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Deutzener Straße"
 housenumber: 7
-phone: "+49 3433 915800"
-opening_hours: ""
-website: "https://www.backhaus-wentzlaff.de/"
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+website: ""

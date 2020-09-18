@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0930109
 longitude: 13.714456700000001
-postcode: 01129
+postcode: "01129"
 city: Dresden
 street: "Kronenstraße"
 housenumber: 32

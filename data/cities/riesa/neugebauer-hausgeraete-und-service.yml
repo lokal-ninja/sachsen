@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 51.2798261
 longitude: 13.2899977
-postcode: 01594
+postcode: "01594"
 city: Riesa
 street: "Auenwaldstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.75616
 longitude: 12.634148000000001
-postcode: 09350
+postcode: "09350"
 city: Lichtenstein/Sa.
 street: "Altmarkt"
 housenumber: 3

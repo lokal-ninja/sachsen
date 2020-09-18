@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.5990971
 longitude: 13.063407300000001
-postcode: 09456
+postcode: "09456"
 city: Mildenau
 street: "Annaberger Straße"
 housenumber: 4

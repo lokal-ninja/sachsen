@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.9445422
 longitude: 13.755061300000001
-postcode: 01731
+postcode: "01731"
 city: Kreischa
 street: "Querstraße"
 housenumber: 2

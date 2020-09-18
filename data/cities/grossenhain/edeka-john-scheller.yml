@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2852862
 longitude: 13.539135700000001
-postcode: 01558
+postcode: "01558"
 city: Großenhain
 street: "Theodor-Neubauer-Straße"
 housenumber: 1

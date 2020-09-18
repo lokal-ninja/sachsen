@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.6708136
 longitude: 13.317505800000001
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Kleinneuschönberger Straße"
 housenumber: 37a

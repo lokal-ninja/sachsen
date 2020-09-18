@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.2364891
 longitude: 13.0466967
-postcode: 04769
+postcode: "04769"
 city: Mügeln
 street: "Ernst-Thälmann-Straße"
 housenumber: 3

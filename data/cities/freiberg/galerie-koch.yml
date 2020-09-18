@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.9165514
 longitude: 13.3430057
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Obermarkt"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.338807800000005
 longitude: 12.3752282
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Petersstraße"
 housenumber: 15

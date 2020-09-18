@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 50.829573800000006
 longitude: 12.922990700000001
-postcode: 09111
+postcode: "09111"
 city: Chemnitz
 street: "Reitbahnstraße"
 housenumber: 26

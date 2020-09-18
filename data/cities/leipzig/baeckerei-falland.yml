@@ -3,9 +3,9 @@ type: node
 shop: Bäckerei
 latitude: 51.3499465
 longitude: 12.376180100000001
-postcode: 04105
+postcode: "04105"
 city: Leipzig
-street: "Eutritzscher Str. "
+street: "Eutritzscher Straße"
 housenumber: 15a
 phone: ""
 opening_hours: ""

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.537951400000004
 longitude: 12.3246444
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Sachsenstraße"
-housenumber: 1
+housenumber: 8
 phone: "+49 34202 30960"
 opening_hours: "Mo-Sa 07:00-22:00; PH off"
 website: ""

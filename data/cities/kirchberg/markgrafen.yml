@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.621067700000005
 longitude: 12.5213883
-postcode: 08107
+postcode: "08107"
 city: Kirchberg
 street: "Lengenfelder Straße"
 housenumber: 17

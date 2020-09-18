@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.497479500000004
 longitude: 12.124252
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Engelstraße"
 housenumber: 26

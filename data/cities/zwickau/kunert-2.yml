@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 50.7326411
 longitude: 12.491777
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Leipziger Straße"
 housenumber: 128

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.0706421
 longitude: 13.751997000000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Förstereistraße"
 housenumber: 37

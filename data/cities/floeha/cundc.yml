@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.857017000000006
 longitude: 13.069984000000002
-postcode: 09557
+postcode: "09557"
 city: Flöha
 street: "Augustusburger Straße"
 housenumber: 34

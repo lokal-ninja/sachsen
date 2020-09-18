@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.053125200000004
 longitude: 14.658755500000002
-postcode: 02708
+postcode: "02708"
 city: Kottmar
 street: "An der Aue"
 housenumber: 8

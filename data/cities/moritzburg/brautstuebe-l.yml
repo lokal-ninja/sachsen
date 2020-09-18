@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.161758500000005
 longitude: 13.683248800000001
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "August-Bebel-Straße"
 housenumber: 18

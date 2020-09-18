@@ -1,12 +1,12 @@
-id: 418416716
+id: 612570555
 type: node
 shop: Bäckerei
-latitude: 51.0423898
-longitude: 13.6900352
-postcode: 01159
+latitude: 51.095672900000004
+longitude: 13.719020800000001
+postcode: "01129"
 city: Dresden
-street: "Kesselsdorfer Straße"
-housenumber: 45
-phone: "+49 351 41781550"
-opening_hours: "Mo-Tu off; Th,Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-11:00"
-website: "https://www.baeckerei-cafe-eckert.de"
+street: "Großenhainer Straße"
+housenumber: 221
+phone: "+49 351 8 33 60 78"
+opening_hours: "Mo-Sa 06:00-18:00; Su 07:00-18:00"
+website: ""

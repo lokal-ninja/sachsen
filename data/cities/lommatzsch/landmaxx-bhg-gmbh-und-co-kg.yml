@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.1920323
 longitude: 13.312053800000001
-postcode: 01623
+postcode: "01623"
 city: Lommatzsch
 street: "Am Bahnhof"
 housenumber: 12-18

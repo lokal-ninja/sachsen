@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.668848700000005
 longitude: 12.615293800000002
-postcode: 08134
+postcode: "08134"
 city: Wildenfels
 street: "Hartensteiner Straße"
 housenumber: 5b

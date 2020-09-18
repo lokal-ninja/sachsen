@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 50.470665100000005
 longitude: 12.2199451
-postcode: 08541
+postcode: "08541"
 city: Theuma
 street: "Gartenstraße"
 housenumber: 4

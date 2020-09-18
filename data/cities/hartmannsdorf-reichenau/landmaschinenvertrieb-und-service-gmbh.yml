@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 50.832491100000006
 longitude: 13.5534054
-postcode: 01762
+postcode: "01762"
 city: Hartmannsdorf-Reichenau
 street: "Hauptstraße"
 housenumber: 13

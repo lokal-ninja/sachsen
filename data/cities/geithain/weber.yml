@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0427504
 longitude: 12.712500700000001
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Wickershain"
 housenumber: 41

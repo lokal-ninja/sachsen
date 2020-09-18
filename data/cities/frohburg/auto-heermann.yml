@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0490599
 longitude: 12.5600246
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Südstraße"
 housenumber: 1

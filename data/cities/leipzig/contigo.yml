@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.340907200000004
 longitude: 12.378249700000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Strohsackpassage"
 housenumber: 6-8

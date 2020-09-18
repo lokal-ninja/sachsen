@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.155785200000004
 longitude: 14.9889364
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Obermarkt"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.698599200000004
 longitude: 12.343774000000002
-postcode: 08427
+postcode: "08427"
 city: Fraureuth
 street: "Markt"
 housenumber: 4

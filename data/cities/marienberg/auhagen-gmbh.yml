@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 50.6528585
 longitude: 13.201385100000001
-postcode: 09496
+postcode: "09496"
 city: Marienberg
 street: "Hüttengrund"
 housenumber: 25

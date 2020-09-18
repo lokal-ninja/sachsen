@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0491054
 longitude: 13.6867456
-postcode: 01157
+postcode: "01157"
 city: Dresden
 street: "Chamissostraße"
 housenumber: 2

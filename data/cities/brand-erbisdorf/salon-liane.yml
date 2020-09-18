@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.836254600000004
 longitude: 13.2965402
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Neue Hauptstraße"
 housenumber: 117

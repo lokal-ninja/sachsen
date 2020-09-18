@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.072354100000005
 longitude: 13.747736100000001
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Rudolf-Leonhard-Straße"
 housenumber: 2

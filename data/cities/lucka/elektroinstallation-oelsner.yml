@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 51.0921292
 longitude: 12.3320488
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Straße der Bauarbeiter"
 housenumber: 1c

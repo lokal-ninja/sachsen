@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.1572946
 longitude: 14.999715400000001
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Stanisława Wyspiańskiego"
 housenumber: 51

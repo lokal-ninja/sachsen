@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.1372842
 longitude: 14.1917913
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Carl-Maria-von-Weber-Straße"
 housenumber: 24

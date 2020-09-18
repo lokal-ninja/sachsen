@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.7185076
 longitude: 12.4861442
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Bahnhofstraße"
 housenumber: 8

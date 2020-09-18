@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4007507
 longitude: 12.399043
-postcode: 04356
+postcode: "04356"
 city: Leipzig
 street: "Handelsstraße"
 housenumber: 3

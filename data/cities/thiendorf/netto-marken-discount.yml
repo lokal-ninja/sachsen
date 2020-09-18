@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2953461
 longitude: 13.733960600000001
-postcode: 01561
+postcode: "01561"
 city: Thiendorf
 street: "Am Fiebig"
 housenumber: 3

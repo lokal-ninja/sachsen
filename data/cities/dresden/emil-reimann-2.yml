@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0809986
 longitude: 13.757959000000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Provianthofstraße"
 housenumber: 3

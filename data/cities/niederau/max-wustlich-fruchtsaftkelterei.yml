@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.175586700000004
 longitude: 13.5435101
-postcode: 01689
+postcode: "01689"
 city: Niederau
 street: "Oberauer Straße"
 housenumber: 13

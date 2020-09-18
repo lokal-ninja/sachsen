@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3787789
 longitude: 12.4066662
-postcode: 04357
+postcode: "04357"
 city: Leipzig
 street: "Friedrichshafner Straße"
 housenumber: 150

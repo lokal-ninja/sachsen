@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.190441400000005
 longitude: 12.470863000000001
-postcode: 04571
+postcode: "04571"
 city: Rötha
 street: "Leipziger Straße"
 housenumber: 22A

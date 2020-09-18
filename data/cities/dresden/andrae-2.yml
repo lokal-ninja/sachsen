@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0428456
 longitude: 13.6915662
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Kesselsdorfer Straße"
 housenumber: 64

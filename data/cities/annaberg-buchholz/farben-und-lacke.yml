@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 50.5777009
 longitude: 13.0061181
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Große Kirchgasse"
 housenumber: 29

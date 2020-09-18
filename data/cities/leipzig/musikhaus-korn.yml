@@ -3,10 +3,10 @@ type: node
 shop: Instrumente
 latitude: 51.307988800000004
 longitude: 12.3731074
-postcode: 04277
+postcode: "04277"
 city: Leipzig
 street: "Simildenstraße"
 housenumber: 2
 phone: ""
-opening_hours: ""
-website: "http://musikhaus-korn.de"
+opening_hours: "Mo-Fr: 10:00-18:30; Sa: 10:00-14:00; Su,PH off"
+website: ""

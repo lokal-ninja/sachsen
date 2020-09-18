@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.914477700000006
 longitude: 13.3609965
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Dresdner Straße"
 housenumber: 48

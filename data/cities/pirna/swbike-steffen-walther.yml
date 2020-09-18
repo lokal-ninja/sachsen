@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 50.957433
 longitude: 13.926705
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Dresdner Straße"
 housenumber: 11

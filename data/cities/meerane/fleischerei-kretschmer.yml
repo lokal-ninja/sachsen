@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8463434
 longitude: 12.4580237
-postcode: 08393
+postcode: "08393"
 city: Meerane
 street: "Ziegelstraße"
 housenumber: 31

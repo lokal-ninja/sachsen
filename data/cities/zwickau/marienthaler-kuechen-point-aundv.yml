@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 50.721195
 longitude: 12.4647939
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Goethestraße"
 housenumber: 15a

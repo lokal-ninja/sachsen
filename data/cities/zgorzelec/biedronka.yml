@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1493562
 longitude: 15.0059237
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Stanisława Staszica"
 housenumber: 4

@@ -3,10 +3,10 @@ type: way
 shop: Wein
 latitude: 51.136977
 longitude: 13.5212327
-postcode: 01640
+postcode: "01640"
 city: Coswig
 street: "Zaschendorfer Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""
-website: "http://www.weinhaus-schuh.de"
+website: ""

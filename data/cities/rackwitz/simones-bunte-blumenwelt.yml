@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4433415
 longitude: 12.372757100000001
-postcode: 04519
+postcode: "04519"
 city: Rackwitz
 street: "Hauptstraße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.820893600000005
 longitude: 12.933795300000002
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
 street: "Bernsdorfer Straße"
 housenumber: 41

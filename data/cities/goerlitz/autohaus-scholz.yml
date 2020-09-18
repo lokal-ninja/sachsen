@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.176310300000004
 longitude: 14.965858500000001
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Gewerbering"
 housenumber: 3

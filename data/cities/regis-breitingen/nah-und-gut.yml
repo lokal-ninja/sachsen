@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.08976740000001
 longitude: 12.4307935
-postcode: 04565
+postcode: "04565"
 city: Regis-Breitingen
 street: "An der Kippe"
 housenumber: 32

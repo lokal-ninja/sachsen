@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.0522611
 longitude: 13.806246100000001
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Naumannstraße"
 housenumber: 7

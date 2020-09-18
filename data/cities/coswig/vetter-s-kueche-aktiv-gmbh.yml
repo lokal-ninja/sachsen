@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.1246263
 longitude: 13.578805800000001
-postcode: 01640
+postcode: "01640"
 city: Coswig
 street: "Kötitzer Straße"
 housenumber: 2

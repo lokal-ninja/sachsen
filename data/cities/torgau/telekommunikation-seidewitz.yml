@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.563484100000004
 longitude: 12.970948900000002
-postcode: 04860
+postcode: "04860"
 city: Torgau
 street: "Außenring"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.699570300000005
 longitude: 12.889492800000001
-postcode: 09390
+postcode: "09390"
 city: Gornsdorf
 street: "August-Uhlmann-Straße"
 housenumber: 20

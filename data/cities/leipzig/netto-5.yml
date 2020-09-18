@@ -1,12 +1,12 @@
-id: 974418997
+id: 775914782
 type: node
 shop: Supermarkt
-latitude: 51.3509413
-longitude: 12.4078543
-postcode: 04347
+latitude: 51.343853100000004
+longitude: 12.366413900000001
+postcode: "04109"
 city: Leipzig
-street: "Waldbaurstraße"
-housenumber: 2
+street: "Ranstädter Steinweg"
+housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"
-website: "http://www.netto-online.de"
+website: "https://www.netto-online.de/"

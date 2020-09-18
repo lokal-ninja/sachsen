@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7797556
 longitude: 13.6843649
-postcode: 01773
+postcode: "01773"
 city: Altenberg
 street: "Hauptstraße"
 housenumber: 102

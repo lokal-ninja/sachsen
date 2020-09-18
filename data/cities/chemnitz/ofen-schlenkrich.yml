@@ -3,7 +3,7 @@ type: way
 shop: Kamine & Öfen
 latitude: 50.8193038
 longitude: 12.864988700000001
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Zwickauer Straße"
 housenumber: 303

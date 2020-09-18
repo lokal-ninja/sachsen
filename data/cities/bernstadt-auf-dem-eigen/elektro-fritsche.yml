@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.0477391
 longitude: 14.8282176
-postcode: 02748
+postcode: "02748"
 city: Bernstadt auf dem Eigen
 street: "Görlitzer Straße"
 housenumber: 11

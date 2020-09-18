@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1563911
 longitude: 15.007203200000001
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Tadeusza Kościuszki"
 housenumber: 49

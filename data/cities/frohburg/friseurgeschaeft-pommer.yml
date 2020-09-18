@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0610603
 longitude: 12.556800800000001
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Bahnhofstraße"
 housenumber: 29

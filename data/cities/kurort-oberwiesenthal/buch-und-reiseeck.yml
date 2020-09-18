@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.4189816
 longitude: 12.972457400000001
-postcode: 09484
+postcode: "09484"
 city: Kurort Oberwiesenthal
 street: "Annaberger Straße"
 housenumber: 8

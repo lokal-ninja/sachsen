@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 51.1864672
 longitude: 13.5198076
-postcode: 01689
+postcode: "01689"
 city: Niederau
 street: "Radeburger Straße"
 housenumber: 8
 phone: ""
-opening_hours: "Mo,Tu 15:00-18:00; We off; Th,Fr 15:00-18:00; Sa 09:00-12:00"
-website: "http://www.bauernhof-friede.de/"
+opening_hours: "Mo,Tu 15:00-18:00; Th,Fr 15:00-18:00; Sa 09:00-12:00; We,Su,PH off"
+website: ""

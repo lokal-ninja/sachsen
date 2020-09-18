@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8386178
 longitude: 13.675647000000001
-postcode: 01744
+postcode: "01744"
 city: Dippoldiswalde
 street: "Schmiedeberger Markt"
 housenumber: 1

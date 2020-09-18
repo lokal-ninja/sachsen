@@ -3,7 +3,7 @@ type: way
 shop: Elektrisch
 latitude: 50.7253739
 longitude: 12.4694637
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Herschelstraße"
 housenumber: 25

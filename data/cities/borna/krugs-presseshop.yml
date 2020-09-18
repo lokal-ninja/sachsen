@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.1250572
 longitude: 12.4953254
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: ""
 housenumber: 

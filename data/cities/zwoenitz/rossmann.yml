@@ -1,12 +1,12 @@
-id: 529645036
-type: way
+id: 7557650903
+type: node
 shop: Drogerie
-latitude: 50.631517800000005
-longitude: 12.801328300000002
-postcode: 08297
+latitude: 50.631711
+longitude: 12.8015454
+postcode: "08297"
 city: Zwönitz
 street: "Wiesenstraße"
-housenumber: 1-3
+housenumber: 1 - 3
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00; Su off; PH off"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.9671353
 longitude: 13.7775355
-postcode: 01731
+postcode: "01731"
 city: Kreischa
 street: "Lockwitzgrund"
 housenumber: 25

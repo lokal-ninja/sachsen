@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.474622700000005
 longitude: 11.9555994
-postcode: 08538
+postcode: "08538"
 city: Weischlitz
 street: "Bahnhofstraße"
 housenumber: 20

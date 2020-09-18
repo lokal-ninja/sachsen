@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.3485634
 longitude: 12.4186914
-postcode: 04318
+postcode: "04318"
 city: Leipzig
 street: "Torgauer Straße"
 housenumber: 49

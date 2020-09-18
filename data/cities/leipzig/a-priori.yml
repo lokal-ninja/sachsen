@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.3407898
 longitude: 12.368391800000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Gottschedstraße"
 housenumber: 12

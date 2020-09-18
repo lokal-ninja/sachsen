@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.175434100000004
 longitude: 14.172429500000002
-postcode: 01906
+postcode: "01906"
 city: Burkau
 street: "Hauptstraße"
 housenumber: 234

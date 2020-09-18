@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.11419780000001
 longitude: 12.485158100000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Am Wilhelmschacht"
 housenumber: 20B

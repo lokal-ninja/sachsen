@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.3455919
 longitude: 12.264518
-postcode: 04178
+postcode: "04178"
 city: Leipzig
 street: "Großer Marktweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1753876
 longitude: 14.462863100000002
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Am Carolagarten"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.907067600000005
 longitude: 12.8007056
-postcode: 09217
+postcode: "09217"
 city: Burgstädt
 street: "Göppersdorfer Straße"
 housenumber: 50

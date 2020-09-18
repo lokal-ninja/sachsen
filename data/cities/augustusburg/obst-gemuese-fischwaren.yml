@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.815250500000005
 longitude: 13.101646
-postcode: 09573
+postcode: "09573"
 city: Augustusburg
 street: "Untere Schloßstraße"
 housenumber: 7

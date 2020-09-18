@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 50.804711000000005
 longitude: 13.3229778
-postcode: 09618
+postcode: "09618"
 city: Großhartmannsdorf
 street: "Hauptstraße"
 housenumber: 217

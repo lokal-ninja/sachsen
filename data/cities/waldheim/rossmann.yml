@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.0724382
 longitude: 13.023844200000001
-postcode: 04736
+postcode: "04736"
 city: Waldheim
 street: "Obermarkt"
 housenumber: 40

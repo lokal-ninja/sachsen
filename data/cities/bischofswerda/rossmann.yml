@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.1283289
 longitude: 14.1800069
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Altmarkt"
 housenumber: 1-5

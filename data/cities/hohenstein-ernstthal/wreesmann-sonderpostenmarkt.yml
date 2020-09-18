@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.8040262
 longitude: 12.7326414
-postcode: 09337
+postcode: "09337"
 city: Hohenstein-Ernstthal
 street: "Dresdner Straße"
 housenumber: 124c

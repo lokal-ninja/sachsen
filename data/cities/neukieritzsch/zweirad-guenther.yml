@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.151482800000004
 longitude: 12.4087464
-postcode: 04575
+postcode: "04575"
 city: Neukieritzsch
 street: "Leipziger Straße"
 housenumber: 4

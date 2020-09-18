@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1812752
 longitude: 14.4247458
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Reichenstraße"
 housenumber: 3

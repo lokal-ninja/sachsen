@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3143371
 longitude: 12.3951302
-postcode: 04277
+postcode: "04277"
 city: Leipzig
 street: "Richard-Lehmann-Straße"
 housenumber: 118

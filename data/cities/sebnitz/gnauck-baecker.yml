@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.97163990000001
 longitude: 14.270584900000001
-postcode: 01855
+postcode: "01855"
 city: Sebnitz
 street: "Schandauer Straße"
 housenumber: 6

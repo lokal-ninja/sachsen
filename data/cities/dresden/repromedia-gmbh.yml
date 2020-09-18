@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.068022400000004
 longitude: 13.779594800000002
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Am Brauhaus"
 housenumber: 12

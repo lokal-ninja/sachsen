@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.811751400000006
 longitude: 12.961539
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Zschopauer Straße"
 housenumber: 309

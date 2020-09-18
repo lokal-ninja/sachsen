@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.0923918
 longitude: 12.3352714
-postcode: 04613
+postcode: "04613"
 city: Lucka
 street: "Clara-Zetkin-Straße"
 housenumber: 15

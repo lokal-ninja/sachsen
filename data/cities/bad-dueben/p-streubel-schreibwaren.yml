@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.591569400000004
 longitude: 12.585868900000001
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: "Kirchstraße"
 housenumber: 

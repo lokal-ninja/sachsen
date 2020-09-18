@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3429841
 longitude: 12.374595900000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Brühl"
 housenumber: 18

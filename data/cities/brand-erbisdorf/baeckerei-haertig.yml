@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8679847
 longitude: 13.311470100000001
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Talstraße"
 housenumber: 13

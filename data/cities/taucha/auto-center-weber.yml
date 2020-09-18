@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.368321
 longitude: 12.476043500000001
-postcode: 04425
+postcode: "04425"
 city: Taucha
 street: "Otto-Schmidt-Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.170069000000005
 longitude: 14.970113300000001
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Nieskyer Straße"
 housenumber: 100

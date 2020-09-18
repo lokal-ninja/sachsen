@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.722939200000006
 longitude: 12.496943700000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Max-Pechstein-Straße"
 housenumber: 15

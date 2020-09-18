@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9188672
 longitude: 14.1398644
-postcode: 01814
+postcode: "01814"
 city: Bad Schandau
 street: "Bahnhof Bad Schandau"
 housenumber: 6

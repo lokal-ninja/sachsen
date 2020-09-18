@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7239087
 longitude: 12.2542161
-postcode: 07987
+postcode: "07987"
 city: Mohlsdorf-Teichwolframsdorf
 street: "Steinberg"
 housenumber: 17a

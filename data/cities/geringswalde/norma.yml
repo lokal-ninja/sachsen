@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0715851
 longitude: 12.901868
-postcode: 09326
+postcode: "09326"
 city: Geringswalde
 street: "Rochlitzer Straße"
 housenumber: 9

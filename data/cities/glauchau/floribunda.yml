@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8200116
 longitude: 12.558534400000001
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Talstraße"
 housenumber: 87

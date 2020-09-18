@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.498246300000005
 longitude: 12.136221
-postcode: 08523
+postcode: "08523"
 city: Plauen
 street: "Bahnhofstraße"
 housenumber: 11-15

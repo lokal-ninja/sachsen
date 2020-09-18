@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.0273223
 longitude: 13.7613561
-postcode: 01219
+postcode: "01219"
 city: Dresden
 street: "Lannerstraße"
 housenumber: 1

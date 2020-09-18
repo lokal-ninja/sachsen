@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.0104805
 longitude: 13.692869100000001
-postcode: 01189
+postcode: "01189"
 city: Dresden
 street: "Karlsruher Straße"
 housenumber: 87

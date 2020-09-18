@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7894881
 longitude: 12.378778
-postcode: 08459
+postcode: "08459"
 city: Neukirchen
 street: "Hauptstraße"
 housenumber: 137

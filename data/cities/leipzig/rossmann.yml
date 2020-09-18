@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3378433
 longitude: 12.4052913
-postcode: 04317
+postcode: "04317"
 city: Leipzig
 street: "Dresdner Straße"
 housenumber: 78-80

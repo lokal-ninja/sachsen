@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8475472
 longitude: 12.9322809
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Straße der Nationen"
 housenumber: 136 - 138

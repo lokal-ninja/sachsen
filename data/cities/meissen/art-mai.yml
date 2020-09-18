@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1651758
 longitude: 13.4701275
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Hohlweg"
 housenumber: 5

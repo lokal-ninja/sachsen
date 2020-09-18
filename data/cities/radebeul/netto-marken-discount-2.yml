@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.106085900000004
 longitude: 13.619617700000001
-postcode: 01445
+postcode: "01445"
 city: Radebeul
 street: "Kötitzer Straße"
 housenumber: 27

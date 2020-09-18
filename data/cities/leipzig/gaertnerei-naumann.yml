@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.332429000000005
 longitude: 12.4529034
-postcode: 04316
+postcode: "04316"
 city: Leipzig
 street: "Engelsdorfer Straße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.34695120000001
 longitude: 12.476841
-postcode: 04329
+postcode: "04329"
 city: Leipzig
 street: "Paunsdorfer Allee"
 housenumber: 1

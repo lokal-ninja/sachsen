@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1234666
 longitude: 12.496229000000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Wilhelm-Külz-Straße"
 housenumber: 1

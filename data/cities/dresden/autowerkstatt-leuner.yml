@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0896903
 longitude: 13.722422900000002
-postcode: 01129
+postcode: "01129"
 city: Dresden
 street: "Großenhainer Straße"
 housenumber: 175

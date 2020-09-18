@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.017262
 longitude: 13.790285800000001
-postcode: 01237
+postcode: "01237"
 city: Dresden
 street: "Lohrmannstraße"
 housenumber: 19

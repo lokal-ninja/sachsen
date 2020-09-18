@@ -3,10 +3,10 @@ type: node
 shop: Kiosk
 latitude: 51.3228863
 longitude: 12.3434197
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Könneritzstraße"
 housenumber: 57
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-12:00"
 website: ""

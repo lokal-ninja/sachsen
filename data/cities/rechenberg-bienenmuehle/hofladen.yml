@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.7482173
 longitude: 13.493736700000001
-postcode: 09623
+postcode: "09623"
 city: Rechenberg-Bienenmühle
 street: "Hauptstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.925513200000005
 longitude: 12.7126148
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Chemnitzer Straße"
 housenumber: 98 A

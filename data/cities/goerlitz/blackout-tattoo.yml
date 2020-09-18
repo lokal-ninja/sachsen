@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 51.14783370000001
 longitude: 14.991489600000001
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Sohrstraße"
 housenumber: 17

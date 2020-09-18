@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.23377300000001
 longitude: 13.6579882
-postcode: 01561
+postcode: "01561"
 city: Ebersbach
 street: "Hauptstraße"
 housenumber: 143

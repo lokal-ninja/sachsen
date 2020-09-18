@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1366024
 longitude: 12.792458300000002
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Grimmaische Straße"
 housenumber: 50

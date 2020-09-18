@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.360631000000005
 longitude: 12.6288438
-postcode: 04827
+postcode: "04827"
 city: Machern
 street: "Schloßplatz"
 housenumber: 11

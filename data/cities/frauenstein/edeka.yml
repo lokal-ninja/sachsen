@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.7960136
 longitude: 13.5430013
-postcode: 09623
+postcode: "09623"
 city: Frauenstein
 street: "Teplitzer Straße"
 housenumber: 40
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

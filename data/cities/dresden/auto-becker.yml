@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.0579752
 longitude: 13.712215200000001
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Vorwerkstraße"
 housenumber: 22

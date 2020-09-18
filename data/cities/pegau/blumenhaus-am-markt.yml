@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.166511
 longitude: 12.2546181
-postcode: 04523
+postcode: "04523"
 city: Pegau
 street: "Schlossergasse"
 housenumber: 1

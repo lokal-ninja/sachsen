@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0607504
 longitude: 13.6958035
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Bremer Straße"
 housenumber: 67

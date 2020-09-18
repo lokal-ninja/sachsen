@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.173335900000005
 longitude: 12.289540200000001
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Audigast"
 housenumber: 19A

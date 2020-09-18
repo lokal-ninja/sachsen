@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.0570863
 longitude: 13.298135700000001
-postcode: 01683
+postcode: "01683"
 city: Nossen
 street: "Markt"
 housenumber: 42

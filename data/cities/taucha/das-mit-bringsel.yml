@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.379952100000004
 longitude: 12.500700100000001
-postcode: 04425
+postcode: "04425"
 city: Taucha
 street: "Markt"
 housenumber: 10

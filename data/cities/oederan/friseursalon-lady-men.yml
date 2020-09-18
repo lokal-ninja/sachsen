@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.860857
 longitude: 13.1624455
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Chemnitzer Straße"
 housenumber: 39

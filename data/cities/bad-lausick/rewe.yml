@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.14065110000001
 longitude: 12.6542901
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
 street: "Silikastraße"
 housenumber: 1

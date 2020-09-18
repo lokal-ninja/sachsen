@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.6500009
 longitude: 13.163580300000001
-postcode: 09496
+postcode: "09496"
 city: Marienberg
 street: "Lorbeerstraße"
 housenumber: 1

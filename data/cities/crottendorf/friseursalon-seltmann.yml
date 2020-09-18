@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.5087355
 longitude: 12.936101200000001
-postcode: 09474
+postcode: "09474"
 city: Crottendorf
 street: "Annaberger Straße"
 housenumber: 64D

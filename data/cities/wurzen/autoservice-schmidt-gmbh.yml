@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.327814100000005
 longitude: 12.8073283
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "An der Feuerwehr"
 housenumber: 5

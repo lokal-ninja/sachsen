@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 50.7188254
 longitude: 12.490039000000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Georgenstraße"
 housenumber: 6
-phone: "+49 375 212020"
+phone: ""
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
-website: "https://elektro-mosebach.de/"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3118622
 longitude: 12.2810348
-postcode: 04209
+postcode: "04209"
 city: Leipzig
 street: "Kiewer Straße"
 housenumber: 1

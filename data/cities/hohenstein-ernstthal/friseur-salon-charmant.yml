@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8000826
 longitude: 12.7089013
-postcode: 09337
+postcode: "09337"
 city: Hohenstein-Ernstthal
 street: "Weinkellerstraße"
 housenumber: 28

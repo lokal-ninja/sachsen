@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0841463
 longitude: 13.726690000000001
-postcode: 01129
+postcode: "01129"
 city: Dresden
 street: "Trachenberger Straße"
 housenumber: 15a

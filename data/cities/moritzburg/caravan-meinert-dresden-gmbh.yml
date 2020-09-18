@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1289457
 longitude: 13.709379
-postcode: 01468
+postcode: "01468"
 city: Moritzburg
 street: "Am Weiher"
 housenumber: 4

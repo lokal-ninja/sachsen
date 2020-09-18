@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8221398
 longitude: 12.9601728
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 153b

@@ -1,12 +1,12 @@
 id: 6778230360
 type: node
 shop: Bäckerei
-latitude: 50.824511300000005
-longitude: 12.5425199
-postcode: 08371
+latitude: 50.8244732
+longitude: 12.542548100000001
+postcode: "08371"
 city: Glauchau
 street: "Hans-Lorenz-Straße"
 housenumber: 2
-phone: "03763 429101"
+phone: "+49 3763 429101"
 opening_hours: "Mo-Sa 6:30-18:00; PH off"
 website: "https://www.foerster-backwaren.de"

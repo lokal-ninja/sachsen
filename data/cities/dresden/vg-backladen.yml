@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.0545951
 longitude: 13.723676500000002
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Jahnstraße"
 housenumber: 5
 phone: ""
-opening_hours: "Mo 13:00-20:00; Tu-Fr 08:30-20:00; Sa 08:30-14:00"
+opening_hours: "Mo 09:00-20:00; Tu-Fr 08:30-20:00; Sa 08:30-14:00; PH off"
 website: "https://www.vg-dresden.de/dd-mitte.html"

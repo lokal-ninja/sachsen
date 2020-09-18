@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3719899
 longitude: 12.470708
-postcode: 08248
+postcode: "08248"
 city: Klingenthal
 street: "Auerbacher Straße"
 housenumber: 151

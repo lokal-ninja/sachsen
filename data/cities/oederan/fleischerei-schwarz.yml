@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.844363900000005
 longitude: 13.1619132
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Straße des Friedens"
 housenumber: 92

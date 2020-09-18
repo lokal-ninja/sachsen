@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.998397000000004
 longitude: 14.6333911
-postcode: 02739
+postcode: "02739"
 city: Kottmar
 street: "Weberstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.6571365
 longitude: 13.1571932
-postcode: 09496
+postcode: "09496"
 city: Marienberg
 street: "Am Abrahamschacht"
 housenumber: 1b

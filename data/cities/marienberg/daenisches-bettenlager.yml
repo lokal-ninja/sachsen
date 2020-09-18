@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6592835
 longitude: 13.152693000000001
-postcode: 09496
+postcode: "09496"
 city: Marienberg
 street: "Am Abrahamschacht"
 housenumber: 5

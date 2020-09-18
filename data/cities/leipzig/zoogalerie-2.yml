@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 51.325607100000006
 longitude: 12.436025800000001
-postcode: 04316
+postcode: "04316"
 city: Leipzig
 street: "Handwerkerhof"
 housenumber: 2

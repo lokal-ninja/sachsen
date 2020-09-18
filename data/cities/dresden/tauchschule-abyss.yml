@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 51.073720900000005
 longitude: 13.724324200000002
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Leipziger Straße"
 housenumber: 68

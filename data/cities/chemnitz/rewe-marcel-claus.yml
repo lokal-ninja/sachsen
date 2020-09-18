@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8389365
 longitude: 12.8989674
-postcode: 09113
+postcode: "09113"
 city: Chemnitz
 street: "Beyerstraße"
 housenumber: 1

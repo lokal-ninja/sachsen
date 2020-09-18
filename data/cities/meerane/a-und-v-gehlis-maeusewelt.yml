@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.848778700000004
 longitude: 12.4636323
-postcode: 08393
+postcode: "08393"
 city: Meerane
 street: "Innere Crimmitschauer Straße"
 housenumber: 11

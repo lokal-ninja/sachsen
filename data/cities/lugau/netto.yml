@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7345279
 longitude: 12.742473
-postcode: 09385
+postcode: "09385"
 city: Lugau
 street: "Flockenstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.313477500000005
 longitude: 13.287930200000002
-postcode: 01591
+postcode: "01591"
 city: Riesa
 street: "Heinrich-Schönberg-Straße"
 housenumber: 8

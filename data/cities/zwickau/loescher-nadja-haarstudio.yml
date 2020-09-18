@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7333906
 longitude: 12.5200022
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Salutstraße"
 housenumber: 1

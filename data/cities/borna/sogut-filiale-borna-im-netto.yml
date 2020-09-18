@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.1239082
 longitude: 12.492864500000001
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Sachsenallee"
 housenumber: 26

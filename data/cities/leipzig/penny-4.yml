@@ -1,12 +1,12 @@
-id: 3658926365
+id: 3105379034
 type: node
 shop: Supermarkt
-latitude: 51.3533125
-longitude: 12.4223607
-postcode: 04347
+latitude: 51.335315200000004
+longitude: 12.3060287
+postcode: "04179"
 city: Leipzig
-street: "Poserstraße"
-housenumber: 2
+street: "Bienerstraße"
+housenumber: 7
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

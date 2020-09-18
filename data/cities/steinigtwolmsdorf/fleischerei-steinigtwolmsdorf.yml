@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.065588600000005
 longitude: 14.3425986
-postcode: 01904
+postcode: "01904"
 city: Steinigtwolmsdorf
 street: "Neue Straße"
 housenumber: 1A

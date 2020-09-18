@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.2714991
 longitude: 12.3644434
-postcode: 04416
+postcode: "04416"
 city: Markkleeberg
 street: "Städtelner Straße"
 housenumber: 54

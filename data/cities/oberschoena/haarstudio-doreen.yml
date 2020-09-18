@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9585178
 longitude: 13.237063500000001
-postcode: 09600
+postcode: "09600"
 city: Oberschöna
 street: "Am Sportplatz"
 housenumber: 6

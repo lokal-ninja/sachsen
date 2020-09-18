@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.222347400000004
 longitude: 14.128817000000002
-postcode: 01920
+postcode: "01920"
 city: Elstra
 street: "Stadtring"
 housenumber: 14

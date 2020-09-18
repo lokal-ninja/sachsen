@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.367229900000005
 longitude: 12.3744028
-postcode: 04157
+postcode: "04157"
 city: Leipzig
 street: "Coppistraße"
 housenumber: 48

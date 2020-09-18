@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.3654541
 longitude: 12.7417683
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Dresdener Straße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.960224000000004
 longitude: 12.906048
-postcode: 09306
+postcode: "09306"
 city: Königshain-Wiederau
 street: "Dorfstraße"
 housenumber: 240

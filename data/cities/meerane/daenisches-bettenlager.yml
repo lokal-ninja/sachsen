@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.836544
 longitude: 12.447466
-postcode: 08393
+postcode: "08393"
 city: Meerane
 street: "Guteborner Allee"
 housenumber: 1a

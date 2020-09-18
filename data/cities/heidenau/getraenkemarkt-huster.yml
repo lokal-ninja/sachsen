@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.98231740000001
 longitude: 13.865082300000001
-postcode: 01809
+postcode: "01809"
 city: Heidenau
 street: "Dresdner Straße"
 housenumber: 60

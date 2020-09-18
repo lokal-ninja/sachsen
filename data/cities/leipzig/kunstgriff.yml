@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.3294033
 longitude: 12.373263600000001
-postcode: 04107
+postcode: "04107"
 city: Leipzig
 street: "Karl-Liebknecht-Straße"
 housenumber: 16

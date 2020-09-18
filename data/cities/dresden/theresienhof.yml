@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 51.06652690000001
 longitude: 13.745993400000001
-postcode: 01097
+postcode: "01097"
 city: Dresden
 street: "Stetzscher Straße"
 housenumber: 4

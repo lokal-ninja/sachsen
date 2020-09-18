@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.101942900000004
 longitude: 12.3292228
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Berndorf"
 housenumber: 42

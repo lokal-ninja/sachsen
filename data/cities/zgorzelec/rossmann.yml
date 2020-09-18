@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.1528562
 longitude: 15.0071097
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Tadeusza Kościuszki"
 housenumber: 34

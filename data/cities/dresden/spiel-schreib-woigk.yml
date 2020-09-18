@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.0635841
 longitude: 13.748740600000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Bautzner Straße"
 housenumber: 5

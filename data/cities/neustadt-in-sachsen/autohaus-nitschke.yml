@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0288952
 longitude: 14.198393000000001
-postcode: 01844
+postcode: "01844"
 city: Neustadt in Sachsen
 street: "Polenztalstraße"
 housenumber: 10

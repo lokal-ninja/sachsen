@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.301821800000006
 longitude: 12.3970269
-postcode: 04279
+postcode: "04279"
 city: Leipzig
 street: "Zwickauer Straße"
 housenumber: 125

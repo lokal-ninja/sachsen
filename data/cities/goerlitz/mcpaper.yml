@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.1508412
 longitude: 14.9834755
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Berliner Straße"
 housenumber: 57

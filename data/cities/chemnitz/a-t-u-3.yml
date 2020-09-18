@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.853964100000006
 longitude: 12.8838167
-postcode: 09114
+postcode: "09114"
 city: Chemnitz
 street: "Leipziger Straße"
 housenumber: 154

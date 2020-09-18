@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1686734
 longitude: 14.4396769
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Dr.-Peter-Jordan-Straße"
 housenumber: 45

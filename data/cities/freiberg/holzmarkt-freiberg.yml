@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.916597100000004
 longitude: 13.366272500000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Dresdner Straße"
 housenumber: 33

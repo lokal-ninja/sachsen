@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.645976100000006
 longitude: 12.969328500000001
-postcode: 09427
+postcode: "09427"
 city: Ehrenfriedersdorf
 street: "Markt"
 housenumber: 10

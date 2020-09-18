@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.045594400000006
 longitude: 13.812416
-postcode: 
+postcode: ""
 city: Dresden
 street: "Tolkewitzer Straße"
 housenumber: 38a

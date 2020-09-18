@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.7270242
 longitude: 12.4852194
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Crimmitschauer Straße"
 housenumber: 30

@@ -3,10 +3,10 @@ type: way
 shop: Kramladen
 latitude: 50.628835800000004
 longitude: 12.817870300000001
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Annaberger Straße"
 housenumber: 32
-phone: "+49 37754 335858"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.aktionshaus-wreesmann.de/"
+phone: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
+website: ""

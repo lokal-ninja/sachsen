@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0765631
 longitude: 13.7282098
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Bürgerstraße"
 housenumber: 8

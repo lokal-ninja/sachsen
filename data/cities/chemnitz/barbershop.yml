@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.832586500000005
 longitude: 12.903278400000001
-postcode: 09112
+postcode: "09112"
 city: Chemnitz
 street: "Weststraße"
 housenumber: 34

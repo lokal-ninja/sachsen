@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.095238300000005
 longitude: 14.665750300000001
-postcode: 02708
+postcode: "02708"
 city: Löbau
 street: ""
 housenumber: 

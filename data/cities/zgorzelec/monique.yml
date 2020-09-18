@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.14804
 longitude: 15.007565000000001
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Warszawska"
 housenumber: 16

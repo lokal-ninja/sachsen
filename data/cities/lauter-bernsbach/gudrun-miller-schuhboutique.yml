@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.5861102
 longitude: 12.755572
-postcode: 08315
+postcode: "08315"
 city: Lauter-Bernsbach
 street: "Auer Straße"
 housenumber: 37

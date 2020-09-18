@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.909747700000004
 longitude: 13.342264700000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Am Bahnhof"
 housenumber: 4

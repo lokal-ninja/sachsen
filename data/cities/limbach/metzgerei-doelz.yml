@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.5982971
 longitude: 12.262175500000001
-postcode: 08491
+postcode: "08491"
 city: Limbach
 street: "Plauener Straße"
 housenumber: 3

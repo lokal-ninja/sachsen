@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.818682800000005
 longitude: 13.100907300000001
-postcode: 09573
+postcode: "09573"
 city: Augustusburg
 street: "Frankenberger Straße"
 housenumber: 1

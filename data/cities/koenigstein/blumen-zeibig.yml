@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.91802920000001
 longitude: 14.0718422
-postcode: 01824
+postcode: "01824"
 city: Königstein
 street: "Goethestraße"
 housenumber: 12

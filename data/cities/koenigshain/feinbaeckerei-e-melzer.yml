@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.186658800000004
 longitude: 14.848274000000002
-postcode: 02829
+postcode: "02829"
 city: Königshain
 street: "Dorfstraße"
 housenumber: 155

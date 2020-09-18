@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 50.8732204
 longitude: 12.469394900000001
-postcode: 08393
+postcode: "08393"
 city: Schönberg
 street: "Hauptstraße"
 housenumber: 85

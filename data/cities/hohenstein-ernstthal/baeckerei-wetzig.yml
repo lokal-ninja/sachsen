@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.8009977
 longitude: 12.7220654
-postcode: 09337
+postcode: "09337"
 city: Hohenstein-Ernstthal
 street: "Karl-May-Straße"
 housenumber: 82

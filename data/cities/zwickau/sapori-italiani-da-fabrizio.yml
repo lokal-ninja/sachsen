@@ -3,10 +3,10 @@ type: node
 shop: Feinkost
 latitude: 50.717356800000005
 longitude: 12.496897500000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Hauptmarkt"
 housenumber: 2
-phone: "0375 / 2119132"
+phone: "+49 375 2119132"
 opening_hours: "Tu-Fr 10:30-18:30; Sa 10:00-16:00"
 website: ""

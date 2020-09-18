@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.1523149
 longitude: 14.986784600000002
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "An der Frauenkirche"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.5857418
 longitude: 12.6379994
-postcode: 08289
+postcode: "08289"
 city: Schneeberg
 street: "Gartenstraße"
 housenumber: 27

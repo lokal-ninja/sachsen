@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.57405910000001
 longitude: 12.774137000000001
-postcode: 08315
+postcode: "08315"
 city: Lauter-Bernsbach
 street: "Beierfelder Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.794432400000005
 longitude: 13.1682255
-postcode: 09573
+postcode: "09573"
 city: Leubsdorf
 street: "Borstendorfer Straße"
 housenumber: 27

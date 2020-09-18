@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.610437000000005
 longitude: 13.4354943
-postcode: 09548
+postcode: "09548"
 city: Deutschneudorf
 street: "Deutschkatharinenberg"
 housenumber: 5a

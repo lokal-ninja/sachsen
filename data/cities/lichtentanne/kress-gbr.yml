@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.650762300000004
 longitude: 12.435134900000001
-postcode: 08115
+postcode: "08115"
 city: Lichtentanne
 street: "Reichenbacher Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.871299400000005
 longitude: 13.322199900000001
-postcode: 09618
+postcode: "09618"
 city: Brand-Erbisdorf
 street: "Freiberger Straße"
 housenumber: 10

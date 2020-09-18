@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 50.714179800000004
 longitude: 12.481618500000002
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Reichenbacher Straße"
 housenumber: 53
-phone: "0375 - 2737572"
-opening_hours: "Mo-Su,PH 00:00-24:00"
+phone: "+49 375 2737572"
+opening_hours: "Mo-Su 00:00-24:00; PH 00:00-24:00"
 website: ""

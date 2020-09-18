@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.8316803
 longitude: 12.953262200000001
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Augustusburger Straße"
 housenumber: 187

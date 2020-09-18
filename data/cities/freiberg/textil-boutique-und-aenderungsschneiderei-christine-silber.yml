@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9095488
 longitude: 13.346690200000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Humboldtstraße"
 housenumber: 32

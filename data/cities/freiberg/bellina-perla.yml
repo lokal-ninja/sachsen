@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.9192709
 longitude: 13.341569900000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Burgstraße"
 housenumber: 40

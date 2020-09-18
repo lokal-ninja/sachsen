@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.413482800000004
 longitude: 12.3078648
-postcode: 04158
+postcode: "04158"
 city: Leipzig
 street: "Poststraße"
 housenumber: 3

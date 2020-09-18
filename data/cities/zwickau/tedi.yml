@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.707911300000006
 longitude: 12.5005158
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Oskar-Arnold-Straße"
 housenumber: 3-11

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.799959900000005
 longitude: 12.7297031
-postcode: 09337
+postcode: "09337"
 city: Hohenstein-Ernstthal
 street: "Heinrich-Heine-Straße"
 housenumber: 1

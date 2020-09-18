@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.819083400000004
 longitude: 12.3922626
-postcode: 08451
+postcode: "08451"
 city: Crimmitschau
 street: "Amselstraße"
 housenumber: 2

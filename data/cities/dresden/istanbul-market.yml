@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.06272370000001
 longitude: 13.753465400000001
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Bautzner Straße"
 housenumber: 24

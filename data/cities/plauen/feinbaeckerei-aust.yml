@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5145051
 longitude: 12.1205768
-postcode: 08525
+postcode: "08525"
 city: Plauen
 street: "Pausaer Straße"
 housenumber: 136

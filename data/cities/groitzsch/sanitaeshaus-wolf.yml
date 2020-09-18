@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.1537536
 longitude: 12.2865073
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Friedrich-Ebert-Straße"
 housenumber: 15

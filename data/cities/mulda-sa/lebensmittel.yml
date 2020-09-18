@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.8069295
 longitude: 13.419148400000001
-postcode: 09619
+postcode: "09619"
 city: Mulda/Sa.
 street: "Hauptstraße"
 housenumber: 41

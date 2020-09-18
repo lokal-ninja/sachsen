@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.2252195
 longitude: 12.331545100000001
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Leipziger Straße"
 housenumber: 104

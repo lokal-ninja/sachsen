@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9181083
 longitude: 12.7193015
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Kreisel"
 housenumber: 24

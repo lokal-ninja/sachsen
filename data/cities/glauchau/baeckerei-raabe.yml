@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.819865400000005
 longitude: 12.542553300000002
-postcode: 08371
+postcode: "08371"
 city: Glauchau
 street: "Leipziger Straße"
 housenumber: 86

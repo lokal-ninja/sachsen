@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 51.3397068
 longitude: 12.3787243
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Grimmaische Straße"
 housenumber: 25

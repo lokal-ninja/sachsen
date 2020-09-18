@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.284468800000006
 longitude: 12.4209259
-postcode: 04416
+postcode: "04416"
 city: Markkleeberg
 street: "Nordstraße"
 housenumber: 10

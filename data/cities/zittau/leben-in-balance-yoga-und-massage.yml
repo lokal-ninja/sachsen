@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.8986035
 longitude: 14.805467
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Poststraße"
 housenumber: 1

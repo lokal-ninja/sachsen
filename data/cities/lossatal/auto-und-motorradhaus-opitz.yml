@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.3807081
 longitude: 12.7772822
-postcode: 04808
+postcode: "04808"
 city: Lossatal
 street: "Lüptitzer Höhe"
 housenumber: 1

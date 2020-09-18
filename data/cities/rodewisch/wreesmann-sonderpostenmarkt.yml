@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.5377493
 longitude: 12.398736300000001
-postcode: 08228
+postcode: "08228"
 city: Rodewisch
 street: "Innere Lengenfelder Straße"
 housenumber: 1

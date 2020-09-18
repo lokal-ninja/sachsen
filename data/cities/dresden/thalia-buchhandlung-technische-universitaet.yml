@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.032689700000006
 longitude: 13.7257902
-postcode: 01069
+postcode: "01069"
 city: Dresden
 street: "Rugestraße"
 housenumber: 6-10

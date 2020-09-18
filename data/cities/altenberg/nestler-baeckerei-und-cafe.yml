@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7607973
 longitude: 13.786712900000001
-postcode: 01778
+postcode: "01778"
 city: Altenberg
 street: "Bahnhofplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.7003016
 longitude: 13.266064900000002
-postcode: 09509
+postcode: "09509"
 city: Pockau-Lengefeld
 street: "Auf der Heide"
 housenumber: 4

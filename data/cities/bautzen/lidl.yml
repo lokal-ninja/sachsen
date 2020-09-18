@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1693918
 longitude: 14.4265571
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Neusalzaer Straße"
 housenumber: 39a

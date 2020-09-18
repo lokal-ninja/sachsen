@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.5066247
 longitude: 12.812354800000001
-postcode: 04862
+postcode: "04862"
 city: Mockrehna
 street: "Reichsstraße"
 housenumber: 26
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.2335244
 longitude: 12.703781900000001
-postcode: 04668
+postcode: "04668"
 city: Grimma
 street: "Gerichtswiesen"
 housenumber: 

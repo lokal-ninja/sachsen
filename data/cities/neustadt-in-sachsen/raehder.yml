@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0232145
 longitude: 14.213705800000001
-postcode: 01844
+postcode: "01844"
 city: Neustadt in Sachsen
 street: "Bahnhofstraße"
 housenumber: 28

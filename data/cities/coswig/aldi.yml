@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.13246710000001
 longitude: 13.5843433
-postcode: 01640
+postcode: "01640"
 city: Coswig
 street: "Salzstraße"
 housenumber: 9

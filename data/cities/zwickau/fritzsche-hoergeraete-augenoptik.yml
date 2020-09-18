@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.720589000000004
 longitude: 12.4953962
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Marienstraße"
 housenumber: 70

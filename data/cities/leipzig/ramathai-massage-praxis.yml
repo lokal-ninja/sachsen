@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.341941500000004
 longitude: 12.358908900000001
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Jahnallee"
 housenumber: 31

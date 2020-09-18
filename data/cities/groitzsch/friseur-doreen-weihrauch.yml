@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.15646520000001
 longitude: 12.2813306
-postcode: 04539
+postcode: "04539"
 city: Groitzsch
 street: "Bahnhofstraße"
 housenumber: 1

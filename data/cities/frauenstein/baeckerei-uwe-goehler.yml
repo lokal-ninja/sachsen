@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.7928799
 longitude: 13.485352200000001
-postcode: 09623
+postcode: "09623"
 city: Frauenstein
 street: "Bergstraße"
 housenumber: 6

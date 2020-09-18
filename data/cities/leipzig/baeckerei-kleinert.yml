@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.330425600000005
 longitude: 12.314547600000001
-postcode: 04179
+postcode: "04179"
 city: Leipzig
 street: "Lützner Straße"
 housenumber: 192

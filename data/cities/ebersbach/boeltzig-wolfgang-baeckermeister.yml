@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.248155800000006
 longitude: 13.662117
-postcode: 01561
+postcode: "01561"
 city: Ebersbach
 street: "Hauptstraße"
 housenumber: 23

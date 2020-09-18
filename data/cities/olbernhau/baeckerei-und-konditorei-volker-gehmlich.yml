@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.6981297
 longitude: 13.352251
-postcode: 09526
+postcode: "09526"
 city: Olbernhau
 street: "Am Schloßberg"
 housenumber: 2

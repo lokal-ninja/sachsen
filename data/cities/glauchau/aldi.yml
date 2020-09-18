@@ -1,12 +1,12 @@
-id: 46578571
-type: way
+id: 5839157336
+type: node
 shop: Supermarkt
-latitude: 50.812617900000006
-longitude: 12.5410953
-postcode: 08371
+latitude: 50.819440900000004
+longitude: 12.514631600000001
+postcode: "08371"
 city: Glauchau
-street: "Goetheweg"
-housenumber: 30a
+street: "Grenayer Straße"
+housenumber: 10 c
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Fr 07:00 - 20:00; Sa 07:00 - 20:00; PH off"
 website: ""

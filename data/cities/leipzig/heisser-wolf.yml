@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3502543
 longitude: 12.4768773
-postcode: 04329
+postcode: "04329"
 city: Leipzig
 street: "Paunsdorfer Allee"
 housenumber: 1

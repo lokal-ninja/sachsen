@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1497831
 longitude: 15.007483200000001
-postcode: 59-900
+postcode: "59-900"
 city: Zgorzelec
 street: "Bohaterów Getta"
 housenumber: 2

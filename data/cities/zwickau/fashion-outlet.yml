@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7453171
 longitude: 12.4828399
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Schubertstraße"
 housenumber: 9

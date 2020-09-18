@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.721521100000004
 longitude: 12.436823500000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Friedrich-Staude-Straße"
 housenumber: 2

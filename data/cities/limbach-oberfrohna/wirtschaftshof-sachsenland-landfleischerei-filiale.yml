@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.862645300000004
 longitude: 12.760866100000001
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Kleines Dörfchen"
 housenumber: 5

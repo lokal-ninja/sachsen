@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.736370300000004
 longitude: 12.4725882
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Jahnstraße"
 housenumber: 1

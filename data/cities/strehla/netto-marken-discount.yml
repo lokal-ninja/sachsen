@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3498755
 longitude: 13.238923300000002
-postcode: 01616
+postcode: "01616"
 city: Strehla
 street: "An der alten Leimfabrik"
 housenumber: 1

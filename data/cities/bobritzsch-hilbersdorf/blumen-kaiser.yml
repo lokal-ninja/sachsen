@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.85036890000001
 longitude: 13.4796463
-postcode: 09627
+postcode: "09627"
 city: Bobritzsch-Hilbersdorf
 street: "Frauensteiner Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.550993000000005
 longitude: 14.714464000000001
-postcode: 02953
+postcode: "02953"
 city: Bad Muskau
 street: "Berliner Chaussee"
 housenumber: 10

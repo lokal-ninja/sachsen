@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6875969
 longitude: 12.5154622
-postcode: 08112
+postcode: "08112"
 city: Wilkau-Haßlau
 street: "Am Schmelzbach"
 housenumber: 81

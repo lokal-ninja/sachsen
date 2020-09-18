@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.058255200000005
 longitude: 12.583826400000001
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Am Wiesenweg"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 51.3085351
 longitude: 13.293632400000002
-postcode: 01587
+postcode: "01587"
 city: Riesa
 street: "Berliner Straße"
 housenumber: 31

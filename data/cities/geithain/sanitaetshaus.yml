@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.055605400000005
 longitude: 12.698919100000001
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Robert-Koch-Straße"
 housenumber: 8

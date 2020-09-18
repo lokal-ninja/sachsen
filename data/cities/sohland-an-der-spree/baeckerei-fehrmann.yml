@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0478491
 longitude: 14.4258202
-postcode: 02689
+postcode: "02689"
 city: Sohland an der Spree
 street: "Gerhart-Hauptmann-Straße"
 housenumber: 10

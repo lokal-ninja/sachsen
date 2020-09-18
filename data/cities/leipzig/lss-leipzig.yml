@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.33635090000001
 longitude: 12.400117300000002
-postcode: 04317
+postcode: "04317"
 city: Leipzig
 street: "Täubchenweg"
 housenumber: 45

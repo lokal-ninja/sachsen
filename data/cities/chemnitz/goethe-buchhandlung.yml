@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.835371
 longitude: 12.934320000000001
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Theodor-Körner-Platz"
 housenumber: 14

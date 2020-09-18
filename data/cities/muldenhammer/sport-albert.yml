@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.4354431
 longitude: 12.4614343
-postcode: 08262
+postcode: "08262"
 city: Muldenhammer
 street: "Klingenthaler Straße"
 housenumber: 22a

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.042722000000005
 longitude: 13.692668000000001
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Kesselsdorfer Straße"
 housenumber: 35A

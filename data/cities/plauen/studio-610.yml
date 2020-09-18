@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.501355700000005
 longitude: 12.1427017
-postcode: 08525
+postcode: "08525"
 city: Plauen
 street: "Rähnisstraße"
 housenumber: 50

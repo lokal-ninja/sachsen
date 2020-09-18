@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.1089361
 longitude: 12.4874478
-postcode: 04552
+postcode: "04552"
 city: Borna
 street: "Am Wilhelmschacht"
 housenumber: 34

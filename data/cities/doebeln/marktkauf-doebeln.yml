@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.117777000000004
 longitude: 13.146423400000002
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Richard-Köberlin-Straße"
 housenumber: 2

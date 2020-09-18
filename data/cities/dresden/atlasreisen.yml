@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.018945900000006
 longitude: 13.779723400000002
-postcode: 
+postcode: ""
 city: Dresden
 street: "Otto-Dix-Ring"
 housenumber: 61

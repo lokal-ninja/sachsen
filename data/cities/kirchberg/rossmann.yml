@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.619820700000005
 longitude: 12.51084
-postcode: 08107
+postcode: "08107"
 city: Kirchberg
 street: "Lengenfelder Straße"
 housenumber: 41

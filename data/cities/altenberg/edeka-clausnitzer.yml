@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.767197200000005
 longitude: 13.756260800000002
-postcode: 01773
+postcode: "01773"
 city: Altenberg
 street: "Hirschsprunger Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.522413900000004
 longitude: 12.3403331
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Bismarckstraße"
 housenumber: 17 c

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.765483800000005
 longitude: 13.545455
-postcode: 09623
+postcode: "09623"
 city: Frauenstein
 street: "Schäfergutstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.965460300000004
 longitude: 13.2770998
-postcode: 09603
+postcode: "09603"
 city: Großschirma
 street: "B 101"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.048801600000004
 longitude: 13.721914600000002
-postcode: 01067
+postcode: "01067"
 city: Dresden
 street: "Freiberger Straße"
 housenumber: 37

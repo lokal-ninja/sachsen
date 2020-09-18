@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.1408872
 longitude: 14.8005858
-postcode: 02894
+postcode: "02894"
 city: Reichenbach/O.L.
 street: "Markt"
 housenumber: 25

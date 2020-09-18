@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.146840100000006
 longitude: 12.6356119
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
 street: "An den Angerwiesen"
 housenumber: 1

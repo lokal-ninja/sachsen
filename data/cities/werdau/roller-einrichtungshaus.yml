@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.7109607
 longitude: 12.414029600000001
-postcode: 08412
+postcode: "08412"
 city: Werdau
 street: "Stiftstraße"
 housenumber: 6-8

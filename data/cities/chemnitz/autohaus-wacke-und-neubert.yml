@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8333079
 longitude: 12.8785363
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
 street: "Wechselburger Straße"
 housenumber: 1

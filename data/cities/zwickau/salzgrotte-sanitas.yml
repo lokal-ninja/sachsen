@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.738362200000005
 longitude: 12.4893891
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Leipziger Straße"
 housenumber: 133

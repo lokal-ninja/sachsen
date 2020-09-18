@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.6987953
 longitude: 12.4863674
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Geinitzstraße"
 housenumber: 18

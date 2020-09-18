@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.8227003
 longitude: 12.959568200000001
-postcode: 09127
+postcode: "09127"
 city: Chemnitz
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 153

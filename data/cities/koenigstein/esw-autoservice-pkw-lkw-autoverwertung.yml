@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9165026
 longitude: 14.0288038
-postcode: 01824
+postcode: "01824"
 city: Königstein
 street: "Königsteiner Straße"
 housenumber: 46

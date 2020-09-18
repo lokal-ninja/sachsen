@@ -1,12 +1,12 @@
 id: 7077973487
 type: node
 shop: Bäckerei
-latitude: 50.9085875
-longitude: 12.764877
-postcode: 09241
+latitude: 50.9085084
+longitude: 12.764872500000001
+postcode: "09241"
 city: Mühlau
 street: "Untere Hauptstraße"
 housenumber: 68
 phone: ""
-opening_hours: "Tu-Th 07:00-15:00; Fr 07:00-16:00; Sa 07:00-11:00; Mo,Su,PH off"
+opening_hours: "Tu-Th 07:00-15:00; Fr 07:00-16:00; Sa 07:00-11:00; PH,Mo,Su off"
 website: ""

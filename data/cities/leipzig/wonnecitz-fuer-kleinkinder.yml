@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.310526700000004
 longitude: 12.3735347
-postcode: 04277
+postcode: "04277"
 city: Leipzig
 street: "Karl-Liebknecht-Straße"
 housenumber: 165

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.1629653
 longitude: 13.4885774
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Fabrikstraße"
 housenumber: 18

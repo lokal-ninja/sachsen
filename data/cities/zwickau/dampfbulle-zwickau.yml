@@ -3,10 +3,10 @@ type: node
 shop: E-Zigaretten
 latitude: 50.721781500000006
 longitude: 12.4963405
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Dr.-Friedrichs-Ring"
 housenumber: 51
-phone: "0375 21485836"
+phone: "+49 375 21485836"
 opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-15:30"
 website: "http://www.dampfbulle.de/news/reader/id/1/t/E-Zigaretten-Dampfbulle-in-Altenburg-Gera-Jena-Zwickau--NEU-Stralsund"

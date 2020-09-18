@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0061162
 longitude: 13.796702900000001
-postcode: 01239
+postcode: "01239"
 city: Dresden
 street: "Jacob-Winter-Platz"
 housenumber: 13

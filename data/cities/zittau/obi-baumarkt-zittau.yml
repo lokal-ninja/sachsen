@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.904423200000004
 longitude: 14.7716963
-postcode: 02763
+postcode: "02763"
 city: Zittau
 street: "Hainewalder Straße"
 housenumber: 2

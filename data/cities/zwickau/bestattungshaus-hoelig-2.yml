@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.7215545
 longitude: 12.4398701
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Karl-Keil-Straße"
 housenumber: 27

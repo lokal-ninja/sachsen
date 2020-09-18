@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.581302900000004
 longitude: 12.994166600000002
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Hammerweg"
 housenumber: 2

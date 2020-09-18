@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 50.718321700000004
 longitude: 12.494825400000002
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Innere Plauensche Straße"
 housenumber: 7

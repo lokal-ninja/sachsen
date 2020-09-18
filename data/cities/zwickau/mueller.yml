@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.7189166
 longitude: 12.4934256
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Innere Plauensche Straße"
 housenumber: 16

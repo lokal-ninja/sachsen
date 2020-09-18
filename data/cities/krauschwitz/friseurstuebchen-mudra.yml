@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.5099462
 longitude: 14.757113200000001
-postcode: 02957
+postcode: "02957"
 city: Krauschwitz
 street: "Neudorfer Straße"
 housenumber: 24

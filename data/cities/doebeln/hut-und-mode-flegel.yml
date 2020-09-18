@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.121752400000005
 longitude: 13.1212026
-postcode: 04720
+postcode: "04720"
 city: Döbeln
 street: "Stadthausstraße"
 housenumber: 1

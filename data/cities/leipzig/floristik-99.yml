@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.3502005
 longitude: 12.4773084
-postcode: 04329
+postcode: "04329"
 city: Leipzig
 street: "Paunsdorfer Allee"
 housenumber: 1

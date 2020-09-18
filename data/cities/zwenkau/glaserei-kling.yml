@@ -3,7 +3,7 @@ type: way
 shop: Glaserei
 latitude: 51.2013812
 longitude: 12.3222822
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
 street: "Coburger Straße"
 housenumber: 2

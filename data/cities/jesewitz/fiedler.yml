@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4166814
 longitude: 12.563998100000001
-postcode: 04838
+postcode: "04838"
 city: Jesewitz
 street: "Bötzener Straße"
 housenumber: 2

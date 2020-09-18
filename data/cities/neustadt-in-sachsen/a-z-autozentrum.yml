@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.020585200000006
 longitude: 14.221070500000002
-postcode: 01844
+postcode: "01844"
 city: Neustadt in Sachsen
 street: "Rugiswalder Weg"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.8599149
 longitude: 13.181258600000001
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Richard-Rentsch-Straße"
 housenumber: 27

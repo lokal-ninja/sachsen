@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.72131520000001
 longitude: 12.454126700000002
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Jacobstraße"
 housenumber: 27

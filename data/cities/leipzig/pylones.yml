@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.342019
 longitude: 12.378215
-postcode: 04109
+postcode: "04109"
 city: Leipzig
 street: "Nikolaistraße"
 housenumber: 28-32

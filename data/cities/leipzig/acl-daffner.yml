@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3275184
 longitude: 12.3082834
-postcode: 04179
+postcode: "04179"
 city: Leipzig
 street: "Lützner Straße"
 housenumber: 175

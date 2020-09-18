@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7190468
 longitude: 12.4955142
-postcode: 08056
+postcode: "08056"
 city: Zwickau
 street: "Marienstraße"
 housenumber: 22-24

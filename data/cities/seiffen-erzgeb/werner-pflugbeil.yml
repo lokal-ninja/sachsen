@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.649350000000005
 longitude: 13.437594
-postcode: 09548
+postcode: "09548"
 city: Seiffen/Erzgeb.
 street: "Wettinhöhe"
 housenumber: 4

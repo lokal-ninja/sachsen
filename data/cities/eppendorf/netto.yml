@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7989599
 longitude: 13.2255911
-postcode: 09575
+postcode: "09575"
 city: Eppendorf
 street: "Bahnhofstraße"
 housenumber: 1

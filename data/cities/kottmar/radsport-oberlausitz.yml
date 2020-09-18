@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.992419600000005
 longitude: 14.6479282
-postcode: 02739
+postcode: "02739"
 city: Kottmar
 street: "Hauptstraße"
 housenumber: 214

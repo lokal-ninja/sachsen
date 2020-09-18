@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.575773500000004
 longitude: 12.7735535
-postcode: 08315
+postcode: "08315"
 city: Lauter-Bernsbach
 street: "Beierfelder Straße"
 housenumber: 3

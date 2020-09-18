@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0443031
 longitude: 13.780978300000001
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Borsbergstraße"
 housenumber: 35

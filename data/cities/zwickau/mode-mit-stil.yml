@@ -3,10 +3,10 @@ type: node
 shop: Modehaus
 latitude: 50.6770228
 longitude: 12.476471
-postcode: 08064
+postcode: "08064"
 city: Zwickau
 street: "Hermannstraße"
 housenumber: 6
-phone: "0375-783030"
+phone: "+49 375 783030"
 opening_hours: ""
 website: "https://www.mode-mit-stil.de"

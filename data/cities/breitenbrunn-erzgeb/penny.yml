@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.4780772
 longitude: 12.7439449
-postcode: 08359
+postcode: "08359"
 city: Breitenbrunn/Erzgeb.
 street: "Talstraße"
 housenumber: 117

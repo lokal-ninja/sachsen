@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.187544900000006
 longitude: 14.0153423
-postcode: 01896
+postcode: "01896"
 city: Pulsnitz
 street: "Kamenzer Straße"
 housenumber: 6a

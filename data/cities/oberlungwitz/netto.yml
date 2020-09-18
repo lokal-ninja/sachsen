@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.78474730000001
 longitude: 12.719373000000001
-postcode: 09353
+postcode: "09353"
 city: Oberlungwitz
 street: "Hofer Straße"
 housenumber: 24a

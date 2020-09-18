@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.84251810000001
 longitude: 14.742122700000001
-postcode: 02797
+postcode: "02797"
 city: Oybin
 street: "Hauptstraße"
 housenumber: 11

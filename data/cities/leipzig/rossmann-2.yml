@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3488976
 longitude: 12.310614300000001
-postcode: 04179
+postcode: "04179"
 city: Leipzig
 street: "Georg-Schwarz-Straße"
 housenumber: 139

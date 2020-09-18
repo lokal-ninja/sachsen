@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3651987
 longitude: 12.740259100000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Dresdener Straße"
 housenumber: 36

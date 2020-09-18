@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.839690600000004
 longitude: 12.9502907
-postcode: 09130
+postcode: "09130"
 city: Chemnitz
 street: "Heinrich-Schütz-Straße"
 housenumber: 66

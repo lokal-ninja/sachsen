@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0246652
 longitude: 14.2316923
-postcode: 01844
+postcode: "01844"
 city: Neustadt in Sachsen
 street: "Sebnitzer Straße"
 housenumber: 41

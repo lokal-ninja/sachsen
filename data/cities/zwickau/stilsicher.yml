@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.735650500000006
 longitude: 12.528957700000001
-postcode: 08066
+postcode: "08066"
 city: Zwickau
 street: "Karl-Marx-Straße"
 housenumber: 10a

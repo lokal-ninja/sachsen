@@ -1,12 +1,12 @@
-id: 115787013
+id: 82614494
 type: way
 shop: Supermarkt
-latitude: 51.377985100000004
-longitude: 12.416244500000001
-postcode: 04357
+latitude: 51.306958300000005
+longitude: 12.2591956
+postcode: "04207"
 city: Leipzig
-street: "Tauchaer Straße"
-housenumber: 10
+street: "Straße am See"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

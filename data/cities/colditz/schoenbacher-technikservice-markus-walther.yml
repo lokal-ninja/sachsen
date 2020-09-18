@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.147320400000005
 longitude: 12.7548641
-postcode: 04680
+postcode: "04680"
 city: Colditz
 street: "Bad Lausicker Straße"
 housenumber: 65a

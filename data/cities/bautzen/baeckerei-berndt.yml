@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1802628
 longitude: 14.427865800000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Kornmarkt"
 housenumber: 20

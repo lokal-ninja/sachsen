@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9659155
 longitude: 13.808659400000002
-postcode: 01809
+postcode: "01809"
 city: Dohna
 street: "Am Landgut"
 housenumber: 1

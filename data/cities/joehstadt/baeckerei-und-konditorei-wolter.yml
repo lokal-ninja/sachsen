@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.51406050000001
 longitude: 13.0893122
-postcode: 09477
+postcode: "09477"
 city: Jöhstadt
 street: "Markt"
 housenumber: 184

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.3310259
 longitude: 12.374261500000001
-postcode: 04107
+postcode: "04107"
 city: Leipzig
 street: "Riemannstraße"
 housenumber: 29

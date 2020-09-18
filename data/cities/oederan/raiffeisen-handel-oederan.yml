@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.8560359
 longitude: 13.172973
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Eppendorfer Straße"
 housenumber: 2

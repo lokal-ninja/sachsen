@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.655383400000005
 longitude: 13.0720436
-postcode: 09429
+postcode: "09429"
 city: Wolkenstein
 street: "Marienberger Straße"
 housenumber: 33

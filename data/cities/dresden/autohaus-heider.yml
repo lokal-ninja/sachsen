@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.092893700000005
 longitude: 13.6737116
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Spitzhausstraße"
 housenumber: 71

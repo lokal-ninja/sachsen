@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.4188422
 longitude: 12.9712899
-postcode: 09484
+postcode: "09484"
 city: Kurort Oberwiesenthal
 street: "Markt"
 housenumber: 13

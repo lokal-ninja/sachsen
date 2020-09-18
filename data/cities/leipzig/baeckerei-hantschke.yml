@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3672684
 longitude: 12.404735400000002
-postcode: 04357
+postcode: "04357"
 city: Leipzig
 street: "Mockauer Straße"
 housenumber: 

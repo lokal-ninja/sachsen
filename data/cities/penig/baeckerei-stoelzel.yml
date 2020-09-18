@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9221238
 longitude: 12.715064900000002
-postcode: 09322
+postcode: "09322"
 city: Penig
 street: "Chemnitzer Straße"
 housenumber: 102

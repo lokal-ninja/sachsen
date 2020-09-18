@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.696262700000005
 longitude: 12.460768700000001
-postcode: 08062
+postcode: "08062"
 city: Zwickau
 street: "Marchlewskistraße"
 housenumber: 1

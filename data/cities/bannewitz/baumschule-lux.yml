@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.997230900000005
 longitude: 13.7197124
-postcode: 01728
+postcode: "01728"
 city: Bannewitz
 street: "Boderitzer Straße"
 housenumber: 7

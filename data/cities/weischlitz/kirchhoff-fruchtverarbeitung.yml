@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 50.4265862
 longitude: 12.036267500000001
-postcode: 08538
+postcode: "08538"
 city: Weischlitz
 street: "Schäfereiweg"
 housenumber: 1A

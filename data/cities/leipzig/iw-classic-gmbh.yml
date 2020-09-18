@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.3287229
 longitude: 12.4174542
-postcode: 04299
+postcode: "04299"
 city: Leipzig
 street: "Oststraße"
 housenumber: 118

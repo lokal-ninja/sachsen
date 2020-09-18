@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0562357
 longitude: 12.6825851
-postcode: 04643
+postcode: "04643"
 city: Geithain
 street: "Niedergräfenhainer Weg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1084006
 longitude: 14.656026400000002
-postcode: 02708
+postcode: "02708"
 city: Löbau
 street: "Weststraße"
 housenumber: 1

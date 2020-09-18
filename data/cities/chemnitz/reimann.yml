@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.811635200000005
 longitude: 12.841272700000001
-postcode: 09117
+postcode: "09117"
 city: Chemnitz
 street: "Jagdschänkenstraße"
 housenumber: 34/36

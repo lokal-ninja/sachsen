@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9250039
 longitude: 14.132635400000002
-postcode: 01814
+postcode: "01814"
 city: Rathmannsdorf
 street: "Am Ring"
 housenumber: 2

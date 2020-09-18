@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.7455234
 longitude: 12.4859177
-postcode: 08058
+postcode: "08058"
 city: Zwickau
 street: "Schubertstraße"
 housenumber: 1

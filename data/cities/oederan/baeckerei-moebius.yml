@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8561641
 longitude: 13.175699900000001
-postcode: 09569
+postcode: "09569"
 city: Oederan
 street: "Eppendorfer Straße"
 housenumber: 9 A

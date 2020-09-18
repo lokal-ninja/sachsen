@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1812459
 longitude: 14.4264021
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Reichenstraße"
 housenumber: 17

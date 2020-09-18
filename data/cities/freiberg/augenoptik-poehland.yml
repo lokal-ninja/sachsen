@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.916438600000006
 longitude: 13.344699
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Erbische Straße"
 housenumber: 12

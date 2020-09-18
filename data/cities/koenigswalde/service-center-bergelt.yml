@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 50.5423939
 longitude: 13.049599
-postcode: 09471
+postcode: "09471"
 city: Königswalde
 street: "August-Bebel-Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.6781275
 longitude: 12.509617100000002
-postcode: 08112
+postcode: "08112"
 city: Wilkau-Haßlau
 street: "Zwickauer Straße"
 housenumber: 33

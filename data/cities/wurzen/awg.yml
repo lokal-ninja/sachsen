@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.381982
 longitude: 12.7372908
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Collmener Straße"
 housenumber: 6

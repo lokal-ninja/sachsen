@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 50.8755134
 longitude: 12.871510200000001
-postcode: 09228
+postcode: "09228"
 city: Chemnitz
 street: "Chemnitzer Straße"
 housenumber: 55

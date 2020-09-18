@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.050961900000004
 longitude: 13.776592200000001
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Dürerstraße"
 housenumber: 117

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2020891
 longitude: 12.3851508
-postcode: 04564
+postcode: "04564"
 city: Böhlen
 street: "Karl-Bartelmann-Straße"
 housenumber: 1

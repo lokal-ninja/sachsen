@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.095534400000005
 longitude: 14.3884752
-postcode: 02681
+postcode: "02681"
 city: Wilthen
 street: "Bahnhofstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.9860363
 longitude: 12.9788188
-postcode: 09648
+postcode: "09648"
 city: Mittweida
 street: "Rochlitzer Straße"
 housenumber: 17

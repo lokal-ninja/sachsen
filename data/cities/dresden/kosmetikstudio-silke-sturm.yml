@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 51.0695854
 longitude: 13.661927
-postcode: 01157
+postcode: "01157"
 city: Dresden
 street: "Lindenplatz"
 housenumber: 2

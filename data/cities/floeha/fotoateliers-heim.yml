@@ -1,12 +1,12 @@
 id: 148920192
 type: way
 shop: Foto
-latitude: 50.8567252
-longitude: 13.0716403
-postcode: 09557
+latitude: 50.856747500000004
+longitude: 13.071699200000001
+postcode: "09557"
 city: Flöha
 street: "Bahnhofstraße"
 housenumber: 1
-phone: "+49 3726 784770"
-opening_hours: "Mo,Tu,Th 10:00-18:00; Fr 10:00-15:00 || open nach Vereinbarung"
+phone: ""
+opening_hours: "open nach Vereinbarung"
 website: "www.fotoateliers-heim.de"

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.097208200000004
 longitude: 14.334865500000001
-postcode: 01904
+postcode: "01904"
 city: Neukirch/Lausitz
 street: "Oststraße"
 housenumber: 29

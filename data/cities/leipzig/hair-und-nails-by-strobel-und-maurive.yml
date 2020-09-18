@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.348948400000005
 longitude: 12.3101459
-postcode: 04179
+postcode: "04179"
 city: Leipzig
 street: "Georg-Schwarz-Straße"
 housenumber: 139

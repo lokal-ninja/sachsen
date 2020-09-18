@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.568960100000005
 longitude: 12.3655518
-postcode: 08485
+postcode: "08485"
 city: Lengenfeld
 street: "Poststraße"
 housenumber: 7

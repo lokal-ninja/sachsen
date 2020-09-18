@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.158202700000004
 longitude: 14.983536200000001
-postcode: 02826
+postcode: "02826"
 city: Görlitz
 street: "Pontestraße"
 housenumber: 10

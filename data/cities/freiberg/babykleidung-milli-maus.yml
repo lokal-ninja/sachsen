@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9143198
 longitude: 13.3472734
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Poststraße"
 housenumber: 22

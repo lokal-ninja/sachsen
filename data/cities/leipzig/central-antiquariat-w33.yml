@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.338883300000006
 longitude: 12.327246800000001
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Georg-Schwarz-Straße"
 housenumber: 12

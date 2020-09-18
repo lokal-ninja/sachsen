@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.145380700000004
 longitude: 14.161667000000001
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Geißmannsdorfer Straße"
 housenumber: 38

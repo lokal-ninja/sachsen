@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 51.369035100000005
 longitude: 12.734903800000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Wenceslaigasse"
 housenumber: 2

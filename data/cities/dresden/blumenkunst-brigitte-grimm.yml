@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.073373600000004
 longitude: 13.695257400000001
-postcode: 01139
+postcode: "01139"
 city: Dresden
 street: "Scharfenberger Straße"
 housenumber: 37

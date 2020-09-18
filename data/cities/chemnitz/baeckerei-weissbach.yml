@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8789129
 longitude: 12.864538300000001
-postcode: 09228
+postcode: "09228"
 city: Chemnitz
 street: "Obere Hauptstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.349011600000004
 longitude: 14.113861400000001
-postcode: 01920
+postcode: "01920"
 city: Oßling
 street: "Am Teichhaus"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.569183800000005
 longitude: 12.3658049
-postcode: 08485
+postcode: "08485"
 city: Lengenfeld
 street: "Poststraße"
 housenumber: 3

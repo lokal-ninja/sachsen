@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 50.5774054
 longitude: 12.998938500000001
-postcode: 09456
+postcode: "09456"
 city: Annaberg-Buchholz
 street: "Bahnhofsplatz"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

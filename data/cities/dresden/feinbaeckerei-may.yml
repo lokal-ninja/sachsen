@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0411732
 longitude: 13.721608600000001
-postcode: 01069
+postcode: "01069"
 city: Dresden
 street: "Schweizer Straße"
 housenumber: 2

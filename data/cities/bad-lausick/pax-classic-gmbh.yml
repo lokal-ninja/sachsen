@@ -3,7 +3,7 @@ type: way
 shop: Glaserei
 latitude: 51.1477556
 longitude: 12.632860500000001
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
 street: "An den Angerwiesen"
 housenumber: 12

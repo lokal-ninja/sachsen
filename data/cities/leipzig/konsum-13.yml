@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.313399000000004
 longitude: 12.4551709
-postcode: 04288
+postcode: "04288"
 city: Leipzig
 street: "Kärrnerstraße"
 housenumber: 

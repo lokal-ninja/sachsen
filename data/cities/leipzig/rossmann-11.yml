@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.300471300000005
 longitude: 12.3973618
-postcode: 04279
+postcode: "04279"
 city: Leipzig
 street: "Zwickauer Straße"
 housenumber: 127

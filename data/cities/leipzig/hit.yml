@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.31896750000001
 longitude: 12.399555300000001
-postcode: 04103
+postcode: "04103"
 city: Leipzig
 street: "Straße des 18. Oktober"
 housenumber: 44

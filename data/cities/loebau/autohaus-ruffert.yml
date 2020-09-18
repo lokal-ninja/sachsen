@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.107192600000005
 longitude: 14.6554192
-postcode: 02708
+postcode: "02708"
 city: Löbau
 street: "Weststraße"
 housenumber: 2

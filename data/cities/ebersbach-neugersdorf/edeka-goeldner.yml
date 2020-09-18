@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9790356
 longitude: 14.606831900000001
-postcode: 02727
+postcode: "02727"
 city: Ebersbach-Neugersdorf
 street: "Fröbelstraße"
 housenumber: 3

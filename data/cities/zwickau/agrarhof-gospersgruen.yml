@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7189026
 longitude: 12.453975600000001
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Marienthaler Straße"
 housenumber: 137

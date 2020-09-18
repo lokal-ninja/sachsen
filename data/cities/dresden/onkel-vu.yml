@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.0266821
 longitude: 13.835702900000001
-postcode: 01279
+postcode: "01279"
 city: Dresden
 street: "Österreicher Straße"
 housenumber: 30a

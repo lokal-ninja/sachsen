@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.8018725
 longitude: 13.5389865
-postcode: 09623
+postcode: "09623"
 city: Frauenstein
 street: "Markt"
 housenumber: 7

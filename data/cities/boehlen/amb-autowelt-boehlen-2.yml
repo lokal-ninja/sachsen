@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.1978984
 longitude: 12.396141400000001
-postcode: 04564
+postcode: "04564"
 city: Böhlen
 street: "Röthaer Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.608789300000005
 longitude: 13.124480700000001
-postcode: 04886
+postcode: "04886"
 city: Beilrode
 street: "Züllsdorfer Straße"
 housenumber: 13

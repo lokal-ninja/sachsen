@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.0745937
 longitude: 13.7231559
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Leipziger Straße"
 housenumber: 80

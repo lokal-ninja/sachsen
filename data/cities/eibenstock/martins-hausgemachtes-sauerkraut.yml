@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.4493074
 longitude: 12.631138400000001
-postcode: 08309
+postcode: "08309"
 city: Eibenstock
 street: "Alte Poststraße"
 housenumber: 20

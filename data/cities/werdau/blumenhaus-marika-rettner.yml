@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.7129568
 longitude: 12.3930074
-postcode: 08412
+postcode: "08412"
 city: Werdau
 street: "Zum Steinpleiser Bahnhof"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.137213700000004
 longitude: 14.1835391
-postcode: 01877
+postcode: "01877"
 city: Bischofswerda
 street: "Carl-Maria-von-Weber-Straße"
 housenumber: 1

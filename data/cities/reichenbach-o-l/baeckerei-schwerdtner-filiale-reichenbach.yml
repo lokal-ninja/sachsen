@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.140806000000005
 longitude: 14.7992068
-postcode: 02894
+postcode: "02894"
 city: Reichenbach/O.L.
 street: "Löbauer Straße"
 housenumber: 3

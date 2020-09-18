@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.0164862
 longitude: 14.746141000000001
-postcode: 02747
+postcode: "02747"
 city: Herrnhut
 street: "Comeniusstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.615304200000004
 longitude: 12.726806000000002
-postcode: 08294
+postcode: "08294"
 city: Lößnitz
 street: "Rudolf-Weber-Straße"
 housenumber: 83A

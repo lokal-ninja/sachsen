@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0655384
 longitude: 13.1753947
-postcode: 04741
+postcode: "04741"
 city: Roßwein
 street: "Döbelner Straße"
 housenumber: 71

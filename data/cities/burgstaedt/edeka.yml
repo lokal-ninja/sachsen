@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.913017100000005
 longitude: 12.807992
-postcode: 09217
+postcode: "09217"
 city: Burgstädt
 street: "Beethovenstraße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

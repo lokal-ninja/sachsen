@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0458069
 longitude: 13.770445500000001
-postcode: 01307
+postcode: "01307"
 city: Dresden
 street: "Fetscherstraße"
 housenumber: 25

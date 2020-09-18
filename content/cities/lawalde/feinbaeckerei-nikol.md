@@ -1,0 +1,4 @@
+---
+title: "Feinbäckerei Nikol"
+url: /lawalde/feinbaeckerei-nikol/
+---

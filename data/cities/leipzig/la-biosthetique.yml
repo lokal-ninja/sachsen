@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.344407200000006
 longitude: 12.3612284
-postcode: 04105
+postcode: "04105"
 city: Leipzig
 street: "Tschaikowskistraße"
 housenumber: 14

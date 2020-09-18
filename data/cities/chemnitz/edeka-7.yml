@@ -1,12 +1,12 @@
-id: 148322901
+id: 127396249
 type: way
 shop: Supermarkt
-latitude: 50.8197835
-longitude: 12.9358845
-postcode: 09126
+latitude: 50.840470800000006
+longitude: 12.9238795
+postcode: "09111"
 city: Chemnitz
-street: "Bernsdorfer Straße"
-housenumber: 55
+street: "Georgstraße"
+housenumber: 11
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Su 07:00-20:00"
+website: "https://www.edeka.de"

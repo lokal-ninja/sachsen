@@ -3,7 +3,7 @@ type: way
 shop: Klempner
 latitude: 50.8553177
 longitude: 12.742662900000001
-postcode: 09212
+postcode: "09212"
 city: Limbach-Oberfrohna
 street: "Waldenburger Straße"
 housenumber: 15

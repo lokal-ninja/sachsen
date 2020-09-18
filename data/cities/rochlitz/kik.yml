@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.047803300000005
 longitude: 12.79847
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
 street: "Poststraße"
 housenumber: 3

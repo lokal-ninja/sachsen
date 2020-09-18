@@ -3,7 +3,7 @@ type: node
 shop: Staubsauger
 latitude: 51.046331800000004
 longitude: 13.707145
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Wernerstraße"
 housenumber: 1

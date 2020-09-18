@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.6954408
 longitude: 12.471311700000001
-postcode: 08062
+postcode: "08062"
 city: Zwickau
 street: "Christianstraße"
 housenumber: 1

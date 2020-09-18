@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.0463475
 longitude: 13.7700121
-postcode: 01307
+postcode: "01307"
 city: Dresden
 street: "Nicolaistraße"
 housenumber: 22

@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 51.165386000000005
 longitude: 14.428769800000001
-postcode: 02625
+postcode: "02625"
 city: Bautzen
 street: "Neusalzaer Straße"
 housenumber: 53
-phone: "+49 3591 31280"
+phone: ""
 opening_hours: ""
-website: "https://de-de.facebook.com/AutohausHolhlfeld"
+website: ""

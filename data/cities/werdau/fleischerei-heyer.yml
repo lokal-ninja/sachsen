@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.730567900000004
 longitude: 12.375390000000001
-postcode: 08412
+postcode: "08412"
 city: Werdau
 street: "Plauensche Straße"
 housenumber: 4

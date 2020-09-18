@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3336753
 longitude: 12.606156100000002
-postcode: 04821
+postcode: "04821"
 city: Brandis
 street: "Beuchaer Straße"
 housenumber: 15

@@ -1,12 +1,12 @@
-id: 4498961470
+id: 307505214
 type: node
 shop: Bäckerei
-latitude: 51.028562
-longitude: 13.8202881
-postcode: 01279
+latitude: 51.049451000000005
+longitude: 13.794194000000001
+postcode: "01309"
 city: Dresden
-street: "Schulze-Delitzsch-Straße"
-housenumber: 36
+street: "Hüblerplatz"
+housenumber: 
 phone: ""
-opening_hours: "Sep-Apr: Mo-Fr 07:00-11:30, Sep-Apr: Sa 07:00-10:30"
+opening_hours: ""
 website: ""

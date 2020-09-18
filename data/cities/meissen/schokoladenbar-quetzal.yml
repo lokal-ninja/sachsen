@@ -1,12 +1,12 @@
 id: 6770391793
 type: node
 shop: Schokolade
-latitude: 51.164016200000006
-longitude: 13.470254
-postcode: 01662
+latitude: 51.163965700000006
+longitude: 13.470239000000001
+postcode: "01662"
 city: Meißen
 street: "Burgstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://quetzalschokoladenbar.de/"

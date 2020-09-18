@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.37380520000001
 longitude: 12.736678900000001
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Dr.-Külz-Straße"
 housenumber: 1

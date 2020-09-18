@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0364457
 longitude: 13.7881344
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Heynahtsstraße"
 housenumber: 3

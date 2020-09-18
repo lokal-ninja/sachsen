@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.1831254
 longitude: 14.676886600000001
-postcode: 02627
+postcode: "02627"
 city: Weißenberg - Wóspork
 street: "Maltitz"
 housenumber: 27

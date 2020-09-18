@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.0446505
 longitude: 13.7792569
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Borsbergstraße"
 housenumber: 31

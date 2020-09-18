@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.264527
 longitude: 13.9045903
-postcode: 01936
+postcode: "01936"
 city: Königsbrück
 street: "Curt-Tausch-Straße"
 housenumber: 8

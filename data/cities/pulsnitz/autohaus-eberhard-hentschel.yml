@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1872048
 longitude: 14.0147545
-postcode: 01896
+postcode: "01896"
 city: Pulsnitz
 street: "Kamenzer Straße"
 housenumber: 9

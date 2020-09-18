@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.402632000000004
 longitude: 13.433806700000002
-postcode: 01609
+postcode: "01609"
 city: Gröditz
 street: "Gewerbering"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.580696800000005
 longitude: 13.046667800000002
-postcode: 04886
+postcode: "04886"
 city: Beilrode
 street: "Herzberger Straße"
 housenumber: 14

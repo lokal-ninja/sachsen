@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 51.565378800000005
 longitude: 12.9985353
-postcode: 04860
+postcode: "04860"
 city: Torgau
 street: "Döbernsche Straße"
-housenumber: 2a
+housenumber: 2
 phone: ""
 opening_hours: ""
 website: ""

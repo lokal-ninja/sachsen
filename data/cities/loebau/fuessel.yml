@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0970821
 longitude: 14.666688
-postcode: 02708
+postcode: "02708"
 city: Löbau
 street: "Promenadenring"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.575230700000006
 longitude: 11.990131400000001
-postcode: 07952
+postcode: "07952"
 city: Pausa-Mühltroff
 street: "Ranspacher Straße"
 housenumber: 1

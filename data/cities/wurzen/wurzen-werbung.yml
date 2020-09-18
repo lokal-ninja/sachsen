@@ -3,7 +3,7 @@ type: way
 shop: Leerstehend
 latitude: 51.367153200000004
 longitude: 12.7346012
-postcode: 04808
+postcode: "04808"
 city: Wurzen
 street: "Wenceslaigasse"
 housenumber: 40

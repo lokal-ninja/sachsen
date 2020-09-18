@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 51.084769200000004
 longitude: 13.739314
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Bärnsdorfer Straße"
 housenumber: 179

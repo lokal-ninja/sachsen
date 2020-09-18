@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.856774300000005
 longitude: 13.103024000000001
-postcode: 09557
+postcode: "09557"
 city: Flöha
 street: "Zum Gewerbegebiet"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.0956917
 longitude: 14.4234229
-postcode: 02681
+postcode: "02681"
 city: Schirgiswalde-Kirschau
 street: "Wilthener Straße"
 housenumber: 1

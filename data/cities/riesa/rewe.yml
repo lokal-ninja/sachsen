@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.318251100000005
 longitude: 13.262243900000001
-postcode: 01591
+postcode: "01591"
 city: Riesa
 street: "Merzdorfer Straße"
 housenumber: 22

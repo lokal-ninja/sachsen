@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8007137
 longitude: 12.7104453
-postcode: 09337
+postcode: "09337"
 city: Hohenstein-Ernstthal
 street: "Schulstraße"
 housenumber: 11

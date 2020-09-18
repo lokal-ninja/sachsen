@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1479652
 longitude: 14.9496648
-postcode: 02827
+postcode: "02827"
 city: Görlitz
 street: "Reichenbacher Straße"
 housenumber: 53 - 55

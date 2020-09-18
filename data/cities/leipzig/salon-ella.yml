@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 51.3092574
 longitude: 12.396645000000001
-postcode: 04277
+postcode: "04277"
 city: Leipzig
 street: "Zwickauer Straße"
 housenumber: 71
 phone: "+49 341 26377208"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; PH off"
 website: ""

@@ -1,4 +1,4 @@
 ---
-title: "PitStop"
+title: "pitstop"
 url: /dresden/pitstop/
 ---

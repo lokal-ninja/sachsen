@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.585324400000005
 longitude: 12.5951854
-postcode: 04849
+postcode: "04849"
 city: Bad Düben
 street: "Körbitzweg"
 housenumber: 1

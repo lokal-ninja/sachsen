@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3371216
 longitude: 12.6111672
-postcode: 04821
+postcode: "04821"
 city: Brandis
 street: "Wurzener Straße"
 housenumber: 1

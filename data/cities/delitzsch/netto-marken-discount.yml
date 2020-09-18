@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5324254
 longitude: 12.324592500000001
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
 street: "Securiusstraße"
 housenumber: 33a

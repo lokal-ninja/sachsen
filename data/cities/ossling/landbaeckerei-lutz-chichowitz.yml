@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.357091000000004
 longitude: 14.141032000000001
-postcode: 01920
+postcode: "01920"
 city: Oßling
 street: "Hauptstraße"
 housenumber: 

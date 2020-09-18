@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.5189615
 longitude: 12.386513800000001
-postcode: 08228
+postcode: "08228"
 city: Rodewisch
 street: "Zur Sternkoppel"
 housenumber: 3

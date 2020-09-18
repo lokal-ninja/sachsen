@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7816546
 longitude: 12.7023018
-postcode: 09353
+postcode: "09353"
 city: Oberlungwitz
 street: "Stollberger Straße"
 housenumber: 1

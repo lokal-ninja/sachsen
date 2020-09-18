@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9174882
 longitude: 14.7141269
-postcode: 02779
+postcode: "02779"
 city: Hainewalde
 street: "Talstraße"
 housenumber: 92

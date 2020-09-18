@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.043587200000005
 longitude: 13.702093000000001
-postcode: 01159
+postcode: "01159"
 city: Dresden
 street: "Gröbelstraße"
 housenumber: 14

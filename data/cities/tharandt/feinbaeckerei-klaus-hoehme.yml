@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9821114
 longitude: 13.5484006
-postcode: 01737
+postcode: "01737"
 city: Tharandt
 street: "Talmühlenstraße"
 housenumber: 19

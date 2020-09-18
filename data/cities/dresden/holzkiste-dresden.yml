@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0655215
 longitude: 13.756722300000002
-postcode: 01099
+postcode: "01099"
 city: Dresden
 street: "Louisenstraße"
 housenumber: 70b

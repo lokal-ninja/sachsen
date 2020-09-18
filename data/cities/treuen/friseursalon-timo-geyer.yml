@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.543390200000005
 longitude: 12.2933447
-postcode: 08233
+postcode: "08233"
 city: Treuen
 street: "Albrecht-Bühring-Straße"
 housenumber: 3

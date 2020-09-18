@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 50.758223
 longitude: 13.0508901
-postcode: 09405
+postcode: "09405"
 city: Gornau
 street: "Am Einkaufszentrum"
 housenumber: 1

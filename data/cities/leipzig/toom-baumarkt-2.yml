@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.345112300000004
 longitude: 12.477192500000001
-postcode: 04319
+postcode: "04319"
 city: Leipzig
 street: "Riesaer Straße"
 housenumber: 102

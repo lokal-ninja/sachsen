@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 50.6945634
 longitude: 12.4674829
-postcode: 08062
+postcode: "08062"
 city: Zwickau
 street: "Ernst-Grube-Straße"
 housenumber: 49

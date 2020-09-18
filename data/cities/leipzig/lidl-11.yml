@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3380871
 longitude: 12.3226647
-postcode: 04177
+postcode: "04177"
 city: Leipzig
 street: "Hauschildstraße"
 housenumber: 1

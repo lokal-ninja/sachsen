@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.171790400000006
 longitude: 14.967954700000002
-postcode: 02828
+postcode: "02828"
 city: Görlitz
 street: "Nieskyer Straße"
 housenumber: 905

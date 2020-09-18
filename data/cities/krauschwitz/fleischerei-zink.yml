@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.5166704
 longitude: 14.7612304
-postcode: 02957
+postcode: "02957"
 city: Krauschwitz
 street: "Skerbersdorfer Straße"
 housenumber: 56

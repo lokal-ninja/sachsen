@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.3283536
 longitude: 12.4041493
-postcode: 04317
+postcode: "04317"
 city: Leipzig
 street: "Riebeckstraße"
 housenumber: 29

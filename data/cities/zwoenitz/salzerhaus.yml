@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 50.6192142
 longitude: 12.8010511
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
 street: "Thomas-Müntzer-Straße"
 housenumber: 40

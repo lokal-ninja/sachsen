@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.151119
 longitude: 14.246192500000001
-postcode: 01877
+postcode: "01877"
 city: Demitz-Thumitz
 street: "Am Gewerbepark"
 housenumber: 1

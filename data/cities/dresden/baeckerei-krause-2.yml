@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.012032000000005
 longitude: 13.826382
-postcode: 01257
+postcode: "01257"
 city: Dresden
 street: "Pirnaer Landstraße"
 housenumber: 125

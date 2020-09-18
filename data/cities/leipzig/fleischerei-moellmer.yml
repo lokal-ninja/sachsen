@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3733117
 longitude: 12.4107775
-postcode: 04357
+postcode: "04357"
 city: Leipzig
 street: "Oberläuterstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.811943400000004
 longitude: 13.191997800000001
-postcode: 09573
+postcode: "09573"
 city: Leubsdorf
 street: "Tannmühle"
 housenumber: 2

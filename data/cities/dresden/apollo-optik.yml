@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.0522457
 longitude: 13.806338100000001
-postcode: 01309
+postcode: "01309"
 city: Dresden
 street: "Naumannstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9681653
 longitude: 13.9331045
-postcode: 01796
+postcode: "01796"
 city: Pirna
 street: "Rudolf-Renner-Straße"
 housenumber: 10

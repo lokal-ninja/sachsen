@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0510534
 longitude: 13.8187364
-postcode: 01326
+postcode: "01326"
 city: Dresden
 street: "Pillnitzer Landstraße"
 housenumber: 34a

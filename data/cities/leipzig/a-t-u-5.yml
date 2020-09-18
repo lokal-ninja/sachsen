@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.309338600000004
 longitude: 12.3275473
-postcode: 04249
+postcode: "04249"
 city: Leipzig
 street: "Dieskaustraße"
 housenumber: 131

@@ -3,10 +3,10 @@ type: node
 shop: Reifen
 latitude: 51.015743
 longitude: 13.669561700000001
-postcode: 01705
+postcode: "01705"
 city: Freital
 street: "Dresdner Straße"
 housenumber: 3
 phone: "+49 351 6492194"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa off nach Vereinbarung; Su,PH off"
+opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa off nach Vereinbarung; PH,Su off"
 website: "https://reifenhaus-freital.de/"

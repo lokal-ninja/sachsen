@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3599887
 longitude: 12.283655600000001
-postcode: 04178
+postcode: "04178"
 city: Leipzig
 street: "Pestalozzistraße"
 housenumber: 72

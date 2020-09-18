@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.075206200000004
 longitude: 13.723252800000001
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Oschatzer Straße"
 housenumber: 5

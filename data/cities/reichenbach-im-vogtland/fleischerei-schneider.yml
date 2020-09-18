@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.622469900000006
 longitude: 12.3028109
-postcode: 08468
+postcode: "08468"
 city: Reichenbach im Vogtland
 street: "Zenkergasse"
 housenumber: 3

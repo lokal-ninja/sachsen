@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4125017
 longitude: 13.446195600000001
-postcode: 01609
+postcode: "01609"
 city: Gröditz
 street: "Marktstraße"
 housenumber: 18

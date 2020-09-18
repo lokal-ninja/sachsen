@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.809049800000004
 longitude: 13.362009400000002
-postcode: 09619
+postcode: "09619"
 city: Mulda/Sa.
 street: "Helbigsdorf"
 housenumber: 72

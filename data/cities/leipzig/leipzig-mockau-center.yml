@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.375821
 longitude: 12.4119202
-postcode: 04357
+postcode: "04357"
 city: Leipzig
 street: "Mockauer Straße"
 housenumber: 123

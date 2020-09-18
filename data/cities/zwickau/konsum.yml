@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7204294
 longitude: 12.4597996
-postcode: 08060
+postcode: "08060"
 city: Zwickau
 street: "Julius-Seifert-Straße"
 housenumber: 18a

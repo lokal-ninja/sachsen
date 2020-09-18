@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.32448290000001
 longitude: 12.343917000000001
-postcode: 04229
+postcode: "04229"
 city: Leipzig
 street: "Könneritzstraße"
 housenumber: 46

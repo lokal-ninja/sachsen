@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.1587577
 longitude: 13.469861300000002
-postcode: 01662
+postcode: "01662"
 city: Meißen
 street: "Wettinstraße"
 housenumber: 3

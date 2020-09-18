@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.082737
 longitude: 13.727967900000001
-postcode: 01127
+postcode: "01127"
 city: Dresden
 street: "Großenhainer Straße"
 housenumber: 119a

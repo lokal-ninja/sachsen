@@ -3,9 +3,9 @@ type: way
 shop: Supermarkt
 latitude: 50.6160427
 longitude: 12.2444994
-postcode: 08491
+postcode: "08491"
 city: Netzschkau
-street: "Schlossstraße"
+street: "Schloßstraße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

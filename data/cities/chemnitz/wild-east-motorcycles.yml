@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.807133900000004
 longitude: 12.908685700000001
-postcode: 09120
+postcode: "09120"
 city: Chemnitz
 street: "Paul-Gruner-Straße"
 housenumber: 68

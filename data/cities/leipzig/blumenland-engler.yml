@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.328750400000004
 longitude: 12.2521362
-postcode: 04205
+postcode: "04205"
 city: Leipzig
 street: "Geschwister-Scholl-Straße"
 housenumber: 45

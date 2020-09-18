@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0566327
 longitude: 12.560541200000001
-postcode: 04654
+postcode: "04654"
 city: Frohburg
 street: "Markt"
 housenumber: 11

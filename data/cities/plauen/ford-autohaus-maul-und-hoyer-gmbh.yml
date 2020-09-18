@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.4917073
 longitude: 12.0890339
-postcode: 08527
+postcode: "08527"
 city: Plauen
 street: "Rittergut"
 housenumber: 1

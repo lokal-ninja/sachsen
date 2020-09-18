@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.916470100000005
 longitude: 13.3428623
-postcode: 09599
+postcode: "09599"
 city: Freiberg
 street: "Obermarkt"
 housenumber: 6

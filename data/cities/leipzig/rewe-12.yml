@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.30901660000001
 longitude: 12.266861200000001
-postcode: 04207
+postcode: "04207"
 city: Leipzig
 street: "An der Kotsche"
 housenumber: 9

@@ -1,6 +1,6 @@
 ---
 title: Lunzenau
 url: /lunzenau/
-latitude: 50.9618042
-longitude: 12.756488000000001
+latitude: 50.9618156
+longitude: 12.7558573
 ---

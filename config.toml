@@ -1,4 +1,4 @@
-baseURL = "https://lokal.ninja/sachsen"
+baseURL = "https://de.shoogle.net/sachsen"
 languageCode = "de-DE"
 title = "Sachsen"
 theme = "ln-base"
@@ -10,6 +10,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   section = ["HTML", "JSON"]
 
 [params]
-  site = "Lokal Ninja"
+  site = "Shoogle"
   org = "lokal-ninja"
   repo = "sachsen"

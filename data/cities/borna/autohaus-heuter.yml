@@ -1,12 +1,12 @@
-id: 34375835
-type: way
+id: 394850400
+type: node
 shop: Autohaus
-latitude: 51.1528805
-longitude: 12.5069742
+latitude: 51.1163358
+longitude: 12.485103800000001
 postcode: "04552"
 city: Borna
-street: "Gewerbegebiet Eula West"
-housenumber: 2
-phone: "+49 3433 88880"
-opening_hours: ""
-website: "https://www.autohaus-heuter.de/"
+street: "Am Wilhelmschacht"
+housenumber: 15
+phone: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 08:.00-12:30; Su,PH off"
+website: ""

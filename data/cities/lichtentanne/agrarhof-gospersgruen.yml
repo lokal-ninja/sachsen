@@ -1,12 +1,12 @@
 id: 1127604616
 type: node
 shop: Metzgerei
-latitude: 50.696431800000006
-longitude: 12.422919
+latitude: 50.6964327
+longitude: 12.422899200000002
 postcode: "08115"
 city: Lichtentanne
 street: "Hauptstraße"
 housenumber: 18
 phone: ""
-opening_hours: "Tu,Th,Fr 07:00-17:00, Mo,We 07:00-13:00, Sa 07:00-11:00"
+opening_hours: "Mo,We 07:00-13:00; Tu,Th,Fr 07:00-17:00; Sa,Su,PH off"
 website: ""

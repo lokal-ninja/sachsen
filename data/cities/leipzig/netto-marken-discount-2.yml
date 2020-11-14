@@ -1,12 +1,12 @@
-id: 24309731
-type: way
+id: 412416511
+type: node
 shop: Supermarkt
-latitude: 51.318307600000004
-longitude: 12.3409761
-postcode: "04229"
+latitude: 51.342558100000005
+longitude: 12.408183200000002
+postcode: "04315"
 city: Leipzig
-street: "Rödelstraße"
-housenumber: 31
+street: "Dornbergerstraße"
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
 website: ""

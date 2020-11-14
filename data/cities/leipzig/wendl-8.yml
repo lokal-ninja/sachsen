@@ -1,12 +1,12 @@
-id: 6754101626
+id: 6283060849
 type: node
 shop: Bäckerei
-latitude: 51.300171000000006
-longitude: 12.4323528
-postcode: "04289"
+latitude: 51.359142500000004
+longitude: 12.293152500000001
+postcode: "04178"
 city: Leipzig
-street: "Franzosenallee"
-housenumber: 6c
-phone: ""
-opening_hours: ""
-website: ""
+street: "Leipziger Straße"
+housenumber: 65
+phone: "+49 341 35115726"
+opening_hours: "Mo-Su 07:00-18:00; Sa 07:00-14:00"
+website: "https://www.brotagonist.de"

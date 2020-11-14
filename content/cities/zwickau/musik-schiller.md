@@ -1,4 +1,4 @@
 ---
-title: "Musik Schiller"
+title: "Musik-Schiller"
 url: /zwickau/musik-schiller/
 ---

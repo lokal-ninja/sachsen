@@ -1,12 +1,12 @@
-id: 1933875331
+id: 877182196
 type: node
 shop: Supermarkt
-latitude: 51.3433847
-longitude: 12.376166300000001
-postcode: "04109"
+latitude: 51.352284600000004
+longitude: 12.4232566
+postcode: "04347"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
-phone: "+49 341 12457162"
-opening_hours: "Mo-Sa 09:00-21:00"
+street: "Volksgartenstraße"
+housenumber: 55
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: "https://www.edeka.de/"

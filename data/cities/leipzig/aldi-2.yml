@@ -1,12 +1,12 @@
-id: 345278421
+id: 412416510
 type: node
 shop: Supermarkt
-latitude: 51.3570068
-longitude: 12.4267172
-postcode: "04347"
+latitude: 51.3450581
+longitude: 12.4046572
+postcode: "04315"
 city: Leipzig
-street: "Löbauer Straße"
-housenumber: 68-70
+street: "Konradstraße"
+housenumber: 27
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
 website: ""

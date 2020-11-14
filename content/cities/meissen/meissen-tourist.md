@@ -1,4 +1,4 @@
 ---
-title: "Meissen Tourist"
+title: "Meissen-Tourist"
 url: /meissen/meissen-tourist/
 ---

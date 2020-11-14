@@ -1,4 +1,4 @@
 ---
-title: "flying tiger copenhagen"
+title: "Flying Tiger Copenhagen"
 url: /leipzig/flying-tiger-copenhagen/
 ---

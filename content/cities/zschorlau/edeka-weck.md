@@ -1,4 +1,4 @@
 ---
-title: "EDEKA Weck"
+title: "Edeka Weck"
 url: /zschorlau/edeka-weck/
 ---

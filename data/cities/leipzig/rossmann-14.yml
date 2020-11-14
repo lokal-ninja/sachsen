@@ -1,12 +1,12 @@
-id: 256420525
-type: way
+id: 8044331637
+type: node
 shop: Drogerie
-latitude: 51.348222400000004
-longitude: 12.267979200000001
-postcode: "04178"
+latitude: 51.3528104
+longitude: 12.4227798
+postcode: "04347"
 city: Leipzig
-street: "Miltitzer Straße"
-housenumber: 13
+street: "Permoserstraße"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

@@ -1,4 +1,4 @@
 ---
-title: "Mercedes Benz"
+title: "Mercedes-Benz"
 url: /leipzig/mercedes-benz/
 ---

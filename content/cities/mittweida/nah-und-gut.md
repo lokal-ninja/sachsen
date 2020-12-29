@@ -1,4 +1,4 @@
 ---
-title: "Nah & Gut"
+title: "nah und gut"
 url: /mittweida/nah-und-gut/
 ---

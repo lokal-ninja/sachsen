@@ -1,12 +1,12 @@
-id: 6458412860
+id: 3357957846
 type: node
 shop: Drogerie
-latitude: 51.0320096
-longitude: 13.726083000000001
-postcode: "01187"
+latitude: 51.051562000000004
+longitude: 13.8056576
+postcode: "01309"
 city: Dresden
-street: "Nürnberger Platz"
-housenumber: 1
-phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+street: "Hüblerstraße"
+housenumber: 11
+phone: "+49 351 28708770"
+opening_hours: "Mo-Fr 08:30-20:00, Sa 08:30-18:00"
+website: "https://www.dm.de/"

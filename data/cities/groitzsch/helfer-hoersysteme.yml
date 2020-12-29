@@ -8,5 +8,5 @@ city: Groitzsch
 street: "Breitstraße"
 housenumber: 14
 phone: ""
-opening_hours: "Mo-Tu 09:00-15:00; We 09:00-18:00; Th 09:00-15:00; Fr,Sa,Su,PH off"
+opening_hours: "Mo,Tu,Th 09:00-15:00; We 09:00-18:00; Fr,Sa,Su,PH off"
 website: ""

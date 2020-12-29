@@ -1,12 +1,12 @@
-id: 31961870
+id: 31584473
 type: way
 shop: Supermarkt
-latitude: 51.349536900000004
-longitude: 12.373758200000001
-postcode: "04105"
+latitude: 51.28320840000001
+longitude: 12.3114793
+postcode: "04249"
 city: Leipzig
-street: "Nordstraße"
-housenumber: 41
+street: "Dieskaustraße"
+housenumber: 365
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: ""
 website: "http://www.konsum-leipzig.de/"

@@ -1,12 +1,12 @@
 id: 6696553085
 type: node
-shop: Supermarkt
+shop: Lebensmittel
 latitude: 50.8985897
 longitude: 14.805486700000001
 postcode: "02763"
 city: Zittau
 street: "Poststraße"
 housenumber: 1
-phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: ""
+phone: "+49 152 53493282"
+opening_hours: "Mo 10:00-18:00; Tu-Th 10:00-15:00; Fr 10:00-17:00; Sa 09:00-12:00"
+website: "https://aurelie-zittau.de/"

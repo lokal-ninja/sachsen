@@ -1,4 +1,4 @@
 ---
-title: "TEDi"
+title: "Tedi"
 url: /zwickau/tedi-3/
 ---

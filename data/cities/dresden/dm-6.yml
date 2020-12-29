@@ -1,12 +1,12 @@
-id: 391939219
-type: way
+id: 6815467057
+type: node
 shop: Drogerie
-latitude: 51.043371
-longitude: 13.7034678
-postcode: "01159"
+latitude: 51.0505197
+longitude: 13.7332295
+postcode: "01067"
 city: Dresden
-street: "Kesselsdorfer Straße"
-housenumber: 1
+street: "Wallstraße"
+housenumber: 2a
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: "Mo-Th 09:00-20:00; Fr,Sa 09:00-21:00; Su,PH off"
 website: ""

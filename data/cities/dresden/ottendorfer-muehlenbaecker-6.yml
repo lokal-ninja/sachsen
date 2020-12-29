@@ -1,12 +1,12 @@
-id: 4125207264
-type: node
+id: 226023762
+type: way
 shop: Bäckerei
-latitude: 51.062975300000005
-longitude: 13.756033
-postcode: "01099"
+latitude: 51.0903879
+longitude: 13.7231169
+postcode: "01129"
 city: Dresden
-street: "Holzhofgasse"
-housenumber: 1
-phone: ""
-opening_hours: "Mo-Sa 06:30-18:00, Su 07:00-18:00"
-website: ""
+street: "Großenhainer Straße"
+housenumber: 156
+phone: "+49 351 81 12 97 83"
+opening_hours: "Mo-Fr 06:30-19:00; Sa-Su 7:00-18:00"
+website: "https://muehlenbaecker.de"

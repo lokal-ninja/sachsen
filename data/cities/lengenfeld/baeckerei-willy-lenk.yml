@@ -1,12 +1,12 @@
-id: 1377200302
-type: node
+id: 686305128
+type: way
 shop: Bäckerei
-latitude: 50.569183800000005
-longitude: 12.3658049
+latitude: 50.5683074
+longitude: 12.3647515
 postcode: "08485"
 city: Lengenfeld
 street: "Poststraße"
-housenumber: 3
+housenumber: 13
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 05:30-18:00; Sa 5:30–11:00"
+website: "https://www.baeckerei-lenk.de/"

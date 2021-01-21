@@ -3,7 +3,7 @@ languageCode = "de-DE"
 title = "Sachsen"
 theme = "ln-base"
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "robotsTXT"]
 enableGitInfo = true
 
 [outputs]
@@ -14,3 +14,7 @@ enableGitInfo = true
   site = "Shoogle"
   org = "lokal-ninja"
   repo = "sachsen"
+
+[taxonomies]
+  shop = "shops"
+

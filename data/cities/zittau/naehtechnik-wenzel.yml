@@ -1,6 +1,5 @@
 id: 8197663838
 type: node
-shop: Nähzubehör
 latitude: 50.896819900000004
 longitude: 14.808192900000002
 postcode: "02763"
@@ -8,5 +7,5 @@ city: Zittau
 street: "Brüderstraße"
 housenumber: 5
 phone: "+49 3583 510857"
-opening_hours: "Mo-Mi 10:00-13:00, Mo-Mi 13:30-18:00"
+opening_hours: "Mo-We 10:00-13:00, Mo-We 13:30-18:00"
 website: ""

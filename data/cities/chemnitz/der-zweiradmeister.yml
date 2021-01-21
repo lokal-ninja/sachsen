@@ -1,6 +1,5 @@
 id: 6328439827
 type: node
-shop: Fahrrad
 latitude: 50.831706700000005
 longitude: 12.953142600000001
 postcode: "09127"
@@ -8,5 +7,5 @@ city: Chemnitz
 street: "Augustusburger Straße"
 housenumber: 187
 phone: ""
-opening_hours: "Mar-Oct Mo-Fr 10:00-12:00 13:00-19:00, Sa 9:00-13:00, We off; Nov-Feb Mo-Fr 10:00-12:00 13:00-18:00, Sa 9:00-13:00, We off"
+opening_hours: "Mar-Oct Mo-Fr 10:00-12:00,13:00-19:00, Sa 09:00-13:00, We off; Nov-Feb Mo-Fr 10:00-12:00,13:00-18:00, Sa 09:00-13:00, We off"
 website: ""

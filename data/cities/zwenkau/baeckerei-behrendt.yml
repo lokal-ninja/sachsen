@@ -1,6 +1,5 @@
 id: 1183994781
 type: node
-shop: Bäckerei
 latitude: 51.218110300000006
 longitude: 12.332104500000002
 postcode: "04442"
@@ -8,5 +7,5 @@ city: Zwenkau
 street: "Lomlerstraße"
 housenumber: 11
 phone: "+49 34203 52715"
-opening_hours: "Tu-Fr 06:30-18:00; Sa 06:30-11:00; Su,Mo off"
+opening_hours: "Tu-Fr 06:30-17:00; Sa 06:30-11:00; Su,Mo off"
 website: ""

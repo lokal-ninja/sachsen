@@ -1,6 +1,5 @@
 id: 6916647255
 type: node
-shop: Metzgerei
 latitude: 51.478024700000006
 longitude: 12.9061371
 postcode: ""
@@ -8,5 +7,5 @@ city: Mockrehna
 street: "Am Heidelbach"
 housenumber: 16
 phone: ""
-opening_hours: "Th,Fr 09:00–13:00,14:00–18:00; Mo,Tu,We,Sa,Su,PH off"
+opening_hours: "Th,Fr 09:00-13:00,14:00-18:00; Mo,Tu,We,Sa,Su,PH off"
 website: ""

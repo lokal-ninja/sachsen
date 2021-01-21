@@ -1,6 +1,5 @@
 id: 1303653387
 type: node
-shop: Wäscherei
 latitude: 51.3234088
 longitude: 12.413393500000002
 postcode: "04299"
@@ -8,5 +7,5 @@ city: Leipzig
 street: "Schönbachstraße"
 housenumber: 
 phone: ""
-opening_hours: "Mo,Tu,We,Fr 07:30-18:00; Sa 09:00-12:00"
+opening_hours: "Mo-Fr 07:30-18:00"
 website: ""

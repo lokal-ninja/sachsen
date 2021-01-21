@@ -1,6 +1,5 @@
 id: 6864766416
 type: node
-shop: Bäckerei
 latitude: 51.017543700000004
 longitude: 14.9350128
 postcode: "02899"
@@ -8,5 +7,5 @@ city: Ostritz
 street: "Bahnhofstraße"
 housenumber: 30
 phone: ""
-opening_hours: "Tu-Fr 07:00–12:00,14:30–17:00; Sa 06:30-11:30; Mo,Su,PH off"
+opening_hours: "Tu-Fr 07:00-12:00,14:30-17:00; Sa 06:30-11:30; Mo,Su,PH off"
 website: ""

@@ -1,6 +1,5 @@
 id: 7633684936
 type: node
-shop: Allgemein
 latitude: 50.85309710000001
 longitude: 12.447022200000001
 postcode: "08393"
@@ -8,5 +7,5 @@ city: Meerane
 street: "Schwanefelder Straße"
 housenumber: 22
 phone: ""
-opening_hours: "Mo-Sa 09.00-18.00"
+opening_hours: "Mo-Sa 09:00-18:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 6190984600
 type: node
-shop: Schuhe
 latitude: 51.164393100000005
 longitude: 13.470166800000001
 postcode: "01662"
@@ -8,5 +7,5 @@ city: Meißen
 street: "Burgstraße"
 housenumber: 10
 phone: "+49 3521 476630"
-opening_hours: "Mo-Fr 10:00–18:30; Sa 10:00–16:00; So closed"
+opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su closed"
 website: ""

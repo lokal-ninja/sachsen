@@ -1,12 +1,11 @@
-id: 54685262
+id: 40803219
 type: way
-shop: Supermarkt
-latitude: 51.3683263
-longitude: 12.4583992
-postcode: "04347"
+latitude: 51.362072100000006
+longitude: 12.3613669
+postcode: "04155"
 city: Leipzig
-street: "Torgauer Straße"
-housenumber: 279
-phone: "+49 341 2575500"
-opening_hours: "Mo-Sa 06:00-22:00"
+street: "Georg-Schumann-Straße"
+housenumber: 105-109
+phone: ""
+opening_hours: "Mo-Sa 07:00-21:30"
 website: "https://www.kaufland.de/"

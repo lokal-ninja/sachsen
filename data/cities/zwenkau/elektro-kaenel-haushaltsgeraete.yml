@@ -1,6 +1,5 @@
 id: 7578642045
 type: node
-shop: Küchen
 latitude: 51.2185824
 longitude: 12.3279174
 postcode: "04442"
@@ -8,5 +7,5 @@ city: Zwenkau
 street: "Leipziger Straße"
 housenumber: 24
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-12:00,14:00-18:00; We 09:00-12:00; Fr 009:00–12:00,14:00–17:00; Sa,Su,PH off"
+opening_hours: "Mo,Tu,Th 09:00-12:00,14:00-18:00; We 09:00-12:00; Fr 09:00-12:00,14:00-17:00; Sa,Su,PH off"
 website: ""

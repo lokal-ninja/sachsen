@@ -1,6 +1,5 @@
 id: 100601100
 type: way
-shop: Autohaus
 latitude: 51.329542100000005
 longitude: 12.3188612
 postcode: "04179"
@@ -9,4 +8,4 @@ street: "Groitzscher Straße"
 housenumber: 1-15
 phone: ""
 opening_hours: ""
-website: "https://www.amz-automobile.de/"
+website: ""

@@ -1,6 +1,5 @@
 id: 4343339941
 type: node
-shop: Friseur
 latitude: 51.1684819
 longitude: 13.5018705
 postcode: "01662"
@@ -8,5 +7,5 @@ city: Meißen
 street: "Niederauer Straße"
 housenumber: 43
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.klier.de/"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off"
+website: ""

@@ -1,12 +1,11 @@
-id: 228373971
+id: 54685233
 type: way
-shop: Baumarkt
-latitude: 51.345112300000004
-longitude: 12.477192500000001
-postcode: "04319"
+latitude: 51.3653217
+longitude: 12.4537454
+postcode: "04347"
 city: Leipzig
-street: "Riesaer Straße"
-housenumber: 102
+street: "Torgauer Straße"
+housenumber: 271
 phone: ""
-opening_hours: "Mo-Th 07:00-20:00; Fr 07:00-22:00; Sa 08:00-20:00; Su,PH off"
+opening_hours: "Mo-Th 07:00-20:00; Fr 07:00-22:00; Sa 08:00-20:00"
 website: ""

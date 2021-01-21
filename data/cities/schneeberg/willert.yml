@@ -1,6 +1,5 @@
 id: 1409593838
 type: node
-shop: Bäckerei
 latitude: 50.595803700000005
 longitude: 12.6426093
 postcode: "08289"
@@ -8,5 +7,5 @@ city: Schneeberg
 street: "Ritterstraße"
 housenumber: 21
 phone: "+49 3772 28390"
-opening_hours: "Mo-Sa 06:30-17:00; So 13:30-17:00"
+opening_hours: "Mo-Sa 06:30-17:00; Su 13:30-17:00"
 website: "https://konditorei-willert.jimdofree.com/"

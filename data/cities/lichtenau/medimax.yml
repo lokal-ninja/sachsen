@@ -1,6 +1,5 @@
 id: 1975530719
 type: node
-shop: Hifi
 latitude: 50.907229
 longitude: 12.976256200000002
 postcode: "09244"
@@ -8,5 +7,5 @@ city: Lichtenau
 street: "Sachsenstraße"
 housenumber: 9
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off"
 website: ""

@@ -1,6 +1,5 @@
 id: 684264723
 type: node
-shop: Bäckerei
 latitude: 50.673733600000006
 longitude: 12.883025600000002
 postcode: "08297"
@@ -8,5 +7,5 @@ city: Zwönitz
 street: "Hauptstraße"
 housenumber: 57
 phone: ""
-opening_hours: "Tu-Fr 06:00–17:30; Sa 06:00-10:30; Mo,Su,PH off"
+opening_hours: "Tu-Fr 06:00-17:30; Sa 06:00-10:30; Mo,Su,PH off"
 website: ""

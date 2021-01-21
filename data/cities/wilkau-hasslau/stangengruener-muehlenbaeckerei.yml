@@ -1,6 +1,5 @@
 id: 8093713552
 type: node
-shop: Bäckerei
 latitude: 50.67373550000001
 longitude: 12.5253694
 postcode: "08112"
@@ -8,5 +7,5 @@ city: Wilkau-Haßlau
 street: "Schneeberger Straße"
 housenumber: 81a
 phone: ""
-opening_hours: "Mo-Sa 07:00–20:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 3395200256
 type: node
-shop: Friseur
 latitude: 50.913844600000004
 longitude: 13.340634900000001
 postcode: "09599"
@@ -8,5 +7,5 @@ city: Freiberg
 street: "Bebelplatz"
 housenumber: 2
 phone: "+49 3731 200232"
-opening_hours: "Mo-Sa 8.00-20.00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

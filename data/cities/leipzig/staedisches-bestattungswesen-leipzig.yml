@@ -1,6 +1,5 @@
 id: 1790099918
 type: node
-shop: Bestattungen
 latitude: 51.345110700000006
 longitude: 12.406073300000001
 postcode: "04315"
@@ -8,5 +7,5 @@ city: Leipzig
 street: "Hermann-Liebmann-Straße"
 housenumber: 82
 phone: ""
-opening_hours: "Mo–Fr 08:30–16:00; Sa,Su,PH off"
+opening_hours: "Mo-Fr 08:30-16:00; Sa,Su,PH off"
 website: ""

@@ -1,6 +1,5 @@
 id: 3070242008
 type: node
-shop: Bäckerei
 latitude: 51.122370000000004
 longitude: 13.107013
 postcode: "04720"
@@ -8,5 +7,5 @@ city: Döbeln
 street: "Burgstraße"
 housenumber: 35
 phone: ""
-opening_hours: "Mo-Fr: 07:00-18:00; Sa: 07:00-14:30"
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:30"
 website: ""

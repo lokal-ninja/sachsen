@@ -1,4 +1,5 @@
 ---
 title: "boa vista"
 url: /freiberg/boa-vista/
+shop: Modehaus
 ---

@@ -1,6 +1,5 @@
 id: 8118901029
 type: node
-shop: Kaffee
 latitude: 51.359274600000006
 longitude: 12.383820400000001
 postcode: "04129"
@@ -8,5 +7,5 @@ city: Leipzig
 street: "Haferkornstraße"
 housenumber: 15
 phone: ""
-opening_hours: "Mo,Tu,Th 10:00-17:00"
-website: "https://www.kaffeeroesterei-alber.de"
+opening_hours: "Mo-Th 10:00-18:00; Fr-Su,PH off"
+website: ""

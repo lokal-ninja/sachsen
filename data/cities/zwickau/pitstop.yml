@@ -1,6 +1,5 @@
 id: 4292872063
 type: node
-shop: Autowerkstatt
 latitude: 50.707758600000005
 longitude: 12.460646800000001
 postcode: "08056"
@@ -8,5 +7,5 @@ city: Zwickau
 street: "Reichenbacher Straße"
 housenumber: 152
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
 website: ""

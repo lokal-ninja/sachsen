@@ -1,6 +1,5 @@
 id: 7254738377
 type: node
-shop: Hofladen
 latitude: 51.1683498
 longitude: 13.5019234
 postcode: "01662"
@@ -8,5 +7,5 @@ city: Meißen
 street: "Niederauer Straße"
 housenumber: 43
 phone: ""
-opening_hours: "Do+Fr 08:00-19:30"
-website: "https://www.obsthof-ibisch.de/"
+opening_hours: "Th,Fr 08:00-18:00; Mo-We,Sa,Su,PH off"
+website: ""

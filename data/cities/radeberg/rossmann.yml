@@ -1,6 +1,5 @@
 id: 490607881
 type: node
-shop: Drogerie
 latitude: 51.117850600000004
 longitude: 13.921769800000002
 postcode: "01454"
@@ -8,5 +7,5 @@ city: Radeberg
 street: "Hauptstraße"
 housenumber: 8
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-13:00; PH off"
+opening_hours: "PH off; Mo-Sa 08:00-20:00"
 website: ""

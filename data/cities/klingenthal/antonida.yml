@@ -1,6 +1,5 @@
 id: 1316493958
 type: node
-shop: Kleidung
 latitude: 50.355678700000006
 longitude: 12.4680052
 postcode: "08248"
@@ -8,5 +7,5 @@ city: Klingenthal
 street: "Schloßstraße"
 housenumber: 1a
 phone: "+49 37467 666970"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00;"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
 website: "https://www.antonida-kids.de"

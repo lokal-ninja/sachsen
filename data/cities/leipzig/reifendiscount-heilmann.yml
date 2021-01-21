@@ -1,6 +1,5 @@
 id: 5882233824
 type: node
-shop: Reifen
 latitude: 51.351098
 longitude: 12.3021919
 postcode: "04179"
@@ -8,5 +7,5 @@ city: Leipzig
 street: "Ludwig-Hupfeld-Straße"
 housenumber: 1A
 phone: ""
-opening_hours: "Mo-Fr 08:00–12:00,13:00–17:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-12:00; Su,PH off"
 website: ""

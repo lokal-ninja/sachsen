@@ -1,6 +1,5 @@
 id: 1342128954
 type: node
-shop: Spielzeug
 latitude: 51.29829590000001
 longitude: 13.2680436
 postcode: "01587"
@@ -8,5 +7,5 @@ city: Riesa
 street: "Riesapark"
 housenumber: 2
 phone: "+49 3525 50270"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; So closed"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su closed"
 website: "https://www.spielemax.de/storelocator/index/detail/id/35/"

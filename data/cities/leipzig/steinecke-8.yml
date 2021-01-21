@@ -1,6 +1,5 @@
 id: 7831491427
 type: node
-shop: Bäckerei
 latitude: 51.3274514
 longitude: 12.34538
 postcode: "04229"
@@ -8,5 +7,5 @@ city: Leipzig
 street: "Brockhausstraße"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 06:30–18:30; Sa 06:00–13:30; Su 07:30-16:00; PH off"
+opening_hours: "Mo-Fr 06:30-18:30; Sa 06:00-13:30; Su 07:30-16:00; PH off"
 website: ""

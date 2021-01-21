@@ -1,6 +1,5 @@
 id: 6657071699
 type: node
-shop: Reisebüro
 latitude: 51.436163
 longitude: 14.259063900000001
 postcode: "02977"
@@ -8,5 +7,5 @@ city: Hoyerswerda
 street: "Stadtpromenade"
 housenumber: 11
 phone: "+49 3571 923167"
-opening_hours: "Mo-Fr 09:00-13:00 Mo-Fr 14:00-18:00 Sa 09:00-12:00"
+opening_hours: "Mo-Fr 09:00-13:00; Mo-Fr 14:00-18:00; Sa 09:00-12:00"
 website: "https://www.thomascook.de/reisebuero/hoyerswerda"

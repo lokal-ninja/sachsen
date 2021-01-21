@@ -1,6 +1,5 @@
 id: 6236126674
 type: node
-shop: Sanitätshaus
 latitude: 50.7277606
 longitude: 12.4959553
 postcode: "08058"
@@ -8,5 +7,5 @@ city: Zwickau
 street: "Thomas-Mann-Straße"
 housenumber: 4a
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 12:30-17:00"
+opening_hours: "Mo-Fr 08:30-12:00,12:30-17:00"
 website: ""

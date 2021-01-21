@@ -1,12 +1,11 @@
-id: 2749489209
+id: 1434091102
 type: node
-shop: Autohaus
-latitude: 51.3512695
-longitude: 12.4262384
-postcode: "04318"
+latitude: 51.321391000000006
+longitude: 12.276940000000002
+postcode: "04205"
 city: Leipzig
-street: "Torgauer Straße"
-housenumber: 108
+street: "Kiewer Straße"
+housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
 website: ""

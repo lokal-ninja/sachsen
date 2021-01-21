@@ -1,6 +1,5 @@
 id: 1430688086
 type: node
-shop: Friseur
 latitude: 50.932562100000006
 longitude: 12.7060194
 postcode: "09322"
@@ -8,5 +7,5 @@ city: Penig
 street: "Lutherplatz"
 housenumber: 8
 phone: ""
-opening_hours: "Tu-Th 08.00-18.30; Fr 09.00-19.00; Sa 07.00-12.00; Mo,Su,PH off"
+opening_hours: "Tu-Th 08:00-18:30; Fr 09:00-19:00; Sa 07:00-12:00; Mo,Su,PH off"
 website: ""

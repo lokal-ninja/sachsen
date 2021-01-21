@@ -1,6 +1,5 @@
 id: 1781372745
 type: node
-shop: Getränke
 latitude: 50.8619805
 longitude: 13.171582200000001
 postcode: "09569"
@@ -8,5 +7,5 @@ city: Oederan
 street: "Freiberger Straße"
 housenumber: 22
 phone: ""
-opening_hours: "Mo-Th 09:00–12:00,13:00–18:00; Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: "Mo-Th 09:00-12:00,13:00-18:00; Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
 website: ""

@@ -1,6 +1,5 @@
 id: 559150171
 type: node
-shop: Bäckerei
 latitude: 50.621371100000005
 longitude: 12.7331439
 postcode: "08294"
@@ -8,5 +7,5 @@ city: Lößnitz
 street: "Rathausplatz"
 housenumber: 7
 phone: ""
-opening_hours: "Mo-Fr 05:00–18:00; Sa 05:00-11:00; Su,PH off"
+opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-11:00; Su,PH off"
 website: ""

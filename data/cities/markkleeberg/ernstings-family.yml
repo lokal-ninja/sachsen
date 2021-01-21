@@ -1,6 +1,5 @@
 id: 4895707021
 type: node
-shop: Kleidung
 latitude: 51.278967200000004
 longitude: 12.370051700000001
 postcode: "04416"
@@ -8,5 +7,5 @@ city: Markkleeberg
 street: "Rathausstraße"
 housenumber: 33-35
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00 Sa 09:00-13:00"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00"
 website: ""

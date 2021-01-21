@@ -1,6 +1,5 @@
 id: 125306706
 type: way
-shop: Supermarkt
 latitude: 51.1685512
 longitude: 13.483906500000002
 postcode: "01662"
@@ -8,5 +7,5 @@ city: Meißen
 street: "Rosa-Luxemburg-Straße"
 housenumber: 3/5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

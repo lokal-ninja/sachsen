@@ -1,6 +1,5 @@
 id: 6866250463
 type: node
-shop: Bäckerei
 latitude: 51.1643983
 longitude: 14.9776938
 postcode: "02828"
@@ -8,5 +7,5 @@ city: Görlitz
 street: "Scultetusstraße"
 housenumber: 24
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; "
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

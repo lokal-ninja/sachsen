@@ -1,6 +1,5 @@
 id: 1690834010
 type: node
-shop: Metzgerei
 latitude: 50.6118912
 longitude: 12.7162924
 postcode: "08294"
@@ -8,5 +7,5 @@ city: Lößnitz
 street: "Heinestraße"
 housenumber: 1
 phone: ""
-opening_hours: "Tu-Th 08:00-13:00; Fr 08:00–17:00; Sa 07:00-11:00; Mo,Su,PH off"
+opening_hours: "Tu-Th 08:00-13:00; Fr 08:00-17:00; Sa 07:00-11:00; Mo,Su,PH off"
 website: ""

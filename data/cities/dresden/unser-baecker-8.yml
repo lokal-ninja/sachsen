@@ -1,6 +1,5 @@
 id: 6617331863
 type: node
-shop: Bäckerei
 latitude: 51.0741152
 longitude: 13.691088200000001
 postcode: "01139"
@@ -8,5 +7,5 @@ city: Dresden
 street: "Overbeckstraße"
 housenumber: 38
 phone: "+49 351 84754374"
-opening_hours: "Mo-Sa 07:00-20:00; So closed"
+opening_hours: "Mo-Sa 07:00-20:00; Su closed"
 website: "https://www.unser-baecker.de"

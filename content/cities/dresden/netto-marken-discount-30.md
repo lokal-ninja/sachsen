@@ -1,4 +1,5 @@
 ---
 title: "Netto Marken-Discount"
 url: /dresden/netto-marken-discount-30/
+shop: Supermarkt
 ---

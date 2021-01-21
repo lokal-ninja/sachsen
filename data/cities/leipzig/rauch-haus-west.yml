@@ -1,12 +1,11 @@
 id: 5066794631
 type: node
-shop: E-Zigaretten
 latitude: 51.3391889
 longitude: 12.3269482
 postcode: "04177"
 city: Leipzig
 street: "Georg-Schwarz-Straße"
 housenumber: 14
-phone: ""
-opening_hours: "Mo-Fr 10:30-18:30, Sa 11:00-16:30"
-website: ""
+phone: "+49341 24 78 58 07"
+opening_hours: "Mo-Fr 10:30-18:30, Sa 11:00-16:00"
+website: "https://dampfhaus-leipzig.de"

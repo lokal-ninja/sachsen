@@ -1,6 +1,5 @@
 id: 7369494946
 type: node
-shop: Motorrad
 latitude: 51.3348768
 longitude: 12.327272500000001
 postcode: "04177"
@@ -8,5 +7,5 @@ city: Leipzig
 street: "Lützner Straße"
 housenumber: 69 D
 phone: "+49 341 4771405"
-opening_hours: "Mo-Fr 10:30-18:00  Sa 10:00 bis 13:00"
+opening_hours: "Mo-Fr 10:30-18:00; Sa 10:00-13:00"
 website: "https://helmstudio-leipzig.de/"

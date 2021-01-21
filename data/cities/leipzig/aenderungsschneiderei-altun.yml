@@ -1,6 +1,5 @@
 id: 8109484218
 type: node
-shop: Schneiderei
 latitude: 51.3450514
 longitude: 12.406065
 postcode: "04315"
@@ -8,5 +7,5 @@ city: Leipzig
 street: "Hermann-Liebmann-Straße"
 housenumber: 82
 phone: ""
-opening_hours: "Mo-Fr 08:30–18:30; Sa 08:00-14:00; Su,PH off"
+opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-14:00; Su,PH off"
 website: ""

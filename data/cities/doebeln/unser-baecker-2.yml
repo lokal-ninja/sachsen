@@ -1,6 +1,5 @@
 id: 4334306693
 type: node
-shop: Bäckerei
 latitude: 51.1214863
 longitude: 13.119907000000001
 postcode: "04720"
@@ -8,5 +7,5 @@ city: Döbeln
 street: "Bäckerstraße"
 housenumber: 1
 phone: "+49 3431 7291899"
-opening_hours: "Mo-Fr: 07:00-17:30"
+opening_hours: "Mo-Fr 07:00-17:30"
 website: ""

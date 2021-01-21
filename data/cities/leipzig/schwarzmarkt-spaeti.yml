@@ -1,6 +1,5 @@
 id: 4319034609
 type: node
-shop: Getränke
 latitude: 51.3380309
 longitude: 12.3274925
 postcode: "04177"
@@ -8,5 +7,5 @@ city: Leipzig
 street: "Georg-Schwarz-Straße"
 housenumber: 6
 phone: ""
-opening_hours: "Mo-Th 14:00-00:00; Fr-Sa 14:00-02:00; Su 12:00-22:00; PH off; "
+opening_hours: "Mo-Th 14:00-24:00; Fr-Sa 14:00-02:00; Su 12:00-22:00; PH off"
 website: ""

@@ -1,6 +1,5 @@
 id: 1188892275
 type: node
-shop: Bäckerei
 latitude: 51.3434381
 longitude: 12.3215429
 postcode: "04177"
@@ -8,5 +7,5 @@ city: Leipzig
 street: "Georg-Schwarz-Straße"
 housenumber: 58
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-17:00; So 07:00-17:00; PH off"
+opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-17:00; Su 07:00-17:00; PH off"
 website: ""

@@ -1,6 +1,5 @@
 id: 4336624455
 type: node
-shop: Bäckerei
 latitude: 51.04594710000001
 longitude: 13.6774353
 postcode: "01169"
@@ -8,5 +7,5 @@ city: Dresden
 street: "Leutewitzer Ring"
 housenumber: 143
 phone: "+49 351 41372320"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; So 07:00-10:00"
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su 07:00-10:00"
 website: ""

@@ -1,12 +1,11 @@
-id: 1225555078
+id: 365953879
 type: node
-shop: Kramladen
-latitude: 51.044027
-longitude: 13.7001445
-postcode: "01159"
+latitude: 51.088508700000006
+longitude: 13.7127423
+postcode: "01129"
 city: Dresden
-street: "Kesselsdorfer Straße"
-housenumber: 22
-phone: ""
-opening_hours: ""
-website: ""
+street: "Industriestraße"
+housenumber: 19
+phone: "+49 231 555770"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"
+website: "tedi.com"

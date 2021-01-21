@@ -1,12 +1,11 @@
 id: 3688974932
 type: node
-shop: Friseur
-latitude: 51.343031800000006
-longitude: 12.363818100000001
+latitude: 51.343817200000004
+longitude: 12.367079500000001
 postcode: "04109"
 city: Leipzig
-street: "Jahnallee"
-housenumber: 6
+street: "Ranstädter Steinweg"
+housenumber: 16
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-16:00+"
+opening_hours: "Tu,Th-Fr 09:00-20:00; We 09:00-18:00; Sa 08:00-15:00+"
 website: "https://www.bergmann-friseure.de/"

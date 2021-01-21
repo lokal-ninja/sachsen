@@ -1,6 +1,5 @@
 id: 1347289118
 type: node
-shop: Metzgerei
 latitude: 50.6301659
 longitude: 12.809788500000002
 postcode: "08297"
@@ -8,5 +7,5 @@ city: Zwönitz
 street: "Lange Gasse"
 housenumber: 19
 phone: ""
-opening_hours: "Mo 08:00–13:00; Tu-Fr 08:00–18:00; Sa 08:00-11:00; Su,PH off"
+opening_hours: "Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 08:00-11:00; Su,PH off"
 website: ""

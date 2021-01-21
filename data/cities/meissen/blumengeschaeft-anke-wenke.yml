@@ -1,6 +1,5 @@
 id: 4518041456
 type: node
-shop: Blumen
 latitude: 51.16174
 longitude: 13.4722822
 postcode: "01662"
@@ -8,5 +7,5 @@ city: Meißen
 street: "Roßmarkt"
 housenumber: 4
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; so closed"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su closed"
 website: ""

@@ -1,6 +1,5 @@
 id: 358323844
 type: node
-shop: Bäckerei
 latitude: 51.3499465
 longitude: 12.376180100000001
 postcode: "04105"
@@ -8,5 +7,5 @@ city: Leipzig
 street: "Eutritzscher Straße"
 housenumber: 15a
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00 und Sa 07:00 - 12:00"
+opening_hours: "Mo-Fr 08:00-18:00, Sa 07:00-12:00"
 website: "https://www.feinbaeckerei-falland.de/"

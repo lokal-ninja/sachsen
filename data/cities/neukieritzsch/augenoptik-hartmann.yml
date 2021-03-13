@@ -6,6 +6,6 @@ postcode: "04575"
 city: Neukieritzsch
 street: "Markt"
 housenumber: 7
-phone: "+49 34342 51501"
-opening_hours: "Mo 09:00-12:00, 14:00-18:00; Tu off; We-Th 09:00-12:00, 14:00-18:00; Fr off; Sa 09:00-11:00"
-website: "https://www.augenoptik-hartmann.de/"
+phone: ""
+opening_hours: "Mo,We,Th 09:00-12:00,14:00-18:00; Sa 09:00-11:00; Tu,Fr,Su,PH off"
+website: ""

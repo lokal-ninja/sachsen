@@ -7,5 +7,5 @@ city: Dresden
 street: "Böhmische Straße"
 housenumber: 3
 phone: "+49 351 65577790"
-opening_hours: "Mo-Th 10:00-18:30; Fr 12:00-18:00; Sa 11:00-15:00"
+opening_hours: "Mo,Tu,Th,Fr 10:00-18:30; Sa 10:00-14:00"
 website: "https://www.elbcycles.de"

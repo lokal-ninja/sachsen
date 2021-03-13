@@ -1,5 +1,5 @@
 ---
-title: "real"
+title: "Real"
 url: /heidenau/real/
-shop: Einkaufszentrum
+shop: Supermarkt
 ---

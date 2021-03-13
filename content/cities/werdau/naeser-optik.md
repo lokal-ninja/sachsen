@@ -1,5 +1,5 @@
 ---
 title: "Näser Optik"
 url: /werdau/naeser-optik/
-shop: Allgemein
+shop: Optiker
 ---

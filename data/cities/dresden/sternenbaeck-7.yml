@@ -1,11 +1,11 @@
-id: 4544963057
-type: node
-latitude: 51.0344301
-longitude: 13.721801800000001
-postcode: "01187"
+id: 189373428
+type: way
+latitude: 51.056420100000004
+longitude: 13.7654546
+postcode: "01307"
 city: Dresden
-street: "Nürnberger Straße"
-housenumber: 31a
+street: "Pfotenhauerstraße"
+housenumber: 7a
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-17:00; Su 08:00-17:00"
+opening_hours: ""
 website: ""

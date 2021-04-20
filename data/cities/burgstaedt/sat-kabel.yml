@@ -7,5 +7,5 @@ city: Burgstädt
 street: "Chemnitzer Straße"
 housenumber: 11
 phone: ""
-opening_hours: "Mo, Mi, Fr 07:00-17:00; Di, Do 07:00-18:00"
+opening_hours: "Mo,We,Fr 07:00-17:00; Tu,Th 07:00-18:00"
 website: ""

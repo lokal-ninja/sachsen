@@ -1,5 +1,5 @@
 ---
 title: "Istanbul Market"
 url: /dresden/istanbul-market/
-shop: Supermarkt
+shop: Lebensmittel
 ---

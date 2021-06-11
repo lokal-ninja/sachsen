@@ -1,5 +1,5 @@
 ---
 title: "CHICERIA"
 url: /leipzig/chiceria/
-shop: Modehaus
+shop: Kleidung
 ---

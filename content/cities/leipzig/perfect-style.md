@@ -1,5 +1,5 @@
 ---
 title: "perfect style"
 url: /leipzig/perfect-style/
-shop: Modehaus
+shop: Kleidung
 ---

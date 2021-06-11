@@ -1,11 +1,11 @@
-id: 29698296
-type: way
-latitude: 51.368371
-longitude: 12.3450074
-postcode: "04159"
+id: 7565339484
+type: node
+latitude: 51.34644410000001
+longitude: 12.3943159
+postcode: "04315"
 city: Leipzig
-street: "Dantestraße"
-housenumber: 17
+street: "Rosa-Luxemburg-Straße"
+housenumber: 35
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "http://www.konsum-leipzig.de/"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+website: ""

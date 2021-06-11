@@ -1,5 +1,5 @@
 ---
-title: "Zoller's Wohnidee"
+title: "Zollers Wohnidee"
 url: /wurzen/zollers-wohnidee/
 shop: Gardinen
 ---

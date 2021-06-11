@@ -1,11 +1,11 @@
-id: 7825757362
-type: node
-latitude: 50.8227648
-longitude: 12.940449200000002
-postcode: "09126"
+id: 87237918
+type: way
+latitude: 50.8302476
+longitude: 12.8950385
+postcode: "09112"
 city: Chemnitz
-street: "Jahnstraße"
-housenumber: 3
+street: "Weststraße"
+housenumber: 77
 phone: ""
-opening_hours: "Mo-Fr 7:00-20:00, Sa 7:00-16:00"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

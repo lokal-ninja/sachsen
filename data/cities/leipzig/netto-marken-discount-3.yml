@@ -1,11 +1,11 @@
-id: 24309731
-type: way
-latitude: 51.318307600000004
-longitude: 12.3409761
-postcode: "04229"
+id: 7941367868
+type: node
+latitude: 51.3782167
+longitude: 12.3029361
+postcode: "04159"
 city: Leipzig
-street: "Rödelstraße"
-housenumber: 31
+street: "Mühlenstraße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

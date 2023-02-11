@@ -1,0 +1,20 @@
+baseURL = "https://de.shoogle.net/sachsen/"
+languageCode = "de"
+title = "Sachsen"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "sachsen"
+
+[taxonomies]
+  shop = "shops"
+

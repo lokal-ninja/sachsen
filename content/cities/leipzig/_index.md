@@ -1,6 +1,6 @@
 ---
 title: Leipzig
 url: /leipzig/
-latitude: 51.347
-longitude: 12.419
+latitude: 51.379
+longitude: 12.407
 ---

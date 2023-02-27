@@ -1,5 +1,5 @@
 ---
 title: "CarUnion"
 url: /borna/carunion/
-shop: Autowerkstatt
+shop: Autohaus
 ---

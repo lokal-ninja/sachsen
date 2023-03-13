@@ -1,6 +1,6 @@
 ---
 title: Dohma
 url: /dohma/
-latitude: 50.922
-longitude: 13.935
+latitude: 50.909
+longitude: 13.977
 ---

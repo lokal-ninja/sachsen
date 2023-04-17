@@ -7,5 +7,5 @@ city: Stadt Wehlen
 street: "Pirnaer Straße"
 housenumber: 111
 phone: "+493502470380"
-opening_hours: "Mo 05:00-12:00; Tu-Fr 05:00-12:00, 14:30-17:00; Sa 05:00-11:00"
+opening_hours: "Mo,We,Sa 05:00-11:00; Tu,Th,Fr 05:00-12:00 14:30-16:30; "
 website: ""

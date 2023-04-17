@@ -1,6 +1,6 @@
 ---
 title: Zwickau
 url: /zwickau/
-latitude: 50.719
-longitude: 12.516
+latitude: 50.704
+longitude: 12.499
 ---

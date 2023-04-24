@@ -1,5 +1,5 @@
 ---
 title: "Wöhrl"
 url: /plauen/woehrl/
-shop: Warenhaus
+shop: Kleidung
 ---

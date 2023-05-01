@@ -1,5 +1,5 @@
 ---
 title: "Aral"
 url: /zwickau/aral/
-shop: Lebensmittel
+shop: Allgemein
 ---

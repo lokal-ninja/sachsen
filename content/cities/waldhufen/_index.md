@@ -1,6 +1,6 @@
 ---
 title: Waldhufen
 url: /waldhufen/
-latitude: 51.232
-longitude: 14.798
+latitude: 51.248
+longitude: 14.759
 ---

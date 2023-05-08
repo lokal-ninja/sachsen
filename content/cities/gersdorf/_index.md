@@ -1,6 +1,6 @@
 ---
 title: Gersdorf
 url: /gersdorf/
-latitude: 50.751
-longitude: 12.711
+latitude: 50.769
+longitude: 12.705
 ---

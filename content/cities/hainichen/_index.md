@@ -1,6 +1,6 @@
 ---
 title: Hainichen
 url: /hainichen/
-latitude: 51
-longitude: 13.123
+latitude: 50.983
+longitude: 13.108
 ---

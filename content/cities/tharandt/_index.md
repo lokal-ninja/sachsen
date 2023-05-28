@@ -1,6 +1,6 @@
 ---
 title: Tharandt
 url: /tharandt/
-latitude: 50.984
-longitude: 13.582
+latitude: 50.986
+longitude: 13.531
 ---

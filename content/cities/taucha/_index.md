@@ -1,6 +1,6 @@
 ---
 title: Taucha
 url: /taucha/
-latitude: 51.373
-longitude: 12.479
+latitude: 51.382
+longitude: 12.501
 ---

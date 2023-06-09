@@ -1,5 +1,5 @@
 ---
 title: "HEM"
 url: /leipzig/hem/
-shop: Lebensmittel
+shop: Supermarkt
 ---

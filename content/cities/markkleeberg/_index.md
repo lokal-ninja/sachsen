@@ -1,6 +1,6 @@
 ---
 title: Markkleeberg
 url: /markkleeberg/
-latitude: 51.277
-longitude: 12.398
+latitude: 51.284
+longitude: 12.427
 ---

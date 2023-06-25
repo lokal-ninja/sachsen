@@ -1,6 +1,6 @@
 ---
 title: Meerane
 url: /meerane/
-latitude: 50.84
-longitude: 12.448
+latitude: 50.838
+longitude: 12.447
 ---

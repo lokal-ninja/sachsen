@@ -1,5 +1,5 @@
 ---
 title: "Friseur Figaro"
 url: /zittau/friseur-figaro/
-shop: Kosmetik
+shop: Friseur
 ---

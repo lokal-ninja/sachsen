@@ -1,5 +1,5 @@
 ---
 title: "New-Tec Ost"
 url: /lichtenau/new-tec-ost/
-shop: Autohaus
+shop: Landwirtschaftlich
 ---

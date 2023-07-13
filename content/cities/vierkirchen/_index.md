@@ -1,6 +1,6 @@
 ---
 title: Vierkirchen
 url: /vierkirchen/
-latitude: 51.189
-longitude: 14.745
+latitude: 51.199
+longitude: 14.698
 ---

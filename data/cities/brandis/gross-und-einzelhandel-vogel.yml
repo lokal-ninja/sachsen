@@ -1,11 +1,11 @@
-id: 560282599
-type: way
-latitude: 51.32275
-longitude: 12.56163
+id: 11033791739
+type: node
+latitude: 51.32271
+longitude: 12.56169
 postcode: "04824"
 city: Brandis
 street: "Dorfstraße"
 housenumber: 15
-phone: "+49 34292 73507"
-opening_hours: ""
-website: "https://www.vogel-farben.de/"
+phone: ""
+opening_hours: "Mo-Th 08:30-12:30,15:00-18:00; Fr 08:30-18:00; Sa 09:00-12:00; Su,PH off"
+website: ""

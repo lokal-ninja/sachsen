@@ -1,6 +1,6 @@
 ---
 title: Rosenbach/Vogtl.
 url: /rosenbach-vogtl/
-latitude: 50.54
-longitude: 12.002
+latitude: 50.508
+longitude: 11.998
 ---

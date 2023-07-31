@@ -1,5 +1,5 @@
 ---
-title: "Aldi Nord"
+title: "ALDI Nord"
 url: /plauen/aldi-nord/
 shop: Supermarkt
 ---

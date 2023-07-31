@@ -7,5 +7,5 @@ city: Dresden
 street: "Wilsdruffer Straße"
 housenumber: 16
 phone: "+49 351 4976790"
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: "Mo-Th,Sa 10:00-19:00; Fr 10:00-20:00"
 website: "https://www.hirmer-grosse-groessen.de/"

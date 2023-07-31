@@ -1,5 +1,5 @@
 ---
 title: "Bio Kaufmannsladen"
 url: /leipzig/bio-kaufmannsladen/
-shop: Lebensmittel
+shop: Bioladen
 ---

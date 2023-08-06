@@ -1,6 +1,6 @@
 ---
 title: Penig
 url: /penig/
-latitude: 50.922
-longitude: 12.715
+latitude: 50.93
+longitude: 12.706
 ---

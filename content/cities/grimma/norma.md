@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: "NORMA"
 url: /grimma/norma/
-shop: Supermarkt
+shop: Allgemein
 ---

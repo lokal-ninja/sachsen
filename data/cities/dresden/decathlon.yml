@@ -1,11 +1,11 @@
 id: 5205095625
 type: node
 latitude: 51.04121
-longitude: 13.73355
+longitude: 13.73356
 postcode: "01069"
 city: Dresden
 street: "Wiener Platz"
 housenumber: 10
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-20:00"
 website: "https://www.decathlon.de/"

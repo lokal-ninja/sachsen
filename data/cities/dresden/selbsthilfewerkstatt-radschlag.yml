@@ -7,5 +7,5 @@ city: Dresden
 street: "Katharinenstraße"
 housenumber: 11
 phone: ""
-opening_hours: "Mo,Th 11:00-19:00; Tu, Fr, Sa 11:00-17:00; We off"
+opening_hours: "Mo,Th 11:00-19:00; Tu,Fr 11:00-17:00; We off"
 website: "http://www.radschlag-dresden.de/"

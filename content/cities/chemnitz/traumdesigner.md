@@ -1,5 +1,5 @@
 ---
 title: "Traumdesigner"
 url: /chemnitz/traumdesigner/
-shop: Allgemein
+shop: Raumausstattung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
 url: /naunhof/penny/
-shop: Supermarkt
+shop: Allgemein
 ---

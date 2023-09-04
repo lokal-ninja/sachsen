@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
 url: /grimma/norma/
-shop: Allgemein
+shop: Supermarkt
 ---

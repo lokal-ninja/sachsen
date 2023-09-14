@@ -1,5 +1,5 @@
 ---
 title: "Sanitätshaus Iltzsche"
-url: /dresden/sanitaetshaus-iltzsche/
+url: /dresden/sanitaetshaus-iltzsche-buenaustrasse/
 shop: Sanitätshaus
 ---

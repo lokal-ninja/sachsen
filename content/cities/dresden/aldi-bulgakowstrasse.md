@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /dresden/aldi/
+url: /dresden/aldi-bulgakowstrasse/
 shop: Supermarkt
 ---

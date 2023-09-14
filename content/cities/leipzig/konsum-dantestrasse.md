@@ -1,5 +1,5 @@
 ---
 title: "Konsum"
-url: /leipzig/konsum/
+url: /leipzig/konsum-dantestrasse/
 shop: Supermarkt
 ---

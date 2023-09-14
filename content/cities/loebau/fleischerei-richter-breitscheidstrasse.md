@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Richter"
-url: /loebau/fleischerei-richter/
+url: /loebau/fleischerei-richter-breitscheidstrasse/
 shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Pfeifer"
-url: /zwickau/fleischerei-pfeifer/
+url: /zwickau/fleischerei-pfeifer-bahnhofstrasse/
 shop: Metzgerei
 ---

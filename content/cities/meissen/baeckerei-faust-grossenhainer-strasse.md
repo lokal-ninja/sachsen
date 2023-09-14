@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Faust"
-url: /meissen/baeckerei-faust/
+url: /meissen/baeckerei-faust-grossenhainer-strasse/
 shop: Bäckerei
 ---

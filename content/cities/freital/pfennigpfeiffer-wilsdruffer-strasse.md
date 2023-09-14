@@ -1,5 +1,5 @@
 ---
 title: "Pfennigpfeiffer"
-url: /freital/pfennigpfeiffer/
+url: /freital/pfennigpfeiffer-wilsdruffer-strasse/
 shop: Kramladen
 ---

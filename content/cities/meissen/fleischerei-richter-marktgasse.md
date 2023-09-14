@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Richter"
-url: /meissen/fleischerei-richter/
+url: /meissen/fleischerei-richter-marktgasse/
 shop: Metzgerei
 ---

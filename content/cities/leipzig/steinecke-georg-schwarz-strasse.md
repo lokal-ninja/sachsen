@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /leipzig/steinecke/
+url: /leipzig/steinecke-georg-schwarz-strasse/
 shop: Bäckerei
 ---

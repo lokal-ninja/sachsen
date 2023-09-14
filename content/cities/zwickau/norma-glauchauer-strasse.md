@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /zwickau/norma/
+url: /zwickau/norma-glauchauer-strasse/
 shop: Supermarkt
 ---

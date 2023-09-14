@@ -1,5 +1,5 @@
 ---
 title: "Wunderlichs Backstuben"
-url: /auerbach/wunderlichs-backstuben/
+url: /auerbach/wunderlichs-backstuben-reumtengruener-strasse/
 shop: Bäckerei
 ---

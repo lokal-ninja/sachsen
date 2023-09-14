@@ -1,5 +1,5 @@
 ---
 title: "Feinbäckerei Thomas"
-url: /dresden/feinbaeckerei-thomas/
+url: /dresden/feinbaeckerei-thomas-salzburger-strasse/
 shop: Bäckerei
 ---

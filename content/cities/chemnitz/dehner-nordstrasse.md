@@ -1,5 +1,5 @@
 ---
 title: "Dehner"
-url: /chemnitz/dehner/
+url: /chemnitz/dehner-nordstrasse/
 shop: Garten-Center
 ---

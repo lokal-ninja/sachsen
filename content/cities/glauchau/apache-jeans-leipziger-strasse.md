@@ -1,5 +1,5 @@
 ---
 title: "Apache Jeans"
-url: /glauchau/apache-jeans/
+url: /glauchau/apache-jeans-leipziger-strasse/
 shop: Kleidung
 ---

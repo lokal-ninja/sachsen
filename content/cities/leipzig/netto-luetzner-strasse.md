@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /leipzig/netto/
+url: /leipzig/netto-luetzner-strasse/
 shop: Supermarkt
 ---

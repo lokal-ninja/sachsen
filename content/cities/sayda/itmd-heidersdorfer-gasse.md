@@ -1,5 +1,5 @@
 ---
 title: "ITMD"
-url: /sayda/itmd/
+url: /sayda/itmd-heidersdorfer-gasse/
 shop: Computer
 ---

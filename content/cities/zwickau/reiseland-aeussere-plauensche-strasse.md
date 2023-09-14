@@ -1,5 +1,5 @@
 ---
 title: "Reiseland"
-url: /zwickau/reiseland/
+url: /zwickau/reiseland-aeussere-plauensche-strasse/
 shop: Reisebüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /leipzig/backwerk/
+url: /leipzig/backwerk-nikolaistrasse/
 shop: Bäckerei
 ---

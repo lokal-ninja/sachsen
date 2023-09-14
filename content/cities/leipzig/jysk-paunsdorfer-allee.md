@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /leipzig/jysk/
+url: /leipzig/jysk-paunsdorfer-allee/
 shop: Möbel
 ---

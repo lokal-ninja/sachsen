@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /bautzen/deichmann/
+url: /bautzen/deichmann-2/
 shop: Schuhe
 ---

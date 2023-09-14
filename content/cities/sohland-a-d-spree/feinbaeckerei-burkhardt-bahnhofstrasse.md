@@ -1,5 +1,5 @@
 ---
 title: "Feinbäckerei Burkhardt"
-url: /sohland-a-d-spree/feinbaeckerei-burkhardt/
+url: /sohland-a-d-spree/feinbaeckerei-burkhardt-bahnhofstrasse/
 shop: Bäckerei
 ---

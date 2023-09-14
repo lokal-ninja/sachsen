@@ -1,5 +1,5 @@
 ---
 title: "Autoburgk Lohse"
-url: /freital/autoburgk-lohse/
+url: /freital/autoburgk-lohse-burgker-strasse/
 shop: Autowerkstatt
 ---

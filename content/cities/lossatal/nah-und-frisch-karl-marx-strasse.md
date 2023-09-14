@@ -1,5 +1,5 @@
 ---
 title: "Nah & Frisch"
-url: /lossatal/nah-und-frisch/
+url: /lossatal/nah-und-frisch-karl-marx-strasse/
 shop: Supermarkt
 ---

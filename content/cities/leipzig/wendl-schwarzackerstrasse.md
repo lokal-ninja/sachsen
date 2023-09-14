@@ -1,5 +1,5 @@
 ---
 title: "Wendl"
-url: /leipzig/wendl/
+url: /leipzig/wendl-schwarzackerstrasse/
 shop: Bäckerei
 ---

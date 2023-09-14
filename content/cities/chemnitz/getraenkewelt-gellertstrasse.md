@@ -1,5 +1,5 @@
 ---
 title: "GetränkeWelt"
-url: /chemnitz/getraenkewelt/
+url: /chemnitz/getraenkewelt-gellertstrasse/
 shop: Getränke
 ---

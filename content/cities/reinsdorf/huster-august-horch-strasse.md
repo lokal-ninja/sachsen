@@ -1,5 +1,5 @@
 ---
 title: "Huster"
-url: /reinsdorf/huster/
+url: /reinsdorf/huster-august-horch-strasse/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /grimma/edeka/
+url: /grimma/edeka-gabelsbergerstrasse/
 shop: Supermarkt
 ---

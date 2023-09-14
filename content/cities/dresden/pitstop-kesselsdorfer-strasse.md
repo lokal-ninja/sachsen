@@ -1,5 +1,5 @@
 ---
 title: "pitstop"
-url: /dresden/pitstop/
+url: /dresden/pitstop-kesselsdorfer-strasse/
 shop: Autowerkstatt
 ---

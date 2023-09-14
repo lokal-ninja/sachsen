@@ -1,5 +1,5 @@
 ---
 title: "Capito"
-url: /leipzig/capito/
+url: /leipzig/capito-gewandgaesschen/
 shop: Spielzeug
 ---

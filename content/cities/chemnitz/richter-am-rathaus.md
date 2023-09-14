@@ -1,5 +1,5 @@
 ---
 title: "Richter"
-url: /chemnitz/richter/
+url: /chemnitz/richter-am-rathaus/
 shop: Metzgerei
 ---

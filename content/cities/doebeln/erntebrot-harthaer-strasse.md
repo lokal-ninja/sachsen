@@ -1,5 +1,5 @@
 ---
 title: "Erntebrot"
-url: /doebeln/erntebrot/
+url: /doebeln/erntebrot-harthaer-strasse/
 shop: Bäckerei
 ---

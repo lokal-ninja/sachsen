@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /leipzig/obi/
+url: /leipzig/obi-brandenburger-strasse/
 shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brade"
-url: /riesa/brade/
+url: /riesa/brade-hauptstrasse/
 shop: Bäckerei
 ---

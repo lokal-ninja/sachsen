@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /chemnitz/dm/
+url: /chemnitz/dm-neumarkt/
 shop: Drogerie
 ---

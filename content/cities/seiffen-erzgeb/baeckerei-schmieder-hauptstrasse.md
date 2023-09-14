@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schmieder"
-url: /seiffen-erzgeb/baeckerei-schmieder/
+url: /seiffen-erzgeb/baeckerei-schmieder-hauptstrasse/
 shop: Bäckerei
 ---

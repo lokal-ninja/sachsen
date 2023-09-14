@@ -1,5 +1,5 @@
 ---
 title: "Groschupf"
-url: /chemnitz/groschupf/
+url: /chemnitz/groschupf-chopinstrasse/
 shop: Bäckerei
 ---

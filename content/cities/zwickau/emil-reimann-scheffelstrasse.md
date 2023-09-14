@@ -1,5 +1,5 @@
 ---
 title: "Emil Reimann"
-url: /zwickau/emil-reimann/
+url: /zwickau/emil-reimann-scheffelstrasse/
 shop: Bäckerei
 ---

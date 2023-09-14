@@ -1,5 +1,5 @@
 ---
 title: "Dreißig"
-url: /dresden/dreissig/
+url: /dresden/dreissig-hoyerswerdaer-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /goerlitz/aldi-nord/
+url: /goerlitz/aldi-nord-emmerichstrasse/
 shop: Supermarkt
 ---

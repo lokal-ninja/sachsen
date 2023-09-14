@@ -1,5 +1,5 @@
 ---
 title: "Möbius"
-url: /freiberg/moebius/
+url: /freiberg/moebius-forstweg/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Schneider"
-url: /chemnitz/autohaus-schneider/
+url: /chemnitz/autohaus-schneider-2/
 shop: Autohaus
 ---

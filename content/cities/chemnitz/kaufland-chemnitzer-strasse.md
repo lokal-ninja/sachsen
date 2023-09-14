@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /chemnitz/kaufland/
+url: /chemnitz/kaufland-chemnitzer-strasse/
 shop: Supermarkt
 ---

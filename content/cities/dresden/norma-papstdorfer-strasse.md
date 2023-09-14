@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /dresden/norma/
+url: /dresden/norma-papstdorfer-strasse/
 shop: Supermarkt
 ---

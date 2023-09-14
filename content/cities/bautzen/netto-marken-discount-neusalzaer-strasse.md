@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /bautzen/netto-marken-discount/
+url: /bautzen/netto-marken-discount-neusalzaer-strasse/
 shop: Supermarkt
 ---

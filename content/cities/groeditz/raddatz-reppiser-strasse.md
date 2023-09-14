@@ -1,5 +1,5 @@
 ---
 title: "Raddatz"
-url: /groeditz/raddatz/
+url: /groeditz/raddatz-reppiser-strasse/
 shop: Bäckerei
 ---

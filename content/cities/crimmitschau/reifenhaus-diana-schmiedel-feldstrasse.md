@@ -1,5 +1,5 @@
 ---
 title: "Reifenhaus Diana Schmiedel"
-url: /crimmitschau/reifenhaus-diana-schmiedel/
+url: /crimmitschau/reifenhaus-diana-schmiedel-feldstrasse/
 shop: Reifen
 ---

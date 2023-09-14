@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /meissen/vodafone/
+url: /meissen/vodafone-dresdner-strasse/
 shop: Handy
 ---

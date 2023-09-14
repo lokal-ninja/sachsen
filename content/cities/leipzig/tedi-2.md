@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /leipzig/tedi/
+url: /leipzig/tedi-2/
 shop: Kramladen
 ---

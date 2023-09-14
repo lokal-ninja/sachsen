@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /dresden/kik/
+url: /dresden/kik-pirnaer-landstrasse/
 shop: Kleidung
 ---

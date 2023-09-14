@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /dresden/netto/
+url: /dresden/netto-prohliser-allee/
 shop: Supermarkt
 ---

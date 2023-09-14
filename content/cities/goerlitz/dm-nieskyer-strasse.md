@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /goerlitz/dm/
+url: /goerlitz/dm-nieskyer-strasse/
 shop: Drogerie
 ---

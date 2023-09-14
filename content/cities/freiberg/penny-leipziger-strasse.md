@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /freiberg/penny/
+url: /freiberg/penny-leipziger-strasse/
 shop: Supermarkt
 ---

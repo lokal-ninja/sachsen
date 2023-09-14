@@ -1,5 +1,5 @@
 ---
 title: "Schwerdtner"
-url: /ebersbach-neugersdorf/schwerdtner/
+url: /ebersbach-neugersdorf/schwerdtner-hauptstrasse/
 shop: Bäckerei
 ---

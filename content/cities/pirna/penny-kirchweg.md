@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /pirna/penny/
+url: /pirna/penny-kirchweg/
 shop: Supermarkt
 ---

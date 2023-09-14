@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Walde"
-url: /bautzen/fleischerei-walde/
+url: /bautzen/fleischerei-walde-muskauer-strasse/
 shop: Metzgerei
 ---

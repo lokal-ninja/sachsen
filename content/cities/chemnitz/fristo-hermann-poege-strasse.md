@@ -1,5 +1,5 @@
 ---
 title: "Fristo"
-url: /chemnitz/fristo/
+url: /chemnitz/fristo-hermann-poege-strasse/
 shop: Getränke
 ---

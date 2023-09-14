@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /torgau/kaufland/
+url: /torgau/kaufland-turnierplatzweg/
 shop: Supermarkt
 ---

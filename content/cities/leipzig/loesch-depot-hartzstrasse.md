@@ -1,5 +1,5 @@
 ---
 title: "Lösch Depot"
-url: /leipzig/loesch-depot/
+url: /leipzig/loesch-depot-hartzstrasse/
 shop: Getränke
 ---

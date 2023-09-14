@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Elitzsch GmbH"
-url: /loebau/autohaus-elitzsch-gmbh/
+url: /loebau/autohaus-elitzsch-gmbh-weissenberger-strasse/
 shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /goerlitz/edeka/
+url: /goerlitz/edeka-friedrich-engels-strasse/
 shop: Großhandel
 ---

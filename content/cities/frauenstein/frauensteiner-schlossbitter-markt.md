@@ -1,5 +1,5 @@
 ---
 title: "Frauensteiner Schloßbitter"
-url: /frauenstein/frauensteiner-schlossbitter/
+url: /frauenstein/frauensteiner-schlossbitter-markt/
 shop: Kramladen
 ---

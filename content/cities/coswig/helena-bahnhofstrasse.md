@@ -1,5 +1,5 @@
 ---
 title: "Helena"
-url: /coswig/helena/
+url: /coswig/helena-bahnhofstrasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blumen Wandel"
-url: /leipzig/blumen-wandel/
+url: /leipzig/blumen-wandel-zschochersche-strasse/
 shop: Blumen
 ---

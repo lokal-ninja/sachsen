@@ -1,5 +1,5 @@
 ---
 title: "SportScheck"
-url: /dresden/sportscheck/
+url: /dresden/sportscheck-webergasse/
 shop: Sport
 ---

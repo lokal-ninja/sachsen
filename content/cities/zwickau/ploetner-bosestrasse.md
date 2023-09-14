@@ -1,5 +1,5 @@
 ---
 title: "Plötner"
-url: /zwickau/ploetner/
+url: /zwickau/ploetner-bosestrasse/
 shop: Bäckerei
 ---

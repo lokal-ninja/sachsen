@@ -1,5 +1,5 @@
 ---
 title: "Frida"
-url: /dresden/frida/
+url: /dresden/frida-dresdner-strasse/
 shop: Supermarkt
 ---

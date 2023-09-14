@@ -1,5 +1,5 @@
 ---
 title: "Einkaufsmarkt Rietschen"
-url: /rietschen/einkaufsmarkt-rietschen/
+url: /rietschen/einkaufsmarkt-rietschen-muskauer-strasse/
 shop: Allgemein
 ---

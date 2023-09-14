@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /chemnitz/rossmann/
+url: /chemnitz/rossmann-carl-von-ossietzky-strasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Förster"
-url: /zwickau/baeckerei-foerster/
+url: /zwickau/baeckerei-foerster-glauchauer-strasse/
 shop: Bäckerei
 ---

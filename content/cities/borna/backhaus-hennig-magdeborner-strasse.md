@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Hennig"
-url: /borna/backhaus-hennig/
+url: /borna/backhaus-hennig-magdeborner-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /zwickau/tipico/
+url: /zwickau/tipico-marienthaler-strasse/
 shop: Wettbüro
 ---

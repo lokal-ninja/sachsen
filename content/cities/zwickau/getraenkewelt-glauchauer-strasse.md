@@ -1,5 +1,5 @@
 ---
 title: "Getränkewelt"
-url: /zwickau/getraenkewelt/
+url: /zwickau/getraenkewelt-glauchauer-strasse/
 shop: Spirituosen
 ---

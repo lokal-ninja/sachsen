@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /dresden/tedi/
+url: /dresden/tedi-lockwitzer-strasse/
 shop: Kramladen
 ---

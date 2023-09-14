@@ -1,5 +1,5 @@
 ---
 title: "Highendsmoke"
-url: /dresden/highendsmoke/
+url: /dresden/highendsmoke-leipziger-strasse/
 shop: E-Zigaretten
 ---

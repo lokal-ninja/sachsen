@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /dresden/jysk/
+url: /dresden/jysk-grossenhainer-strasse/
 shop: Möbel
 ---

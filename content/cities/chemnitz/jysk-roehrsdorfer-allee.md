@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /chemnitz/jysk/
+url: /chemnitz/jysk-roehrsdorfer-allee/
 shop: Möbel
 ---

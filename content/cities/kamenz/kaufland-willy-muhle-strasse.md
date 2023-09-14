@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /kamenz/kaufland/
+url: /kamenz/kaufland-willy-muhle-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Weinhold"
-url: /chemnitz/autohaus-weinhold/
+url: /chemnitz/autohaus-weinhold-erzbergerstrasse/
 shop: Autohaus
 ---

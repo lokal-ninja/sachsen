@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /chemnitz/rewe/
+url: /chemnitz/rewe-annaberger-strasse/
 shop: Supermarkt
 ---

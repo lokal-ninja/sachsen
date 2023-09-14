@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Höfchen"
-url: /rietschen/baeckerei-hoefchen/
+url: /rietschen/baeckerei-hoefchen-goerlitzer-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Huster"
-url: /meerane/autohaus-huster/
+url: /meerane/autohaus-huster-guteborner-allee/
 shop: Autohaus
 ---

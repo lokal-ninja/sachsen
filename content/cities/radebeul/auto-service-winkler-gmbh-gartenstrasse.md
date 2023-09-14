@@ -1,5 +1,5 @@
 ---
 title: "Auto-Service Winkler GmbH"
-url: /radebeul/auto-service-winkler-gmbh/
+url: /radebeul/auto-service-winkler-gmbh-gartenstrasse/
 shop: Autohaus
 ---

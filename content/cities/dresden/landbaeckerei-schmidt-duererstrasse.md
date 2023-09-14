@@ -1,5 +1,5 @@
 ---
 title: "Landbäckerei Schmidt"
-url: /dresden/landbaeckerei-schmidt/
+url: /dresden/landbaeckerei-schmidt-duererstrasse/
 shop: Bäckerei
 ---

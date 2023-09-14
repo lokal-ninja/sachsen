@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /zwickau/netto-marken-discount/
+url: /zwickau/netto-marken-discount-heinrich-braun-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Groschupf"
-url: /meissen/groschupf/
+url: /meissen/groschupf-neugasse/
 shop: Bäckerei
 ---

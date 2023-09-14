@@ -1,5 +1,5 @@
 ---
 title: "Parfümerie Thiemann"
-url: /leipzig/parfuemerie-thiemann/
+url: /leipzig/parfuemerie-thiemann-2/
 shop: Parfümerie
 ---

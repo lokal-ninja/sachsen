@@ -1,5 +1,5 @@
 ---
 title: "Jano"
-url: /zgorzelec/jano/
+url: /zgorzelec/jano-bohaterow-getta/
 shop: Metzgerei
 ---

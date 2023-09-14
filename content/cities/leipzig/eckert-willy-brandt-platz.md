@@ -1,5 +1,5 @@
 ---
 title: "Eckert"
-url: /leipzig/eckert/
+url: /leipzig/eckert-willy-brandt-platz/
 shop: Bücher
 ---

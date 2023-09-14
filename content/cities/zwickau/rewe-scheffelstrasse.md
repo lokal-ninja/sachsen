@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /zwickau/rewe/
+url: /zwickau/rewe-scheffelstrasse/
 shop: Supermarkt
 ---

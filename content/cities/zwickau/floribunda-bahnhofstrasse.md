@@ -1,5 +1,5 @@
 ---
 title: "Floribunda"
-url: /zwickau/floribunda/
+url: /zwickau/floribunda-bahnhofstrasse/
 shop: Blumen
 ---

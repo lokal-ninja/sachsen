@@ -1,5 +1,5 @@
 ---
 title: "Brade"
-url: /meissen/brade/
+url: /meissen/brade-zaschendorfer-strasse/
 shop: Bäckerei
 ---

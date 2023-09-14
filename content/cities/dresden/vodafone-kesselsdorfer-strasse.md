@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /dresden/vodafone/
+url: /dresden/vodafone-kesselsdorfer-strasse/
 shop: Handy
 ---

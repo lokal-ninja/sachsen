@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /bautzen/netto-marken-discount/
+url: /bautzen/netto-marken-discount-frederic-joliot-curie-strasse/
 shop: Supermarkt
 ---

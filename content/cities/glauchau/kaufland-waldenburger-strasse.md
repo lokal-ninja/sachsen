@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /glauchau/kaufland/
+url: /glauchau/kaufland-waldenburger-strasse/
 shop: Supermarkt
 ---

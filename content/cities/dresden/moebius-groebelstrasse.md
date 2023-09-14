@@ -1,5 +1,5 @@
 ---
 title: "Möbius"
-url: /dresden/moebius/
+url: /dresden/moebius-groebelstrasse/
 shop: Bäckerei
 ---

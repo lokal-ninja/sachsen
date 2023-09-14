@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
-url: /leipzig/euromaster/
+url: /leipzig/euromaster-schomburgkstrasse/
 shop: Autowerkstatt
 ---

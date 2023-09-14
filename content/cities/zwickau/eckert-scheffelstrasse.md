@@ -1,5 +1,5 @@
 ---
 title: "Eckert"
-url: /zwickau/eckert/
+url: /zwickau/eckert-scheffelstrasse/
 shop: Schreibwaren
 ---

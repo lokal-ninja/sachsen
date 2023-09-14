@@ -1,5 +1,5 @@
 ---
 title: "Haar Galerie"
-url: /freital/haar-galerie/
+url: /freital/haar-galerie-rabenauer-strasse/
 shop: Friseur
 ---

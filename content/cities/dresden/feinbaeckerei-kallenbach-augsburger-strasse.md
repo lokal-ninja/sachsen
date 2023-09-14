@@ -1,5 +1,5 @@
 ---
 title: "Feinbäckerei Kallenbach"
-url: /dresden/feinbaeckerei-kallenbach/
+url: /dresden/feinbaeckerei-kallenbach-augsburger-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bauzentrum Reinholdshain"
-url: /dippoldiswalde/bauzentrum-reinholdshain/
+url: /dippoldiswalde/bauzentrum-reinholdshain-am-bauzentrum/
 shop: Baustoffe
 ---

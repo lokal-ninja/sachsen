@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /plauen/kaufland/
+url: /plauen/kaufland-alte-joessnitzer-strasse/
 shop: Supermarkt
 ---

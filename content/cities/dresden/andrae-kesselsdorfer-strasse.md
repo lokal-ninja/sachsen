@@ -1,5 +1,5 @@
 ---
 title: "Andrä"
-url: /dresden/andrae/
+url: /dresden/andrae-kesselsdorfer-strasse/
 shop: Bäckerei
 ---

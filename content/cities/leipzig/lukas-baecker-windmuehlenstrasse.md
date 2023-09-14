@@ -1,5 +1,5 @@
 ---
 title: "Lukas Bäcker"
-url: /leipzig/lukas-baecker/
+url: /leipzig/lukas-baecker-windmuehlenstrasse/
 shop: Bäckerei
 ---

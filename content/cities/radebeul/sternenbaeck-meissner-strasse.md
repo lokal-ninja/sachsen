@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /radebeul/sternenbaeck/
+url: /radebeul/sternenbaeck-meissner-strasse/
 shop: Bäckerei
 ---

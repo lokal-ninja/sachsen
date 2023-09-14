@@ -1,5 +1,5 @@
 ---
 title: "Krause"
-url: /dresden/krause/
+url: /dresden/krause-dorfstrasse/
 shop: Bäckerei
 ---

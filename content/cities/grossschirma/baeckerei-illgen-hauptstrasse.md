@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Illgen"
-url: /grossschirma/baeckerei-illgen/
+url: /grossschirma/baeckerei-illgen-hauptstrasse/
 shop: Bäckerei
 ---

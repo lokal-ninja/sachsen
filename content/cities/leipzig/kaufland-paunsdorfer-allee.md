@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /leipzig/kaufland/
+url: /leipzig/kaufland-paunsdorfer-allee/
 shop: Supermarkt
 ---

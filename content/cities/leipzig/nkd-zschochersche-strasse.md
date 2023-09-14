@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /leipzig/nkd/
+url: /leipzig/nkd-zschochersche-strasse/
 shop: Kleidung
 ---

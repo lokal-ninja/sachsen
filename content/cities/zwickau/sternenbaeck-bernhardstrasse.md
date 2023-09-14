@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /zwickau/sternenbaeck/
+url: /zwickau/sternenbaeck-bernhardstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tapir"
-url: /leipzig/tapir/
+url: /leipzig/tapir-georgiring/
 shop: Outdoor
 ---

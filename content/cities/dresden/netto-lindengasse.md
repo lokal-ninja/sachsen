@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /dresden/netto/
+url: /dresden/netto-lindengasse/
 shop: Supermarkt
 ---

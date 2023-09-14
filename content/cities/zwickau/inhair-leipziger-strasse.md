@@ -1,5 +1,5 @@
 ---
 title: "Inhair"
-url: /zwickau/inhair/
+url: /zwickau/inhair-leipziger-strasse/
 shop: Friseur
 ---

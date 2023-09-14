@@ -1,5 +1,5 @@
 ---
 title: "Brückner"
-url: /freital/brueckner/
+url: /freital/brueckner-wilsdruffer-strasse/
 shop: Autohaus
 ---

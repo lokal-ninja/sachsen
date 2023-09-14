@@ -1,5 +1,5 @@
 ---
 title: "HaarSpitze"
-url: /dresden/haarspitze/
+url: /dresden/haarspitze-guerickestrasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /chemnitz/aldi-nord/
+url: /chemnitz/aldi-nord-waldenburger-strasse/
 shop: Supermarkt
 ---

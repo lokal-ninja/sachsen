@@ -1,5 +1,5 @@
 ---
 title: "Mobilforum"
-url: /bischofswerda/mobilforum/
+url: /bischofswerda/mobilforum-bautzener-strasse/
 shop: Autowerkstatt
 ---

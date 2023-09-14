@@ -1,5 +1,5 @@
 ---
 title: "Wreesmann"
-url: /dresden/wreesmann/
+url: /dresden/wreesmann-seidnitzer-weg/
 shop: Kramladen
 ---

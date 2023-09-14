@@ -1,5 +1,5 @@
 ---
 title: "Petzold Backshop"
-url: /grossroehrsdorf/petzold-backshop/
+url: /grossroehrsdorf/petzold-backshop-pulsnitzer-strasse/
 shop: Bäckerei
 ---

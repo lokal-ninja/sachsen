@@ -1,5 +1,5 @@
 ---
 title: "toom Baumarkt"
-url: /leipzig/toom-baumarkt/
+url: /leipzig/toom-baumarkt-torgauer-strasse/
 shop: Baumarkt
 ---

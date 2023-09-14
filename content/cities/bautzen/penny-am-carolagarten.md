@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /bautzen/penny/
+url: /bautzen/penny-am-carolagarten/
 shop: Supermarkt
 ---

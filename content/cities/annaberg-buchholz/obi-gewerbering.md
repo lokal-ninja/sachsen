@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /annaberg-buchholz/obi/
+url: /annaberg-buchholz/obi-gewerbering/
 shop: Garten-Center
 ---

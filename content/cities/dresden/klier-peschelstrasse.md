@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /dresden/klier/
+url: /dresden/klier-peschelstrasse/
 shop: Friseur
 ---

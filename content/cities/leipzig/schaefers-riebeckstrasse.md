@@ -1,5 +1,5 @@
 ---
 title: "Schäfer's"
-url: /leipzig/schaefers/
+url: /leipzig/schaefers-riebeckstrasse/
 shop: Bäckerei
 ---

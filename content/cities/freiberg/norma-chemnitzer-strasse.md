@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /freiberg/norma/
+url: /freiberg/norma-chemnitzer-strasse/
 shop: Supermarkt
 ---

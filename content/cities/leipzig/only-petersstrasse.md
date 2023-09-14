@@ -1,5 +1,5 @@
 ---
 title: "ONLY"
-url: /leipzig/only/
+url: /leipzig/only-petersstrasse/
 shop: Kleidung
 ---

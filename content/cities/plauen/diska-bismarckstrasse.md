@@ -1,5 +1,5 @@
 ---
 title: "Diska"
-url: /plauen/diska/
+url: /plauen/diska-bismarckstrasse/
 shop: Supermarkt
 ---

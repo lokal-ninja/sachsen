@@ -1,5 +1,5 @@
 ---
 title: "Figaro"
-url: /dresden/figaro/
+url: /dresden/figaro-borsbergstrasse/
 shop: Kosmetik
 ---

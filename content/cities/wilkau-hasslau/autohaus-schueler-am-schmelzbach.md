@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Schüler"
-url: /wilkau-hasslau/autohaus-schueler/
+url: /wilkau-hasslau/autohaus-schueler-am-schmelzbach/
 shop: Autowerkstatt
 ---

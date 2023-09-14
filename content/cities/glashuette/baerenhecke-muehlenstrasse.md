@@ -1,5 +1,5 @@
 ---
 title: "Bärenhecke"
-url: /glashuette/baerenhecke/
+url: /glashuette/baerenhecke-muehlenstrasse/
 shop: Bäckerei
 ---

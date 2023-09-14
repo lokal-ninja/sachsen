@@ -1,5 +1,5 @@
 ---
 title: "Niebieszczańscy"
-url: /zgorzelec/niebieszczanscy/
+url: /zgorzelec/niebieszczanscy-stanislawa-wyspianskiego/
 shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /eilenburg/steinecke/
+url: /eilenburg/steinecke-grenzstrasse/
 shop: Bäckerei
 ---

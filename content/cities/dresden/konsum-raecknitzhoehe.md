@@ -1,5 +1,5 @@
 ---
 title: "Konsum"
-url: /dresden/konsum/
+url: /dresden/konsum-raecknitzhoehe/
 shop: Supermarkt
 ---

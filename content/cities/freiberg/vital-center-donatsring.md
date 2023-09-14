@@ -1,5 +1,5 @@
 ---
 title: "Vital-Center"
-url: /freiberg/vital-center/
+url: /freiberg/vital-center-donatsring/
 shop: Sanitätshaus
 ---

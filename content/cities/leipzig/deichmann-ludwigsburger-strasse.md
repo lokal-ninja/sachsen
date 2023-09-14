@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /leipzig/deichmann/
+url: /leipzig/deichmann-ludwigsburger-strasse/
 shop: Schuhe
 ---

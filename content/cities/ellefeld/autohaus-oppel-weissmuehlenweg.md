@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Oppel"
-url: /ellefeld/autohaus-oppel/
+url: /ellefeld/autohaus-oppel-weissmuehlenweg/
 shop: Autohaus
 ---

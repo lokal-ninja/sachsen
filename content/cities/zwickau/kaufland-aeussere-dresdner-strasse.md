@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /zwickau/kaufland/
+url: /zwickau/kaufland-aeussere-dresdner-strasse/
 shop: Supermarkt
 ---

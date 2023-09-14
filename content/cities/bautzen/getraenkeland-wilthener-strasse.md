@@ -1,5 +1,5 @@
 ---
 title: "Getränkeland"
-url: /bautzen/getraenkeland/
+url: /bautzen/getraenkeland-wilthener-strasse/
 shop: Getränke
 ---

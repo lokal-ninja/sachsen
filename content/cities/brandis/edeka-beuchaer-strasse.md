@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /brandis/edeka/
+url: /brandis/edeka-beuchaer-strasse/
 shop: Supermarkt
 ---

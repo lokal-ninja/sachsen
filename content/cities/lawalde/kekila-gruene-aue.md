@@ -1,5 +1,5 @@
 ---
 title: "Kekila"
-url: /lawalde/kekila/
+url: /lawalde/kekila-gruene-aue/
 shop: Hofladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /goerlitz/dm/
+url: /goerlitz/dm-reichenbacher-strasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /freiberg/netto/
+url: /freiberg/netto-chemnitzer-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Löser"
-url: /chemnitz/baeckerei-loeser/
+url: /chemnitz/baeckerei-loeser-frankenberger-strasse/
 shop: Bäckerei
 ---

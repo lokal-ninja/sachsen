@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /leipzig/tipico/
+url: /leipzig/tipico-karl-liebknecht-strasse/
 shop: Wettbüro
 ---

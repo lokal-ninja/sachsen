@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /zwickau/edeka/
+url: /zwickau/edeka-katharinenstrasse/
 shop: Supermarkt
 ---

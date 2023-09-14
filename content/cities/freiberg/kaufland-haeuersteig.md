@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /freiberg/kaufland/
+url: /freiberg/kaufland-haeuersteig/
 shop: Supermarkt
 ---

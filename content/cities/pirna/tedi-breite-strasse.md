@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /pirna/tedi/
+url: /pirna/tedi-breite-strasse/
 shop: Kramladen
 ---

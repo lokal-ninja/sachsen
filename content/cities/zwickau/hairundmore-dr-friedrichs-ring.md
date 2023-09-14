@@ -1,5 +1,5 @@
 ---
 title: "Hair&More"
-url: /zwickau/hairundmore/
+url: /zwickau/hairundmore-dr-friedrichs-ring/
 shop: Friseur
 ---

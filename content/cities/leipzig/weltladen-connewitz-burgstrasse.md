@@ -1,5 +1,5 @@
 ---
 title: "Weltladen Connewitz"
-url: /leipzig/weltladen-connewitz/
+url: /leipzig/weltladen-connewitz-burgstrasse/
 shop: Lebensmittel
 ---

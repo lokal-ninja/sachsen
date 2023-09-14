@@ -1,5 +1,5 @@
 ---
 title: "Mäc-Geiz"
-url: /dresden/maec-geiz/
+url: /dresden/maec-geiz-grossenhainer-strasse/
 shop: Kramladen
 ---

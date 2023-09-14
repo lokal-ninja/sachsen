@@ -1,5 +1,5 @@
 ---
 title: "Ottendorfer Mühlenbäcker"
-url: /koenigsbrueck/ottendorfer-muehlenbaecker/
+url: /koenigsbrueck/ottendorfer-muehlenbaecker-kornweg/
 shop: Bäckerei
 ---

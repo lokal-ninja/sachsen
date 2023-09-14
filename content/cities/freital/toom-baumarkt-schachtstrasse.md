@@ -1,5 +1,5 @@
 ---
 title: "toom Baumarkt"
-url: /freital/toom-baumarkt/
+url: /freital/toom-baumarkt-schachtstrasse/
 shop: Baumarkt
 ---

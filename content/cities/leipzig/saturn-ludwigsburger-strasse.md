@@ -1,5 +1,5 @@
 ---
 title: "Saturn"
-url: /leipzig/saturn/
+url: /leipzig/saturn-ludwigsburger-strasse/
 shop: Elektronik
 ---

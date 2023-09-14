@@ -1,5 +1,5 @@
 ---
 title: "Biedronka"
-url: /zgorzelec/biedronka/
+url: /zgorzelec/biedronka-jaroslawa-iwaszkiewicza/
 shop: Supermarkt
 ---

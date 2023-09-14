@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /leipzig/sternenbaeck/
+url: /leipzig/sternenbaeck-essener-strasse/
 shop: Bäckerei
 ---

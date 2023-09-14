@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /leipzig/rewe/
+url: /leipzig/rewe-paunsdorfer-allee/
 shop: Supermarkt
 ---

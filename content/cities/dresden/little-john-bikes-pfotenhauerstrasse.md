@@ -1,5 +1,5 @@
 ---
 title: "Little John Bikes"
-url: /dresden/little-john-bikes/
+url: /dresden/little-john-bikes-pfotenhauerstrasse/
 shop: Fahrrad
 ---

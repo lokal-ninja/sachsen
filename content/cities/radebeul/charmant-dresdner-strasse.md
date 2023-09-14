@@ -1,5 +1,5 @@
 ---
 title: "Charmant"
-url: /radebeul/charmant/
+url: /radebeul/charmant-dresdner-strasse/
 shop: Friseur
 ---

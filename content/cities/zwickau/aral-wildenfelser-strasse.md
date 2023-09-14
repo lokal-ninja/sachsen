@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /zwickau/aral/
+url: /zwickau/aral-wildenfelser-strasse/
 shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /chemnitz/klier/
+url: /chemnitz/klier-im-neefepark/
 shop: Friseur
 ---

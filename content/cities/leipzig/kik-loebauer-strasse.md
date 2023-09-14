@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /leipzig/kik/
+url: /leipzig/kik-loebauer-strasse/
 shop: Kleidung
 ---

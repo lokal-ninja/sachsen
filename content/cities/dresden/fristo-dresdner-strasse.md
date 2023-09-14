@@ -1,5 +1,5 @@
 ---
 title: "Fristo"
-url: /dresden/fristo/
+url: /dresden/fristo-dresdner-strasse/
 shop: Getränke
 ---

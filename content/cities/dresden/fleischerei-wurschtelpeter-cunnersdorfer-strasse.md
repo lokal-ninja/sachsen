@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Wurschtelpeter"
-url: /dresden/fleischerei-wurschtelpeter/
+url: /dresden/fleischerei-wurschtelpeter-cunnersdorfer-strasse/
 shop: Metzgerei
 ---

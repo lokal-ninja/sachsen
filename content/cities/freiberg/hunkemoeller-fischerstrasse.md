@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /freiberg/hunkemoeller/
+url: /freiberg/hunkemoeller-fischerstrasse/
 shop: Kleidung
 ---

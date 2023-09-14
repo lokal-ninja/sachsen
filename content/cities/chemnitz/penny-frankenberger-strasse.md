@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /chemnitz/penny/
+url: /chemnitz/penny-frankenberger-strasse/
 shop: Supermarkt
 ---

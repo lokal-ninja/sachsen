@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Bresan"
-url: /wittichenau/baeckerei-bresan/
+url: /wittichenau/baeckerei-bresan-kamenzer-strasse/
 shop: Bäckerei
 ---

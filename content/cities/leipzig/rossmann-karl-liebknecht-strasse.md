@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /leipzig/rossmann/
+url: /leipzig/rossmann-karl-liebknecht-strasse/
 shop: Drogerie
 ---

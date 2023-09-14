@@ -1,5 +1,5 @@
 ---
 title: "Konsum Leipzig"
-url: /leipzig/konsum-leipzig/
+url: /leipzig/konsum-leipzig-joergen-schmidtchen-weg/
 shop: Supermarkt
 ---

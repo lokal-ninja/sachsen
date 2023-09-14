@@ -1,5 +1,5 @@
 ---
 title: "Kexerei"
-url: /dresden/kexerei/
+url: /dresden/kexerei-peschelstrasse/
 shop: Konditorei
 ---

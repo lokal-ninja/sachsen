@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /dresden/kaufland/
+url: /dresden/kaufland-an-der-priessnitzaue/
 shop: Supermarkt
 ---

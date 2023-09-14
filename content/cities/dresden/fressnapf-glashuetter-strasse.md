@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /dresden/fressnapf/
+url: /dresden/fressnapf-glashuetter-strasse/
 shop: Tiere
 ---

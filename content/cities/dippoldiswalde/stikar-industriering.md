@@ -1,5 +1,5 @@
 ---
 title: "Stikar"
-url: /dippoldiswalde/stikar/
-shop: Autohaus
+url: /dippoldiswalde/stikar-industriering/
+shop: Autowerkstatt
 ---

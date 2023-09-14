@@ -1,5 +1,5 @@
 ---
 title: "Florizz"
-url: /goerlitz/florizz/
+url: /goerlitz/florizz-an-der-frauenkirche/
 shop: Blumen
 ---

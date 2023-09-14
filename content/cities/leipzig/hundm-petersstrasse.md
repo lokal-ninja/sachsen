@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /leipzig/hundm/
+url: /leipzig/hundm-petersstrasse/
 shop: Kleidung
 ---

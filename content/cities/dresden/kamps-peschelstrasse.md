@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /dresden/kamps/
+url: /dresden/kamps-peschelstrasse/
 shop: Bäckerei
 ---

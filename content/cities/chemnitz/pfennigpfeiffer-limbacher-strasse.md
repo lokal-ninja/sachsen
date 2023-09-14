@@ -1,5 +1,5 @@
 ---
 title: "Pfennigpfeiffer"
-url: /chemnitz/pfennigpfeiffer/
+url: /chemnitz/pfennigpfeiffer-limbacher-strasse/
 shop: Kramladen
 ---

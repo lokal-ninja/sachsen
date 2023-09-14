@@ -1,5 +1,5 @@
 ---
 title: "Arnold"
-url: /lommatzsch/arnold/
+url: /lommatzsch/arnold-jessener-strasse/
 shop: Bäckerei
 ---

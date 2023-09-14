@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /chemnitz/edeka/
+url: /chemnitz/edeka-weststrasse/
 shop: Supermarkt
 ---

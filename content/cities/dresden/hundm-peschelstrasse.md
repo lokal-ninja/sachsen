@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /dresden/hundm/
+url: /dresden/hundm-peschelstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /freital/vodafone/
+url: /freital/vodafone-dresdner-strasse/
 shop: Handy
 ---

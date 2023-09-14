@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /chemnitz/klier/
+url: /chemnitz/klier-annaberger-strasse/
 shop: Friseur
 ---

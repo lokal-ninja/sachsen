@@ -1,5 +1,5 @@
 ---
 title: "Landfleischerei Memmendorf"
-url: /oederan/landfleischerei-memmendorf/
+url: /oederan/landfleischerei-memmendorf-am-memmendorfer-park/
 shop: Metzgerei
 ---

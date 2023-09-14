@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /chemnitz/mediamarkt/
+url: /chemnitz/mediamarkt-thomas-mann-platz/
 shop: Elektronik
 ---

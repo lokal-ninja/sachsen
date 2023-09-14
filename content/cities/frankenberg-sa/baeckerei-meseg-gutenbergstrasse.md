@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Meseg"
-url: /frankenberg-sa/baeckerei-meseg/
+url: /frankenberg-sa/baeckerei-meseg-gutenbergstrasse/
 shop: Bäckerei
 ---

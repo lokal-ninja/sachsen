@@ -1,5 +1,5 @@
 ---
 title: "Blumenring"
-url: /chemnitz/blumenring/
+url: /chemnitz/blumenring-carl-von-ossietzky-strasse/
 shop: Blumen
 ---

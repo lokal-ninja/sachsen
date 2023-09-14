@@ -1,5 +1,5 @@
 ---
 title: "Biomarkt Knackfrisch"
-url: /chemnitz/biomarkt-knackfrisch/
+url: /chemnitz/biomarkt-knackfrisch-weststrasse/
 shop: Supermarkt
 ---

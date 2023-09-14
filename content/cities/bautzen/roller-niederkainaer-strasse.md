@@ -1,5 +1,5 @@
 ---
 title: "Roller"
-url: /bautzen/roller/
+url: /bautzen/roller-niederkainaer-strasse/
 shop: Möbel
 ---

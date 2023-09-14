@@ -1,5 +1,5 @@
 ---
 title: "Konzertkasse"
-url: /dresden/konzertkasse/
+url: /dresden/konzertkasse-ferdinandstrasse/
 shop: Tickets
 ---

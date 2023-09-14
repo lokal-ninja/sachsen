@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Floß"
-url: /lengenfeld/fleischerei-floss/
+url: /lengenfeld/fleischerei-floss-zwickauer-strasse/
 shop: Metzgerei
 ---

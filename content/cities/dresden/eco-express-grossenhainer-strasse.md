@@ -1,5 +1,5 @@
 ---
 title: "Eco-Express"
-url: /dresden/eco-express/
+url: /dresden/eco-express-grossenhainer-strasse/
 shop: Wäscherei
 ---

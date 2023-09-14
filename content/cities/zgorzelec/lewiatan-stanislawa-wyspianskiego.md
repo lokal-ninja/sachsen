@@ -1,5 +1,5 @@
 ---
 title: "Lewiatan"
-url: /zgorzelec/lewiatan/
+url: /zgorzelec/lewiatan-stanislawa-wyspianskiego/
 shop: Lebensmittel
 ---

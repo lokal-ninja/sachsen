@@ -1,5 +1,5 @@
 ---
 title: "Friseursalon"
-url: /zwenkau/friseursalon/
+url: /zwenkau/friseursalon-arthur-mahler-strasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /chemnitz/kik/
+url: /chemnitz/kik-2/
 shop: Kleidung
 ---

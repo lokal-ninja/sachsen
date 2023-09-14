@@ -1,5 +1,5 @@
 ---
 title: "Euronics"
-url: /aue-bad-schlema/euronics/
+url: /aue-bad-schlema/euronics-marksteig/
 shop: Elektronik
 ---

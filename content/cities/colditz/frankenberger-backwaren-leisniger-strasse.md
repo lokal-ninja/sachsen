@@ -1,5 +1,5 @@
 ---
 title: "Frankenberger Backwaren"
-url: /colditz/frankenberger-backwaren/
+url: /colditz/frankenberger-backwaren-leisniger-strasse/
 shop: Bäckerei
 ---

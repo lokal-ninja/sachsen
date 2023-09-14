@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Hennig"
-url: /leipzig/backhaus-hennig/
+url: /leipzig/backhaus-hennig-scharnhorststrasse/
 shop: Bäckerei
 ---

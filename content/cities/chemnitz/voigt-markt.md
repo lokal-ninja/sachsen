@@ -1,5 +1,5 @@
 ---
 title: "Voigt"
-url: /chemnitz/voigt/
+url: /chemnitz/voigt-markt/
 shop: Bäckerei
 ---

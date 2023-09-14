@@ -1,5 +1,5 @@
 ---
 title: "Hornbach"
-url: /dresden/hornbach/
+url: /dresden/hornbach-washingtonstrasse/
 shop: Baumarkt
 ---

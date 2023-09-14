@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /plauen/norma/
+url: /plauen/norma-joessnitzer-strasse/
 shop: Supermarkt
 ---

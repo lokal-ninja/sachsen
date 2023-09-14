@@ -1,5 +1,5 @@
 ---
 title: "Auto-Landgraf"
-url: /chemnitz/auto-landgraf/
+url: /chemnitz/auto-landgraf-hofer-strasse/
 shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Starschnitt"
-url: /dresden/starschnitt/
+url: /dresden/starschnitt-buenaustrasse/
 shop: Friseur
 ---

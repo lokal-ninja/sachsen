@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /zwickau/fressnapf/
+url: /zwickau/fressnapf-schubertstrasse/
 shop: Tiere
 ---

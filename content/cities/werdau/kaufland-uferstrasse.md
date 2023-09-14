@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /werdau/kaufland/
+url: /werdau/kaufland-uferstrasse/
 shop: Supermarkt
 ---

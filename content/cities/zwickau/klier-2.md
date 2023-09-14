@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /zwickau/klier/
+url: /zwickau/klier-2/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /doebeln/penny/
+url: /doebeln/penny-badische-strasse/
 shop: Supermarkt
 ---

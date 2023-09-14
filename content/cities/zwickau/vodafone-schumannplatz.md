@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /zwickau/vodafone/
+url: /zwickau/vodafone-schumannplatz/
 shop: Handy
 ---

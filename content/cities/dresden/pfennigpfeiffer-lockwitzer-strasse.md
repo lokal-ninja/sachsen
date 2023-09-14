@@ -1,5 +1,5 @@
 ---
 title: "Pfennigpfeiffer"
-url: /dresden/pfennigpfeiffer/
+url: /dresden/pfennigpfeiffer-lockwitzer-strasse/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wreesmann"
-url: /dresden/wreesmann/
+url: /dresden/wreesmann-am-urnenfeld/
 shop: Kramladen
 ---

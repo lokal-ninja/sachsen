@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Geißler"
-url: /ostritz/baeckerei-geissler/
+url: /ostritz/baeckerei-geissler-bahnhofstrasse/
 shop: Bäckerei
 ---

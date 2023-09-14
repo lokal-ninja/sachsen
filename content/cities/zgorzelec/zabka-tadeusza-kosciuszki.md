@@ -1,5 +1,5 @@
 ---
 title: "Żabka"
-url: /zgorzelec/zabka/
+url: /zgorzelec/zabka-tadeusza-kosciuszki/
 shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /dresden/thalia/
+url: /dresden/thalia-peschelstrasse/
 shop: Bücher
 ---

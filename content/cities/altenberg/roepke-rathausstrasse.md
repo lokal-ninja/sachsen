@@ -1,5 +1,5 @@
 ---
 title: "Röpke"
-url: /altenberg/roepke/
+url: /altenberg/roepke-rathausstrasse/
 shop: Allgemein
 ---

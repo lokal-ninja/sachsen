@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Pieprz"
-url: /hoyerswerda/baeckerei-pieprz/
+url: /hoyerswerda/baeckerei-pieprz-ackerstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Morgenstern"
-url: /pockau-lengefeld/baeckerei-morgenstern/
+url: /pockau-lengefeld/baeckerei-morgenstern-freiberger-strasse/
 shop: Bäckerei
 ---

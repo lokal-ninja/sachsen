@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /zwickau/penny/
+url: /zwickau/penny-hoelderlinstrasse/
 shop: Supermarkt
 ---

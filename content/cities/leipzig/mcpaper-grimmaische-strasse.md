@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /leipzig/mcpaper/
+url: /leipzig/mcpaper-grimmaische-strasse/
 shop: Schreibwaren
 ---

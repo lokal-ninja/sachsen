@@ -1,5 +1,5 @@
 ---
 title: "Schäfer's"
-url: /chemnitz/schaefers/
+url: /chemnitz/schaefers-bersarinstrasse/
 shop: Bäckerei
 ---

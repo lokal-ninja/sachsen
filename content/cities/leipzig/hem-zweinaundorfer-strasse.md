@@ -1,5 +1,5 @@
 ---
 title: "HEM"
-url: /leipzig/hem/
+url: /leipzig/hem-zweinaundorfer-strasse/
 shop: Lebensmittel
 ---

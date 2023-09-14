@@ -1,5 +1,5 @@
 ---
 title: "Schwerdtner"
-url: /dresden/schwerdtner/
+url: /dresden/schwerdtner-lockwitzer-strasse/
 shop: Bäckerei
 ---

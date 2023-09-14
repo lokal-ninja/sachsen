@@ -1,5 +1,5 @@
 ---
 title: "Löschdepot"
-url: /leipzig/loeschdepot/
+url: /leipzig/loeschdepot-schulweg/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pitstop"
-url: /dresden/pitstop/
+url: /dresden/pitstop-weinboehlaer-strasse/
 shop: Autowerkstatt
 ---

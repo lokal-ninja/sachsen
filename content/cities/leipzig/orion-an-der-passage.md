@@ -1,5 +1,5 @@
 ---
 title: "Orion"
-url: /leipzig/orion/
+url: /leipzig/orion-an-der-passage/
 shop: Erotik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Getränkewelt"
-url: /chemnitz/getraenkewelt/
+url: /chemnitz/getraenkewelt-arno-schreiter-strasse/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Claus"
-url: /dresden/baeckerei-claus/
+url: /dresden/baeckerei-claus-bremer-strasse/
 shop: Bäckerei
 ---

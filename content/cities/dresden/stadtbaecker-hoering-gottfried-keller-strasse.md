@@ -1,5 +1,5 @@
 ---
 title: "Stadtbäcker Höring"
-url: /dresden/stadtbaecker-hoering/
+url: /dresden/stadtbaecker-hoering-gottfried-keller-strasse/
 shop: Bäckerei
 ---

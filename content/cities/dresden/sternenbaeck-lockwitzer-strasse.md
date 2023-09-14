@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /dresden/sternenbaeck/
+url: /dresden/sternenbaeck-lockwitzer-strasse/
 shop: Bäckerei
 ---

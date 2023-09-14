@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /leipzig/kaufland/
+url: /leipzig/kaufland-2/
 shop: Supermarkt
 ---

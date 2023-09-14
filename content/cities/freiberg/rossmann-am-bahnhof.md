@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /freiberg/rossmann/
+url: /freiberg/rossmann-am-bahnhof/
 shop: Drogerie
 ---

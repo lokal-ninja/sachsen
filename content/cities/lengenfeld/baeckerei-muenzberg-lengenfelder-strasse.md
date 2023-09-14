@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Münzberg"
-url: /lengenfeld/baeckerei-muenzberg/
+url: /lengenfeld/baeckerei-muenzberg-lengenfelder-strasse/
 shop: Bäckerei
 ---

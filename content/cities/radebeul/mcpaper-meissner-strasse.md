@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /radebeul/mcpaper/
+url: /radebeul/mcpaper-meissner-strasse/
 shop: Schreibwaren
 ---

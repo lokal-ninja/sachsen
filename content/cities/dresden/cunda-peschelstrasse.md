@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /dresden/cunda/
+url: /dresden/cunda-peschelstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hellweg"
-url: /chemnitz/hellweg/
+url: /chemnitz/hellweg-werner-seelenbinder-strasse/
 shop: Baumarkt
 ---

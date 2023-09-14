@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /leipzig/norma/
+url: /leipzig/norma-grosser-marktweg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fristo"
-url: /leipzig/fristo/
+url: /leipzig/fristo-floessenstrasse/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /goerlitz/lidl/
+url: /goerlitz/lidl-reichenbacher-strasse/
 shop: Supermarkt
 ---

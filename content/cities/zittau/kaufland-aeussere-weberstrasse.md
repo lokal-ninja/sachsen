@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /zittau/kaufland/
+url: /zittau/kaufland-aeussere-weberstrasse/
 shop: Supermarkt
 ---

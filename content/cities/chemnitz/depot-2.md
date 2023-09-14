@@ -1,5 +1,5 @@
 ---
 title: "Depot"
-url: /chemnitz/depot/
+url: /chemnitz/depot-2/
 shop: Raumausstattung
 ---

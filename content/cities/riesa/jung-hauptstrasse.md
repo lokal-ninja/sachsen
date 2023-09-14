@@ -1,5 +1,5 @@
 ---
 title: "Jung"
-url: /riesa/jung/
+url: /riesa/jung-hauptstrasse/
 shop: Reisebüro
 ---

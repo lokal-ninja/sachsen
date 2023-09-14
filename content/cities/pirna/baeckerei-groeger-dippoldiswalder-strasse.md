@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Gröger"
-url: /pirna/baeckerei-groeger/
+url: /pirna/baeckerei-groeger-dippoldiswalder-strasse/
 shop: Bäckerei
 ---

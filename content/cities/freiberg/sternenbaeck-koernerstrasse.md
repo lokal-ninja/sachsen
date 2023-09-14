@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /freiberg/sternenbaeck/
+url: /freiberg/sternenbaeck-koernerstrasse/
 shop: Bäckerei
 ---

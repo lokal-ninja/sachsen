@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /leipzig/mediamarkt/
+url: /leipzig/mediamarkt-bruehl/
 shop: Elektronik
 ---

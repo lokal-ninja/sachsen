@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /chemnitz/lidl/
+url: /chemnitz/lidl-zwickauer-strasse-2/
 shop: Supermarkt
 ---

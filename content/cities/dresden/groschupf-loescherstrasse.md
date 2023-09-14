@@ -1,5 +1,5 @@
 ---
 title: "Groschupf"
-url: /dresden/groschupf/
+url: /dresden/groschupf-loescherstrasse/
 shop: Bäckerei
 ---

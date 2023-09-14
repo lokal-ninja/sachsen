@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /goerlitz/vodafone/
+url: /goerlitz/vodafone-demianiplatz/
 shop: Handy
 ---

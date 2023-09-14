@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schmidt"
-url: /rosswein/baeckerei-schmidt/
+url: /rosswein/baeckerei-schmidt-hasslauer-strasse/
 shop: Bäckerei
 ---

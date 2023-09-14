@@ -1,5 +1,5 @@
 ---
 title: "Mode-Kosmetik Cholet"
-url: /freiberg/mode-kosmetik-cholet/
+url: /freiberg/mode-kosmetik-cholet-burgstrasse/
 shop: Kosmetik
 ---

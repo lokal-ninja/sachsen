@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /schneeberg/nahkauf/
+url: /schneeberg/nahkauf-bruno-dost-strasse/
 shop: Supermarkt
 ---

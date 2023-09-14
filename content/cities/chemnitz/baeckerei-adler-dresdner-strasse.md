@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Adler"
-url: /chemnitz/baeckerei-adler/
+url: /chemnitz/baeckerei-adler-dresdner-strasse/
 shop: Bäckerei
 ---

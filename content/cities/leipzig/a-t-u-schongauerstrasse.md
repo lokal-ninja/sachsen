@@ -1,5 +1,5 @@
 ---
 title: "A.T.U"
-url: /leipzig/a-t-u/
+url: /leipzig/a-t-u-schongauerstrasse/
 shop: Autowerkstatt
 ---

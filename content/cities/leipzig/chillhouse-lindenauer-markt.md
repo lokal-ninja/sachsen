@@ -1,5 +1,5 @@
 ---
 title: "Chillhouse"
-url: /leipzig/chillhouse/
+url: /leipzig/chillhouse-lindenauer-markt/
 shop: Hanf
 ---

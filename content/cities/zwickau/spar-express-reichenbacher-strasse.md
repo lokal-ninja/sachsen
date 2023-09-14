@@ -1,5 +1,5 @@
 ---
 title: "Spar Express"
-url: /zwickau/spar-express/
+url: /zwickau/spar-express-reichenbacher-strasse/
 shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Richter"
-url: /goerlitz/fleischerei-richter/
+url: /goerlitz/fleischerei-richter-lausitzer-strasse/
 shop: Metzgerei
 ---

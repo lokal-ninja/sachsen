@@ -1,5 +1,5 @@
 ---
 title: "Fisch Heinrich"
-url: /meissen/fisch-heinrich/
+url: /meissen/fisch-heinrich-elbstrasse/
 shop: Fisch
 ---

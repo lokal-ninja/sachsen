@@ -1,5 +1,5 @@
 ---
 title: "Reimann"
-url: /chemnitz/reimann/
+url: /chemnitz/reimann-irkutsker-strasse/
 shop: Bäckerei
 ---

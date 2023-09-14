@@ -1,5 +1,5 @@
 ---
 title: "Charmant"
-url: /leipzig/charmant/
+url: /leipzig/charmant-bornaische-strasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lukas"
-url: /leipzig/lukas/
+url: /leipzig/lukas-karl-liebknecht-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pfützner"
-url: /dippoldiswalde/pfuetzner/
+url: /dippoldiswalde/pfuetzner-altenberger-strasse/
 shop: Bäckerei
 ---

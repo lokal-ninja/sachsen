@@ -1,5 +1,5 @@
 ---
 title: "Schreiberli"
-url: /dresden/schreiberli/
+url: /dresden/schreiberli-tolkewitzer-strasse/
 shop: Schreibwaren
 ---

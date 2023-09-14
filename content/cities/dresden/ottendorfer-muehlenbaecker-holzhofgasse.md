@@ -1,5 +1,5 @@
 ---
 title: "Ottendorfer Mühlenbäcker"
-url: /dresden/ottendorfer-muehlenbaecker/
+url: /dresden/ottendorfer-muehlenbaecker-holzhofgasse/
 shop: Bäckerei
 ---

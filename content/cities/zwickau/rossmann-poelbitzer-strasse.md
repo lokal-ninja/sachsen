@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /zwickau/rossmann/
+url: /zwickau/rossmann-poelbitzer-strasse/
 shop: Drogerie
 ---

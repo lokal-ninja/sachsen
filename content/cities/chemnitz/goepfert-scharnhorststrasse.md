@@ -1,5 +1,5 @@
 ---
 title: "Göpfert"
-url: /chemnitz/goepfert/
+url: /chemnitz/goepfert-scharnhorststrasse/
 shop: Bäckerei
 ---

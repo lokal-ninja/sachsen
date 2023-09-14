@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /goerlitz/sternenbaeck/
+url: /goerlitz/sternenbaeck-an-der-frauenkirche/
 shop: Bäckerei
 ---

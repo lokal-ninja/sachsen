@@ -1,5 +1,5 @@
 ---
 title: "Tinten-Toner-Tankstation"
-url: /dresden/tinten-toner-tankstation/
+url: /dresden/tinten-toner-tankstation-kesselsdorfer-strasse/
 shop: Kopieren
 ---

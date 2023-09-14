@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /dresden/obi/
+url: /dresden/obi-bodenbacher-strasse/
 shop: Baumarkt
 ---

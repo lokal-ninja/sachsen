@@ -1,5 +1,5 @@
 ---
 title: "Hilbersdorfer Fleischwaren"
-url: /halsbruecke/hilbersdorfer-fleischwaren/
+url: /halsbruecke/hilbersdorfer-fleischwaren-hauptstrasse/
 shop: Metzgerei
 ---

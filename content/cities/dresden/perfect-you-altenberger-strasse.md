@@ -1,5 +1,5 @@
 ---
 title: "Perfect You"
-url: /dresden/perfect-you/
+url: /dresden/perfect-you-altenberger-strasse/
 shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /dresden/rossmann/
+url: /dresden/rossmann-borsbergstrasse/
 shop: Drogerie
 ---

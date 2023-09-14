@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /dresden/sternenbaeck/
+url: /dresden/sternenbaeck-nuernberger-strasse/
 shop: Bäckerei
 ---

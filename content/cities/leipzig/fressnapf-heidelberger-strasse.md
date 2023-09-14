@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /leipzig/fressnapf/
+url: /leipzig/fressnapf-heidelberger-strasse/
 shop: Tiere
 ---

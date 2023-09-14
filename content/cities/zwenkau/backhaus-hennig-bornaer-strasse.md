@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Hennig"
-url: /zwenkau/backhaus-hennig/
+url: /zwenkau/backhaus-hennig-bornaer-strasse/
 shop: Bäckerei
 ---

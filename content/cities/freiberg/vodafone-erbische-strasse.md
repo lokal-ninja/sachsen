@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /freiberg/vodafone/
+url: /freiberg/vodafone-erbische-strasse/
 shop: Handy
 ---

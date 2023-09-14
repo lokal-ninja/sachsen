@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /pirna/rewe/
+url: /pirna/rewe-remscheider-strasse/
 shop: Supermarkt
 ---

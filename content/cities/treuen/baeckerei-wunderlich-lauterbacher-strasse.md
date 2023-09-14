@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Wunderlich"
-url: /treuen/baeckerei-wunderlich/
+url: /treuen/baeckerei-wunderlich-lauterbacher-strasse/
 shop: Bäckerei
 ---

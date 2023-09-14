@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /meissen/rossmann/
+url: /meissen/rossmann-grossenhainer-strasse/
 shop: Drogerie
 ---

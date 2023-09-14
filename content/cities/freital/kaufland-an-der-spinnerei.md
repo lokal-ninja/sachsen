@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /freital/kaufland/
+url: /freital/kaufland-an-der-spinnerei/
 shop: Supermarkt
 ---

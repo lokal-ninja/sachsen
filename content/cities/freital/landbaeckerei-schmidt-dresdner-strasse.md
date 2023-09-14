@@ -1,5 +1,5 @@
 ---
 title: "Landbäckerei Schmidt"
-url: /freital/landbaeckerei-schmidt/
+url: /freital/landbaeckerei-schmidt-dresdner-strasse/
 shop: Bäckerei
 ---

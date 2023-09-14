@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Krause"
-url: /dresden/baeckerei-krause/
+url: /dresden/baeckerei-krause-tittmannstrasse/
 shop: Bäckerei
 ---

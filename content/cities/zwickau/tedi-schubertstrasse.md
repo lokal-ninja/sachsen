@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /zwickau/tedi/
+url: /zwickau/tedi-schubertstrasse/
 shop: Kramladen
 ---

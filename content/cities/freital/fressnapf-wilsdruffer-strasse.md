@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /freital/fressnapf/
+url: /freital/fressnapf-wilsdruffer-strasse/
 shop: Tiere
 ---

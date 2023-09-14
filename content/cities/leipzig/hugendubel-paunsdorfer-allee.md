@@ -1,5 +1,5 @@
 ---
 title: "Hugendubel"
-url: /leipzig/hugendubel/
+url: /leipzig/hugendubel-paunsdorfer-allee/
 shop: Bücher
 ---

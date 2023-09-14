@@ -1,5 +1,5 @@
 ---
 title: "Diska"
-url: /chemnitz/diska/
+url: /chemnitz/diska-obere-hauptstrasse/
 shop: Supermarkt
 ---

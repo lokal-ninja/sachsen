@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /freiberg/rewe/
+url: /freiberg/rewe-am-bahnhof/
 shop: Supermarkt
 ---

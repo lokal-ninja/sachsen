@@ -1,5 +1,5 @@
 ---
 title: "Ditsch"
-url: /leipzig/ditsch/
+url: /leipzig/ditsch-paunsdorfer-allee/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Hüttel"
-url: /dippoldiswalde/autohaus-huettel/
+url: /dippoldiswalde/autohaus-huettel-dresdner-landstrasse/
 shop: Autowerkstatt
 ---

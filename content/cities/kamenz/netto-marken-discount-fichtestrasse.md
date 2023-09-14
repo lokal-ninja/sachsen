@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /kamenz/netto-marken-discount/
+url: /kamenz/netto-marken-discount-fichtestrasse/
 shop: Supermarkt
 ---

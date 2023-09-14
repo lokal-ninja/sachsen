@@ -1,5 +1,5 @@
 ---
 title: "PŸUR"
-url: /dresden/pyur/
+url: /dresden/pyur-wallstrasse/
 shop: Handy
 ---

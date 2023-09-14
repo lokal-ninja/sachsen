@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /zwickau/klier/
+url: /zwickau/klier-aeussere-dresdner-strasse/
 shop: Friseur
 ---

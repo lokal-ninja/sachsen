@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Kästner"
-url: /freiberg/baeckerei-kaestner/
+url: /freiberg/baeckerei-kaestner-poststrasse/
 shop: Bäckerei
 ---

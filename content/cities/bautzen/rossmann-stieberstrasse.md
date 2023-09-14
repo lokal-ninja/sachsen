@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /bautzen/rossmann/
+url: /bautzen/rossmann-stieberstrasse/
 shop: Drogerie
 ---

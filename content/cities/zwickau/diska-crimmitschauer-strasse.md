@@ -1,5 +1,5 @@
 ---
 title: "Diska"
-url: /zwickau/diska/
+url: /zwickau/diska-crimmitschauer-strasse/
 shop: Supermarkt
 ---

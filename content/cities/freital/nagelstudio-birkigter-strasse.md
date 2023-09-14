@@ -1,5 +1,5 @@
 ---
 title: "Nagelstudio"
-url: /freital/nagelstudio/
+url: /freital/nagelstudio-birkigter-strasse/
 shop: Kosmetik
 ---

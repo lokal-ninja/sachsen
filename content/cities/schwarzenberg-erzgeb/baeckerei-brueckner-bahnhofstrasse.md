@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Brückner"
-url: /schwarzenberg-erzgeb/baeckerei-brueckner/
+url: /schwarzenberg-erzgeb/baeckerei-brueckner-bahnhofstrasse/
 shop: Bäckerei
 ---

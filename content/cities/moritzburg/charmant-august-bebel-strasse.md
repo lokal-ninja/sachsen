@@ -1,5 +1,5 @@
 ---
 title: "Charmant"
-url: /moritzburg/charmant/
+url: /moritzburg/charmant-august-bebel-strasse/
 shop: Friseur
 ---

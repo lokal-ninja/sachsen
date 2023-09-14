@@ -1,5 +1,5 @@
 ---
 title: "Alippi"
-url: /leipzig/alippi/
+url: /leipzig/alippi-holzhaeuser-strasse/
 shop: Sanitätshaus
 ---

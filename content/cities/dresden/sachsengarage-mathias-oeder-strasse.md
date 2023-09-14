@@ -1,5 +1,5 @@
 ---
 title: "Sachsengarage"
-url: /dresden/sachsengarage/
+url: /dresden/sachsengarage-mathias-oeder-strasse/
 shop: Autohaus
 ---

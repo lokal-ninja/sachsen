@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Geipel"
-url: /auerbach/autohaus-geipel/
+url: /auerbach/autohaus-geipel-goeltzschtalstrasse/
 shop: Autowerkstatt
 ---

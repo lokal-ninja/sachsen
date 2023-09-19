@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
 url: /leipzig/aldi-nord/
-shop: Allgemein
+shop: Supermarkt
 ---

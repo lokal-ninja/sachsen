@@ -7,5 +7,5 @@ city: Meißen
 street: "Burgstraße"
 housenumber: 23
 phone: "+49 3521 4764825"
-opening_hours: "Mo closed; Tu-Fr 11:00-17:00; Sa 10:00-16:00; Su closed"
+opening_hours: "Mo off; Sa 10:00-16:00; Su off; Tu,We 11:00-17:00; Th,Fr 11:00-18:00"
 website: "https://www.buchladen-koester.de/"

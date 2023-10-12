@@ -1,5 +1,5 @@
 ---
-title: "Spiele-Max"
+title: "Spiele Max"
 url: /riesa/spiele-max/
 shop: Spielzeug
 ---

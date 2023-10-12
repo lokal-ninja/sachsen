@@ -1,6 +1,6 @@
 ---
 title: Krostitz
 url: /krostitz/
-latitude: 51.44
-longitude: 12.412
+latitude: 51.466
+longitude: 12.448
 ---

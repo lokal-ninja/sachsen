@@ -1,5 +1,5 @@
 ---
 title: "WÖHLK"
 url: /markersdorf/woehlk/
-shop: Baumarkt
+shop: Baustoffe
 ---

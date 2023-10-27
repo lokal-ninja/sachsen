@@ -1,11 +1,11 @@
-id: 8330610911
+id: 8215080625
 type: node
-latitude: 51.31909
-longitude: 12.41915
-postcode: "04299"
+latitude: 51.3756
+longitude: 12.41198
+postcode: "04357"
 city: Leipzig
-street: "Holzhäuser Straße"
-housenumber: 67
-phone: ""
-opening_hours: "Mo,Tu,Th 09:00-12:30, We,Fr 09:00-14:00, Mo,Tu,Th 13:30-18:00"
-website: ""
+street: "Mockauer Straße"
+housenumber: 123
+phone: "+49 341 6010024"
+opening_hours: "Mo-We 08:00-12:00,13:00-17:00; Th 08:00-12:00,13:00-18:00; Fr 08:00-14:00; PH off"
+website: "https://www.alippi.de"

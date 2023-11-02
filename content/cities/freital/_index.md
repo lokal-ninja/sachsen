@@ -1,6 +1,6 @@
 ---
 title: Freital
 url: /freital/
-latitude: 51.015
-longitude: 13.646
+latitude: 51.028
+longitude: 13.655
 ---

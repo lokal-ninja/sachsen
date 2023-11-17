@@ -1,11 +1,11 @@
-id: 3986154555
-type: node
-latitude: 50.91882
-longitude: 13.35043
+id: 116632975
+type: way
+latitude: 50.91924
+longitude: 13.35045
 postcode: "09599"
 city: Freiberg
 street: "Donatsring"
-housenumber: 2
-phone: "+49 3731 35744"
-opening_hours: "Mo-Fr 07:00-15:30"
+housenumber: 4
+phone: "+49373135744"
+opening_hours: "24/7"
 website: ""

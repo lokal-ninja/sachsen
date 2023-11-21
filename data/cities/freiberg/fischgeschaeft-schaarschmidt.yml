@@ -7,5 +7,5 @@ city: Freiberg
 street: "Kesselgasse"
 housenumber: 18
 phone: "+49 3731 23603"
-opening_hours: "Su,Mo,PH off; Tu-Fr 08:00-18:00; Sa 08:00-11:00"
+opening_hours: "PH,Su,Mo off; Tu-Fr 09:00-18:00; Sa 08:00-11:00"
 website: ""

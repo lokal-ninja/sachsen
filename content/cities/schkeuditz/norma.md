@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: "NORMA"
 url: /schkeuditz/norma/
 shop: Supermarkt
 ---

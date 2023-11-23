@@ -1,6 +1,6 @@
 ---
 title: Ebersbach-Neugersdorf
 url: /ebersbach-neugersdorf/
-latitude: 51.003
-longitude: 14.61
+latitude: 50.988
+longitude: 14.604
 ---

@@ -1,11 +1,11 @@
-id: 77862850
-type: way
-latitude: 51.35465
-longitude: 12.29309
-postcode: "04178"
+id: 501578985
+type: node
+latitude: 51.33989
+longitude: 12.37731
+postcode: "04109"
 city: Leipzig
-street: "Heinrich-Heine-Straße"
-housenumber: 39
+street: "Grimmaische Straße"
+housenumber: 15
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: ""
+website: ""

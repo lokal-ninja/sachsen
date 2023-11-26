@@ -1,6 +1,6 @@
 ---
 title: Oschatz
 url: /oschatz/
-latitude: 51.302
-longitude: 13.112
+latitude: 51.292
+longitude: 13.124
 ---

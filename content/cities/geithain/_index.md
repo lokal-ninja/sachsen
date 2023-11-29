@@ -1,6 +1,6 @@
 ---
 title: Geithain
 url: /geithain/
-latitude: 51.055
-longitude: 12.693
+latitude: 51.054
+longitude: 12.695
 ---

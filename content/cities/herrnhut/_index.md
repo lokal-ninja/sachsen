@@ -1,6 +1,6 @@
 ---
 title: Herrnhut
 url: /herrnhut/
-latitude: 51.02
-longitude: 14.739
+latitude: 51.021
+longitude: 14.737
 ---

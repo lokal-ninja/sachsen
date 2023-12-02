@@ -1,5 +1,5 @@
 ---
 title: "Floristenbedarf Bettin"
 url: /leipzig/floristenbedarf-bettin/
-shop: Supermarkt
+shop: Allgemein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Elsterberg
 url: /elsterberg/
-latitude: 50.614
+latitude: 50.613
 longitude: 12.169
 ---

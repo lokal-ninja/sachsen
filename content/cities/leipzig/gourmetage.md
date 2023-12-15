@@ -1,5 +1,5 @@
 ---
 title: "Gourmetage"
 url: /leipzig/gourmetage/
-shop: Lebensmittel
+shop: Feinkost
 ---

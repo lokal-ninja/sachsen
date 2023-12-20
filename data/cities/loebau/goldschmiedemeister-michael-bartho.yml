@@ -7,5 +7,5 @@ city: Löbau
 street: "Bahnhofstraße"
 housenumber: 12
 phone: "+49 3585 482005"
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: "Mo,We,Fr 09:00-14:00; Tu,Th 09:00-17:00; Sa,Su off"
 website: ""

@@ -7,5 +7,5 @@ city: Dresden
 street: "Görlitzer Straße"
 housenumber: 18b
 phone: ""
-opening_hours: "Mo-Th 10:00-00:00; Fr-Sa 10:00-22:00; Su 14:00-00:00"
+opening_hours: "Mo-Th 10:00-24:00; Su 14:00-24:00; Fr,Sa 10:00-24:00"
 website: ""

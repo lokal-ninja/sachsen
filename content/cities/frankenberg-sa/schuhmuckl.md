@@ -1,5 +1,5 @@
 ---
 title: "Schuhmuckl"
 url: /frankenberg-sa/schuhmuckl/
-shop: Schmuck
+shop: Schuhe
 ---

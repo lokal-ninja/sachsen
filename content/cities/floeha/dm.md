@@ -1,5 +1,5 @@
 ---
-title: "DM"
+title: "dm"
 url: /floeha/dm/
 shop: Drogerie
 ---

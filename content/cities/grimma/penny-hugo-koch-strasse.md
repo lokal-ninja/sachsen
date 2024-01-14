@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
 url: /grimma/penny-hugo-koch-strasse/
-shop: Allgemein
+shop: Supermarkt
 ---

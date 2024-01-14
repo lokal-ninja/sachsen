@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /leipzig/lidl/
-shop: Allgemein
+shop: Supermarkt
 ---

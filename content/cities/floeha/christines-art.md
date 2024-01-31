@@ -1,5 +1,5 @@
 ---
 title: "Christines Art"
 url: /floeha/christines-art/
-shop: Modehaus
+shop: Kleidung
 ---

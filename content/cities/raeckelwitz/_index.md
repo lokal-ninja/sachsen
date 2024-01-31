@@ -1,6 +1,6 @@
 ---
 title: Räckelwitz
 url: /raeckelwitz/
-latitude: 51.257
-longitude: 14.224
+latitude: 51.256
+longitude: 14.223
 ---

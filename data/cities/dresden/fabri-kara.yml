@@ -7,5 +7,5 @@ city: Dresden
 street: "Papstdorfer Straße"
 housenumber: 9
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Th 10:00-16:00; Sa[-1] 10:00-13:00; PH off"
+opening_hours: "Mo 10:00-13:00,14:00-18:00; Tu 10:00-16:00; We 10:00-13:00,14:00-18:00; Th 10:00-16:00; Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00; Sa[-1] off"
 website: "https://fabrikara.de/"

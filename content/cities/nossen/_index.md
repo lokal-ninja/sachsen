@@ -1,6 +1,6 @@
 ---
 title: Nossen
 url: /nossen/
-latitude: 51.057
-longitude: 13.299
+latitude: 51.059
+longitude: 13.291
 ---

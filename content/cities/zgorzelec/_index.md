@@ -1,6 +1,6 @@
 ---
 title: Zgorzelec
 url: /zgorzelec/
-latitude: 51.149
-longitude: 15.007
+latitude: 51.151
+longitude: 15.004
 ---

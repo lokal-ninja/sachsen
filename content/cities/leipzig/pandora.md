@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /leipzig/pandora/
-shop: Kleidung
+shop: Schmuck
 ---

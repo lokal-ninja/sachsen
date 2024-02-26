@@ -1,11 +1,11 @@
 id: 2128950526
 type: node
-latitude: 51.34347
-longitude: 12.37588
+latitude: 51.34367
+longitude: 12.37614
 postcode: "04109"
 city: Leipzig
 street: "Brühl"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:30"
-website: ""
+opening_hours: "Mo-Sa 09:30-20:00"
+website: "https://www.dm.de/store/d39b/leipzig/bruehl-1"

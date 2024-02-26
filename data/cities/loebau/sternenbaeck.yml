@@ -7,5 +7,5 @@ city: Löbau
 street: "Bahnhofstraße"
 housenumber: 15
 phone: "+49 3585 862443"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00"
-website: "https://www.sternenbaeck.de/unsere-filialen/detail/filial-finder/loebau/"
+opening_hours: "Mo-Fr 06:30-17:00; Sa 06:30-11:00"
+website: "https://www.sternenbaeck.de/unsere-filialen/detail?tx_zwbisdreifilialen_filialliste%5Baction%5D=detail&tx_zwbisdreifilialen_filialliste%5Bcontroller%5D=Filialen&tx_zwbisdreifilialen_filialliste%5Bfiliale%5D=3&cHash=b13eef24a881224eb1db477ab8820457"

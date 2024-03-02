@@ -1,11 +1,11 @@
-id: 77862850
-type: way
-latitude: 51.35465
-longitude: 12.29309
-postcode: "04178"
+id: 252441137
+type: node
+latitude: 51.32884
+longitude: 12.34399
+postcode: "04229"
 city: Leipzig
-street: "Heinrich-Heine-Straße"
-housenumber: 39
+street: "Nonnenstraße"
+housenumber: 15
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+website: ""

@@ -1,6 +1,6 @@
 ---
 title: Steina
 url: /steina/
-latitude: 51.199
-longitude: 14.059
+latitude: 51.2
+longitude: 14.056
 ---

@@ -1,11 +1,11 @@
 id: 8461971022
 type: node
-latitude: 51.32175
-longitude: 12.41633
+latitude: 51.32177
+longitude: 12.41636
 postcode: "04299"
 city: Leipzig
 street: "Weißestraße"
-housenumber: 5
-phone: "+49 8633211"
-opening_hours: "24/7"
-website: ""
+housenumber: 
+phone: "+49 341 8633211"
+opening_hours: "mo-fr 8:00-16:00"
+website: "https://www.bestattungen-sack.de/"

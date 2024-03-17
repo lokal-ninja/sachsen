@@ -1,11 +1,11 @@
 id: 983272729
 type: node
-latitude: 51.15227
-longitude: 14.98641
+latitude: 51.15229
+longitude: 14.98633
 postcode: "02826"
 city: Görlitz
 street: "Postplatz"
-housenumber: 19:20:21
+housenumber: 19;20;21
 phone: "+49 3581 649382"
 opening_hours: "PH,Mo-Su 07:00-18:00"
 website: "https://www.baeckerei-dreissig.de"

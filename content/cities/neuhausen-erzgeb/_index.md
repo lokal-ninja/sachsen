@@ -1,6 +1,6 @@
 ---
 title: Neuhausen/Erzgeb.
 url: /neuhausen-erzgeb/
-latitude: 50.676
-longitude: 13.462
+latitude: 50.674
+longitude: 13.465
 ---

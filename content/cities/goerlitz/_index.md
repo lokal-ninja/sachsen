@@ -1,6 +1,6 @@
 ---
 title: Görlitz
 url: /goerlitz/
-latitude: 51.17
-longitude: 14.972
+latitude: 51.148
+longitude: 14.946
 ---

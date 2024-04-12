@@ -1,5 +1,5 @@
 ---
 title: "Gärtnerei Rudolph"
 url: /hainewalde/gaertnerei-rudolph/
-shop: Blumen
+shop: Garten-Center
 ---

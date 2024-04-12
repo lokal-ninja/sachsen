@@ -1,6 +1,6 @@
 ---
 title: Annaberg-Buchholz
 url: /annaberg-buchholz/
-latitude: 50.598
-longitude: 13.02
+latitude: 50.564
+longitude: 13.009
 ---

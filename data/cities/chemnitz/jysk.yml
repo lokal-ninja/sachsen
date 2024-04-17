@@ -1,11 +1,11 @@
-id: 4535422389
-type: node
-latitude: 50.83311
-longitude: 12.92298
-postcode: "09111"
+id: 96693285
+type: way
+latitude: 50.86714
+longitude: 12.86004
+postcode: "09247"
 city: Chemnitz
-street: "Johannisplatz"
-housenumber: 8
+street: "Röhrsdorfer Allee"
+housenumber: 4a
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30, Sa 09:30-18:00"
+opening_hours: ""
 website: ""

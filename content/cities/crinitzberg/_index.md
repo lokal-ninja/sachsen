@@ -1,6 +1,6 @@
 ---
 title: Crinitzberg
 url: /crinitzberg/
-latitude: 50.561
-longitude: 12.488
+latitude: 50.574
+longitude: 12.541
 ---

@@ -1,11 +1,11 @@
-id: 538846168
-type: way
-latitude: 50.49913
-longitude: 12.13648
-postcode: "08523"
+id: 6177905939
+type: node
+latitude: 50.51404
+longitude: 12.1256
+postcode: "08525"
 city: Plauen
-street: "Bahnhofstraße"
-housenumber: 23
+street: "Morgenbergstraße"
+housenumber: 41
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: ""
 website: ""

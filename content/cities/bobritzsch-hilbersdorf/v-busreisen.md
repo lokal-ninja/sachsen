@@ -1,5 +1,5 @@
 ---
-title: "V.  Busreisen"
+title: "V. Busreisen"
 url: /bobritzsch-hilbersdorf/v-busreisen/
 shop: Reisebüro
 ---

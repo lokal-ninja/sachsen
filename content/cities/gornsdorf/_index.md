@@ -1,6 +1,6 @@
 ---
 title: Gornsdorf
 url: /gornsdorf/
-latitude: 50.717
-longitude: 12.885
+latitude: 50.723
+longitude: 12.896
 ---

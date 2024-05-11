@@ -1,5 +1,5 @@
 ---
-title: "Bäckerei & Cafe Eckert"
+title: "Bäckerei & Café Eckert"
 url: /dresden/baeckerei-und-cafe-eckert/
 shop: Bäckerei
 ---

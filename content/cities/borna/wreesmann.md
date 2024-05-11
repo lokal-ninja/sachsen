@@ -1,5 +1,5 @@
 ---
 title: "Wreesmann"
 url: /borna/wreesmann/
-shop: Supermarkt
+shop: Kramladen
 ---

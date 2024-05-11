@@ -1,6 +1,6 @@
 ---
 title: Borna
 url: /borna/
-latitude: 51.116
-longitude: 12.485
+latitude: 51.124
+longitude: 12.492
 ---

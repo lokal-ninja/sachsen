@@ -1,5 +1,5 @@
 ---
-title: "allerlei Leben"
+title: "Allerlei Leben"
 url: /zwickau/allerlei-leben/
 shop: Andenken
 ---

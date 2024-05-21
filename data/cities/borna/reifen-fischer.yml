@@ -7,5 +7,5 @@ city: Borna
 street: "Fabrikstraße"
 housenumber: 20
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: "Mo,We,Fr 08:00-12:30,13:00-16:00; Tu,Th 10:00-12:30,13:00-18:00; Sa,Su,PH off"
 website: ""

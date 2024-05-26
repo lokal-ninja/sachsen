@@ -7,5 +7,5 @@ city: Bennewitz
 street: "Leipziger Straße"
 housenumber: 24
 phone: "+493425 9110720"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00"
+opening_hours: "Tu,We,Th,Fr 09:00-18:00; Mo,Su off; Sa 09:00-12:00"
 website: "https://grupetto.de/"

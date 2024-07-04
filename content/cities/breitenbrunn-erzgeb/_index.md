@@ -1,6 +1,6 @@
 ---
 title: Breitenbrunn/Erzgeb.
 url: /breitenbrunn-erzgeb/
-latitude: 50.478
-longitude: 12.744
+latitude: 50.503
+longitude: 12.757
 ---

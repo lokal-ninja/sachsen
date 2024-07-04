@@ -1,11 +1,11 @@
-id: 611203299
-type: node
-latitude: 50.58472
-longitude: 12.76039
+id: 60609583
+type: way
+latitude: 50.56469
+longitude: 12.73502
 postcode: "08315"
 city: Lauter-Bernsbach
-street: "Auer Straße"
-housenumber: 8
+street: "Alte Auer Straße"
+housenumber: 27
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: ""
+website: ""

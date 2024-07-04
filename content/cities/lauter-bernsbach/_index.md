@@ -1,6 +1,6 @@
 ---
 title: Lauter-Bernsbach
 url: /lauter-bernsbach/
-latitude: 50.585
-longitude: 12.76
+latitude: 50.565
+longitude: 12.731
 ---

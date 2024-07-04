@@ -1,6 +1,6 @@
 ---
 title: Radibor
 url: /radibor/
-latitude: 51.245
-longitude: 14.398
+latitude: 51.298
+longitude: 14.454
 ---

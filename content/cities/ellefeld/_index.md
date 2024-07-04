@@ -1,6 +1,6 @@
 ---
 title: Ellefeld
 url: /ellefeld/
-latitude: 50.487
-longitude: 12.38
+latitude: 50.488
+longitude: 12.392
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zum Willi"
 url: /leipzig/zum-willi/
-shop: Leerstehend
+shop: Kiosk
 ---

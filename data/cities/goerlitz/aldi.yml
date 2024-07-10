@@ -1,11 +1,11 @@
-id: 195526951
-type: way
-latitude: 51.14906
-longitude: 14.94727
-postcode: "02827"
+id: 279575900
+type: node
+latitude: 51.17001
+longitude: 14.9707
+postcode: "02828"
 city: Görlitz
-street: "Reichenbacher Straße"
-housenumber: 106
+street: "Nieskyer Straße"
+housenumber: 100
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://www.aldi-nord.de"

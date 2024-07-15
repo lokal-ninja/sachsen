@@ -1,11 +1,11 @@
-id: 434233254
-type: way
-latitude: 51.3671
-longitude: 14.30875
+id: 12051421106
+type: node
+latitude: 51.367
+longitude: 14.30874
 postcode: "02999"
 city: Lohsa
 street: "Hauptstraße"
 housenumber: 20
 phone: "+49 35726 55595"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-11:00"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-11:00; PH off"
 website: "https://blumen-zschorlich.de/"

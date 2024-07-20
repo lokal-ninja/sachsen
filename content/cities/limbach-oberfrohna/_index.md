@@ -1,6 +1,6 @@
 ---
 title: Limbach-Oberfrohna
 url: /limbach-oberfrohna/
-latitude: 50.856
-longitude: 12.765
+latitude: 50.885
+longitude: 12.663
 ---

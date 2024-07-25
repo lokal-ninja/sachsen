@@ -1,6 +1,6 @@
 ---
 title: Weißenberg
 url: /weissenberg/
-latitude: 51.196
-longitude: 14.659
+latitude: 51.197
+longitude: 14.661
 ---

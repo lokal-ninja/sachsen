@@ -1,6 +1,6 @@
 ---
 title: Klingenberg
 url: /klingenberg/
-latitude: 50.886
-longitude: 13.586
+latitude: 50.843
+longitude: 13.52
 ---

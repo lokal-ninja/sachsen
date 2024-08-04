@@ -7,5 +7,5 @@ city: Dresden
 street: "Wallstraße"
 housenumber: 17
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; We,Sa off"
+opening_hours: "Mo,Tu,Th,Fr 10:00-18:00; We,Sa,Su,PH off"
 website: "https://zeitlos-dresden.de/"

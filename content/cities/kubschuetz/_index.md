@@ -1,6 +1,6 @@
 ---
 title: Kubschütz
 url: /kubschuetz/
-latitude: 51.165
-longitude: 14.505
+latitude: 51.176
+longitude: 14.495
 ---

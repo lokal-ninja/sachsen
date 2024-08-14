@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "PENNY."
 url: /zittau/penny/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kinderwagencenter"
 url: /leipzig/kinderwagencenter/
-shop: Supermarkt
+shop: Babysachen
 ---

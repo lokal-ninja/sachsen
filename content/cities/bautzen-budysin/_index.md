@@ -1,6 +1,6 @@
 ---
 title: Bautzen - Budyšin
 url: /bautzen-budysin/
-latitude: 51.182
-longitude: 14.426
+latitude: 51.18
+longitude: 14.425
 ---

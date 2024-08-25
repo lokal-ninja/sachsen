@@ -1,6 +1,6 @@
 ---
 title: Muldenhammer
 url: /muldenhammer/
-latitude: 50.46
-longitude: 12.491
+latitude: 50.445
+longitude: 12.512
 ---

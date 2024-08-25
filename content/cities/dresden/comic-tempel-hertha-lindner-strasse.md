@@ -1,5 +1,5 @@
 ---
 title: "Comic-Tempel"
 url: /dresden/comic-tempel-hertha-lindner-strasse/
-shop: Spielzeug
+shop: Bücher
 ---

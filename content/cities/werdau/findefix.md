@@ -1,5 +1,5 @@
 ---
 title: "Findefix"
 url: /werdau/findefix/
-shop: Andenken
+shop: Haushaltsartikel
 ---

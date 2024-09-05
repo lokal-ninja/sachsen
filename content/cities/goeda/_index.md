@@ -1,6 +1,6 @@
 ---
 title: Göda
 url: /goeda/
-latitude: 51.173
-longitude: 14.363
+latitude: 51.223
+longitude: 14.303
 ---

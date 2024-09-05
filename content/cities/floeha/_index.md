@@ -1,6 +1,6 @@
 ---
 title: Flöha
 url: /floeha/
-latitude: 50.856
-longitude: 13.073
+latitude: 50.852
+longitude: 13.076
 ---

@@ -4,8 +4,8 @@ latitude: 51.14868
 longitude: 14.98707
 postcode: "02826"
 city: Görlitz
-street: "Wilhelmsplatz"
-housenumber: 8
+street: Wilhelmsplatz
+housenumber: "8"
 phone: ""
-opening_hours: "call and collect, 2021-03"
+opening_hours: '"call and collect, 2021-03"'
 website: ""

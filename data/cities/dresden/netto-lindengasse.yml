@@ -1,11 +1,11 @@
 id: 23003455
-type: way
+type: node
 latitude: 51.04217
 longitude: 13.7404
 postcode: "01069"
 city: Dresden
-street: "Lindengasse"
-housenumber: 8
+street: Lindengasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.netto.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.netto.de/

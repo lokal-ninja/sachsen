@@ -1,11 +1,11 @@
 id: 199094756
-type: way
+type: node
 latitude: 50.84932
 longitude: 12.46046
 postcode: "08393"
 city: Meerane
-street: "Badener Straße"
-housenumber: 23
+street: Badener Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
 website: ""

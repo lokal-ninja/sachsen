@@ -4,8 +4,8 @@ latitude: 50.97836
 longitude: 13.62604
 postcode: "01705"
 city: Freital
-street: "Hainsberger Straße"
-housenumber: 14
-phone: "+49 351 6418803"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-14:00"
-website: "http://www.bikepoint.de/bikepoint-dresden-filialen/bikepoint-filiale-freital.html"
+street: Hainsberger Straße
+housenumber: "14"
+phone: +49 351 6418803
+opening_hours: Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-14:00
+website: http://www.bikepoint.de/bikepoint-dresden-filialen/bikepoint-filiale-freital.html

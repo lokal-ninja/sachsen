@@ -4,8 +4,8 @@ latitude: 51.52436
 longitude: 12.33783
 postcode: "04509"
 city: Delitzsch
-street: "Marienstraße"
-housenumber: 3
-phone: "+49 34202 62531"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.motorrad-naujocks.de/de"
+street: Marienstraße
+housenumber: "3"
+phone: +49 34202 62531
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.motorrad-naujocks.de/de

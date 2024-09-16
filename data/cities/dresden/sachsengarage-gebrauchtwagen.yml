@@ -1,11 +1,11 @@
 id: 103759492
-type: way
+type: node
 latitude: 51.03406
 longitude: 13.70299
 postcode: "01159"
 city: Dresden
-street: "Reisewitzer Straße"
-housenumber: 82
-phone: "+49 351 42010"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-13:30"
-website: "https://sachsengarage.de/"
+street: Reisewitzer Straße
+housenumber: "82"
+phone: +49 351 42010
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-13:30
+website: https://sachsengarage.de/

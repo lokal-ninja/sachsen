@@ -4,8 +4,8 @@ latitude: 50.72411
 longitude: 12.4431
 postcode: "08060"
 city: Zwickau
-street: "Waldstraße"
-housenumber: 6
+street: Waldstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu, Th 09:00-18:00, We 09:00-15:00, Fr 09:00-16:00"
+opening_hours: Tu, Th 09:00-18:00, We 09:00-15:00, Fr 09:00-16:00
 website: ""

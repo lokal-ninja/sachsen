@@ -1,11 +1,11 @@
 id: 123567752
-type: way
+type: node
 latitude: 50.41928
 longitude: 12.96832
 postcode: "09484"
 city: Kurort Oberwiesenthal
-street: "Karlsbader Straße"
-housenumber: 14
+street: Karlsbader Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 09:00-17:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 09:00-17:00
 website: ""

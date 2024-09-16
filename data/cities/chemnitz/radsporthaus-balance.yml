@@ -4,8 +4,8 @@ latitude: 50.82708
 longitude: 12.90458
 postcode: "09112"
 city: Chemnitz
-street: "Ahornstraße"
-housenumber: 39
+street: Ahornstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-13:00
 website: ""

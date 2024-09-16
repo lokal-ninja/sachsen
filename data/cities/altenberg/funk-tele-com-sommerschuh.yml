@@ -4,8 +4,8 @@ latitude: 50.76382
 longitude: 13.76217
 postcode: "01773"
 city: Altenberg
-street: "Anton-Unger-Straße"
-housenumber: 3
-phone: "+49 35056 35711"
-opening_hours: "Mo-Fr 07:30-16:00"
-website: "https://funk-tele-com.de/"
+street: Anton-Unger-Straße
+housenumber: "3"
+phone: +49 35056 35711
+opening_hours: Mo-Fr 07:30-16:00
+website: https://funk-tele-com.de/

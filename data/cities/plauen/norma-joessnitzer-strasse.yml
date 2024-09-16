@@ -1,11 +1,11 @@
 id: 99521273
-type: way
+type: node
 latitude: 50.51277
 longitude: 12.14628
 postcode: "08525"
 city: Plauen
-street: "Jößnitzer Straße"
-housenumber: 120
+street: Jößnitzer Straße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

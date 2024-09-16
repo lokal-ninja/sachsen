@@ -1,11 +1,11 @@
 id: 154063882
-type: way
+type: node
 latitude: 51.14906
 longitude: 14.06964
 postcode: "01900"
 city: Großröhrsdorf
-street: "Bischofswerdaer Straße"
-housenumber: 118
+street: Bischofswerdaer Straße
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 113789316
-type: way
+type: node
 latitude: 50.56444
 longitude: 13.01122
 postcode: "09456"
 city: Annaberg-Buchholz
-street: "Oberwiesenthaler Weg"
-housenumber: 4
-phone: "+49 3733 27077"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.getraenkewelt.de/index.php?gwdetails2&idvote=82"
+street: Oberwiesenthaler Weg
+housenumber: "4"
+phone: +49 3733 27077
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.getraenkewelt.de/index.php?gwdetails2&idvote=82

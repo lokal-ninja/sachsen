@@ -1,11 +1,11 @@
 id: 731260869
-type: way
+type: node
 latitude: 50.70748
 longitude: 12.50019
 postcode: "08056"
 city: Zwickau
-street: "Oskar-Arnold-Straße"
-housenumber: 14
-phone: "+49 375 2704745"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dm.de"
+street: Oskar-Arnold-Straße
+housenumber: "14"
+phone: +49 375 2704745
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dm.de

@@ -4,8 +4,8 @@ latitude: 51.18184
 longitude: 14.42334
 postcode: "02625"
 city: Bautzen
-street: "Fleischmarkt"
-housenumber: 5
-phone: "+49 3591 597118"
-opening_hours: "Mo-Sa 10:00-18:00; Su 10:00-16:00"
-website: "https://www.senf-stube.de/"
+street: Fleischmarkt
+housenumber: "5"
+phone: +49 3591 597118
+opening_hours: Mo-Sa 10:00-18:00; Su 10:00-16:00
+website: https://www.senf-stube.de/

@@ -1,11 +1,11 @@
 id: 100051216
-type: way
+type: node
 latitude: 51.37051
 longitude: 12.73494
 postcode: "04808"
 city: Wurzen
-street: "Albert-Kuntz-Straße"
-housenumber: 7
-phone: "+49 3425 818262"
+street: Albert-Kuntz-Straße
+housenumber: "7"
+phone: +49 3425 818262
 opening_hours: ""
-website: "https://www.haushaltsaufloesung-wurzen.de/"
+website: https://www.haushaltsaufloesung-wurzen.de/

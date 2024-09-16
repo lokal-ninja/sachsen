@@ -1,11 +1,11 @@
 id: 190769166
-type: way
+type: node
 latitude: 51.01724
 longitude: 13.77095
 postcode: "01219"
 city: Dresden
-street: "Dohnaer Straße"
-housenumber: 79
+street: Dohnaer Straße
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.71364
 longitude: 12.48519
 postcode: "08056"
 city: Zwickau
-street: "Gutwasserstraße"
-housenumber: 19
-phone: "+49 375 27 36 78 1"
-opening_hours: "Termin nach Vereinbarung"
-website: "http://www.zentrumfgl.de/"
+street: Gutwasserstraße
+housenumber: "19"
+phone: +49 375 27 36 78 1
+opening_hours: '"Termin nach Vereinbarung"'
+website: http://www.zentrumfgl.de/

@@ -1,11 +1,11 @@
 id: 108929963
-type: way
+type: node
 latitude: 50.85156
 longitude: 12.94666
 postcode: "09131"
 city: Chemnitz
-street: "Margaretenstraße"
-housenumber: 16
+street: Margaretenstraße
+housenumber: "16"
 phone: ""
-opening_hours: "07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: 07:00-21:00
+website: https://www.netto-online.de

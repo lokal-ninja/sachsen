@@ -1,11 +1,11 @@
 id: 105189242
-type: way
+type: node
 latitude: 50.72405
 longitude: 12.78415
 postcode: "09366"
 city: Niederdorf
-street: "Feldstraße"
-housenumber: 7
-phone: "+49 37296 6167"
+street: Feldstraße
+housenumber: "7"
+phone: +49 37296 6167
 opening_hours: ""
 website: ""

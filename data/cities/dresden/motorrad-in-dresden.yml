@@ -1,11 +1,11 @@
 id: 218539251
-type: way
+type: node
 latitude: 51.02195
 longitude: 13.79317
 postcode: "01237"
 city: Dresden
-street: "Oskar-Röder-Straße"
-housenumber: 6
-phone: "+49 351 315 845 05"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00; Tu 14:00-18:00; We off; Sa 09:00-12:00"
-website: "https://motorradindresden.de/"
+street: Oskar-Röder-Straße
+housenumber: "6"
+phone: +49 351 315 845 05
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00; Tu 14:00-18:00; We off; Sa 09:00-12:00
+website: https://motorradindresden.de/

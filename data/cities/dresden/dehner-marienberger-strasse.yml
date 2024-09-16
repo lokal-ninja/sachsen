@@ -1,11 +1,11 @@
 id: 316012216
-type: way
+type: node
 latitude: 51.03163
 longitude: 13.81875
 postcode: "01279"
 city: Dresden
-street: "Marienberger Straße"
-housenumber: 61
-phone: "+49 351 2120990"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.dehner.de/"
+street: Marienberger Straße
+housenumber: "61"
+phone: +49 351 2120990
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.dehner.de/

@@ -4,8 +4,8 @@ latitude: 51.1605
 longitude: 13.56491
 postcode: "01689"
 city: Weinböhla
-street: "Rathausstraße"
-housenumber: 9
-phone: "+49 35243 460444"
-opening_hours: "Mo-Fr Nach Vereinbarung"
-website: "https://www.kosmetik-madeleine.de/"
+street: Rathausstraße
+housenumber: "9"
+phone: +49 35243 460444
+opening_hours: Mo-Fr "Nach Vereinbarung"
+website: https://www.kosmetik-madeleine.de/

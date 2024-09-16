@@ -1,11 +1,11 @@
 id: 783948596
-type: way
+type: node
 latitude: 51.49105
 longitude: 14.66214
 postcode: "02943"
 city: Weißwasser/O.L.
-street: "Industriestraße Ost"
-housenumber: 1
+street: Industriestraße Ost
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

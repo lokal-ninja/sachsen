@@ -1,11 +1,11 @@
 id: 121562359
-type: way
+type: node
 latitude: 50.65267
 longitude: 12.97124
 postcode: "09427"
 city: Ehrenfriedersdorf
-street: "Chemnitzer Straße"
-housenumber: 52
+street: Chemnitzer Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
 website: ""

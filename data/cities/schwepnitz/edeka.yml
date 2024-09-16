@@ -1,11 +1,11 @@
 id: 87521677
-type: way
+type: node
 latitude: 51.32833
 longitude: 13.95245
 postcode: "01936"
 city: Schwepnitz
-street: "Dresdner Straße"
-housenumber: 32
+street: Dresdner Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00;Sa 07:00-16:00;PH off"
+opening_hours: Mo-Fr 07:00-20:00;Sa 07:00-16:00;PH off
 website: ""

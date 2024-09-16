@@ -1,11 +1,11 @@
 id: 695864492
-type: way
+type: node
 latitude: 51.31376
 longitude: 14.33163
 postcode: "02699"
 city: Königswartha
-street: "Hauptstraße"
-housenumber: 58
-phone: "+49 35931 20376"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-11:00; Su,PH off"
-website: "https://www.metallbau-und-schluessel-wirth.de/"
+street: Hauptstraße
+housenumber: "58"
+phone: +49 35931 20376
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-11:00; Su,PH off
+website: https://www.metallbau-und-schluessel-wirth.de/

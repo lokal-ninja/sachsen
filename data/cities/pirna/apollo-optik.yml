@@ -4,8 +4,8 @@ latitude: 50.96089
 longitude: 13.93674
 postcode: "01796"
 city: Pirna
-street: "Hospitalstraße"
-housenumber: 4
-phone: "+49 3501 528575"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+street: Hospitalstraße
+housenumber: "4"
+phone: +49 3501 528575
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

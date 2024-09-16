@@ -1,11 +1,11 @@
 id: 121268741
-type: way
+type: node
 latitude: 50.88762
 longitude: 13.34666
 postcode: "09599"
 city: Freiberg
-street: "Haldenstraße"
-housenumber: 35
+street: Haldenstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "http://www.weundwe.de/"
+website: http://www.weundwe.de/

@@ -4,8 +4,8 @@ latitude: 51.34818
 longitude: 12.31674
 postcode: "04179"
 city: Leipzig
-street: "Am Wasserschloß"
-housenumber: 4
+street: Am Wasserschloß
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://lisu-kosmetik.de"
+website: https://lisu-kosmetik.de

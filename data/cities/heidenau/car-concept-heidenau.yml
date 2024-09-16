@@ -1,11 +1,11 @@
 id: 123902724
-type: way
+type: node
 latitude: 50.97454
 longitude: 13.86267
 postcode: "01809"
 city: Heidenau
-street: "Mühlenstraße"
-housenumber: 45
-phone: "+49 3529 52 98 74"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa-Su off; PH off"
-website: "https://carconcept-heidenau.de/"
+street: Mühlenstraße
+housenumber: "45"
+phone: +49 3529 52 98 74
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa-Su off; PH off
+website: https://carconcept-heidenau.de/

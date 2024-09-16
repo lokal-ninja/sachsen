@@ -1,11 +1,11 @@
 id: 257344828
-type: way
+type: node
 latitude: 51.5329
 longitude: 12.59227
 postcode: "04838"
 city: Zschepplin
-street: "Schulstraße"
-housenumber: 6
+street: Schulstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-12:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-12:00
 website: ""

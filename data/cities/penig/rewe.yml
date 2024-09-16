@@ -1,11 +1,11 @@
 id: 88055397
-type: way
+type: node
 latitude: 50.92196
 longitude: 12.71537
 postcode: "09322"
 city: Penig
-street: "Chemnitzer Straße"
-housenumber: 
+street: Chemnitzer Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.rewe.de/marktseite/penig/565262/rewe-markt-chemnitzer-str-102"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.rewe.de/marktseite/penig/565262/rewe-markt-chemnitzer-str-102

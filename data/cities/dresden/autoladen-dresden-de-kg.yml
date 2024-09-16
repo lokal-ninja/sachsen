@@ -1,11 +1,11 @@
 id: 198745314
-type: way
+type: node
 latitude: 51.07298
 longitude: 13.72484
 postcode: "01127"
 city: Dresden
-street: "Leipziger Straße"
-housenumber: 63
-phone: "+49 351 86293444"
+street: Leipziger Straße
+housenumber: "63"
+phone: +49 351 86293444
 opening_hours: ""
-website: "http://autoladen-dresden.netcar24.com"
+website: http://autoladen-dresden.netcar24.com

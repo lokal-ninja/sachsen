@@ -4,8 +4,8 @@ latitude: 51.34368
 longitude: 12.37426
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+4934139298501"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.lego.com/de-de/stores/store/leipzig"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.lego.com/de-de/stores/store/leipzig

@@ -1,11 +1,11 @@
 id: 164827547
-type: way
+type: node
 latitude: 50.71159
 longitude: 13.22066
 postcode: "09509"
 city: Pockau-Lengefeld
-street: "Freiberger Straße"
-housenumber: 13
+street: Freiberger Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

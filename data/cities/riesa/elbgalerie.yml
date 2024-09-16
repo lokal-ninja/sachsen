@@ -1,11 +1,11 @@
 id: 291587798
-type: way
+type: node
 latitude: 51.30527
 longitude: 13.30301
 postcode: "01587"
 city: Riesa
-street: "Hauptstraße"
-housenumber: 74
-phone: "+49 3525 732774"
+street: Hauptstraße
+housenumber: "74"
+phone: +49 3525 732774
 opening_hours: ""
 website: ""

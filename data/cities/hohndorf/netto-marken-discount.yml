@@ -4,8 +4,8 @@ latitude: 50.73808
 longitude: 12.68342
 postcode: "09394"
 city: Hohndorf
-street: "Poststraße"
-housenumber: 43
+street: Poststraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

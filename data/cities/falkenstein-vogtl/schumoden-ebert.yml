@@ -1,11 +1,11 @@
 id: 479711723
-type: way
+type: node
 latitude: 50.475
 longitude: 12.36785
 postcode: "08223"
 city: Falkenstein/Vogtl.
-street: "Schloßstraße"
-housenumber: 20
+street: Schloßstraße
+housenumber: "20"
 phone: "+49374571828"
 opening_hours: ""
 website: ""

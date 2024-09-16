@@ -4,8 +4,8 @@ latitude: 51.02916
 longitude: 14.76537
 postcode: "02747"
 city: Herrnhut
-street: "Hauptstraße"
-housenumber: 99
+street: Hauptstraße
+housenumber: "99"
 phone: ""
-opening_hours: "Tu,Th 09:00-11:00,13:00-17:00; Mo,We,Fr-Su,PH off"
+opening_hours: Tu,Th 09:00-11:00,13:00-17:00; Mo,We,Fr-Su,PH off
 website: ""

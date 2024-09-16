@@ -1,11 +1,11 @@
 id: 411473988
-type: way
+type: node
 latitude: 51.07945
 longitude: 14.60984
 postcode: "02708"
 city: Lawalde
-street: "Rosenstraße"
-housenumber: 19
+street: Rosenstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00"
+opening_hours: Mo-Fr 07:00-18:00
 website: ""

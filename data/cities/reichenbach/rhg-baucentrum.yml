@@ -1,11 +1,11 @@
 id: 525057272
-type: way
+type: node
 latitude: 50.64103
 longitude: 12.32947
 postcode: "08468"
 city: Reichenbach
-street: "Alte Ziegelei"
-housenumber: 3
+street: Alte Ziegelei
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

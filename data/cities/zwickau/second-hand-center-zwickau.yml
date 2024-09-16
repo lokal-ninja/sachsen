@@ -4,8 +4,8 @@ latitude: 50.7184
 longitude: 12.46021
 postcode: "08060"
 city: Zwickau
-street: "Sonnenstraße"
-housenumber: 2
+street: Sonnenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:00"
+opening_hours: Mo-Fr 10:00-16:00
 website: ""

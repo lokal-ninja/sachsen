@@ -4,8 +4,8 @@ latitude: 51.46173
 longitude: 14.11267
 postcode: "02991"
 city: Lauta
-street: "Straße der Freundschaft"
-housenumber: 81
+street: Straße der Freundschaft
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:00; PH closed"
-website: "https://www.phillis-fahrradshop.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-12:00; PH closed
+website: https://www.phillis-fahrradshop.de

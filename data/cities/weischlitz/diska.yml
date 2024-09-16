@@ -1,11 +1,11 @@
 id: 159473953
-type: way
+type: node
 latitude: 50.44703
 longitude: 12.05846
 postcode: "08538"
 city: Weischlitz
-street: "Schwander Straße"
-housenumber: 1
-phone: "+49 37436 12699"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.diska.de/markt/diska-weischlitz"
+street: Schwander Straße
+housenumber: "1"
+phone: +49 37436 12699
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.diska.de/markt/diska-weischlitz

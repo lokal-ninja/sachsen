@@ -4,8 +4,8 @@ latitude: 51.32242
 longitude: 12.34277
 postcode: "04229"
 city: Leipzig
-street: "Könneritzstraße"
-housenumber: 62
-phone: "+49 341 243 388 92"
-opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-15:00; Sa 10:00-13:00"
-website: "http://www.retro-repro.com"
+street: Könneritzstraße
+housenumber: "62"
+phone: +49 341 243 388 92
+opening_hours: Mo-Th 10:00-18:00; Fr 10:00-15:00; Sa 10:00-13:00
+website: http://www.retro-repro.com

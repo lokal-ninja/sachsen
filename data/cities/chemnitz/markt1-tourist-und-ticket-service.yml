@@ -4,8 +4,8 @@ latitude: 50.83271
 longitude: 12.91958
 postcode: "09111"
 city: Chemnitz
-street: "Markt"
-housenumber: 1
+street: Markt
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.c3-chemnitz.de/de/Ticket/Service_1249.html"
+website: https://www.c3-chemnitz.de/de/Ticket/Service_1249.html

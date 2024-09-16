@@ -1,11 +1,11 @@
 id: 91041143
-type: way
+type: node
 latitude: 50.83331
 longitude: 12.87854
 postcode: "09116"
 city: Chemnitz
-street: "Wechselburger Straße"
-housenumber: 1
+street: Wechselburger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-12:00
 website: ""

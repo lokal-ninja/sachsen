@@ -1,11 +1,11 @@
 id: 80391846
-type: way
+type: node
 latitude: 50.98797
 longitude: 13.99437
 postcode: "01847"
 city: Lohmen
-street: "Alte Schäferei"
-housenumber: 2
+street: Alte Schäferei
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

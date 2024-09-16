@@ -1,11 +1,11 @@
 id: 190735985
-type: way
+type: node
 latitude: 50.84716
 longitude: 12.54309
 postcode: "08373"
 city: Remse
-street: "Waldenburger Straße"
-housenumber: 2
-phone: "+49 3763 3097"
+street: Waldenburger Straße
+housenumber: "2"
+phone: +49 3763 3097
 opening_hours: ""
-website: "https://1a-hausdorf.go1a.de/"
+website: https://1a-hausdorf.go1a.de/

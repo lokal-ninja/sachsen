@@ -1,11 +1,11 @@
 id: 1203055859
-type: way
+type: node
 latitude: 51.15958
 longitude: 15.00866
-postcode: "59-900"
+postcode: 59-900
 city: Zgorzelec
-street: "Lubańska"
-housenumber: 7
+street: Lubańska
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://www.aldi.pl/"
+opening_hours: Mo-Sa 06:00-22:00
+website: https://www.aldi.pl/

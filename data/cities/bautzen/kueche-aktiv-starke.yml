@@ -1,11 +1,11 @@
 id: 104386048
-type: way
+type: node
 latitude: 51.17983
 longitude: 14.40753
 postcode: "02625"
 city: Bautzen
-street: "Dresdener Straße"
-housenumber: 60
-phone: "+49 3591 351680"
+street: Dresdener Straße
+housenumber: "60"
+phone: +49 3591 351680
 opening_hours: ""
-website: "https://www.kueche-aktiv-starke.de/"
+website: https://www.kueche-aktiv-starke.de/

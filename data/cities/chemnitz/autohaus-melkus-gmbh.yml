@@ -1,11 +1,11 @@
 id: 237127226
-type: way
+type: node
 latitude: 50.80559
 longitude: 12.92317
 postcode: "09120"
 city: Chemnitz
-street: "Friedrich-Oskar-Schimmel-Straße"
-housenumber: 31
+street: Friedrich-Oskar-Schimmel-Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-13:00"
-website: "https://bmw-melkus.de/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-13:00
+website: https://bmw-melkus.de/

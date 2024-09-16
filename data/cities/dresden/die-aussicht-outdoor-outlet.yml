@@ -4,8 +4,8 @@ latitude: 51.06987
 longitude: 13.75485
 postcode: "01099"
 city: Dresden
-street: "Alaunstraße"
-housenumber: 104
+street: Alaunstraße
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Th 11:00-19:30; We off; Fr 11:00-18:00; Sa 10:00-14:00"
-website: "https://www.die-aussicht-dresden.de/"
+opening_hours: Mo-Th 11:00-19:30; We off; Fr 11:00-18:00; Sa 10:00-14:00
+website: https://www.die-aussicht-dresden.de/

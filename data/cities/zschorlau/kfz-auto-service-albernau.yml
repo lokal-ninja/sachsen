@@ -1,11 +1,11 @@
 id: 228052239
-type: way
+type: node
 latitude: 50.55346
 longitude: 12.65791
 postcode: "08321"
 city: Zschorlau
-street: "Bockauer Straße"
-housenumber: 2
+street: Bockauer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

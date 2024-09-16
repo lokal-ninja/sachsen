@@ -1,11 +1,11 @@
 id: 271451039
-type: way
+type: node
 latitude: 50.66621
 longitude: 13.33131
 postcode: "09526"
 city: Olbernhau
-street: "Freiberger Straße"
-housenumber: 50
-phone: "+49 37360 72436"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00"
-website: "https://jehmlich-floristik.de/"
+street: Freiberger Straße
+housenumber: "50"
+phone: +49 37360 72436
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00
+website: https://jehmlich-floristik.de/

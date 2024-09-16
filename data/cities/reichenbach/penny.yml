@@ -1,11 +1,11 @@
 id: 144738844
-type: way
+type: node
 latitude: 50.62459
 longitude: 12.29334
 postcode: "08468"
 city: Reichenbach
-street: "Dr.-Külz-Straße"
-housenumber: 5
+street: Dr.-Külz-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

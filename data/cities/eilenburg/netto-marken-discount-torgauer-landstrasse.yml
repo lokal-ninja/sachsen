@@ -1,11 +1,11 @@
 id: 804968759
-type: way
+type: node
 latitude: 51.46628
 longitude: 12.65929
 postcode: "04838"
 city: Eilenburg
-street: "Torgauer Landstraße"
-housenumber: 76
+street: Torgauer Landstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 06:30-21:00; Su,PH off"
+opening_hours: Mo-Sa 06:30-21:00; Su,PH off
 website: ""

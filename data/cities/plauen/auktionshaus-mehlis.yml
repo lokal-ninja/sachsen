@@ -1,11 +1,11 @@
 id: 225805122
-type: way
+type: node
 latitude: 50.49606
 longitude: 12.14334
 postcode: "08523"
 city: Plauen
-street: "Hammerstraße"
-housenumber: 30
+street: Hammerstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

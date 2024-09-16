@@ -1,11 +1,11 @@
 id: 247493138
-type: way
+type: node
 latitude: 50.89987
 longitude: 14.77577
 postcode: "02763"
 city: Zittau
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 556832366
-type: way
+type: node
 latitude: 51.15645
 longitude: 12.40211
 postcode: "04575"
 city: Neukieritzsch
-street: "Leipziger Straße"
-housenumber: 22
-phone: "+49 34342 51807"
+street: Leipziger Straße
+housenumber: "22"
+phone: +49 34342 51807
 opening_hours: ""
-website: "https://www.automaigmbh.de/"
+website: https://www.automaigmbh.de/

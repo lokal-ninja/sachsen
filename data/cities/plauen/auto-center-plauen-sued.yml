@@ -1,11 +1,11 @@
 id: 166029564
-type: way
+type: node
 latitude: 50.49124
 longitude: 12.16032
 postcode: "08529"
 city: Plauen
-street: "Röntgenstraße"
-housenumber: 48
-phone: "+49 3741 15770"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://autocenter-plauen.skoda-auto.de"
+street: Röntgenstraße
+housenumber: "48"
+phone: +49 3741 15770
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://autocenter-plauen.skoda-auto.de

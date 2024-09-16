@@ -4,8 +4,8 @@ latitude: 51.34654
 longitude: 12.40309
 postcode: "04315"
 city: Leipzig
-street: "Hedwigstraße"
-housenumber: 5
+street: Hedwigstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 16:00-22:00; Su 14:00-22:00"
+opening_hours: Mo-Sa 16:00-22:00; Su 14:00-22:00
 website: ""

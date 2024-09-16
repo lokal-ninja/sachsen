@@ -1,11 +1,11 @@
 id: 100272392
-type: way
+type: node
 latitude: 51.37014
 longitude: 12.73853
 postcode: "04808"
 city: Wurzen
-street: "Jacobsplatz"
-housenumber: 3
-phone: "+49 3425 921055"
+street: Jacobsplatz
+housenumber: "3"
+phone: +49 3425 921055
 opening_hours: ""
 website: ""

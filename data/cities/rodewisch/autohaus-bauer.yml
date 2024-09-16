@@ -1,11 +1,11 @@
 id: 443209632
-type: way
+type: node
 latitude: 50.54483
 longitude: 12.38555
 postcode: "08228"
 city: Rodewisch
-street: "Alte Lengenfelder Straße"
+street: Alte Lengenfelder Straße
 housenumber: 2b
 phone: ""
 opening_hours: ""
-website: "https://www.ah-bauer.de/"
+website: https://www.ah-bauer.de/

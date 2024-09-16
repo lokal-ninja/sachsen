@@ -1,11 +1,11 @@
 id: 128287318
-type: way
+type: node
 latitude: 50.98003
 longitude: 13.94986
 postcode: "01796"
 city: Pirna
-street: "Lohmener Straße"
+street: Lohmener Straße
 housenumber: 12c
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://filiale.kaufland.de/service/filiale/pirna-zatzschke-3320.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://filiale.kaufland.de/service/filiale/pirna-zatzschke-3320.html

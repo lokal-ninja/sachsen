@@ -1,11 +1,11 @@
 id: 127910619
-type: way
+type: node
 latitude: 50.61738
 longitude: 12.27985
 postcode: "08499"
 city: Reichenbach
-street: "Reichenbacher Straße"
-housenumber: 39
-phone: "+49 3765 39300"
-opening_hours: "07:00-18:00"
+street: Reichenbacher Straße
+housenumber: "39"
+phone: +49 3765 39300
+opening_hours: 07:00-18:00
 website: ""

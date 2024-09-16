@@ -4,8 +4,8 @@ latitude: 51.04273
 longitude: 13.69011
 postcode: "01159"
 city: Dresden
-street: "Kesselsdorfer Straße"
-housenumber: 70
-phone: "+49351 30981758"
-opening_hours: "Tu,We,Fr 09:00-13:00,14:00-18:00; Th 10:00-13:00,14:00-20:00; Sa 10:00-15:00"
-website: "https://radstadtladen.de/"
+street: Kesselsdorfer Straße
+housenumber: "70"
+phone: +49351 30981758
+opening_hours: Tu,We,Fr 09:00-13:00,14:00-18:00; Th 10:00-13:00,14:00-20:00; Sa 10:00-15:00
+website: https://radstadtladen.de/

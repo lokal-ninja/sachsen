@@ -1,11 +1,11 @@
 id: 236009970
-type: way
+type: node
 latitude: 50.82284
 longitude: 12.93676
 postcode: "09126"
 city: Chemnitz
-street: "Gutenbergstraße"
-housenumber: 4
-phone: "+49 371 530100"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 09:00-13:00"
-website: "https://www.ahl-chemnitz.de/"
+street: Gutenbergstraße
+housenumber: "4"
+phone: +49 371 530100
+opening_hours: Mo-Fr 06:00-19:00; Sa 09:00-13:00
+website: https://www.ahl-chemnitz.de/

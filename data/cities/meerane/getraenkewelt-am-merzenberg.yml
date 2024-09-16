@@ -1,11 +1,11 @@
 id: 565741015
-type: way
+type: node
 latitude: 50.85449
 longitude: 12.46054
 postcode: "08393"
 city: Meerane
-street: "Am Merzenberg"
-housenumber: 29
+street: Am Merzenberg
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

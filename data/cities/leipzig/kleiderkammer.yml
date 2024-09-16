@@ -4,8 +4,8 @@ latitude: 51.35513
 longitude: 12.41226
 postcode: "04347"
 city: Leipzig
-street: "Clara-Wieck-Straße"
-housenumber: 8
-phone: "+49 341 35 20 99 06"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-16:00"
-website: "https://bv-schoenefeld.de/schoenefelder-kleiderkammer"
+street: Clara-Wieck-Straße
+housenumber: "8"
+phone: +49 341 35 20 99 06
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-16:00
+website: https://bv-schoenefeld.de/schoenefelder-kleiderkammer

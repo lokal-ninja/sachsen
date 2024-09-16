@@ -1,11 +1,11 @@
 id: 110646406
-type: way
+type: node
 latitude: 50.81975
 longitude: 12.5063
 postcode: "08371"
 city: Glauchau
-street: "Bayernweg"
-housenumber: 22
+street: Bayernweg
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-spranger.de"
+website: https://www.autohaus-spranger.de

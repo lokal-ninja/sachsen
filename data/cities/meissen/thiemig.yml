@@ -1,11 +1,11 @@
 id: 158250776
-type: way
+type: node
 latitude: 51.16901
 longitude: 13.50864
 postcode: "01662"
 city: Meißen
-street: "Niederauer Straße"
-housenumber: 67
-phone: "+49 3521 458594"
+street: Niederauer Straße
+housenumber: "67"
+phone: +49 3521 458594
 opening_hours: ""
-website: "https://ah-thiemig.de/"
+website: https://ah-thiemig.de/

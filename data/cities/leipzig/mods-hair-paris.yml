@@ -4,8 +4,8 @@ latitude: 51.34451
 longitude: 12.35927
 postcode: "04105"
 city: Leipzig
-street: "Hinrichsenstraße"
-housenumber: 30
+street: Hinrichsenstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Tu,We 09:00-18:00; Th-Fr 11:00-20:00; Sa 09:00-15:00"
-website: "https://www.modshair-leipzig.de/"
+opening_hours: Tu,We 09:00-18:00; Th-Fr 11:00-20:00; Sa 09:00-15:00
+website: https://www.modshair-leipzig.de/

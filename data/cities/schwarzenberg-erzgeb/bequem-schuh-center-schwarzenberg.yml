@@ -4,8 +4,8 @@ latitude: 50.53559
 longitude: 12.78421
 postcode: "08340"
 city: Schwarzenberg/Erzgeb.
-street: "Uferstraße"
-housenumber: 4
-phone: "+49 3774 157443"
-opening_hours: "08:00-18:00"
-website: "https://schuhe-szb.de/"
+street: Uferstraße
+housenumber: "4"
+phone: +49 3774 157443
+opening_hours: 08:00-18:00
+website: https://schuhe-szb.de/

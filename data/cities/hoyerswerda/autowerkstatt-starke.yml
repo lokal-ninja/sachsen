@@ -1,11 +1,11 @@
 id: 250337536
-type: way
+type: node
 latitude: 51.44422
 longitude: 14.21653
 postcode: "02977"
 city: Hoyerswerda
-street: "Ackerstraße"
-housenumber: 24
+street: Ackerstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

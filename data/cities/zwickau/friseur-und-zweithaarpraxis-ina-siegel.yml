@@ -4,8 +4,8 @@ latitude: 50.7183
 longitude: 12.47956
 postcode: "08056"
 city: Zwickau
-street: "Spiegelstraße"
-housenumber: 48
-phone: "+49 375 281723"
-opening_hours: "Mo,Tu 09:00-14:00, We-Fr 09:00-18:00"
-website: "https://www.isi-haar.de/"
+street: Spiegelstraße
+housenumber: "48"
+phone: +49 375 281723
+opening_hours: Mo,Tu 09:00-14:00, We-Fr 09:00-18:00
+website: https://www.isi-haar.de/

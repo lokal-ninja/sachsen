@@ -4,8 +4,8 @@ latitude: 51.32656
 longitude: 12.345
 postcode: "04229"
 city: Leipzig
-street: "Könneritzstraße"
-housenumber: 24
-phone: "+49 341 492 87 89"
-opening_hours: "Termine nach Vereinbarung 03414928789"
-website: "https://dogs-an-der-koe.de/"
+street: Könneritzstraße
+housenumber: "24"
+phone: +49 341 492 87 89
+opening_hours: '"Termine nach Vereinbarung 03414928789"'
+website: https://dogs-an-der-koe.de/

@@ -4,8 +4,8 @@ latitude: 50.85162
 longitude: 13.77959
 postcode: "01768"
 city: Glashütte
-street: "Hauptstraße"
-housenumber: 14
-phone: "+49 35053 317277"
-opening_hours: "Tu-Fr 10:00-12:30,14:00-18:00; Sa 10:00-12:30,14:00-16:00"
+street: Hauptstraße
+housenumber: "14"
+phone: +49 35053 317277
+opening_hours: Tu-Fr 10:00-12:30,14:00-18:00; Sa 10:00-12:30,14:00-16:00
 website: ""

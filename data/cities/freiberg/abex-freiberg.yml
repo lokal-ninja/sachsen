@@ -1,11 +1,11 @@
 id: 486583461
-type: way
+type: node
 latitude: 50.90809
 longitude: 13.36051
 postcode: "09599"
 city: Freiberg
-street: "Frauensteiner Straße"
-housenumber: 71
-phone: "+49 3731 691844"
-opening_hours: "Mo-Th 6:30-17:00; Fr 06:30-15:00"
+street: Frauensteiner Straße
+housenumber: "71"
+phone: +49 3731 691844
+opening_hours: Mo-Th 6:30-17:00; Fr 06:30-15:00
 website: ""

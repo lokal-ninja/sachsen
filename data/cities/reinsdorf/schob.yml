@@ -1,11 +1,11 @@
 id: 130352996
-type: way
+type: node
 latitude: 50.69023
 longitude: 12.55191
 postcode: "08141"
 city: Reinsdorf
-street: "Am Feldschlösschen"
-housenumber: 1
+street: Am Feldschlösschen
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.schob.de/"
+website: https://www.schob.de/

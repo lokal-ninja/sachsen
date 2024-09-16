@@ -1,11 +1,11 @@
 id: 179385060
-type: way
+type: node
 latitude: 51.13888
 longitude: 14.98125
 postcode: "02826"
 city: Görlitz
-street: "Goethestraße"
-housenumber: 19
+street: Goethestraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

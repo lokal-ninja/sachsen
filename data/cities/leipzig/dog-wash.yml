@@ -4,8 +4,8 @@ latitude: 51.32649
 longitude: 12.34494
 postcode: "04229"
 city: Leipzig
-street: "Könneritzstraße"
-housenumber: 24
-phone: "+49 341 4928789"
-opening_hours: "Termine nach Vereinbarung"
+street: Könneritzstraße
+housenumber: "24"
+phone: +49 341 4928789
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

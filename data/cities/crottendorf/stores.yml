@@ -1,11 +1,11 @@
 id: 122429170
-type: way
+type: node
 latitude: 50.5121
 longitude: 12.94053
 postcode: "09474"
 city: Crottendorf
-street: "Uferweg"
-housenumber: 232
-phone: "+49 37344 8502"
+street: Uferweg
+housenumber: "232"
+phone: +49 37344 8502
 opening_hours: ""
 website: ""

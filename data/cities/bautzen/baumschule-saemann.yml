@@ -4,8 +4,8 @@ latitude: 51.17185
 longitude: 14.44389
 postcode: "02625"
 city: Bautzen
-street: "Spittelwiesenweg"
-housenumber: 42
-phone: "+49 3591 21860"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.saemann-baumschulen.de/index.php/produkte.html"
+street: Spittelwiesenweg
+housenumber: "42"
+phone: +49 3591 21860
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.saemann-baumschulen.de/index.php/produkte.html

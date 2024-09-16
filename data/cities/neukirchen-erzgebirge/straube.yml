@@ -1,11 +1,11 @@
 id: 105269302
-type: way
+type: node
 latitude: 50.7789
 longitude: 12.86626
 postcode: "09221"
 city: Neukirchen/Erzgebirge
-street: "Stollberger Straße"
-housenumber: 3
+street: Stollberger Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

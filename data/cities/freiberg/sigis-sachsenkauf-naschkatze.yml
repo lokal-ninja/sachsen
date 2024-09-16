@@ -4,8 +4,8 @@ latitude: 50.91582
 longitude: 13.34054
 postcode: "09599"
 city: Freiberg
-street: "Petersstraße"
-housenumber: 28
-phone: "+49 3731 23462"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+street: Petersstraße
+housenumber: "28"
+phone: +49 3731 23462
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

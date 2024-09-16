@@ -4,8 +4,8 @@ latitude: 51.1234
 longitude: 14.98235
 postcode: "02827"
 city: Görlitz
-street: "Zittauer Straße"
-housenumber: 144
+street: Zittauer Straße
+housenumber: "144"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:00-12:00; Su,PH off
 website: ""

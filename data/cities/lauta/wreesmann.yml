@@ -1,11 +1,11 @@
 id: 37763487
-type: way
+type: node
 latitude: 51.45484
 longitude: 14.09418
 postcode: "02991"
 city: Lauta
-street: "Karl-Liebknecht-Straße"
-housenumber: 2
+street: Karl-Liebknecht-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

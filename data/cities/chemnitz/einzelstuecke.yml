@@ -4,8 +4,8 @@ latitude: 50.84294
 longitude: 12.92477
 postcode: "09111"
 city: Chemnitz
-street: "Brühl"
-housenumber: 55
+street: Brühl
+housenumber: "55"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

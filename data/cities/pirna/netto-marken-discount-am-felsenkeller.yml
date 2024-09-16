@@ -1,11 +1,11 @@
 id: 26937660
-type: way
+type: node
 latitude: 50.95787
 longitude: 13.9425
 postcode: "01796"
 city: Pirna
-street: "Am Felsenkeller"
-housenumber: 1
+street: Am Felsenkeller
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

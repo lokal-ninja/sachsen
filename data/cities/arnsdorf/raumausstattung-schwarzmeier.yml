@@ -4,8 +4,8 @@ latitude: 51.09569
 longitude: 13.99026
 postcode: "01477"
 city: Arnsdorf
-street: "Hauptstraße"
-housenumber: 12
-phone: "+49 35200 24279"
-opening_hours: "Mo-Fr - nach Vereinbarung; Mo-Fr, PH off; Mo-Fr 08:00-16:00"
-website: "https://www.schwarzmeier.com/"
+street: Hauptstraße
+housenumber: "12"
+phone: +49 35200 24279
+opening_hours: Mo-Fr - nach Vereinbarung; Mo-Fr, PH off; Mo-Fr 08:00-16:00
+website: https://www.schwarzmeier.com/

@@ -4,8 +4,8 @@ latitude: 51.36697
 longitude: 12.37002
 postcode: "04157"
 city: Leipzig
-street: "Coppistraße"
-housenumber: 81
+street: Coppistraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo 14:00-18:00; Tu-Th 10:00-18:00; Fr 10:00-15:00"
-website: "http://www.kern-und-stein.de"
+opening_hours: Mo 14:00-18:00; Tu-Th 10:00-18:00; Fr 10:00-15:00
+website: http://www.kern-und-stein.de

@@ -4,8 +4,8 @@ latitude: 51.07069
 longitude: 13.75259
 postcode: "01099"
 city: Dresden
-street: "Bischofsweg"
-housenumber: 20
+street: Bischofsweg
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 11:30-18:30"
-website: "https://www.vegane-fleischerei.de/"
+opening_hours: Mo-Sa 11:30-18:30
+website: https://www.vegane-fleischerei.de/

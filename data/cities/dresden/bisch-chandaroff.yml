@@ -4,8 +4,8 @@ latitude: 51.04917
 longitude: 13.80675
 postcode: "01277"
 city: Dresden
-street: "Berggartenstraße"
-housenumber: 13
-phone: "+49 351 310 35 53"
-opening_hours: "Tu-Th 10:00-18:00"
-website: "https://www.bisch-chandaroff.de/"
+street: Berggartenstraße
+housenumber: "13"
+phone: +49 351 310 35 53
+opening_hours: Tu-Th 10:00-18:00
+website: https://www.bisch-chandaroff.de/

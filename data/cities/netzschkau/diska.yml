@@ -1,11 +1,11 @@
 id: 91953624
-type: way
+type: node
 latitude: 50.61604
 longitude: 12.2445
 postcode: "08491"
 city: Netzschkau
-street: "Schloßstraße"
-housenumber: 30
+street: Schloßstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

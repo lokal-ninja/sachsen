@@ -4,8 +4,8 @@ latitude: 51.0635
 longitude: 13.67274
 postcode: "01157"
 city: Dresden
-street: "Felix-Dahn-Weg"
-housenumber: 21
-phone: "+49 351 46447073"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Felix-Dahn-Weg
+housenumber: "21"
+phone: +49 351 46447073
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

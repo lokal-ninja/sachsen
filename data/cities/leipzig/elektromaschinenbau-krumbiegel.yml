@@ -4,8 +4,8 @@ latitude: 51.34684
 longitude: 12.31541
 postcode: "04179"
 city: Leipzig
-street: "Georg-Schwarz-Straße"
-housenumber: 107
-phone: "+49 172 3646741"
+street: Georg-Schwarz-Straße
+housenumber: "107"
+phone: +49 172 3646741
 opening_hours: ""
-website: "https://www.emk-leipzig.de/"
+website: https://www.emk-leipzig.de/

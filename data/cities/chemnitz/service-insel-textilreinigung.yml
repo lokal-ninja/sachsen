@@ -4,8 +4,8 @@ latitude: 50.82305
 longitude: 12.95907
 postcode: "09127"
 city: Chemnitz
-street: "Hans-Ziegler-Straße"
-housenumber: 3
-phone: "+49 371 722104"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
-website: "https://www.serviceinsel-markert.de/"
+street: Hans-Ziegler-Straße
+housenumber: "3"
+phone: +49 371 722104
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:00
+website: https://www.serviceinsel-markert.de/

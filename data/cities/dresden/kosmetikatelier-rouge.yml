@@ -4,8 +4,8 @@ latitude: 51.04201
 longitude: 13.7003
 postcode: "01159"
 city: Dresden
-street: "Poststraße"
-housenumber: 15
+street: Poststraße
+housenumber: "15"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

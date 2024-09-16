@@ -4,8 +4,8 @@ latitude: 51.3019
 longitude: 13.31219
 postcode: "01589"
 city: Riesa
-street: "Rathausplatz"
-housenumber: 4
+street: Rathausplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://www.bestfotoservice24.de"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://www.bestfotoservice24.de

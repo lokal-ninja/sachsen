@@ -1,11 +1,11 @@
 id: 760785146
-type: way
+type: node
 latitude: 51.53073
 longitude: 12.35298
 postcode: "04509"
 city: Delitzsch
-street: "Dübener Straße"
-housenumber: 103
+street: Dübener Straße
+housenumber: "103"
 phone: ""
-opening_hours: "Tu 09:00-12:00; Th 15:00-18:00"
+opening_hours: Tu 09:00-12:00; Th 15:00-18:00
 website: ""

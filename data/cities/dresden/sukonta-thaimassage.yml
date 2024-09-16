@@ -4,8 +4,8 @@ latitude: 51.04279
 longitude: 13.70087
 postcode: "01159"
 city: Dresden
-street: "Reisewitzer Straße"
-housenumber: 22
+street: Reisewitzer Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

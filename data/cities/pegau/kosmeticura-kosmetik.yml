@@ -4,8 +4,9 @@ latitude: 51.16733
 longitude: 12.2529
 postcode: "04523"
 city: Pegau
-street: "Kirchplatz"
-housenumber: 15
+street: Kirchplatz
+housenumber: "15"
 phone: ""
-opening_hours: "Tu,Fr 09:15-12:30,13:30-15:30; We 9:15-13:30,15:30-18:30; Mo,Th,Sa,Su,PH off"
+opening_hours: Tu,Fr 09:15-12:30,13:30-15:30; We 9:15-13:30,15:30-18:30; Mo,Th,Sa,Su,PH
+    off
 website: ""

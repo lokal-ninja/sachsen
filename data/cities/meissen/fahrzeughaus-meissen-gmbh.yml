@@ -1,11 +1,11 @@
 id: 160314601
-type: way
+type: node
 latitude: 51.15898
 longitude: 13.51025
 postcode: "01662"
 city: Meißen
-street: "Hermann-Grafe-Straße"
-housenumber: 21
+street: Hermann-Grafe-Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://fahrzeughaus-meissen.de/"
+website: https://fahrzeughaus-meissen.de/

@@ -1,11 +1,11 @@
 id: 1193795847
-type: way
+type: node
 latitude: 51.25175
 longitude: 12.72569
 postcode: "04668"
 city: Grimma
-street: "Nordstraße"
-housenumber: 81
-phone: "+49 3437 919883"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+street: Nordstraße
+housenumber: "81"
+phone: +49 3437 919883
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

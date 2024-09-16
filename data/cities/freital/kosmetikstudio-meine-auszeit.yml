@@ -4,8 +4,8 @@ latitude: 51.0281
 longitude: 13.65305
 postcode: "01705"
 city: Freital
-street: "Dorfplatz"
-housenumber: 2
-phone: "+49 351 65564600"
-opening_hours: "Mo-Fr 09:00+ nur nach Vereinbarung; PH,Sa-Su off"
-website: "https://www.meinbeautytag.de/"
+street: Dorfplatz
+housenumber: "2"
+phone: +49 351 65564600
+opening_hours: Mo-Fr 09:00+ "nur nach Vereinbarung"; PH,Sa-Su off
+website: https://www.meinbeautytag.de/

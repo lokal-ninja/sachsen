@@ -4,8 +4,8 @@ latitude: 51.06368
 longitude: 13.75922
 postcode: "01099"
 city: Dresden
-street: "Bautzner Straße"
-housenumber: 75
-phone: "+49 351 6568699"
-opening_hours: "Fr-Sa 10:00-18:00"
-website: "https://www.phoenix-coffeeroasters.de/"
+street: Bautzner Straße
+housenumber: "75"
+phone: +49 351 6568699
+opening_hours: Fr-Sa 10:00-18:00
+website: https://www.phoenix-coffeeroasters.de/

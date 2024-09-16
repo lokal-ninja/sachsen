@@ -1,11 +1,11 @@
 id: 105807703
-type: way
+type: node
 latitude: 51.15843
 longitude: 13.50267
 postcode: "01662"
 city: Meißen
-street: "Zaschendorfer Straße"
-housenumber: 82
-phone: "+49 3521 717800"
+street: Zaschendorfer Straße
+housenumber: "82"
+phone: +49 3521 717800
 opening_hours: ""
-website: "https://autoland.de/autoland-niederlassungen/meissen"
+website: https://autoland.de/autoland-niederlassungen/meissen

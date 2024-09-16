@@ -4,8 +4,8 @@ latitude: 51.02765
 longitude: 13.65551
 postcode: "01705"
 city: Freital
-street: "Elbtalblick"
-housenumber: 2
-phone: "+49 351 65857190"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00; PH,Su off"
-website: "http://www.fashion-and-more-online.de/"
+street: Elbtalblick
+housenumber: "2"
+phone: +49 351 65857190
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00; PH,Su off
+website: http://www.fashion-and-more-online.de/

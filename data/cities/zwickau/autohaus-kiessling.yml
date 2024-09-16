@@ -1,11 +1,11 @@
 id: 211015760
-type: way
+type: node
 latitude: 50.66791
 longitude: 12.45365
 postcode: "08064"
 city: Zwickau
-street: "Lengenfelder Straße"
-housenumber: 198
+street: Lengenfelder Straße
+housenumber: "198"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
 website: ""

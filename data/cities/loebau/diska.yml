@@ -1,11 +1,11 @@
 id: 391574671
-type: way
+type: node
 latitude: 51.09896
 longitude: 14.66864
 postcode: "02708"
 city: Löbau
-street: "Sachsenstraße"
-housenumber: 4
+street: Sachsenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.72166
 longitude: 12.48942
 postcode: "08056"
 city: Zwickau
-street: "Poetenweg"
-housenumber: 7
-phone: "+49 375 3531166"
-opening_hours: "Mo,We,Th 08:00-18:00, Tu 08:00-14:00, Fr 08:00-14:00"
+street: Poetenweg
+housenumber: "7"
+phone: +49 375 3531166
+opening_hours: Mo,We,Th 08:00-18:00, Tu 08:00-14:00, Fr 08:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.23377
 longitude: 13.65799
 postcode: "01561"
 city: Ebersbach
-street: "Hauptstraße"
-housenumber: 143
-phone: "+49 35208 4028"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00"
+street: Hauptstraße
+housenumber: "143"
+phone: +49 35208 4028
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00
 website: ""

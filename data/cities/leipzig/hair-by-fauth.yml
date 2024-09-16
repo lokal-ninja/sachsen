@@ -4,8 +4,8 @@ latitude: 51.33009
 longitude: 12.3454
 postcode: "04229"
 city: Leipzig
-street: "Ernst-Mey-Straße"
-housenumber: 3
-phone: "+49 341 24192466"
+street: Ernst-Mey-Straße
+housenumber: "3"
+phone: +49 341 24192466
 opening_hours: ""
-website: "https://www.hairbyfauth.de/"
+website: https://www.hairbyfauth.de/

@@ -1,11 +1,11 @@
 id: 23309080
-type: way
+type: node
 latitude: 51.32423
 longitude: 12.32766
 postcode: "04229"
 city: Leipzig
-street: "Gießerstraße"
-housenumber: 37
+street: Gießerstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.toom-baumarkt.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.toom-baumarkt.de/

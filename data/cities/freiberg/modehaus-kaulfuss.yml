@@ -4,8 +4,8 @@ latitude: 50.91638
 longitude: 13.34478
 postcode: "09599"
 city: Freiberg
-street: "Stollngasse"
-housenumber: 1
-phone: "+49 3731 23996"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://www.modehaus-kaulfuss.de/"
+street: Stollngasse
+housenumber: "1"
+phone: +49 3731 23996
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://www.modehaus-kaulfuss.de/

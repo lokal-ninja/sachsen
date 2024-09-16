@@ -4,8 +4,8 @@ latitude: 51.28024
 longitude: 12.30542
 postcode: "04249"
 city: Leipzig
-street: "Wildentensteig"
-housenumber: 11
+street: Wildentensteig
+housenumber: "11"
 phone: ""
-opening_hours: "Tu 14:00-18:00; Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
+opening_hours: Tu 14:00-18:00; Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00
 website: ""

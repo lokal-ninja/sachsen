@@ -4,8 +4,8 @@ latitude: 51.06075
 longitude: 13.6958
 postcode: "01067"
 city: Dresden
-street: "Bremer Straße"
-housenumber: 67
-phone: "+49 351 50196107"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:30; Su off"
+street: Bremer Straße
+housenumber: "67"
+phone: +49 351 50196107
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:30; Su off
 website: ""

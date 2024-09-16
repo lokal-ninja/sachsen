@@ -4,8 +4,8 @@ latitude: 50.84755
 longitude: 12.93228
 postcode: "09113"
 city: Chemnitz
-street: "Straße der Nationen"
-housenumber: 138
+street: Straße der Nationen
+housenumber: "138"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00, Su Schautag"
-website: "https://autoland.de/"
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-18:00, Su "Schautag"
+website: https://autoland.de/

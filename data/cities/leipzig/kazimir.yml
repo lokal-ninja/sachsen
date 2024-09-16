@@ -4,8 +4,8 @@ latitude: 51.33193
 longitude: 12.33275
 postcode: "04177"
 city: Leipzig
-street: "Merseburger Straße"
-housenumber: 33
-phone: "+49 341 67919200"
-opening_hours: "Sa 12:00-16:00; Tu,We,Fr 13:00-18:00"
+street: Merseburger Straße
+housenumber: "33"
+phone: +49 341 67919200
+opening_hours: Sa 12:00-16:00; Tu,We,Fr 13:00-18:00
 website: ""

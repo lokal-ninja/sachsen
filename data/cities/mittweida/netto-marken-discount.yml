@@ -1,11 +1,11 @@
 id: 365174211
-type: way
+type: node
 latitude: 50.9826
 longitude: 12.97854
 postcode: "09648"
 city: Mittweida
-street: "Weberstraße"
-housenumber: 50
+street: Weberstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

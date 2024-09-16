@@ -1,11 +1,11 @@
 id: 556389469
-type: way
+type: node
 latitude: 50.42663
 longitude: 12.17419
 postcode: "08606"
 city: Oelsnitz/Vogtl.
-street: "Untermarxgrüner Straße"
-housenumber: 21
+street: Untermarxgrüner Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

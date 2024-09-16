@@ -4,8 +4,8 @@ latitude: 51.36817
 longitude: 12.37363
 postcode: "04157"
 city: Leipzig
-street: "Michael-Kazmierczak-Straße"
-housenumber: 33
+street: Michael-Kazmierczak-Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo 12:00-18:00, Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo 12:00-18:00, Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00
 website: ""

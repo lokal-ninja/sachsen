@@ -4,8 +4,8 @@ latitude: 51.04678
 longitude: 13.71629
 postcode: "01159"
 city: Dresden
-street: "Jagdweg"
-housenumber: 6
-phone: "+49 351 498140"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 09:00-12:00"
+street: Jagdweg
+housenumber: "6"
+phone: +49 351 498140
+opening_hours: Mo-Fr 06:30-18:00; Sa 09:00-12:00
 website: ""

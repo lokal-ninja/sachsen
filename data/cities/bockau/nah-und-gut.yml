@@ -1,11 +1,11 @@
 id: 222924288
-type: way
+type: node
 latitude: 50.5429
 longitude: 12.68639
 postcode: "08324"
 city: Bockau
-street: "Uferstraße"
-housenumber: 11
+street: Uferstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

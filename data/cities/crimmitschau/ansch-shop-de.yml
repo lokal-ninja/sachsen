@@ -4,8 +4,8 @@ latitude: 50.80869
 longitude: 12.38799
 postcode: "08451"
 city: Crimmitschau
-street: "Werdauer Straße"
-housenumber: 44
+street: Werdauer Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-11:00; PH closed"
-website: "https://www.ansch-shop.de/"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-11:00; PH closed
+website: https://www.ansch-shop.de/

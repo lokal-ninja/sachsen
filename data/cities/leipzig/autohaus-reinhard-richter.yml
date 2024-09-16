@@ -1,11 +1,11 @@
 id: 93063017
-type: way
+type: node
 latitude: 51.36078
 longitude: 12.35765
 postcode: "04155"
 city: Leipzig
-street: "Möckernsche Straße"
-housenumber: 27
-phone: "+49 341 566660"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 08:00-13:00"
-website: "https://www.ah-reinhard-richter.de"
+street: Möckernsche Straße
+housenumber: "27"
+phone: +49 341 566660
+opening_hours: Mo-Fr 06:00-19:00; Sa 08:00-13:00
+website: https://www.ah-reinhard-richter.de

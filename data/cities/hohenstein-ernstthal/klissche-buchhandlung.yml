@@ -4,8 +4,8 @@ latitude: 50.80065
 longitude: 12.70874
 postcode: "09337"
 city: Hohenstein-Ernstthal
-street: "Weinkellerstraße"
-housenumber: 20
+street: Weinkellerstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 09:30-13:30, Tu,Th,Fr 14:00-18:00, Sa 09:00-12:00"
+opening_hours: Tu-Fr 09:30-13:30, Tu,Th,Fr 14:00-18:00, Sa 09:00-12:00
 website: ""

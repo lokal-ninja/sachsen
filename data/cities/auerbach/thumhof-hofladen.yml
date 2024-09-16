@@ -4,8 +4,8 @@ latitude: 50.69217
 longitude: 12.90122
 postcode: "09392"
 city: Auerbach
-street: "Hauptstraße"
-housenumber: 19
+street: Hauptstraße
+housenumber: "19"
 phone: ""
-opening_hours: "We 15:00-18:00; Th 09:00-12:00"
-website: "https://thumhof.de/Hofladen.html"
+opening_hours: We 15:00-18:00; Th 09:00-12:00
+website: https://thumhof.de/Hofladen.html

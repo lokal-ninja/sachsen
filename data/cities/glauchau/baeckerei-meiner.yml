@@ -1,11 +1,11 @@
 id: 258945526
-type: way
+type: node
 latitude: 50.83166
 longitude: 12.51809
 postcode: "08371"
 city: Glauchau
-street: "Meeraner Straße"
-housenumber: 57
+street: Meeraner Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Tu-Fr 05:30-14:00; Sa 05:30-10:00"
+opening_hours: Tu-Fr 05:30-14:00; Sa 05:30-10:00
 website: ""

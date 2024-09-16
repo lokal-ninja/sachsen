@@ -1,11 +1,11 @@
 id: 269576982
-type: way
+type: node
 latitude: 50.71221
 longitude: 13.42022
 postcode: "09619"
 city: Sayda
-street: "Dresdner Straße"
-housenumber: 34
+street: Dresdner Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

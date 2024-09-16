@@ -4,8 +4,9 @@ latitude: 50.67258
 longitude: 12.48234
 postcode: "08064"
 city: Zwickau
-street: "Freiheitsstraße"
-housenumber: 67
+street: Freiheitsstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Tu,Fr 08:00-18:00; We 08:00-13:00; Th 08:00-19:00; Sa 08:00-12:00; Mo off"
+opening_hours: Tu,Fr 08:00-18:00; We 08:00-13:00; Th 08:00-19:00; Sa 08:00-12:00;
+    Mo off
 website: ""

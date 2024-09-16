@@ -4,8 +4,8 @@ latitude: 51.1268
 longitude: 13.58071
 postcode: "01640"
 city: Coswig
-street: "Hauptstraße"
-housenumber: 14
-phone: "+49 3523 532948"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su 07:30-10:30,13:00-17:00"
-website: "https://www.baeckerei-claus.de/"
+street: Hauptstraße
+housenumber: "14"
+phone: +49 3523 532948
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su 07:30-10:30,13:00-17:00
+website: https://www.baeckerei-claus.de/

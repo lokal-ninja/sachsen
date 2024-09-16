@@ -1,11 +1,11 @@
 id: 214336205
-type: way
+type: node
 latitude: 50.72581
 longitude: 12.70387
 postcode: "09376"
 city: Oelsnitz/Erzgeb.
-street: "August-Bebel-Straße"
-housenumber: 4
+street: August-Bebel-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

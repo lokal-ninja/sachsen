@@ -1,11 +1,11 @@
 id: 136387046
-type: way
+type: node
 latitude: 51.33588
 longitude: 12.39875
 postcode: "04317"
 city: Leipzig
-street: "Täubchenweg"
-housenumber: 22
+street: Täubchenweg
+housenumber: "22"
 phone: "+4934168188040"
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.biomarkt.de/"
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.biomarkt.de/

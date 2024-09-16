@@ -1,11 +1,11 @@
 id: 175223346
-type: way
+type: node
 latitude: 51.1826
 longitude: 14.96325
 postcode: "02828"
 city: Görlitz
-street: "Gottlieb-Daimler-Straße"
-housenumber: 19
-phone: "+49 3581 877787-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.pneuhage.de/filialen/goerlitz-0678/"
+street: Gottlieb-Daimler-Straße
+housenumber: "19"
+phone: +49 3581 877787-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://www.pneuhage.de/filialen/goerlitz-0678/

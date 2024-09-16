@@ -4,8 +4,8 @@ latitude: 51.05094
 longitude: 13.73535
 postcode: "01067"
 city: Dresden
-street: "Wilsdruffer Straße"
-housenumber: 22
-phone: "+49 351 4842599"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://www.salon-besser.de/"
+street: Wilsdruffer Straße
+housenumber: "22"
+phone: +49 351 4842599
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
+website: https://www.salon-besser.de/

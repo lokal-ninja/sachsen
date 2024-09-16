@@ -1,11 +1,11 @@
 id: 23165111
-type: way
+type: node
 latitude: 51.11021
 longitude: 13.58855
 postcode: "01640"
 city: Coswig
-street: "Naundorfer Straße"
+street: Naundorfer Straße
 housenumber: 1c
-phone: "+49 3523 873 0"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00; Su,PH off"
-website: "http://whg-coswig.de"
+phone: +49 3523 873 0
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00; Su,PH off
+website: http://whg-coswig.de

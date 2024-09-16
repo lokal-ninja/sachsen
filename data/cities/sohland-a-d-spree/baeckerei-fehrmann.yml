@@ -4,8 +4,8 @@ latitude: 51.04785
 longitude: 14.42582
 postcode: "02689"
 city: Sohland a. d. Spree
-street: "Gerhart-Hauptmann-Straße"
-housenumber: 10
-phone: "+49 35936 37350"
-opening_hours: "Mo-Sa 06:00-20:00,Su 07:00-10:00; PH off"
-website: "https://www.baecker-fehrmann.de/"
+street: Gerhart-Hauptmann-Straße
+housenumber: "10"
+phone: +49 35936 37350
+opening_hours: Mo-Sa 06:00-20:00,Su 07:00-10:00; PH off
+website: https://www.baecker-fehrmann.de/

@@ -4,8 +4,8 @@ latitude: 51.12401
 longitude: 13.09657
 postcode: "04720"
 city: Döbeln
-street: "Stockhausener Straße"
-housenumber: 2
-phone: "+49 3431 6614 0"
-opening_hours: "Mo - Fr 06:30 - 17:00"
-website: "http://www.rkb-karosseriewerk.de"
+street: Stockhausener Straße
+housenumber: "2"
+phone: +49 3431 6614 0
+opening_hours: Mo - Fr 06:30 - 17:00
+website: http://www.rkb-karosseriewerk.de

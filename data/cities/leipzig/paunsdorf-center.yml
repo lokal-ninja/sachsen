@@ -1,11 +1,11 @@
 id: 23472601
-type: way
+type: node
 latitude: 51.35118
 longitude: 12.47572
 postcode: "04329"
 city: Leipzig
-street: "Paunsdorfer Allee"
-housenumber: 1
+street: Paunsdorfer Allee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:30-22:30; PH,Su off"
-website: "https://www.paunsdorf-center.de/"
+opening_hours: Mo-Sa 06:30-22:30; PH,Su off
+website: https://www.paunsdorf-center.de/

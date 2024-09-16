@@ -4,8 +4,8 @@ latitude: 50.98108
 longitude: 14.60963
 postcode: "02727"
 city: Ebersbach-Neugersdorf
-street: "Bleichenstraße"
-housenumber: 3
+street: Bleichenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 7:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 7:00-20:00
+website: https://www.aldi-nord.de/

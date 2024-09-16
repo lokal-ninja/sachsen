@@ -1,11 +1,11 @@
 id: 32982407
-type: way
+type: node
 latitude: 51.28035
 longitude: 12.42552
 postcode: "04416"
 city: Markkleeberg
-street: "Apelsteinallee"
-housenumber: 18
+street: Apelsteinallee
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

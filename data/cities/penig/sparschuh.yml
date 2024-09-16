@@ -1,11 +1,11 @@
 id: 224391578
-type: way
+type: node
 latitude: 50.98982
 longitude: 12.70153
 postcode: "09322"
 city: Penig
-street: "Obergräfenhainer Straße"
-housenumber: 24
+street: Obergräfenhainer Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

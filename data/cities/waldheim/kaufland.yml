@@ -1,11 +1,11 @@
 id: 20859550
-type: way
+type: node
 latitude: 51.08012
 longitude: 12.99645
 postcode: "04736"
 city: Waldheim
-street: "Hauptstraße"
-housenumber: 107
+street: Hauptstraße
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

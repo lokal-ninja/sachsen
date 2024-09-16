@@ -4,8 +4,8 @@ latitude: 50.54253
 longitude: 12.07695
 postcode: "08548"
 city: Rosenbach/Vogtland
-street: "Hauptstraße"
-housenumber: 25
-phone: "+49 800 8003281"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-11:00"
-website: "https://www.metzgerei-eisenschmidt.de/"
+street: Hauptstraße
+housenumber: "25"
+phone: +49 800 8003281
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-11:00
+website: https://www.metzgerei-eisenschmidt.de/

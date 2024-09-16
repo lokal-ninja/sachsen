@@ -1,11 +1,11 @@
 id: 148322901
-type: way
+type: node
 latitude: 50.81978
 longitude: 12.93588
 postcode: "09126"
 city: Chemnitz
-street: "Bernsdorfer Straße"
-housenumber: 55
+street: Bernsdorfer Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

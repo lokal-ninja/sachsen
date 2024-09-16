@@ -1,11 +1,11 @@
 id: 59380848
-type: way
+type: node
 latitude: 51.19087
 longitude: 14.4451
 postcode: "02625"
 city: Bautzen
-street: "Platz der Völkerfreundschaft"
-housenumber: 8
+street: Platz der Völkerfreundschaft
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

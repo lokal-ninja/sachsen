@@ -1,11 +1,11 @@
 id: 161118323
-type: way
+type: node
 latitude: 50.61558
 longitude: 12.71587
 postcode: "08294"
 city: Lößnitz
-street: "Schneeberger Straße"
-housenumber: 58
+street: Schneeberger Straße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.72074
 longitude: 12.48174
 postcode: "08056"
 city: Zwickau
-street: "Werdauer Straße"
+street: Werdauer Straße
 housenumber: 38a
 phone: ""
-opening_hours: "nach ,Vereinbarung"
+opening_hours: '"nach ,Vereinbarung"'
 website: ""

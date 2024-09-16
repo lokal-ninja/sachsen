@@ -4,8 +4,8 @@ latitude: 50.71087
 longitude: 12.77783
 postcode: "09366"
 city: Stollberg/Erzgebirge
-street: "Schillerstraße"
-housenumber: 6
-phone: "+49 37296 448850"
-opening_hours: "We 10:00-18:00; Th-Fr 10:00-16:00; Sa 09:00-12:00"
-website: "http://www.hanfladen-stollberg.de"
+street: Schillerstraße
+housenumber: "6"
+phone: +49 37296 448850
+opening_hours: We 10:00-18:00; Th-Fr 10:00-16:00; Sa 09:00-12:00
+website: http://www.hanfladen-stollberg.de

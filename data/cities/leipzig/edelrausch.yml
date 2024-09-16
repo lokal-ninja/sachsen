@@ -4,8 +4,8 @@ latitude: 51.32247
 longitude: 12.34325
 postcode: "04229"
 city: Leipzig
-street: "Könneritzstraße"
-housenumber: 61
-phone: "+49 351 8103370"
-opening_hours: "Mo-Fr 11:00-20:00; Sa 10:00-16:00"
-website: "https://www.edelrausch.de/"
+street: Könneritzstraße
+housenumber: "61"
+phone: +49 351 8103370
+opening_hours: Mo-Fr 11:00-20:00; Sa 10:00-16:00
+website: https://www.edelrausch.de/

@@ -4,8 +4,8 @@ latitude: 51.06575
 longitude: 13.75033
 postcode: "01099"
 city: Dresden
-street: "Alaunstraße"
-housenumber: 31
+street: Alaunstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-14:00"
-website: "https://stollenmanufaktur.de"
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-14:00
+website: https://stollenmanufaktur.de

@@ -4,8 +4,8 @@ latitude: 51.32952
 longitude: 12.33666
 postcode: "04229"
 city: Leipzig
-street: "Zschochersche Straße"
-housenumber: 48
-phone: "+49 341 4781932"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.nkd.com/"
+street: Zschochersche Straße
+housenumber: "48"
+phone: +49 341 4781932
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.nkd.com/

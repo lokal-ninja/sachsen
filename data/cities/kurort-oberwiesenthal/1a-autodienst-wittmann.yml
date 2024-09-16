@@ -1,11 +1,11 @@
 id: 627404754
-type: way
+type: node
 latitude: 50.42238
 longitude: 12.98243
 postcode: "09484"
 city: Kurort Oberwiesenthal
-street: "Alte Viehtrift"
-housenumber: 3
+street: Alte Viehtrift
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 109301926
-type: way
+type: node
 latitude: 50.90961
 longitude: 13.32361
 postcode: "09599"
 city: Freiberg
-street: "Straße der Einheit"
-housenumber: 9
-phone: "+49 3731 698866"
-opening_hours: "Mo-Fr 05:30-17:00; Sa 05:30-12:00"
+street: Straße der Einheit
+housenumber: "9"
+phone: +49 3731 698866
+opening_hours: Mo-Fr 05:30-17:00; Sa 05:30-12:00
 website: ""

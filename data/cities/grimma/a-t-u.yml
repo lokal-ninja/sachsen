@@ -1,11 +1,11 @@
 id: 90401677
-type: way
+type: node
 latitude: 51.23092
 longitude: 12.70156
 postcode: "04668"
 city: Grimma
-street: "Broner Ring"
-housenumber: 32
+street: Broner Ring
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

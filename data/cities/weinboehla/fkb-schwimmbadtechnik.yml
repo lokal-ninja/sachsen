@@ -1,11 +1,11 @@
 id: 181014177
-type: way
+type: node
 latitude: 51.14857
 longitude: 13.55685
 postcode: "01689"
 city: Weinböhla
-street: "Sörnewitzer Straße"
-housenumber: 43
+street: Sörnewitzer Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

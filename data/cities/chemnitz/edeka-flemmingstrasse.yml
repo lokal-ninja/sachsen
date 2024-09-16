@@ -1,11 +1,11 @@
 id: 97391459
-type: way
+type: node
 latitude: 50.84106
 longitude: 12.87533
 postcode: "09116"
 city: Chemnitz
-street: "Flemmingstraße"
-housenumber: 59
+street: Flemmingstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

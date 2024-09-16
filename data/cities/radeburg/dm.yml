@@ -1,11 +1,11 @@
 id: 560789921
-type: way
+type: node
 latitude: 51.21508
 longitude: 13.73179
 postcode: "01471"
 city: Radeburg
-street: "Lindenweg"
+street: Lindenweg
 housenumber: 1a
-phone: "+49 35208 346628"
-opening_hours: "Mo-Sa 08:00-20:00"
+phone: +49 35208 346628
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.27033
 longitude: 14.09403
 postcode: "01917"
 city: Kamenz
-street: "Klosterstraße"
-housenumber: 3
-phone: "+49 3578 304171"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
+street: Klosterstraße
+housenumber: "3"
+phone: +49 3578 304171
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
 website: ""

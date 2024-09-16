@@ -1,11 +1,11 @@
 id: 191117604
-type: way
+type: node
 latitude: 51.01423
 longitude: 13.72395
 postcode: "01217"
 city: Dresden
-street: "Altkaitz"
-housenumber: 9
+street: Altkaitz
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

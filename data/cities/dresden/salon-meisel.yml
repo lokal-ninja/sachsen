@@ -4,8 +4,8 @@ latitude: 51.03364
 longitude: 13.73572
 postcode: "01069"
 city: Dresden
-street: "Reichenbachstraße"
-housenumber: 21
-phone: "+49 3516475526"
-opening_hours: "Mo-Fr 08:00-19:00"
-website: "https://www.salon-meisel.de/Salon-Reichenbachstra%C3%9Fe"
+street: Reichenbachstraße
+housenumber: "21"
+phone: +49 3516475526
+opening_hours: Mo-Fr 08:00-19:00
+website: https://www.salon-meisel.de/Salon-Reichenbachstra%C3%9Fe

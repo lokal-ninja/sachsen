@@ -1,11 +1,11 @@
 id: 60393966
-type: way
+type: node
 latitude: 50.85402
 longitude: 14.70022
 postcode: "02796"
 city: Jonsdorf
-street: "Große Seite"
-housenumber: 17
+street: Große Seite
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-16:00; PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-16:00; PH off
 website: ""

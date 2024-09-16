@@ -4,8 +4,8 @@ latitude: 51.31556
 longitude: 12.38189
 postcode: "04275"
 city: Leipzig
-street: "Kantstraße"
-housenumber: 62
-phone: "+49 341 2569 3383"
-opening_hours: "Mi-Sa 12:00-18:00, Su 12:00-17:30"
-website: "https://www.chachacake.com"
+street: Kantstraße
+housenumber: "62"
+phone: +49 341 2569 3383
+opening_hours: Mi-Sa 12:00-18:00, Su 12:00-17:30
+website: https://www.chachacake.com

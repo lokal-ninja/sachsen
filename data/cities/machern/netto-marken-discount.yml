@@ -1,11 +1,11 @@
 id: 201386909
-type: way
+type: node
 latitude: 51.35942
 longitude: 12.62267
 postcode: "04827"
 city: Machern
-street: "Neumarkt"
-housenumber: 1
+street: Neumarkt
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

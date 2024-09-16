@@ -4,8 +4,8 @@ latitude: 51.3766
 longitude: 12.39249
 postcode: "04129"
 city: Leipzig
-street: "Essener Straße"
-housenumber: 11
-phone: "+49 341 9022950"
-opening_hours: "Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off"
-website: "https://www.louis.de/filialen/louis-leipzig"
+street: Essener Straße
+housenumber: "11"
+phone: +49 341 9022950
+opening_hours: 'Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off'
+website: https://www.louis.de/filialen/louis-leipzig

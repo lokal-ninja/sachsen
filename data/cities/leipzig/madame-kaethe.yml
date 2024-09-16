@@ -4,8 +4,8 @@ latitude: 51.33101
 longitude: 12.33162
 postcode: "04229"
 city: Leipzig
-street: "Karl-Heine-Straße"
-housenumber: 68
+street: Karl-Heine-Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Nach terminlicher Vereinbarung"
+opening_hours: '"Nach terminlicher Vereinbarung"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.34064
 longitude: 12.38656
 postcode: "04103"
 city: Leipzig
-street: "Großer Brockhaus"
-housenumber: 1
-phone: "+49 341 5861670"
-opening_hours: "Mo-Fr 8:00-20:00; Sa,Su 10:00-19:00 (Sonntags nur telefonisch erreichbar)"
-website: "https://www.siamar.de"
+street: Großer Brockhaus
+housenumber: "1"
+phone: +49 341 5861670
+opening_hours: Mo-Fr 8:00-20:00; Sa,Su 10:00-19:00 "(Sonntags nur telefonisch erreichbar)"
+website: https://www.siamar.de

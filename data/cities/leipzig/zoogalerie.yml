@@ -1,11 +1,11 @@
 id: 96567174
-type: way
+type: node
 latitude: 51.32561
 longitude: 12.43603
 postcode: "04316"
 city: Leipzig
-street: "Handwerkerhof"
-housenumber: 2
+street: Handwerkerhof
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

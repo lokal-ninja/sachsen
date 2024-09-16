@@ -4,8 +4,8 @@ latitude: 51.33212
 longitude: 12.33261
 postcode: "04177"
 city: Leipzig
-street: "Merseburger Straße"
-housenumber: 37
-phone: "+49 341 12575245"
-opening_hours: "We-Sa 14:00-18:00"
-website: "https://www.charter-jungekunst.de/"
+street: Merseburger Straße
+housenumber: "37"
+phone: +49 341 12575245
+opening_hours: We-Sa 14:00-18:00
+website: https://www.charter-jungekunst.de/

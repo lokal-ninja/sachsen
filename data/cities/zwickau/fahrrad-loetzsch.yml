@@ -4,8 +4,8 @@ latitude: 50.6823
 longitude: 12.4737
 postcode: "08064"
 city: Zwickau
-street: "Fichtestraße"
-housenumber: 12
-phone: "+49 375 783067"
+street: Fichtestraße
+housenumber: "12"
+phone: +49 375 783067
 opening_hours: ""
-website: "https://www.fahrrad-loetzsch.de/"
+website: https://www.fahrrad-loetzsch.de/

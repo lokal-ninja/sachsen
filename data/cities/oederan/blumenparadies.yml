@@ -4,8 +4,8 @@ latitude: 50.8601
 longitude: 13.16678
 postcode: "09569"
 city: Oederan
-street: "Lange Straße"
-housenumber: 2
+street: Lange Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00; Su,PH off
 website: ""

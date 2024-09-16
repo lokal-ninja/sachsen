@@ -4,8 +4,8 @@ latitude: 50.69159
 longitude: 12.47296
 postcode: "08062"
 city: Zwickau
-street: "Innere Zwickauer Straße"
-housenumber: 75
-phone: "+49 375 789628"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.fernsehservice-geisler.de/"
+street: Innere Zwickauer Straße
+housenumber: "75"
+phone: +49 375 789628
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.fernsehservice-geisler.de/

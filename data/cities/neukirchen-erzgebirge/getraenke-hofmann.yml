@@ -1,11 +1,11 @@
 id: 111531440
-type: way
+type: node
 latitude: 50.76189
 longitude: 12.87481
 postcode: "09221"
 city: Neukirchen/Erzgebirge
-street: "Adorfer Hauptstraße"
-housenumber: 22
+street: Adorfer Hauptstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-13:00; Su,PH off
 website: ""

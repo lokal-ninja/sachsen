@@ -4,8 +4,8 @@ latitude: 50.91639
 longitude: 13.34211
 postcode: "09599"
 city: Freiberg
-street: "Petersstraße"
-housenumber: 6
-phone: "+49 3731 277241"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.reizbar-freiberg.de/"
+street: Petersstraße
+housenumber: "6"
+phone: +49 3731 277241
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.reizbar-freiberg.de/

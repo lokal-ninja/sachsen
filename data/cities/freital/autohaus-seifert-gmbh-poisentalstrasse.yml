@@ -4,8 +4,8 @@ latitude: 50.98843
 longitude: 13.66809
 postcode: "01705"
 city: Freital
-street: "Poisentalstraße"
-housenumber: 93
-phone: "+49 351 644020"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:30; Su,PH off"
-website: "https://www.ahseifert-freital.de/"
+street: Poisentalstraße
+housenumber: "93"
+phone: +49 351 644020
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:30; Su,PH off
+website: https://www.ahseifert-freital.de/

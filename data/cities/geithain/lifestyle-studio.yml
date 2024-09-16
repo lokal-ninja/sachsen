@@ -4,8 +4,9 @@ latitude: 51.05551
 longitude: 12.69901
 postcode: "04643"
 city: Geithain
-street: "Robert-Koch-Straße"
-housenumber: 8
+street: Robert-Koch-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 08:00-11:00,11:30-19:00; Tu 08:00-11:00,11:30-15:00; Fr 08:00-11:00,11:30-14:00; Sa[1] 08:00-11:30; PH off"
+opening_hours: Mo-Th 08:00-11:00,11:30-19:00; Tu 08:00-11:00,11:30-15:00; Fr 08:00-11:00,11:30-14:00;
+    Sa[1] 08:00-11:30; PH off
 website: ""

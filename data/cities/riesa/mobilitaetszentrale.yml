@@ -1,11 +1,12 @@
 id: 102862887
-type: way
+type: node
 latitude: 51.30913
 longitude: 13.28863
 postcode: "01587"
 city: Riesa
-street: "Bahnhofstraße"
-housenumber: 47
+street: Bahnhofstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:00; Apr-Oct Sa 09:30-16:00; Su,PH off; Nov-Mar Sa 09:30-14:00; Jun-Sep Su 14:00-17:00"
+opening_hours: Mo-Fr 09:30-17:00; Apr-Oct Sa 09:30-16:00; Su,PH off; Nov-Mar Sa 09:30-14:00;
+    Jun-Sep Su 14:00-17:00
 website: ""

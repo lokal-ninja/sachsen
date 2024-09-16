@@ -1,11 +1,11 @@
 id: 263213481
-type: way
+type: node
 latitude: 51.30687
 longitude: 13.67138
 postcode: "01561"
 city: Lampertswalde
-street: "Am Mart"
-housenumber: 1
+street: Am Mart
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

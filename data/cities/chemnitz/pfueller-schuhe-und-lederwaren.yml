@@ -4,8 +4,8 @@ latitude: 50.79579
 longitude: 12.92233
 postcode: "09125"
 city: Chemnitz
-street: "Annaberger Straße"
-housenumber: 315
-phone: "+49 371 6761068"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su off;PH off"
+street: Annaberger Straße
+housenumber: "315"
+phone: +49 371 6761068
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su off;PH off
 website: ""

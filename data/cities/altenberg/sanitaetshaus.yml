@@ -4,8 +4,8 @@ latitude: 50.76556
 longitude: 13.7567
 postcode: "01773"
 city: Altenberg
-street: "Dippoldiswalder Straße"
-housenumber: 3
-phone: "+49 35056 22825"
-opening_hours: "Mo-Th 09:00-12:00,14:00-18:00; Fr 09:00-14:00"
+street: Dippoldiswalder Straße
+housenumber: "3"
+phone: +49 35056 22825
+opening_hours: Mo-Th 09:00-12:00,14:00-18:00; Fr 09:00-14:00
 website: ""

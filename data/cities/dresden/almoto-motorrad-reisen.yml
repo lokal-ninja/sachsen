@@ -4,8 +4,8 @@ latitude: 51.07428
 longitude: 13.747
 postcode: "01097"
 city: Dresden
-street: "Hechtstraße"
-housenumber: 26
-phone: "+49 351 8031 017"
+street: Hechtstraße
+housenumber: "26"
+phone: +49 351 8031 017
 opening_hours: ""
-website: "https://www.almoto.de/"
+website: https://www.almoto.de/

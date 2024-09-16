@@ -4,8 +4,8 @@ latitude: 51.26898
 longitude: 14.09564
 postcode: "01917"
 city: Kamenz
-street: "Anger"
-housenumber: 8
-phone: "+49 3578 788711;+49 170 3225772;+49 162 2670698"
-opening_hours: "nach Vereinbarung"
+street: Anger
+housenumber: "8"
+phone: +49 3578 788711;+49 170 3225772;+49 162 2670698
+opening_hours: '"nach Vereinbarung"'
 website: ""

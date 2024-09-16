@@ -1,11 +1,11 @@
 id: 231893861
-type: way
+type: node
 latitude: 50.75578
 longitude: 12.37056
 postcode: "08412"
 city: Werdau
-street: "Crimmitschauer Straße"
-housenumber: 137
-phone: "+49 3761 70010"
+street: Crimmitschauer Straße
+housenumber: "137"
+phone: +49 3761 70010
 opening_hours: ""
-website: "https://autohaus-pleissental.skoda-auto.de/"
+website: https://autohaus-pleissental.skoda-auto.de/

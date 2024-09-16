@@ -4,8 +4,8 @@ latitude: 50.83422
 longitude: 12.91689
 postcode: "09111"
 city: Chemnitz
-street: "Theaterstraße"
-housenumber: 17
-phone: "+49 17641455115"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://einfachkiosk.de/"
+street: Theaterstraße
+housenumber: "17"
+phone: +49 17641455115
+opening_hours: Mo-Sa 10:00-20:00
+website: https://einfachkiosk.de/

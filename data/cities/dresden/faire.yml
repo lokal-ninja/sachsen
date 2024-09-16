@@ -4,8 +4,8 @@ latitude: 51.11731
 longitude: 13.73061
 postcode: "01109"
 city: Dresden
-street: "Radeburger Straße"
-housenumber: 172
-phone: "+49 351 8892380"
-opening_hours: "Sa 10:00-14:00; Mo-Fr 09:00-17:00"
-website: "http://www.faire.de"
+street: Radeburger Straße
+housenumber: "172"
+phone: +49 351 8892380
+opening_hours: Sa 10:00-14:00; Mo-Fr 09:00-17:00
+website: http://www.faire.de

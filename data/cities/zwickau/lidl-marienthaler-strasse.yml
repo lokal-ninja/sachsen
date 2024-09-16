@@ -1,11 +1,11 @@
 id: 193362428
-type: way
+type: node
 latitude: 50.71928
 longitude: 12.46716
 postcode: "08060"
 city: Zwickau
-street: "Marienthaler Straße"
-housenumber: 53
+street: Marienthaler Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

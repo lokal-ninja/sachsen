@@ -4,8 +4,8 @@ latitude: 51.32674
 longitude: 12.33543
 postcode: "04229"
 city: Leipzig
-street: "Zschochersche Straße"
-housenumber: 71
-phone: "+49 1578 5032429"
-opening_hours: "We-Th 10:00-13:00,14:00-18:00; Fr 10:00-13:00,14:00-19:00; Sa 10:00-14:00"
-website: "https://www.saxonyducks.de"
+street: Zschochersche Straße
+housenumber: "71"
+phone: +49 1578 5032429
+opening_hours: We-Th 10:00-13:00,14:00-18:00; Fr 10:00-13:00,14:00-19:00; Sa 10:00-14:00
+website: https://www.saxonyducks.de

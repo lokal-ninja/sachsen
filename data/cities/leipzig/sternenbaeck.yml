@@ -4,8 +4,8 @@ latitude: 51.33747
 longitude: 12.33435
 postcode: "04177"
 city: Leipzig
-street: "Lindenauer Markt"
-housenumber: 14
-phone: "+49 365 830250"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-13:00; Su 08:00-12:00"
-website: "https://www.sternenbaeck.de/"
+street: Lindenauer Markt
+housenumber: "14"
+phone: +49 365 830250
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-13:00; Su 08:00-12:00
+website: https://www.sternenbaeck.de/

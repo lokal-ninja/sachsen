@@ -4,8 +4,9 @@ latitude: 51.2711
 longitude: 14.09378
 postcode: "01917"
 city: Kamenz
-street: "Schulplatz"
-housenumber: 2
-phone: "+49 3578 310544"
-opening_hours: "Mo, Fr 09:00-13:00; Tu-Th 09:00-13:00, 14:00-18:00; Sa nach vereinbarung; PH off"
-website: "https://www.schaub.eu/sanitaetshaus-kamenz-schaub"
+street: Schulplatz
+housenumber: "2"
+phone: +49 3578 310544
+opening_hours: Mo, Fr 09:00-13:00; Tu-Th 09:00-13:00, 14:00-18:00; Sa "nach vereinbarung";
+    PH off
+website: https://www.schaub.eu/sanitaetshaus-kamenz-schaub

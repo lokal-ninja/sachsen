@@ -1,11 +1,11 @@
 id: 155788792
-type: way
+type: node
 latitude: 50.84472
 longitude: 12.63829
 postcode: "09337"
 city: Callenberg
-street: "Hauptstraße"
-housenumber: 42
+street: Hauptstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

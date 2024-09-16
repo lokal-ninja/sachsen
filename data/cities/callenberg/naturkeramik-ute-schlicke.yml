@@ -1,11 +1,11 @@
 id: 156936434
-type: way
+type: node
 latitude: 50.87256
 longitude: 12.65437
 postcode: "09337"
 city: Callenberg
-street: "Waldenburger Straße"
-housenumber: 113
+street: Waldenburger Straße
+housenumber: "113"
 phone: ""
 opening_hours: ""
-website: "https://www.naturkeramik-schlicke.de"
+website: https://www.naturkeramik-schlicke.de

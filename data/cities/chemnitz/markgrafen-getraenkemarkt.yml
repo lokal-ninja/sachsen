@@ -1,11 +1,11 @@
 id: 90982692
-type: way
+type: node
 latitude: 50.83366
 longitude: 12.88378
 postcode: "09116"
 city: Chemnitz
-street: "Ernst-Heilmann-Straße"
-housenumber: 3
+street: Ernst-Heilmann-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

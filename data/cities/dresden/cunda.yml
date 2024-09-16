@@ -4,8 +4,8 @@ latitude: 51.04795
 longitude: 13.73699
 postcode: "01067"
 city: Dresden
-street: "Seestraße"
-housenumber: 7
-phone: "+49 351 4390920"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.c-and-a.com/stores/de-en/sachsen/dresden/seestrasse-7.html"
+street: Seestraße
+housenumber: "7"
+phone: +49 351 4390920
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.c-and-a.com/stores/de-en/sachsen/dresden/seestrasse-7.html

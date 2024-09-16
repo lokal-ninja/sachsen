@@ -4,8 +4,8 @@ latitude: 51.06401
 longitude: 13.75225
 postcode: "01099"
 city: Dresden
-street: "Rothenburger Straße"
-housenumber: 11
-phone: "+49 351 257 12 60"
-opening_hours: "Mo-Fr 14:00-20:00"
-website: "https://www.geoeff.net/"
+street: Rothenburger Straße
+housenumber: "11"
+phone: +49 351 257 12 60
+opening_hours: Mo-Fr 14:00-20:00
+website: https://www.geoeff.net/

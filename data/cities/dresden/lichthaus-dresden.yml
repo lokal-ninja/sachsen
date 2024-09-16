@@ -4,8 +4,9 @@ latitude: 51.02752
 longitude: 13.83483
 postcode: "01279"
 city: Dresden
-street: "Österreicher Straße"
-housenumber: 22
-phone: "+49 351 8104077"
-opening_hours: "Mo-We,Fr 10:00-19:00; Sa 10:00-14:00; Sep-Dec Th 10:00-19:00; Dec 24,31 closed"
-website: "https://www.lichthaus-dresden.de/"
+street: Österreicher Straße
+housenumber: "22"
+phone: +49 351 8104077
+opening_hours: Mo-We,Fr 10:00-19:00; Sa 10:00-14:00; Sep-Dec Th 10:00-19:00; Dec 24,31
+    closed
+website: https://www.lichthaus-dresden.de/

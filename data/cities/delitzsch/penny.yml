@@ -1,11 +1,11 @@
 id: 265722999
-type: way
+type: node
 latitude: 51.52885
 longitude: 12.34093
 postcode: "04509"
 city: Delitzsch
-street: "Albert-Böhme-Straße"
-housenumber: 
+street: Albert-Böhme-Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

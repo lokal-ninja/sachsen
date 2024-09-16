@@ -4,8 +4,8 @@ latitude: 51.075
 longitude: 13.72337
 postcode: "01127"
 city: Dresden
-street: "Oschatzer Straße"
-housenumber: 4
+street: Oschatzer Straße
+housenumber: "4"
 phone: "+493514827993"
-opening_hours: "Mo-Fr 10:00-16:00; We 10:00-17:00"
-website: "https://www.leconi.de/"
+opening_hours: Mo-Fr 10:00-16:00; We 10:00-17:00
+website: https://www.leconi.de/

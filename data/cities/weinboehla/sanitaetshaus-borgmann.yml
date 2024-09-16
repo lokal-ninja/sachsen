@@ -4,8 +4,8 @@ latitude: 51.16185
 longitude: 13.56512
 postcode: "01689"
 city: Weinböhla
-street: "Kirchplatz"
-housenumber: 15
-phone: "+49 35243448100"
-opening_hours: "Mo,Tu,Th 09:00-18:00; We,Fr 09:00-15:30; Sa,Su,PH off"
-website: "https://www.sh-borgmann.de/"
+street: Kirchplatz
+housenumber: "15"
+phone: +49 35243448100
+opening_hours: Mo,Tu,Th 09:00-18:00; We,Fr 09:00-15:30; Sa,Su,PH off
+website: https://www.sh-borgmann.de/

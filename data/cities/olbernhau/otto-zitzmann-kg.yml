@@ -1,11 +1,11 @@
 id: 270861791
-type: way
+type: node
 latitude: 50.64777
 longitude: 13.38097
 postcode: "09526"
 city: Olbernhau
-street: "Zollstraße"
-housenumber: 16
-phone: "+49 37360 7880"
+street: Zollstraße
+housenumber: "16"
+phone: +49 37360 7880
 opening_hours: ""
-website: "https://www.zitzmann.mercedes-benz.de/content/germany/retailer-0/otto_zitzmann_kg/de/home/passengercars/home/locations.html"
+website: https://www.zitzmann.mercedes-benz.de/content/germany/retailer-0/otto_zitzmann_kg/de/home/passengercars/home/locations.html

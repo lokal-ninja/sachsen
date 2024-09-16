@@ -4,8 +4,8 @@ latitude: 51.36334
 longitude: 12.36242
 postcode: "04155"
 city: Leipzig
-street: "Georg-Schumann-Straße"
-housenumber: 100
-phone: "+49 159 06221171"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 11:00-16:00"
-website: "https://www.studio-kondov.de/"
+street: Georg-Schumann-Straße
+housenumber: "100"
+phone: +49 159 06221171
+opening_hours: Mo-Fr 10:00-18:00; Sa 11:00-16:00
+website: https://www.studio-kondov.de/

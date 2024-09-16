@@ -1,11 +1,11 @@
 id: 319156162
-type: way
+type: node
 latitude: 51.36904
 longitude: 12.37667
 postcode: "04157"
 city: Leipzig
-street: "Virchowstraße"
-housenumber: 30
+street: Virchowstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-21:00"
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-21:00
 website: ""

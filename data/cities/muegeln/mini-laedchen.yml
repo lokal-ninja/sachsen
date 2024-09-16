@@ -4,8 +4,9 @@ latitude: 51.23636
 longitude: 13.0419
 postcode: "04769"
 city: Mügeln
-street: "Wermsdorfer Straße"
-housenumber: 5
+street: Wermsdorfer Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 10:00-14:30; Tu,Th,Fr 07:00-16:00; We 07:00-14:30; Sa 07:00-10:00; PH off"
+opening_hours: Mo 10:00-14:30; Tu,Th,Fr 07:00-16:00; We 07:00-14:30; Sa 07:00-10:00;
+    PH off
 website: ""

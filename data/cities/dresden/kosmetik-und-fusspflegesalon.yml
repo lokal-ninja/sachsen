@@ -4,8 +4,8 @@ latitude: 51.08108
 longitude: 13.7314
 postcode: "01127"
 city: Dresden
-street: "Großenhainer Straße"
+street: Großenhainer Straße
 housenumber: 74a
-phone: "+49 351 4278799"
-opening_hours: "nur nach terminvereinbarung"
+phone: +49 351 4278799
+opening_hours: '"nur nach terminvereinbarung"'
 website: ""

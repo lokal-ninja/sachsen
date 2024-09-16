@@ -4,8 +4,9 @@ latitude: 50.51491
 longitude: 12.11956
 postcode: "08525"
 city: Plauen
-street: "Pausaer Straße"
-housenumber: 131
+street: Pausaer Straße
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-We 09:00-13:00,13:30-16:30; Th 11:00-13:00,13:30-18:00; Fr 09:00-13:00; Sa[1] 09:00-13:00; PH off"
+opening_hours: Mo-We 09:00-13:00,13:30-16:30; Th 11:00-13:00,13:30-18:00; Fr 09:00-13:00;
+    Sa[1] 09:00-13:00; PH off
 website: ""

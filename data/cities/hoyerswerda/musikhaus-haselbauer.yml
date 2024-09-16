@@ -1,11 +1,11 @@
 id: 132998459
-type: way
+type: node
 latitude: 51.43872
 longitude: 14.24043
 postcode: "02977"
 city: Hoyerswerda
-street: "Kolpingstraße"
-housenumber: 14
+street: Kolpingstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

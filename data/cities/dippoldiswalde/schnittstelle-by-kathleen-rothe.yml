@@ -4,8 +4,8 @@ latitude: 50.89827
 longitude: 13.66746
 postcode: "01744"
 city: Dippoldiswalde
-street: "Große Mühlstraße"
-housenumber: 5
-phone: "+49 3504 6258522"
-opening_hours: "Mo-Fr nach Vereinbarung; PH,Sa-Su off"
+street: Große Mühlstraße
+housenumber: "5"
+phone: +49 3504 6258522
+opening_hours: Mo-Fr "nach Vereinbarung"; PH,Sa-Su off
 website: ""

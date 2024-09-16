@@ -1,11 +1,11 @@
 id: 95700138
-type: way
+type: node
 latitude: 50.87392
 longitude: 12.91673
 postcode: "09114"
 city: Chemnitz
-street: "Am Berg"
-housenumber: 10
-phone: "+49 (0)176 23379414"
+street: Am Berg
+housenumber: "10"
+phone: +49 (0)176 23379414
 opening_hours: ""
-website: "www.zeitlosautomobile.com/"
+website: www.zeitlosautomobile.com/

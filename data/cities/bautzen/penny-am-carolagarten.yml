@@ -1,11 +1,11 @@
 id: 104652101
-type: way
+type: node
 latitude: 51.17539
 longitude: 14.46286
 postcode: "02625"
 city: Bautzen
-street: "Am Carolagarten"
-housenumber: 1
-phone: "+49 180 3331010"
+street: Am Carolagarten
+housenumber: "1"
+phone: +49 180 3331010
 opening_hours: ""
 website: ""

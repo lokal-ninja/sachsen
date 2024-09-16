@@ -1,11 +1,11 @@
 id: 657273291
-type: way
+type: node
 latitude: 51.10882
 longitude: 12.51522
 postcode: "04552"
 city: Borna
-street: "Gewerbegebiet Waldstraße"
-housenumber: 2
+street: Gewerbegebiet Waldstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-12:00, Su,PH off"
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:00-12:00, Su,PH off
 website: ""

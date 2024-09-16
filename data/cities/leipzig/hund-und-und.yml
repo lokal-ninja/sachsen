@@ -4,8 +4,8 @@ latitude: 51.3428
 longitude: 12.36464
 postcode: "04109"
 city: Leipzig
-street: "Thomasiusstraße"
-housenumber: 2
+street: Thomasiusstraße
+housenumber: "2"
 phone: "+4934146388123"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.hundundund.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.hundundund.de/

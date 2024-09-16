@@ -4,8 +4,8 @@ latitude: 51.36481
 longitude: 12.35599
 postcode: "04155"
 city: Leipzig
-street: "Georg-Schumann-Straße"
-housenumber: 134
-phone: "+49 176 41488482"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://annekaden.com/"
+street: Georg-Schumann-Straße
+housenumber: "134"
+phone: +49 176 41488482
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://annekaden.com/

@@ -4,8 +4,8 @@ latitude: 51.33102
 longitude: 12.40598
 postcode: "04317"
 city: Leipzig
-street: "Riebeckstraße"
-housenumber: 9
-phone: "+49 341 2615187"
-opening_hours: "Mo 09:00-13:00,14:00-18:00; Th 09:00-13:00,14:00-18:00"
-website: "https://petters-orthopaedie.de/"
+street: Riebeckstraße
+housenumber: "9"
+phone: +49 341 2615187
+opening_hours: Mo 09:00-13:00,14:00-18:00; Th 09:00-13:00,14:00-18:00
+website: https://petters-orthopaedie.de/

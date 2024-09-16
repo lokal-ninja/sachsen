@@ -4,8 +4,8 @@ latitude: 51.36024
 longitude: 12.38392
 postcode: "04129"
 city: Leipzig
-street: "Theresienstraße"
-housenumber: 23
-phone: "+49 341 9115796"
-opening_hours: "Mo,We 09:00-17:00"
-website: "https://www.ost-emmerich.de/"
+street: Theresienstraße
+housenumber: "23"
+phone: +49 341 9115796
+opening_hours: Mo,We 09:00-17:00
+website: https://www.ost-emmerich.de/

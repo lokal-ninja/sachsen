@@ -4,8 +4,8 @@ latitude: 50.8412
 longitude: 12.44609
 postcode: "08393"
 city: Meerane
-street: "Hohe Straße"
-housenumber: 8
-phone: "+49 3764 185251"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.a4-center.de/"
+street: Hohe Straße
+housenumber: "8"
+phone: +49 3764 185251
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.a4-center.de/

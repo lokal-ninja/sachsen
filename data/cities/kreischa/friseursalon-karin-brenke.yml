@@ -4,8 +4,9 @@ latitude: 50.94515
 longitude: 13.75841
 postcode: "01731"
 city: Kreischa
-street: "Haußmannplatz"
-housenumber: 7
-phone: "+49 35206 21632"
-opening_hours: "Mo 08:00-18:00; Tu,We 07:30-17:30; Th 07:30-20:00; Fr 07:30-19:00; Sa 07:30-12:00"
+street: Haußmannplatz
+housenumber: "7"
+phone: +49 35206 21632
+opening_hours: Mo 08:00-18:00; Tu,We 07:30-17:30; Th 07:30-20:00; Fr 07:30-19:00;
+    Sa 07:30-12:00
 website: ""

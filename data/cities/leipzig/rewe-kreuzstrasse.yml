@@ -1,11 +1,11 @@
 id: 23454965
-type: way
+type: node
 latitude: 51.34159
 longitude: 12.39602
 postcode: "04315"
 city: Leipzig
-street: "Kreuzstraße"
-housenumber: 31
-phone: "+49 341 6880695"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+street: Kreuzstraße
+housenumber: "31"
+phone: +49 341 6880695
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

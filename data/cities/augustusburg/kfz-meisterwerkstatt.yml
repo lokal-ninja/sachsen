@@ -1,11 +1,11 @@
 id: 141530455
-type: way
+type: node
 latitude: 50.80982
 longitude: 13.1017
 postcode: "09573"
 city: Augustusburg
-street: "Marienberger Straße"
-housenumber: 27
+street: Marienberger Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa,Su,PH off
 website: ""

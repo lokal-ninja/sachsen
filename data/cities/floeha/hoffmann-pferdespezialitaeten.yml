@@ -1,11 +1,11 @@
 id: 119569303
-type: way
+type: node
 latitude: 50.84535
 longitude: 13.08117
 postcode: "09557"
 city: Flöha
-street: "Uferstraße"
-housenumber: 3
+street: Uferstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.33387
 longitude: 12.37808
 postcode: "04103"
 city: Leipzig
-street: "Grünewaldstraße"
-housenumber: 13
+street: Grünewaldstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo,We-Fr 10:00-18:00; Tu 10:00-15:00"
-website: "https://www.asb-diefahrradwerkstatt.de/"
+opening_hours: Mo,We-Fr 10:00-18:00; Tu 10:00-15:00
+website: https://www.asb-diefahrradwerkstatt.de/

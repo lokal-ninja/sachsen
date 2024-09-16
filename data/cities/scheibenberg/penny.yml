@@ -1,11 +1,11 @@
 id: 220486794
-type: way
+type: node
 latitude: 50.53881
 longitude: 12.90748
 postcode: "09481"
 city: Scheibenberg
-street: "Silberstraße"
-housenumber: 46
+street: Silberstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 439492988
-type: way
+type: node
 latitude: 50.73798
 longitude: 12.48625
 postcode: "08058"
 city: Zwickau
-street: "Pölbitzer Straße"
-housenumber: 17
+street: Pölbitzer Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,13:00-18:00"
+opening_hours: Mo-Fr 07:00-12:00,13:00-18:00
 website: ""

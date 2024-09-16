@@ -4,8 +4,8 @@ latitude: 51.35831
 longitude: 12.38616
 postcode: "04129"
 city: Leipzig
-street: "Wittenberger Straße"
-housenumber: 19
+street: Wittenberger Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
-website: "https://www.heiloo.de/getraenkemaerkte/standorte/leipzig.html"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00
+website: https://www.heiloo.de/getraenkemaerkte/standorte/leipzig.html

@@ -4,8 +4,8 @@ latitude: 51.09799
 longitude: 14.66751
 postcode: "02708"
 city: Löbau
-street: "Bahnhofstraße"
-housenumber: 21
-phone: "+49 3585 833012"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.ec-hergert.de/"
+street: Bahnhofstraße
+housenumber: "21"
+phone: +49 3585 833012
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.ec-hergert.de/

@@ -4,8 +4,8 @@ latitude: 50.89752
 longitude: 13.69414
 postcode: "01744"
 city: Dippoldiswalde
-street: "Industriering"
-housenumber: 2
-phone: "+49 3504 69450"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/Home/index.jsp?FilialID=4300"
+street: Industriering
+housenumber: "2"
+phone: +49 3504 69450
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/Home/index.jsp?FilialID=4300

@@ -1,11 +1,11 @@
 id: 499431730
-type: way
+type: node
 latitude: 50.92277
 longitude: 12.81354
 postcode: "09217"
 city: Burgstädt
-street: "Dr.-Wilhelm-Külz-Straße"
-housenumber: 15
+street: Dr.-Wilhelm-Külz-Straße
+housenumber: "15"
 phone: "+4937246667827"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.sonderpreis-baumarkt.de"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.sonderpreis-baumarkt.de

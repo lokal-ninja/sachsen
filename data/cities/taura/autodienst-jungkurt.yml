@@ -1,11 +1,11 @@
 id: 166272183
-type: way
+type: node
 latitude: 50.92417
 longitude: 12.85122
 postcode: ""
 city: Taura
-street: "Mittweidaer Straße"
-housenumber: 8
+street: Mittweidaer Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

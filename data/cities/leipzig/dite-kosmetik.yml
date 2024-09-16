@@ -4,8 +4,8 @@ latitude: 51.37182
 longitude: 12.36306
 postcode: "04157"
 city: Leipzig
-street: "Viertelsweg"
-housenumber: 39
-phone: "+49 341 25668066"
-opening_hours: "Mo-Fr 09:00-15:00"
-website: "https://www.dite-kosmetik.de/"
+street: Viertelsweg
+housenumber: "39"
+phone: +49 341 25668066
+opening_hours: Mo-Fr 09:00-15:00
+website: https://www.dite-kosmetik.de/

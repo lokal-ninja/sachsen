@@ -1,11 +1,11 @@
 id: 42077224
-type: way
+type: node
 latitude: 51.52564
 longitude: 12.34434
 postcode: "04509"
 city: Delitzsch
-street: "Eisenbahnstraße"
-housenumber: 25
+street: Eisenbahnstraße
+housenumber: "25"
 phone: ""
-opening_hours: "PH,Su off; Mo-Sa 07:00-20:00"
-website: "https://www.aldi.de/"
+opening_hours: PH,Su off; Mo-Sa 07:00-20:00
+website: https://www.aldi.de/

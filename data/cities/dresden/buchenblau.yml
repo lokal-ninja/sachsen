@@ -4,8 +4,8 @@ latitude: 51.07442
 longitude: 13.74922
 postcode: "01097"
 city: Dresden
-street: "Rudolf-Leonhard-Straße"
-housenumber: 33
-phone: "+49 351 5638527"
-opening_hours: "Mo off; Tu-Th 10:00-17:00; Fr 10:00-14:00"
-website: "https://www.buchenblau.de/"
+street: Rudolf-Leonhard-Straße
+housenumber: "33"
+phone: +49 351 5638527
+opening_hours: Mo off; Tu-Th 10:00-17:00; Fr 10:00-14:00
+website: https://www.buchenblau.de/

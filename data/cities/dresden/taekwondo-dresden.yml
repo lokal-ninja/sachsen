@@ -4,8 +4,8 @@ latitude: 51.04613
 longitude: 13.73263
 postcode: "01069"
 city: Dresden
-street: "Budapester Straße"
-housenumber: 5
+street: Budapester Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://wikipost.de/index.php?id=98&tx_ttnews[tt_news]=6174"
+website: http://wikipost.de/index.php?id=98&tx_ttnews[tt_news]=6174

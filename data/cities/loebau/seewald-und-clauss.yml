@@ -4,8 +4,8 @@ latitude: 51.09807
 longitude: 14.66758
 postcode: "02708"
 city: Löbau
-street: "Bahnhofstraße"
-housenumber: 23
+street: Bahnhofstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.seewald-clauss.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.seewald-clauss.de/

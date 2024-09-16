@@ -1,11 +1,11 @@
 id: 167089350
-type: way
+type: node
 latitude: 50.90813
 longitude: 12.95351
 postcode: "09244"
 city: Lichtenau
-street: "Rathausstraße"
-housenumber: 13
+street: Rathausstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

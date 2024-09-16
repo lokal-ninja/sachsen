@@ -1,11 +1,11 @@
 id: 115673522
-type: way
+type: node
 latitude: 51.27848
 longitude: 12.35913
 postcode: "04416"
 city: Markkleeberg
-street: "Koburger Straße"
-housenumber: 99
-phone: "+49 341 3584413"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00"
-website: "http://www.radroehnert.de/"
+street: Koburger Straße
+housenumber: "99"
+phone: +49 341 3584413
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00
+website: http://www.radroehnert.de/

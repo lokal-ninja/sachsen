@@ -1,11 +1,11 @@
 id: 578551438
-type: way
+type: node
 latitude: 51.17951
 longitude: 14.40297
 postcode: "02625"
 city: Bautzen
-street: "Dresdener Straße"
-housenumber: 53
+street: Dresdener Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "https://www.schulze-kuechen.de/"
+website: https://www.schulze-kuechen.de/

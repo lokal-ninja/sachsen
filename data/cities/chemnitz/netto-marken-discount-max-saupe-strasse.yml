@@ -1,11 +1,11 @@
 id: 91118671
-type: way
+type: node
 latitude: 50.87776
 longitude: 12.9552
 postcode: "09114"
 city: Chemnitz
-street: "Max-Saupe-Straße"
-housenumber: 77
+street: Max-Saupe-Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

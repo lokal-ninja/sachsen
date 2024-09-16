@@ -1,11 +1,11 @@
 id: 720325087
-type: way
+type: node
 latitude: 51.03597
 longitude: 13.58635
 postcode: "01723"
 city: Wilsdruff
-street: "Sachsenallee"
-housenumber: 6
+street: Sachsenallee
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00, Mo-Th 13:00-17:00; Fr 13:00-16:00"
-website: "https://www.vt-engelmann.de/"
+opening_hours: Mo-Fr 07:00-12:00, Mo-Th 13:00-17:00; Fr 13:00-16:00
+website: https://www.vt-engelmann.de/

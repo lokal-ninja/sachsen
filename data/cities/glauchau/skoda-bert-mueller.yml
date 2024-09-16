@@ -1,11 +1,11 @@
 id: 110429134
-type: way
+type: node
 latitude: 50.81985
 longitude: 12.51422
 postcode: "08371"
 city: Glauchau
-street: "Grenayer Straße"
+street: Grenayer Straße
 housenumber: 2b
-phone: "+49 3763 797040"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-14:00; PH off"
-website: "https://www.skodanews.de"
+phone: +49 3763 797040
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-14:00; PH off
+website: https://www.skodanews.de

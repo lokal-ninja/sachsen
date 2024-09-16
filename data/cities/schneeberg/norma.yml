@@ -1,11 +1,11 @@
 id: 59536832
-type: way
+type: node
 latitude: 50.58664
 longitude: 12.63796
 postcode: "08289"
 city: Schneeberg
-street: "Kobaltstraße"
-housenumber: 43
+street: Kobaltstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

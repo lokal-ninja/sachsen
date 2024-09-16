@@ -1,11 +1,11 @@
 id: 477298250
-type: way
+type: node
 latitude: 50.72928
 longitude: 12.74981
 postcode: "09399"
 city: Niederwürschnitz
-street: "Hohensteiner Straße"
-housenumber: 71
+street: Hohensteiner Straße
+housenumber: "71"
 phone: "+493729590966"
 opening_hours: ""
-website: "https://www.irmscher-kfz-technik.de/"
+website: https://www.irmscher-kfz-technik.de/

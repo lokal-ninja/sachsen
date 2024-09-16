@@ -1,11 +1,11 @@
 id: 239285011
-type: way
+type: node
 latitude: 51.3353
 longitude: 12.3379
 postcode: ""
 city: Leipzig
-street: "Lützner Straße"
-housenumber: 
+street: Lützner Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; PH,Su 07:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00; PH,Su 07:00-22:00
 website: ""

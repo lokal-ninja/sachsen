@@ -1,11 +1,11 @@
 id: 96573988
-type: way
+type: node
 latitude: 50.86451
 longitude: 12.82467
 postcode: "09247"
 city: Chemnitz
-street: "Limbacher Straße"
-housenumber: 54
+street: Limbacher Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

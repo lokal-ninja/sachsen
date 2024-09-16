@@ -1,11 +1,11 @@
 id: 138137295
-type: way
+type: node
 latitude: 50.99106
 longitude: 13.70081
 postcode: "01728"
 city: Bannewitz
-street: "Horkenstraße"
-housenumber: 10
+street: Horkenstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

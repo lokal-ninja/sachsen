@@ -1,11 +1,11 @@
 id: 261583398
-type: way
+type: node
 latitude: 50.42031
 longitude: 12.97243
 postcode: "09484"
 city: Kurort Oberwiesenthal
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 8-10
-phone: "+49 37348 239864"
-opening_hours: "Mo-Sa 07:00-20:00"
+phone: +49 37348 239864
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

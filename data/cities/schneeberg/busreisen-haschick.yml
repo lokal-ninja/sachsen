@@ -4,8 +4,8 @@ latitude: 50.59557
 longitude: 12.64138
 postcode: "08289"
 city: Schneeberg
-street: "Markt"
-housenumber: 4
-phone: "+49 3772 381019"
-opening_hours: "Mo,Fr 09:00-13:00; Tu-Th 09:00-17:00; Sa,Su,PH off"
-website: "https://www.busreisen-haschick.de/"
+street: Markt
+housenumber: "4"
+phone: +49 3772 381019
+opening_hours: Mo,Fr 09:00-13:00; Tu-Th 09:00-17:00; Sa,Su,PH off
+website: https://www.busreisen-haschick.de/

@@ -1,11 +1,11 @@
 id: 303695909
-type: way
+type: node
 latitude: 50.67249
 longitude: 12.46326
 postcode: "08064"
 city: Zwickau
-street: "Am Kreuzberg"
-housenumber: 44
+street: Am Kreuzberg
+housenumber: "44"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

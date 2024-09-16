@@ -4,8 +4,8 @@ latitude: 51.34367
 longitude: 12.37657
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+4934125249848"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.biomarkt.de"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.biomarkt.de

@@ -4,8 +4,8 @@ latitude: 50.91357
 longitude: 14.75466
 postcode: "02763"
 city: Mittelherwigsdorf
-street: "Schenkstraße"
-housenumber: 13
+street: Schenkstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-12:00"
-website: "https://www.getraenke-maerkisch.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:00-12:00
+website: https://www.getraenke-maerkisch.de/

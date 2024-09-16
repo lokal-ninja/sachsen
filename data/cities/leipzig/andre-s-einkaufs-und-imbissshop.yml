@@ -4,8 +4,8 @@ latitude: 51.33262
 longitude: 12.33227
 postcode: "04177"
 city: Leipzig
-street: "Merseburger Straße"
-housenumber: 41
-phone: "+49 341 2471773"
-opening_hours: "Mo,Fr 09:00-19:00; Tu-Th 08:00-19:00; PH,Su 12:00-18:00"
-website: "http://www.andreseinkaufsshop.de/"
+street: Merseburger Straße
+housenumber: "41"
+phone: +49 341 2471773
+opening_hours: Mo,Fr 09:00-19:00; Tu-Th 08:00-19:00; PH,Su 12:00-18:00
+website: http://www.andreseinkaufsshop.de/

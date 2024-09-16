@@ -4,8 +4,8 @@ latitude: 51.2696
 longitude: 14.09557
 postcode: "01917"
 city: Kamenz
-street: "Markt"
-housenumber: 6
+street: Markt
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://rp-bus.buchkatalog.de"
+website: https://rp-bus.buchkatalog.de

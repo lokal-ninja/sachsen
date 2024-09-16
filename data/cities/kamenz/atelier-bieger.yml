@@ -4,8 +4,9 @@ latitude: 51.27042
 longitude: 14.09823
 postcode: "01917"
 city: Kamenz
-street: "Bautzner Straße"
-housenumber: 34
-phone: "+49 3578 3095755"
-opening_hours: "Mo-We 09:00-18:00; Th-Fr 09:00-20:00; Sa 08:00-12:00; PH off || nach Vereinbarung"
-website: "https://www.atelier-bieger.de/"
+street: Bautzner Straße
+housenumber: "34"
+phone: +49 3578 3095755
+opening_hours: Mo-We 09:00-18:00; Th-Fr 09:00-20:00; Sa 08:00-12:00; PH off || "nach
+    Vereinbarung"
+website: https://www.atelier-bieger.de/

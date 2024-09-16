@@ -1,11 +1,11 @@
 id: 94332637
-type: way
+type: node
 latitude: 50.80846
 longitude: 12.97175
 postcode: "09127"
 city: Chemnitz
-street: "Otto-Thörner-Straße"
-housenumber: 18
+street: Otto-Thörner-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Tu-Sa 07:00-19:00; Th 07:00-21:00; Sa 07:00-13:00"
-website: "https://www.goldhaar.de/"
+opening_hours: Tu-Sa 07:00-19:00; Th 07:00-21:00; Sa 07:00-13:00
+website: https://www.goldhaar.de/

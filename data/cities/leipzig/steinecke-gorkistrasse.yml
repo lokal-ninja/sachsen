@@ -4,8 +4,8 @@ latitude: 51.3535
 longitude: 12.41088
 postcode: "04347"
 city: Leipzig
-street: "Gorkistraße"
-housenumber: 62
+street: Gorkistraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-13:00; Su 07:00-12:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-13:00; Su 07:00-12:00
 website: ""

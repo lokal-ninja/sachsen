@@ -1,11 +1,11 @@
 id: 291618375
-type: way
+type: node
 latitude: 51.30612
 longitude: 12.25986
 postcode: "04207"
 city: Leipzig
-street: "Lausener Straße"
-housenumber: 2
+street: Lausener Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00; Su,PH off
 website: ""

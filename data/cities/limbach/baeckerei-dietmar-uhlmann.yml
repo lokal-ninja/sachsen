@@ -1,11 +1,11 @@
 id: 724360773
-type: way
+type: node
 latitude: 50.58281
 longitude: 12.24898
 postcode: "08491"
 city: Limbach
-street: "Pestalozzistraße"
+street: Pestalozzistraße
 housenumber: 5A
-phone: "+49 3765 34603"
-opening_hours: "Tu-Fr 07:00-13:00,15:00-17:00, Sa 07:00-10:00"
+phone: +49 3765 34603
+opening_hours: Tu-Fr 07:00-13:00,15:00-17:00, Sa 07:00-10:00
 website: ""

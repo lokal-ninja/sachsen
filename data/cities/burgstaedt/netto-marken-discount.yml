@@ -1,11 +1,11 @@
 id: 40104625
-type: way
+type: node
 latitude: 50.91743
 longitude: 12.81132
 postcode: "09217"
 city: Burgstädt
-street: "Bahnhofstraße"
-housenumber: 11
+street: Bahnhofstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

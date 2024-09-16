@@ -1,11 +1,11 @@
 id: 152819088
-type: way
+type: node
 latitude: 51.05542
 longitude: 13.53859
 postcode: "01723"
 city: Wilsdruff
-street: "Umgehungsstraße"
-housenumber: 23
+street: Umgehungsstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

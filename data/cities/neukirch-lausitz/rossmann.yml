@@ -1,11 +1,11 @@
 id: 153261187
-type: way
+type: node
 latitude: 51.09195
 longitude: 14.32054
 postcode: "01904"
 city: Neukirch/Lausitz
-street: "Am Ostbahnhof"
-housenumber: 5
+street: Am Ostbahnhof
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

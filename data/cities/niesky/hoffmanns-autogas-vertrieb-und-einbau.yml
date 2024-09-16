@@ -1,11 +1,11 @@
 id: 74160047
-type: way
+type: node
 latitude: 51.30148
 longitude: 14.82483
 postcode: "02906"
 city: Niesky
-street: "Stannewischer Straße"
-housenumber: 1
+street: Stannewischer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00; PH off"
+opening_hours: Mo-Fr 07:00-16:00; PH off
 website: ""

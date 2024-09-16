@@ -1,11 +1,11 @@
 id: 391934255
-type: way
+type: node
 latitude: 51.04342
 longitude: 13.70359
 postcode: "01159"
 city: Dresden
-street: "Kesselsdorfer Straße"
-housenumber: 1
-phone: "+49 351 4135047"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.hairxpress.de"
+street: Kesselsdorfer Straße
+housenumber: "1"
+phone: +49 351 4135047
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.hairxpress.de

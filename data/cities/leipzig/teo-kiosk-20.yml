@@ -1,11 +1,11 @@
 id: 91674267
-type: way
+type: node
 latitude: 51.36208
 longitude: 12.36546
 postcode: "04155"
 city: Leipzig
-street: "Lindenthaler Straße"
-housenumber: 20
+street: Lindenthaler Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th 11:00-24:00, Fr-Su 11:00-01:00"
+opening_hours: Mo-Th 11:00-24:00, Fr-Su 11:00-01:00
 website: ""

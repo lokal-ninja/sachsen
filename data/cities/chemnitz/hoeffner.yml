@@ -1,11 +1,11 @@
 id: 89101021
-type: way
+type: node
 latitude: 50.86259
 longitude: 12.86465
 postcode: "09247"
 city: Chemnitz
-street: "Ringstraße"
-housenumber: 1
+street: Ringstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "http://www.hoeffner.de/hoeffner/standorte/chemnitz-roehrsdorf.html"
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: http://www.hoeffner.de/hoeffner/standorte/chemnitz-roehrsdorf.html

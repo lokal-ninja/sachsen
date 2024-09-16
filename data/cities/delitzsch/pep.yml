@@ -1,11 +1,11 @@
 id: 77605787
-type: way
+type: node
 latitude: 51.51057
 longitude: 12.33639
 postcode: "04509"
 city: Delitzsch
-street: "Raiffeisenstraße"
-housenumber: 1
-phone: "+49 34202 57858"
+street: Raiffeisenstraße
+housenumber: "1"
+phone: +49 34202 57858
 opening_hours: ""
-website: "https://www.pep-delitzsch.de/"
+website: https://www.pep-delitzsch.de/

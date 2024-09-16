@@ -1,11 +1,11 @@
 id: 108888638
-type: way
+type: node
 latitude: 50.82171
 longitude: 12.95313
 postcode: "09127"
 city: Chemnitz
-street: "Carl-von-Ossietzky-Straße"
-housenumber: 116
+street: Carl-von-Ossietzky-Straße
+housenumber: "116"
 phone: ""
 opening_hours: ""
-website: "www.autoservice-strumpf.de"
+website: www.autoservice-strumpf.de

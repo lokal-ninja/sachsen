@@ -4,8 +4,8 @@ latitude: 51.34458
 longitude: 12.37391
 postcode: "04105"
 city: Leipzig
-street: "Löhrstraße"
-housenumber: 2
-phone: "+49 341 3086767"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-16:00"
-website: "https://www.piano-centrum-leipzig.com/"
+street: Löhrstraße
+housenumber: "2"
+phone: +49 341 3086767
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-16:00
+website: https://www.piano-centrum-leipzig.com/

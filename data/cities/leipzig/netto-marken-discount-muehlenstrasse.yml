@@ -4,8 +4,8 @@ latitude: 51.37822
 longitude: 12.30294
 postcode: "04159"
 city: Leipzig
-street: "Mühlenstraße"
-housenumber: 2
+street: Mühlenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

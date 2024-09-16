@@ -1,11 +1,11 @@
 id: 154532864
-type: way
+type: node
 latitude: 51.27412
 longitude: 12.42509
 postcode: "04416"
 city: Markkleeberg
-street: "Markkleeberger Straße"
-housenumber: 27
+street: Markkleeberger Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "www.karosserie-wolf.de"
+website: www.karosserie-wolf.de

@@ -4,8 +4,8 @@ latitude: 51.02838
 longitude: 13.80049
 postcode: "01277"
 city: Dresden
-street: "Enderstraße"
-housenumber: 94
+street: Enderstraße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://dresden.quick.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://dresden.quick.de/

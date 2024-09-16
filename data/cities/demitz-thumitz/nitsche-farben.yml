@@ -1,11 +1,11 @@
 id: 120954928
-type: way
+type: node
 latitude: 51.15066
 longitude: 14.24771
 postcode: "01877"
 city: Demitz-Thumitz
-street: "Am Gewerbepark"
-housenumber: 4
+street: Am Gewerbepark
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

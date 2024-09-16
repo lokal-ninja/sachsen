@@ -4,8 +4,9 @@ latitude: 50.68458
 longitude: 12.51251
 postcode: "08112"
 city: Wilkau-Haßlau
-street: "Gewerbering"
-housenumber: 6
+street: Gewerbering
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 10:00-14:00; Tu,Th 08:00-16:00; We,Fr 10:00-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo 10:00-14:00; Tu,Th 08:00-16:00; We,Fr 10:00-18:00; Sa 08:00-12:00;
+    Su,PH off
 website: ""

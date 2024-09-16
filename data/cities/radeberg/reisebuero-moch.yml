@@ -4,8 +4,8 @@ latitude: 51.11766
 longitude: 13.92152
 postcode: "01454"
 city: Radeberg
-street: "Hauptstraße"
-housenumber: 12
-phone: "+49 3528 43680"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.moch-reisen.de/"
+street: Hauptstraße
+housenumber: "12"
+phone: +49 3528 43680
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.moch-reisen.de/

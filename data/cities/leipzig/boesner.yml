@@ -4,8 +4,8 @@ latitude: 51.32738
 longitude: 12.31909
 postcode: "04179"
 city: Leipzig
-street: "Spinnereistraße"
-housenumber: 7
-phone: "+49 341 870690"
-opening_hours: "Mo,Tu,Th,Fr 09:30-18:00; We 09:30-20:00; Sa 10:00-18:00"
-website: "https://www.boesner.com/"
+street: Spinnereistraße
+housenumber: "7"
+phone: +49 341 870690
+opening_hours: Mo,Tu,Th,Fr 09:30-18:00; We 09:30-20:00; Sa 10:00-18:00
+website: https://www.boesner.com/

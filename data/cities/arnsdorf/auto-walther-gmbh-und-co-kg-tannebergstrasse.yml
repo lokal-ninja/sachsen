@@ -1,11 +1,11 @@
 id: 198509707
-type: way
+type: node
 latitude: 51.10082
 longitude: 13.9979
 postcode: "01477"
 city: Arnsdorf
-street: "Tannebergstraße"
-housenumber: 12
-phone: "+49 35200 2500"
+street: Tannebergstraße
+housenumber: "12"
+phone: +49 35200 2500
 opening_hours: ""
 website: ""

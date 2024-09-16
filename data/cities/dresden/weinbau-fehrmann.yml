@@ -1,11 +1,11 @@
 id: 110309792
-type: way
+type: node
 latitude: 51.07935
 longitude: 13.61389
 postcode: "01156"
 city: Dresden
-street: "Talstraße"
-housenumber: 62
+street: Talstraße
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

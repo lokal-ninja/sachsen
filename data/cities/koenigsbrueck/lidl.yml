@@ -1,11 +1,11 @@
 id: 28784101
-type: way
+type: node
 latitude: 51.26521
 longitude: 13.90867
 postcode: "01936"
 city: Königsbrück
-street: "Weißbacher Straße"
-housenumber: 28
+street: Weißbacher Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 112781149
-type: way
+type: node
 latitude: 50.89511
 longitude: 12.78715
 postcode: "09232"
 city: Hartmannsdorf
-street: "Niederfrohnaer Weg"
-housenumber: 4
+street: Niederfrohnaer Weg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 08:30-17:00; Sa 08:00-12:00; Su,PH off
 website: ""

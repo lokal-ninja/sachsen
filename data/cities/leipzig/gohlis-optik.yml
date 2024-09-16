@@ -4,8 +4,8 @@ latitude: 51.36272
 longitude: 12.36525
 postcode: "04155"
 city: Leipzig
-street: "Georg-Schumann-Straße"
-housenumber: 76
-phone: "+49 341 5905596"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.gohlis-optik.de/"
+street: Georg-Schumann-Straße
+housenumber: "76"
+phone: +49 341 5905596
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.gohlis-optik.de/

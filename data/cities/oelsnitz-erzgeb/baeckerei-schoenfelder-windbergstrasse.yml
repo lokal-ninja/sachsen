@@ -1,11 +1,11 @@
 id: 132127692
-type: way
+type: node
 latitude: 50.7285
 longitude: 12.70923
 postcode: "09376"
 city: Oelsnitz/Erzgeb.
-street: "Windbergstraße"
-housenumber: 20
+street: Windbergstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

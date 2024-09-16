@@ -4,8 +4,8 @@ latitude: 50.89461
 longitude: 13.66955
 postcode: "01744"
 city: Dippoldiswalde
-street: "Planberg"
-housenumber: 7
+street: Planberg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/dippoldiswalde/565182/rewe-markt-planberg-7/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/dippoldiswalde/565182/rewe-markt-planberg-7/

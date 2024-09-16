@@ -4,8 +4,9 @@ latitude: 51.31161
 longitude: 14.32977
 postcode: "02699"
 city: Königswartha
-street: "Hauptstraße"
-housenumber: 42
+street: Hauptstraße
+housenumber: "42"
 phone: ""
-opening_hours: "week 01-53/2 Mo-Fr 08:00-14:00; week 02-52/2 Mo-Fr 12:00-18:00; PH closed"
+opening_hours: week 01-53/2 Mo-Fr 08:00-14:00; week 02-52/2 Mo-Fr 12:00-18:00; PH
+    closed
 website: ""

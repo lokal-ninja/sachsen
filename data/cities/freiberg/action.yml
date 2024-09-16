@@ -1,11 +1,11 @@
 id: 883424102
-type: way
+type: node
 latitude: 50.91069
 longitude: 13.32544
 postcode: "09599"
 city: Freiberg
-street: "Chemnitzer Straße"
-housenumber: 83
+street: Chemnitzer Straße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

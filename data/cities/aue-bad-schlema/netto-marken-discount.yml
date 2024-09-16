@@ -1,11 +1,11 @@
 id: 540388168
-type: way
+type: node
 latitude: 50.59497
 longitude: 12.71155
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Dr.-Otto-Nuschke-Straße"
-housenumber: 7
+street: Dr.-Otto-Nuschke-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

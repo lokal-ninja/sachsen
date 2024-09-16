@@ -1,11 +1,11 @@
 id: 1120432146
-type: way
+type: node
 latitude: 51.08999
 longitude: 14.66992
 postcode: "02708"
 city: Löbau
-street: "Äußere Zittauer Straße"
-housenumber: 39
+street: Äußere Zittauer Straße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

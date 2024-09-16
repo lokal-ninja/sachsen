@@ -4,8 +4,8 @@ latitude: 51.30668
 longitude: 12.4222
 postcode: "04289"
 city: Leipzig
-street: "Prager Straße"
-housenumber: 234
-phone: "+49 341 4807942"
-opening_hours: "Mo-Fr 12:00-18:00"
-website: "https://needleswing.de/"
+street: Prager Straße
+housenumber: "234"
+phone: +49 341 4807942
+opening_hours: Mo-Fr 12:00-18:00
+website: https://needleswing.de/

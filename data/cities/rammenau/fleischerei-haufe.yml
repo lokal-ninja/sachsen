@@ -4,8 +4,8 @@ latitude: 51.15322
 longitude: 14.13336
 postcode: "01877"
 city: Rammenau
-street: "Mittelweg"
-housenumber: 14
-phone: "+49 3594 716249"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; PH,Su off"
-website: "https://www.fleischerei-haufe.de/"
+street: Mittelweg
+housenumber: "14"
+phone: +49 3594 716249
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00; PH,Su off
+website: https://www.fleischerei-haufe.de/

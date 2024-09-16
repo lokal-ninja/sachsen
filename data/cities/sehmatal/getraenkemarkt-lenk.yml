@@ -1,11 +1,11 @@
 id: 347317329
-type: way
+type: node
 latitude: 50.54062
 longitude: 12.99631
 postcode: "09465"
 city: Sehmatal
-street: "Karlsbader Straße"
-housenumber: 34
+street: Karlsbader Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

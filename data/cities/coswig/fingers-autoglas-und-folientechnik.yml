@@ -1,11 +1,11 @@
 id: 1299358680
-type: way
+type: node
 latitude: 51.1329
 longitude: 13.5818
 postcode: "01640"
 city: Coswig
-street: "Moritzburger Straße"
-housenumber: 21
+street: Moritzburger Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

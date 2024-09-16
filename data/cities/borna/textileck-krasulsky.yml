@@ -1,11 +1,11 @@
 id: 547194582
-type: way
+type: node
 latitude: 51.12368
 longitude: 12.49991
 postcode: "04552"
 city: Borna
-street: "Dinterplatz"
-housenumber: 1
+street: Dinterplatz
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

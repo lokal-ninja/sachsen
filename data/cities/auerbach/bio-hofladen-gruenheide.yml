@@ -1,11 +1,11 @@
 id: 322514022
-type: way
+type: node
 latitude: 50.48137
 longitude: 12.45023
 postcode: "08209"
 city: Auerbach
-street: "Waldhofstraße"
-housenumber: 27
+street: Waldhofstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

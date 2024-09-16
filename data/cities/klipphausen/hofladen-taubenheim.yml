@@ -4,8 +4,8 @@ latitude: 51.09753
 longitude: 13.47259
 postcode: "01665"
 city: Klipphausen
-street: "Hauptstraße"
-housenumber: 12
-phone: "035245/70381"
-opening_hours: "Sa 07:00-12:00; Mo-Fr 07:00-18:00"
-website: "https://pfarrgut-taubenheim.de/hofl.php"
+street: Hauptstraße
+housenumber: "12"
+phone: 035245/70381
+opening_hours: Sa 07:00-12:00; Mo-Fr 07:00-18:00
+website: https://pfarrgut-taubenheim.de/hofl.php

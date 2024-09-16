@@ -4,8 +4,8 @@ latitude: 51.34015
 longitude: 12.37392
 postcode: "04109"
 city: Leipzig
-street: "Markt"
-housenumber: 12
-phone: "+49 341 24390"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.e-breuninger.de/de/haeuser/leipzig/"
+street: Markt
+housenumber: "12"
+phone: +49 341 24390
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.e-breuninger.de/de/haeuser/leipzig/

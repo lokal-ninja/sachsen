@@ -4,8 +4,8 @@ latitude: 51.06963
 longitude: 13.75424
 postcode: "01099"
 city: Dresden
-street: "Alaunstraße"
-housenumber: 87
+street: Alaunstraße
+housenumber: "87"
 phone: ""
-opening_hours: "Th-Sa 14:00-19:30"
-website: "https://maskerade-atelier.de/"
+opening_hours: Th-Sa 14:00-19:30
+website: https://maskerade-atelier.de/

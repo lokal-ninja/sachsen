@@ -4,8 +4,8 @@ latitude: 51.55807
 longitude: 13.0042
 postcode: "04860"
 city: Torgau
-street: "Fischerstraße"
-housenumber: 2
+street: Fischerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.alloptik.de"
+website: https://www.alloptik.de

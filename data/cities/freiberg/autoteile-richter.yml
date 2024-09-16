@@ -1,11 +1,11 @@
 id: 117342852
-type: way
+type: node
 latitude: 50.90204
 longitude: 13.33742
 postcode: "09599"
 city: Freiberg
-street: "Brander Straße"
-housenumber: 65
+street: Brander Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://autoteile-richter.com/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://autoteile-richter.com/

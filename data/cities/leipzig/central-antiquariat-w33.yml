@@ -4,8 +4,8 @@ latitude: 51.33888
 longitude: 12.32725
 postcode: "04177"
 city: Leipzig
-street: "Georg-Schwarz-Straße"
-housenumber: 12
-phone: "+49 341 24842370"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.central-antiquariat.de/"
+street: Georg-Schwarz-Straße
+housenumber: "12"
+phone: +49 341 24842370
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.central-antiquariat.de/

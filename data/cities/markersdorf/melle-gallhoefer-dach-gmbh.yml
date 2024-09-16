@@ -1,11 +1,11 @@
 id: 179642418
-type: way
+type: node
 latitude: 51.14511
 longitude: 14.86716
 postcode: "02829"
 city: Markersdorf
-street: "Erligheimer Ring"
-housenumber: 1
+street: Erligheimer Ring
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://melle-gallhoefer.de/"
+website: https://melle-gallhoefer.de/

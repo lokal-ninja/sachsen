@@ -4,8 +4,8 @@ latitude: 50.70643
 longitude: 12.50002
 postcode: "08056"
 city: Zwickau
-street: "Oskar-Arnold-Straße"
-housenumber: 1
-phone: "+49 (0)375/2000236"
-opening_hours: "Mo-Fr 07:30-19:00, Sa 08:00-16:00"
-website: "https://www.atu.de/pages/service/filialen/f_detail.html?lkz=DE&nr=132"
+street: Oskar-Arnold-Straße
+housenumber: "1"
+phone: +49 (0)375/2000236
+opening_hours: Mo-Fr 07:30-19:00, Sa 08:00-16:00
+website: https://www.atu.de/pages/service/filialen/f_detail.html?lkz=DE&nr=132

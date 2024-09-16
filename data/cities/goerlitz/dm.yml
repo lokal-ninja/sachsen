@@ -4,8 +4,8 @@ latitude: 51.15108
 longitude: 14.98426
 postcode: "02826"
 city: Görlitz
-street: "Berliner Straße"
-housenumber: 6
-phone: "+49 3581 421147"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"
-website: "https://www.dm.de/"
+street: Berliner Straße
+housenumber: "6"
+phone: +49 3581 421147
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-16:00
+website: https://www.dm.de/

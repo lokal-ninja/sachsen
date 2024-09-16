@@ -1,11 +1,11 @@
 id: 154544683
-type: way
+type: node
 latitude: 50.61746
 longitude: 12.71582
 postcode: "08294"
 city: Lößnitz
-street: "Ernst-Geßner-Straße"
-housenumber: 14
+street: Ernst-Geßner-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

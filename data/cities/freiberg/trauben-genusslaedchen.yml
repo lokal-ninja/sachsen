@@ -4,8 +4,8 @@ latitude: 50.9201
 longitude: 13.34274
 postcode: "09599"
 city: Freiberg
-street: "Kirchgasse"
-housenumber: 15
+street: Kirchgasse
+housenumber: "15"
 phone: ""
-opening_hours: "We 10:00-16:00; Th,Fr 10:00-20:00; Sa 12:00-18:00"
+opening_hours: We 10:00-16:00; Th,Fr 10:00-20:00; Sa 12:00-18:00
 website: ""

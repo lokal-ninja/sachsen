@@ -4,8 +4,8 @@ latitude: 50.67891
 longitude: 12.47806
 postcode: "08064"
 city: Zwickau
-street: "Lengenfelder Straße"
-housenumber: 30
-phone: "+49 (0) 375 / 770880"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://www.autohaus-teicher.de/"
+street: Lengenfelder Straße
+housenumber: "30"
+phone: +49 (0) 375 / 770880
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://www.autohaus-teicher.de/

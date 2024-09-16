@@ -4,8 +4,8 @@ latitude: 50.89724
 longitude: 14.8059
 postcode: "02763"
 city: Zittau
-street: "Bautzner Straße"
-housenumber: 2
+street: Bautzner Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.dm.de/store/de-500/zittau/bautzner-strasse-2"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.dm.de/store/de-500/zittau/bautzner-strasse-2

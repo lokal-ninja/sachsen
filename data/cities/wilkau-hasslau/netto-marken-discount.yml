@@ -1,11 +1,11 @@
 id: 236169516
-type: way
+type: node
 latitude: 50.6816
 longitude: 12.50816
 postcode: "08112"
 city: Wilkau-Haßlau
-street: "Sachsenplatz"
-housenumber: 2
+street: Sachsenplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

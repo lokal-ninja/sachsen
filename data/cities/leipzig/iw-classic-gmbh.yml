@@ -4,8 +4,8 @@ latitude: 51.32872
 longitude: 12.41745
 postcode: "04299"
 city: Leipzig
-street: "Oststraße"
-housenumber: 118
+street: Oststraße
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.37119
 longitude: 12.34151
 postcode: "04159"
 city: Leipzig
-street: "Yorckstraße"
-housenumber: 56
+street: Yorckstraße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

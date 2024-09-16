@@ -1,11 +1,11 @@
 id: 88726268
-type: way
+type: node
 latitude: 50.61994
 longitude: 12.51159
 postcode: "08107"
 city: Kirchberg
-street: "Lengenfelder Straße"
-housenumber: 41
+street: Lengenfelder Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

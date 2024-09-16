@@ -4,8 +4,8 @@ latitude: 50.82447
 longitude: 12.54255
 postcode: "08371"
 city: Glauchau
-street: "Hans-Lorenz-Straße"
-housenumber: 2
-phone: "+49 3763 429101"
-opening_hours: "Mo-Sa 6:30-18:00; PH off"
-website: "https://www.foerster-backwaren.de"
+street: Hans-Lorenz-Straße
+housenumber: "2"
+phone: +49 3763 429101
+opening_hours: Mo-Sa 6:30-18:00; PH off
+website: https://www.foerster-backwaren.de

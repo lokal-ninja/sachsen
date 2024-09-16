@@ -1,11 +1,11 @@
 id: 240321906
-type: way
+type: node
 latitude: 50.55973
 longitude: 12.73241
 postcode: "08315"
 city: Lauter-Bernsbach
-street: "Staatsstraße"
-housenumber: 19
+street: Staatsstraße
+housenumber: "19"
 phone: "+4937714500845"
 opening_hours: ""
-website: "https://www.vta-automobile.de/"
+website: https://www.vta-automobile.de/

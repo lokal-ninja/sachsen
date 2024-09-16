@@ -1,11 +1,11 @@
 id: 109895110
-type: way
+type: node
 latitude: 50.68343
 longitude: 12.5468
 postcode: "08141"
 city: Reinsdorf
 street: ""
-housenumber: 13
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.nahundgut-neubert.de/unsere-m%C3%A4rkte/vielau-1/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.nahundgut-neubert.de/unsere-m%C3%A4rkte/vielau-1/

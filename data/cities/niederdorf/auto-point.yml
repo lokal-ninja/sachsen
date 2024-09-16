@@ -1,11 +1,11 @@
 id: 105189223
-type: way
+type: node
 latitude: 50.72289
 longitude: 12.78383
 postcode: "09366"
 city: Niederdorf
-street: "Neue Schichtstraße"
-housenumber: 1
+street: Neue Schichtstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
-website: "https://stollberg.skoda-auto.de/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:00
+website: https://stollberg.skoda-auto.de/

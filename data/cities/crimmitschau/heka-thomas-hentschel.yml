@@ -4,8 +4,8 @@ latitude: 50.822
 longitude: 12.40839
 postcode: "08451"
 city: Crimmitschau
-street: "Breitscheidstraße"
-housenumber: 78
-phone: "+49 3762 / 75930 - 0"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00; PH closed"
-website: "https://www.heka-direkt.de/"
+street: Breitscheidstraße
+housenumber: "78"
+phone: +49 3762 / 75930 - 0
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00; PH closed
+website: https://www.heka-direkt.de/

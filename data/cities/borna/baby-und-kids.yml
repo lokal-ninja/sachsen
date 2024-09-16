@@ -1,11 +1,11 @@
 id: 547194579
-type: way
+type: node
 latitude: 51.12359
 longitude: 12.49824
 postcode: "04552"
 city: Borna
-street: "Reichsstraße"
-housenumber: 6
-phone: "+49 3433 206793"
+street: Reichsstraße
+housenumber: "6"
+phone: +49 3433 206793
 opening_hours: ""
-website: "http://www.babyundkids.de/"
+website: http://www.babyundkids.de/

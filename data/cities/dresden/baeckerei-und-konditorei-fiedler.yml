@@ -4,8 +4,8 @@ latitude: 51.11063
 longitude: 13.77181
 postcode: "01109"
 city: Dresden
-street: "Kieler Straße"
-housenumber: 64
-phone: "+49 351 8801975"
-opening_hours: "Mo 06:30-13:00; Tu-Fr 06:30-18:00; Sa 06:30-11:00"
-website: "https://www.christstollen-online.de/"
+street: Kieler Straße
+housenumber: "64"
+phone: +49 351 8801975
+opening_hours: Mo 06:30-13:00; Tu-Fr 06:30-18:00; Sa 06:30-11:00
+website: https://www.christstollen-online.de/

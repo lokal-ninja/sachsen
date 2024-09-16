@@ -1,11 +1,11 @@
 id: 375504862
-type: way
+type: node
 latitude: 50.43446
 longitude: 12.71048
 postcode: "08349"
 city: Johanngeorgenstadt
-street: "Am Pulverturm"
-housenumber: 1
+street: Am Pulverturm
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

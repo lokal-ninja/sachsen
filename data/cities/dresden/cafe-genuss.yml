@@ -4,8 +4,8 @@ latitude: 51.09034
 longitude: 13.73173
 postcode: "01129"
 city: Dresden
-street: "Trachenberger Straße"
-housenumber: 72
+street: Trachenberger Straße
+housenumber: "72"
 phone: ""
-opening_hours: "We-Su,PH 12:00-18:00"
-website: "http://www.cafegenuss-dresden.de/"
+opening_hours: We-Su,PH 12:00-18:00
+website: http://www.cafegenuss-dresden.de/

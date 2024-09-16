@@ -4,8 +4,8 @@ latitude: 50.50912
 longitude: 12.13541
 postcode: "08525"
 city: Plauen
-street: "Haselbrunner Straße"
-housenumber: 17
-phone: "+49 3741 524189"
-opening_hours: "We 13:00-18:00; Th,Fr 08:30-18:00"
+street: Haselbrunner Straße
+housenumber: "17"
+phone: +49 3741 524189
+opening_hours: We 13:00-18:00; Th,Fr 08:30-18:00
 website: ""

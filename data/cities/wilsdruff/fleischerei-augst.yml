@@ -4,8 +4,8 @@ latitude: 51.03373
 longitude: 13.58483
 postcode: "01723"
 city: Wilsdruff
-street: "Grumbacher Straße"
-housenumber: 16
-phone: "+49 35953 210"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su,PH off"
-website: "https://www.sachsen-kulinarisch.de/"
+street: Grumbacher Straße
+housenumber: "16"
+phone: +49 35953 210
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su,PH off
+website: https://www.sachsen-kulinarisch.de/

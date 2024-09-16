@@ -1,11 +1,11 @@
 id: 250128517
-type: way
+type: node
 latitude: 51.31123
 longitude: 12.30776
 postcode: "04207"
 city: Leipzig
-street: "Schönauer Straße"
-housenumber: 113
+street: Schönauer Straße
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-13:00
 website: ""

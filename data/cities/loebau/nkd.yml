@@ -4,8 +4,8 @@ latitude: 51.09516
 longitude: 14.66611
 postcode: "02708"
 city: Löbau
-street: "Altmarkt"
-housenumber: 6
+street: Altmarkt
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.nkd.com/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.nkd.com/

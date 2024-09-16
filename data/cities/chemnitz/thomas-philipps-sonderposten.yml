@@ -1,11 +1,11 @@
 id: 543231105
-type: way
+type: node
 latitude: 50.85498
 longitude: 12.92976
 postcode: "09113"
 city: Chemnitz
-street: "Blankenauer Straße"
+street: Blankenauer Straße
 housenumber: 60a
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

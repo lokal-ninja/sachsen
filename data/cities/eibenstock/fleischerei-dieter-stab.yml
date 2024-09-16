@@ -1,11 +1,11 @@
 id: 221396148
-type: way
+type: node
 latitude: 50.43518
 longitude: 12.58795
 postcode: "08309"
 city: Eibenstock
-street: "Talsperrenstraße"
-housenumber: 2
-phone: "+49 37752 2458"
-opening_hours: "Mo 08:30-13:00; Tu-Fr 08:30-13:00,15:00-17:00; Sa 08:00-10:30"
+street: Talsperrenstraße
+housenumber: "2"
+phone: +49 37752 2458
+opening_hours: Mo 08:30-13:00; Tu-Fr 08:30-13:00,15:00-17:00; Sa 08:00-10:30
 website: ""

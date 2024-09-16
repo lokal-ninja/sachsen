@@ -4,8 +4,8 @@ latitude: 50.5691
 longitude: 12.36574
 postcode: "08485"
 city: Lengenfeld
-street: "Poststraße"
-housenumber: 3
-phone: "+49 3760633036"
-opening_hours: "Tu-Fr 08:00-18:00; Mo 08:00-14:00; Sa 08:00-12:00"
+street: Poststraße
+housenumber: "3"
+phone: +49 3760633036
+opening_hours: Tu-Fr 08:00-18:00; Mo 08:00-14:00; Sa 08:00-12:00
 website: ""

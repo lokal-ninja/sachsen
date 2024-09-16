@@ -4,8 +4,8 @@ latitude: 50.81959
 longitude: 12.54271
 postcode: "08371"
 city: Glauchau
-street: "Leipziger Straße"
-housenumber: 2
-phone: "+49 3763 3409"
-opening_hours: "Sa 09:00-12:00; PH off; Mo 09:00-14:00; Tu-Fr 09:00-18:00"
-website: "https://www.augenoptik-engler.de"
+street: Leipziger Straße
+housenumber: "2"
+phone: +49 3763 3409
+opening_hours: Sa 09:00-12:00; PH off; Mo 09:00-14:00; Tu-Fr 09:00-18:00
+website: https://www.augenoptik-engler.de

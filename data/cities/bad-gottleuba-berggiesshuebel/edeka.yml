@@ -1,11 +1,11 @@
 id: 127246531
-type: way
+type: node
 latitude: 50.85358
 longitude: 13.94501
 postcode: "01816"
 city: Bad Gottleuba-Berggießhübel
-street: "Königstraße"
-housenumber: 53
+street: Königstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

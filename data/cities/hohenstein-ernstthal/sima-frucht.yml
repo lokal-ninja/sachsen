@@ -1,11 +1,11 @@
 id: 203759917
-type: way
+type: node
 latitude: 50.80015
 longitude: 12.71822
 postcode: "09337"
 city: Hohenstein-Ernstthal
-street: "Karl-May-Straße"
-housenumber: 42
+street: Karl-May-Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-12:00; Su,PH off
 website: ""

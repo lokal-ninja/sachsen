@@ -4,8 +4,8 @@ latitude: 51.00871
 longitude: 13.83014
 postcode: "01257"
 city: Dresden
-street: "Stephensonstraße"
-housenumber: 44
-phone: "+49 351 2883695;+49 172 3436537"
-opening_hours: "Tu-Th 13:00-16:00"
-website: "https://www.tauchcenter-dresden.de/"
+street: Stephensonstraße
+housenumber: "44"
+phone: +49 351 2883695;+49 172 3436537
+opening_hours: Tu-Th 13:00-16:00
+website: https://www.tauchcenter-dresden.de/

@@ -1,11 +1,11 @@
 id: 367877696
-type: way
+type: node
 latitude: 50.70255
 longitude: 12.49255
 postcode: "08056"
 city: Zwickau
-street: "Bahnstraße"
-housenumber: 6
+street: Bahnstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

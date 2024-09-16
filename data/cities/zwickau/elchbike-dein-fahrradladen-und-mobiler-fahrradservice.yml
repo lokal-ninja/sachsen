@@ -1,11 +1,11 @@
 id: 204161486
-type: way
+type: node
 latitude: 50.68349
 longitude: 12.47432
 postcode: "08064"
 city: Zwickau
-street: "Äußere Zwickauer Straße"
-housenumber: 9
+street: Äußere Zwickauer Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:00, 14:00-18:00"
+opening_hours: Tu-Fr 10:00-12:00, 14:00-18:00
 website: ""

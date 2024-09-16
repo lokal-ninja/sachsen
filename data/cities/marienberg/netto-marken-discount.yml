@@ -4,8 +4,8 @@ latitude: 50.64542
 longitude: 13.15873
 postcode: "09496"
 city: Marienberg
-street: "Reitzenhainer Straße"
-housenumber: 10
+street: Reitzenhainer Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

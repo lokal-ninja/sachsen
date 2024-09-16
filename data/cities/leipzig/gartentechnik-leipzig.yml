@@ -1,11 +1,11 @@
 id: 170969021
-type: way
+type: node
 latitude: 51.28877
 longitude: 12.39237
 postcode: "04279"
 city: Leipzig
-street: "Bornaische Straße"
-housenumber: 201
-phone: "+49 341 3383925"
+street: Bornaische Straße
+housenumber: "201"
+phone: +49 341 3383925
 opening_hours: "off"
-website: "https://intakt-gartentechnik.de/"
+website: https://intakt-gartentechnik.de/

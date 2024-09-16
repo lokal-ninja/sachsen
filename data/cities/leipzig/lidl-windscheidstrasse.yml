@@ -1,11 +1,11 @@
 id: 86985841
-type: way
+type: node
 latitude: 51.31431
 longitude: 12.36954
 postcode: "04277"
 city: Leipzig
-street: "Windscheidstraße"
-housenumber: 1
+street: Windscheidstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su off
+website: https://www.lidl.de/

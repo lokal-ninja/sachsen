@@ -1,11 +1,11 @@
 id: 1164374614
-type: way
+type: node
 latitude: 50.8387
 longitude: 12.92978
 postcode: "09111"
 city: Chemnitz
-street: "Bahnhofstraße"
-housenumber: 1
-phone: "+49 371 4505435"
-opening_hours: "Mo-Su 06:00-16:00"
+street: Bahnhofstraße
+housenumber: "1"
+phone: +49 371 4505435
+opening_hours: Mo-Su 06:00-16:00
 website: ""

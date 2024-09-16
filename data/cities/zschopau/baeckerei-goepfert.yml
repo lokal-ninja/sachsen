@@ -4,8 +4,8 @@ latitude: 50.74729
 longitude: 13.07025
 postcode: "09405"
 city: Zschopau
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 2
+street: Rudolf-Breitscheid-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00"
-website: "https://www.baeckerei-goepfert.de/228.html"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00
+website: https://www.baeckerei-goepfert.de/228.html

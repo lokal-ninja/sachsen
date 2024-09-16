@@ -1,11 +1,11 @@
 id: 180725080
-type: way
+type: node
 latitude: 51.3732
 longitude: 12.47409
 postcode: "04425"
 city: Taucha
-street: "Straße des 17. Juni"
-housenumber: 10
+street: Straße des 17. Juni
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
 website: ""

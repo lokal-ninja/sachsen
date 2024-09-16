@@ -1,11 +1,11 @@
 id: 89058774
-type: way
+type: node
 latitude: 51.35861
 longitude: 12.71661
 postcode: "04828"
 city: Bennewitz
-street: "An der Mulde"
-housenumber: 5
-phone: "+49 3425 89460"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00;Su,PH off"
-website: "https://www.hagebau.de/baumarkt/buerger-raiffeisen-handels-gmbh-hagebaumarkt-bennewitz-sn129768/"
+street: An der Mulde
+housenumber: "5"
+phone: +49 3425 89460
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-16:00;Su,PH off
+website: https://www.hagebau.de/baumarkt/buerger-raiffeisen-handels-gmbh-hagebaumarkt-bennewitz-sn129768/

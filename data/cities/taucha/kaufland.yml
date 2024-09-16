@@ -1,11 +1,11 @@
 id: 149245052
-type: way
+type: node
 latitude: 51.38086
 longitude: 12.4874
 postcode: "04425"
 city: Taucha
-street: "Portitzer Straße"
-housenumber: 34
+street: Portitzer Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

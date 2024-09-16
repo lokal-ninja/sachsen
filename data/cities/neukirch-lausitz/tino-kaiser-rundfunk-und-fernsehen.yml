@@ -1,11 +1,11 @@
 id: 152261052
-type: way
+type: node
 latitude: 51.0969
 longitude: 14.28037
 postcode: "01904"
 city: Neukirch/Lausitz
-street: "Dresdener Straße"
-housenumber: 42
+street: Dresdener Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.34503
 longitude: 12.26536
 postcode: "04178"
 city: Leipzig
-street: "Großer Marktweg"
-housenumber: 5
+street: Großer Marktweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.brillen.de/"
+website: https://www.brillen.de/

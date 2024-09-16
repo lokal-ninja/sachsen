@@ -4,8 +4,8 @@ latitude: 51.36257
 longitude: 12.35828
 postcode: "04155"
 city: Leipzig
-street: "Wiederitzscher Straße"
-housenumber: 8
-phone: "+49 341 39294184"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-14:00"
-website: "https://ehrlich-friseur.de/"
+street: Wiederitzscher Straße
+housenumber: "8"
+phone: +49 341 39294184
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-14:00
+website: https://ehrlich-friseur.de/

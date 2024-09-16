@@ -4,8 +4,8 @@ latitude: 50.42059
 longitude: 12.97217
 postcode: "09484"
 city: Kurort Oberwiesenthal
-street: "Bahnhofstraße"
-housenumber: 10
-phone: "+49 37348 239890"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:00-10:00"
-website: "https://www.baeckerei-roscher.de/"
+street: Bahnhofstraße
+housenumber: "10"
+phone: +49 37348 239890
+opening_hours: Mo-Sa 07:00-20:00; Su 07:00-10:00
+website: https://www.baeckerei-roscher.de/

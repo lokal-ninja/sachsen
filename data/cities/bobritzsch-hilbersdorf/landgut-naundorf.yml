@@ -1,11 +1,11 @@
 id: 116684596
-type: way
+type: node
 latitude: 50.93686
 longitude: 13.42277
 postcode: "09627"
 city: Bobritzsch-Hilbersdorf
-street: "Grillenburger Straße"
-housenumber: 54
-phone: "+49 37325 1414"
+street: Grillenburger Straße
+housenumber: "54"
+phone: +49 37325 1414
 opening_hours: ""
-website: "https://www.landgutnaundorf.de/"
+website: https://www.landgutnaundorf.de/

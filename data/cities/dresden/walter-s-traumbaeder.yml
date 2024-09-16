@@ -4,8 +4,8 @@ latitude: 51.06135
 longitude: 13.75244
 postcode: ""
 city: Dresden
-street: "Hoyerswerdaer Straße"
-housenumber: 22
-phone: "+49 351 8020997"
-opening_hours: "nach telefonischer Vereinbarung"
-website: "https://www.walters-traumbaeder.de/"
+street: Hoyerswerdaer Straße
+housenumber: "22"
+phone: +49 351 8020997
+opening_hours: '"nach telefonischer Vereinbarung"'
+website: https://www.walters-traumbaeder.de/

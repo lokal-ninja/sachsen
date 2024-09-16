@@ -1,11 +1,11 @@
 id: 328337620
-type: way
+type: node
 latitude: 50.86047
 longitude: 12.75051
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Körnerstraße"
-housenumber: 9
+street: Körnerstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

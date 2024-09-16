@@ -1,11 +1,11 @@
 id: 214336302
-type: way
+type: node
 latitude: 50.72603
 longitude: 12.7041
 postcode: "09376"
 city: Oelsnitz/Erzgeb.
-street: "August-Bebel-Straße"
-housenumber: 6
+street: August-Bebel-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.kaffinski.de/"
+website: https://www.kaffinski.de/

@@ -4,8 +4,8 @@ latitude: 50.49393
 longitude: 12.13619
 postcode: "08523"
 city: Plauen
-street: "Altmarkt"
-housenumber: 3
+street: Altmarkt
+housenumber: "3"
 phone: "+49374125410"
 opening_hours: ""
-website: "https://concepcion.de/"
+website: https://concepcion.de/

@@ -1,11 +1,11 @@
 id: 59545570
-type: way
+type: node
 latitude: 51.16056
 longitude: 14.41719
 postcode: "02625"
 city: Bautzen
-street: "Wilthener Straße"
-housenumber: 58
-phone: "+49 3591 304457"
+street: Wilthener Straße
+housenumber: "58"
+phone: +49 3591 304457
 opening_hours: ""
-website: "https://www.gaertnerei-denecke.com"
+website: https://www.gaertnerei-denecke.com

@@ -1,11 +1,11 @@
 id: 118492661
-type: way
+type: node
 latitude: 51.16326
 longitude: 14.50709
 postcode: "02627"
 city: Kubschütz
-street: "Alte Löbauer Straße"
-housenumber: 2
+street: Alte Löbauer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.citroen-hennersdorf.de/"
+website: https://www.citroen-hennersdorf.de/

@@ -1,11 +1,11 @@
 id: 152187472
-type: way
+type: node
 latitude: 50.90254
 longitude: 13.25049
 postcode: "09600"
 city: Oberschöna
-street: "An der Hauptstraße"
-housenumber: 6
+street: An der Hauptstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

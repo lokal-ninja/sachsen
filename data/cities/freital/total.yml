@@ -4,8 +4,8 @@ latitude: 50.99626
 longitude: 13.6523
 postcode: "01705"
 city: Freital
-street: "Poisentalstraße"
-housenumber: 18
-phone: "+49 351 6491861"
-opening_hours: "Mo-Fr 04:30-23:00; PH,Sa,Su 05:30-23:00"
-website: "http://store.total.de/de_DE/ND032854"
+street: Poisentalstraße
+housenumber: "18"
+phone: +49 351 6491861
+opening_hours: Mo-Fr 04:30-23:00; PH,Sa,Su 05:30-23:00
+website: http://store.total.de/de_DE/ND032854

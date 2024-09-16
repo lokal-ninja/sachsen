@@ -4,8 +4,8 @@ latitude: 51.32493
 longitude: 12.379
 postcode: "04275"
 city: Leipzig
-street: "Arthur-Hoffmann-Straße"
-housenumber: 53
-phone: "+49 341 9613429"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.hsg-shop.de"
+street: Arthur-Hoffmann-Straße
+housenumber: "53"
+phone: +49 341 9613429
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.hsg-shop.de

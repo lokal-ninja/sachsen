@@ -4,8 +4,9 @@ latitude: 50.89593
 longitude: 14.80596
 postcode: "02763"
 city: Zittau
-street: "Markt"
-housenumber: 19
-phone: "+49 3583 7918454"
-opening_hours: "Mo-Sa 10:00-12:00, Mo 14:00-16:00, Tu,Th 13:00-14:00, We 14:00-18:00, Fr 14:00-17:00"
-website: "https://www.jj-bikes-zittau.de/"
+street: Markt
+housenumber: "19"
+phone: +49 3583 7918454
+opening_hours: Mo-Sa 10:00-12:00, Mo 14:00-16:00, Tu,Th 13:00-14:00, We 14:00-18:00,
+    Fr 14:00-17:00
+website: https://www.jj-bikes-zittau.de/

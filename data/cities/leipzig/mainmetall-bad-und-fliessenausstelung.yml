@@ -1,11 +1,11 @@
 id: 1035479895
-type: way
+type: node
 latitude: 51.32492
 longitude: 12.33427
 postcode: "04229"
 city: Leipzig
-street: "Zschochersche Straße"
+street: Zschochersche Straße
 housenumber: 79a
 phone: "+4934125347220"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.mainmetall.de/privatkunden/baeder-wellness/ausstellungen/leipzig"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.mainmetall.de/privatkunden/baeder-wellness/ausstellungen/leipzig

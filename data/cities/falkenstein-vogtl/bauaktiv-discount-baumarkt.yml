@@ -1,11 +1,11 @@
 id: 377318026
-type: way
+type: node
 latitude: 50.47481
 longitude: 12.36015
 postcode: "08223"
 city: Falkenstein/Vogtl.
-street: "Beethovenstraße"
-housenumber: 4
+street: Beethovenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

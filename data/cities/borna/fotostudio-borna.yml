@@ -4,8 +4,8 @@ latitude: 51.12402
 longitude: 12.50024
 postcode: "04552"
 city: Borna
-street: "Reichssteinweg"
-housenumber: 1
+street: Reichssteinweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Th 10:00-18:00; Tu,Fr 10:00-14:00; We,Sa,Su,PH off"
+opening_hours: Mo,Th 10:00-18:00; Tu,Fr 10:00-14:00; We,Sa,Su,PH off
 website: ""

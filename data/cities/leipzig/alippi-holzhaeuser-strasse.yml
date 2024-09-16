@@ -4,8 +4,8 @@ latitude: 51.31909
 longitude: 12.41915
 postcode: "04299"
 city: Leipzig
-street: "Holzhäuser Straße"
-housenumber: 67
+street: Holzhäuser Straße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-12:30, We,Fr 09:00-14:00, Mo,Tu,Th 13:30-18:00"
+opening_hours: Mo,Tu,Th 09:00-12:30, We,Fr 09:00-14:00, Mo,Tu,Th 13:30-18:00
 website: ""

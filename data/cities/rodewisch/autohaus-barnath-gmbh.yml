@@ -1,11 +1,11 @@
 id: 175785389
-type: way
+type: node
 latitude: 50.52097
 longitude: 12.38503
 postcode: "08228"
 city: Rodewisch
-street: "Zur Sternkoppel"
-housenumber: 6
+street: Zur Sternkoppel
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

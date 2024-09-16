@@ -1,11 +1,11 @@
 id: 107360049
-type: way
+type: node
 latitude: 51.36684
 longitude: 12.7344
 postcode: "04808"
 city: Wurzen
-street: "Crostigall"
-housenumber: 3
+street: Crostigall
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.sport-freigang.de/"
+website: https://www.sport-freigang.de/

@@ -4,8 +4,8 @@ latitude: 50.78463
 longitude: 12.88005
 postcode: "09123"
 city: Chemnitz
-street: "Wolgograder Allee"
-housenumber: 200
-phone: "+49 371 262 1200"
-opening_hours: "Mo 10:00-18:00, Tu 10:00-18:00"
+street: Wolgograder Allee
+housenumber: "200"
+phone: +49 371 262 1200
+opening_hours: Mo 10:00-18:00, Tu 10:00-18:00
 website: ""

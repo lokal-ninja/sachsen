@@ -1,11 +1,11 @@
 id: 32965551
-type: way
+type: node
 latitude: 51.2806
 longitude: 12.42916
 postcode: "04416"
 city: Markkleeberg
-street: "Apelsteinallee"
-housenumber: 26
-phone: "+49 34297 16343"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.frick-fachmarkt.de/"
+street: Apelsteinallee
+housenumber: "26"
+phone: +49 34297 16343
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.frick-fachmarkt.de/

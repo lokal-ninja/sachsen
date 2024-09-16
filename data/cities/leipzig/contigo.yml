@@ -4,8 +4,8 @@ latitude: 51.34096
 longitude: 12.37822
 postcode: "04109"
 city: Leipzig
-street: "Strohsackpassage"
+street: Strohsackpassage
 housenumber: 6-8
-phone: "+49 341 23102973"
-opening_hours: "Mo-Fr 10:00-19:00; Fr 10:00-18:00"
-website: "https://leipzig.contigo.de/"
+phone: +49 341 23102973
+opening_hours: Mo-Fr 10:00-19:00; Fr 10:00-18:00
+website: https://leipzig.contigo.de/

@@ -1,11 +1,11 @@
 id: 786234500
-type: way
+type: node
 latitude: 51.4697
 longitude: 12.66042
 postcode: "04838"
 city: Eilenburg
-street: "Puschkinstraße"
-housenumber: 30
+street: Puschkinstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

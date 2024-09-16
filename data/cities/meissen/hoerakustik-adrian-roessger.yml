@@ -4,8 +4,8 @@ latitude: 51.16354
 longitude: 13.47399
 postcode: "01662"
 city: Meißen
-street: "Gerbergasse"
-housenumber: 4
-phone: "+49 3521 4760591"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.hoerakustik-roessger.de/"
+street: Gerbergasse
+housenumber: "4"
+phone: +49 3521 4760591
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.hoerakustik-roessger.de/

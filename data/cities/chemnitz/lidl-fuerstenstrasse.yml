@@ -1,11 +1,11 @@
 id: 178722033
-type: way
+type: node
 latitude: 50.83684
 longitude: 12.93362
 postcode: "09130"
 city: Chemnitz
-street: "Fürstenstraße"
-housenumber: 5
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.lidl.de/"
+street: Fürstenstraße
+housenumber: "5"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.lidl.de/

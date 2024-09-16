@@ -4,8 +4,8 @@ latitude: 51.33423
 longitude: 12.36701
 postcode: "04107"
 city: Leipzig
-street: "Karl-Tauchnitz-Straße"
-housenumber: 7
+street: Karl-Tauchnitz-Straße
+housenumber: "7"
 phone: "+491749991801"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://www.thaimoonspa.de/"
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://www.thaimoonspa.de/

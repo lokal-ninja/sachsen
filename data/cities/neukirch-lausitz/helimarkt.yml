@@ -1,11 +1,11 @@
 id: 153866529
-type: way
+type: node
 latitude: 51.09049
 longitude: 14.32566
 postcode: "01904"
 city: Neukirch/Lausitz
-street: "Zittauer Straße"
-housenumber: 21
-phone: "+49 35951 349716"
+street: Zittauer Straße
+housenumber: "21"
+phone: +49 35951 349716
 opening_hours: ""
 website: ""

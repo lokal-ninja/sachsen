@@ -4,8 +4,8 @@ latitude: 51.28207
 longitude: 12.46091
 postcode: "04288"
 city: Leipzig
-street: "Muldentalstraße"
-housenumber: 48
-phone: "+49 1578 4441286"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Muldentalstraße
+housenumber: "48"
+phone: +49 1578 4441286
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

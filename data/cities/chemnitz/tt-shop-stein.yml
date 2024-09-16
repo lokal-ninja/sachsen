@@ -1,11 +1,11 @@
 id: 93224915
-type: way
+type: node
 latitude: 50.82667
 longitude: 12.83526
 postcode: "09117"
 city: Chemnitz
-street: "Harthweg"
-housenumber: 229
+street: Harthweg
+housenumber: "229"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.35663
 longitude: 12.45938
 postcode: "04329"
 city: Leipzig
-street: "Goldsternstraße"
-housenumber: 58
-phone: "+49 342927510"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Goldsternstraße
+housenumber: "58"
+phone: +49 342927510
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

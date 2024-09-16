@@ -4,8 +4,8 @@ latitude: 50.9126
 longitude: 13.34631
 postcode: "09599"
 city: Freiberg
-street: "Bahnhofstraße"
-housenumber: 9
-phone: "+49 3731 355209"
-opening_hours: "We-Fr 11:00-17:00"
-website: "http://www.friseure-freiberg.de/"
+street: Bahnhofstraße
+housenumber: "9"
+phone: +49 3731 355209
+opening_hours: We-Fr 11:00-17:00
+website: http://www.friseure-freiberg.de/

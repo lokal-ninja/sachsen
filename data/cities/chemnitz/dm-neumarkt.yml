@@ -1,11 +1,11 @@
 id: 1014038431
-type: way
+type: node
 latitude: 50.83372
 longitude: 12.92091
 postcode: "09111"
 city: Chemnitz
-street: "Neumarkt"
-housenumber: 
+street: Neumarkt
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

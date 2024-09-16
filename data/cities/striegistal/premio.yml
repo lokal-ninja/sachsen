@@ -1,11 +1,11 @@
 id: 239558258
-type: way
+type: node
 latitude: 50.98834
 longitude: 13.16318
 postcode: "09661"
 city: Striegistal
-street: "Richard-Witzsch-Straße"
-housenumber: 4
+street: Richard-Witzsch-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,13:00-17:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 08:00-12:30,13:00-17:00; Sa,Su,PH off
 website: ""

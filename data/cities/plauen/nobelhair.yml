@@ -4,8 +4,9 @@ latitude: 50.49622
 longitude: 12.14063
 postcode: "08523"
 city: Plauen
-street: "Rädelstraße"
-housenumber: 23
-phone: "+49 3741 289893"
-opening_hours: "Mo 10:00-16:00; Tu,Th 11:00-20:00; We 10:00-20:00; Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.nobel-hair.de"
+street: Rädelstraße
+housenumber: "23"
+phone: +49 3741 289893
+opening_hours: Mo 10:00-16:00; Tu,Th 11:00-20:00; We 10:00-20:00; Fr 09:00-18:00;
+    Sa 09:00-14:00
+website: https://www.nobel-hair.de

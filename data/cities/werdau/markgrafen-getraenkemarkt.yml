@@ -1,11 +1,11 @@
 id: 492157501
-type: way
+type: node
 latitude: 50.76467
 longitude: 12.36055
 postcode: "08412"
 city: Werdau
-street: "Seelingstädter Straße"
-housenumber: 9
+street: Seelingstädter Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.31475
 longitude: 12.39664
 postcode: "04103"
 city: Leipzig
-street: "Richard-Lehmann-Straße"
-housenumber: 119
+street: Richard-Lehmann-Straße
+housenumber: "119"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://honda-center-leipzig.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://honda-center-leipzig.de/

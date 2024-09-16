@@ -1,11 +1,11 @@
 id: 217320434
-type: way
+type: node
 latitude: 50.8353
 longitude: 13.2952
 postcode: "09618"
 city: Brand-Erbisdorf
-street: "Kleinhartmannsdorfer Straße"
-housenumber: 2
+street: Kleinhartmannsdorfer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 124534734
-type: way
+type: node
 latitude: 51.1546
 longitude: 12.2805
 postcode: "04539"
 city: Groitzsch
-street: "Altenburger Straße"
-housenumber: 35
+street: Altenburger Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
 website: ""

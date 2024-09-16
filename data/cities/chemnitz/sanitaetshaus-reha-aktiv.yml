@@ -4,8 +4,9 @@ latitude: 50.82535
 longitude: 12.90517
 postcode: "09119"
 city: Chemnitz
-street: "Goethestraße"
+street: Goethestraße
 housenumber: 5a
 phone: "+4937136910298"
-opening_hours: "Mo, We, Fr 08:00-13:00; Mo, We 14:00-17:00; Tu, Th 09:00-13:00; Tu, Th 14:00-18:00; Fr 14:00-15:00; Sa 09:00-12:00"
-website: "https://www.reha-aktiv-chemnitz.de"
+opening_hours: Mo, We, Fr 08:00-13:00; Mo, We 14:00-17:00; Tu, Th 09:00-13:00; Tu,
+    Th 14:00-18:00; Fr 14:00-15:00; Sa 09:00-12:00
+website: https://www.reha-aktiv-chemnitz.de

@@ -1,11 +1,11 @@
 id: 1059812492
-type: way
+type: node
 latitude: 51.33901
 longitude: 12.37538
 postcode: "04109"
 city: Leipzig
-street: "Mädlerpassage"
-housenumber: 
+street: Mädlerpassage
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 11:00-17:00"
-website: "https://www.carara.com"
+opening_hours: Mo-Fr 10:00-18:00; Sa 11:00-17:00
+website: https://www.carara.com

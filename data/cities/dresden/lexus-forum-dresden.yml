@@ -1,11 +1,11 @@
 id: 28236974
-type: way
+type: node
 latitude: 51.09199
 longitude: 13.67088
 postcode: "01139"
 city: Dresden
-street: "Kötzschenbroder Straße"
-housenumber: 191
+street: Kötzschenbroder Straße
+housenumber: "191"
 phone: ""
 opening_hours: ""
 website: ""

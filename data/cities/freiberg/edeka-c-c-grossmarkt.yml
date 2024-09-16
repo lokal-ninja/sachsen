@@ -1,11 +1,11 @@
 id: 83521039
-type: way
+type: node
 latitude: 50.90706
 longitude: 13.33828
 postcode: "09599"
 city: Freiberg
-street: "Brander Straße"
-housenumber: 16
+street: Brander Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

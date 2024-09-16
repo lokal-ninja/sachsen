@@ -4,8 +4,8 @@ latitude: 51.01763
 longitude: 12.90139
 postcode: "09306"
 city: Erlau
-street: "Am Lagerhaus"
-housenumber: 1
-phone: "+49 3737 490531"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-11:00"
-website: "https://www.agraset.de/"
+street: Am Lagerhaus
+housenumber: "1"
+phone: +49 3737 490531
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-11:00
+website: https://www.agraset.de/

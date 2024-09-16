@@ -1,11 +1,11 @@
 id: 496859051
-type: way
+type: node
 latitude: 50.80163
 longitude: 12.71971
 postcode: "09337"
 city: Hohenstein-Ernstthal
-street: "Pölitzstraße"
-housenumber: 2
+street: Pölitzstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://feinkost-schrambke.eatbu.com"
+website: https://feinkost-schrambke.eatbu.com

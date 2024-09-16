@@ -1,11 +1,11 @@
 id: 347870077
-type: way
+type: node
 latitude: 50.7783
 longitude: 13.7914
 postcode: "01778"
 city: Altenberg
-street: "Dresdner Straße"
-housenumber: 37
+street: Dresdner Straße
+housenumber: "37"
 phone: "+493505425825"
 opening_hours: ""
 website: ""

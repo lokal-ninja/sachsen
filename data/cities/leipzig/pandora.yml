@@ -4,8 +4,8 @@ latitude: 51.34339
 longitude: 12.37464
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+4934196278484"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://de.pandora.net/de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://de.pandora.net/de/

@@ -1,11 +1,11 @@
 id: 1224473517
-type: way
+type: node
 latitude: 50.55881
 longitude: 12.73876
 postcode: "08315"
 city: Lauter-Bernsbach
-street: "Staatsstraße"
-housenumber: 31
+street: Staatsstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

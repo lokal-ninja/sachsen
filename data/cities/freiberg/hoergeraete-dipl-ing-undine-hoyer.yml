@@ -4,8 +4,8 @@ latitude: 50.92097
 longitude: 13.33525
 postcode: "09599"
 city: Freiberg
-street: "Parkstraße"
-housenumber: 20
-phone: "+49 3731 22449"
-opening_hours: "Mo-Fr 08:00-14:00, Mo,We 14:00-18:00, Tu,Th 14:00-16:00"
+street: Parkstraße
+housenumber: "20"
+phone: +49 3731 22449
+opening_hours: Mo-Fr 08:00-14:00, Mo,We 14:00-18:00, Tu,Th 14:00-16:00
 website: ""

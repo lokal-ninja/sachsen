@@ -1,11 +1,11 @@
 id: 320670233
-type: way
+type: node
 latitude: 50.91281
 longitude: 12.79864
 postcode: "09217"
 city: Burgstädt
-street: "Göppersdorfer Straße"
+street: Göppersdorfer Straße
 housenumber: 2a
-phone: "+49 3724-6680363"
-opening_hours: "Tu,Fr 12:00-19:00, Sa 09:00-12:00"
-website: "https://www.bio-landgarten.de/"
+phone: +49 3724-6680363
+opening_hours: Tu,Fr 12:00-19:00, Sa 09:00-12:00
+website: https://www.bio-landgarten.de/

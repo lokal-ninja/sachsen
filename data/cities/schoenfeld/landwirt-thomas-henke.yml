@@ -1,11 +1,11 @@
 id: 337763590
-type: way
+type: node
 latitude: 51.3041
 longitude: 13.70274
 postcode: "01561"
 city: Schönfeld
-street: "Teichweg"
-housenumber: 3
-phone: "+49 35248 81647"
-opening_hours: "sunrise-sunset"
+street: Teichweg
+housenumber: "3"
+phone: +49 35248 81647
+opening_hours: sunrise-sunset
 website: ""

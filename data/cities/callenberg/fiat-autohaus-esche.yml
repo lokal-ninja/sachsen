@@ -1,11 +1,11 @@
 id: 207178398
-type: way
+type: node
 latitude: 50.83803
 longitude: 12.69986
 postcode: "09337"
 city: Callenberg
-street: "Hohensteiner Straße"
-housenumber: 31
+street: Hohensteiner Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

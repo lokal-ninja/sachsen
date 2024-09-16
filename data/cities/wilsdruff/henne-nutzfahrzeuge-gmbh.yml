@@ -4,8 +4,9 @@ latitude: 51.03696
 longitude: 13.58316
 postcode: "01723"
 city: Wilsdruff
-street: "Kaufbacher Ring"
-housenumber: 9
+street: Kaufbacher Ring
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00 || Samstag 7-13 Uhr nach telefonischer Vereinbarung unter +49 152 548 813 49; Su,PH off"
+opening_hours: Mo-Fr 07:00-17:00 || "Samstag 7-13 Uhr nach telefonischer Vereinbarung
+    unter +49 152 548 813 49"; Su,PH off
 website: ""

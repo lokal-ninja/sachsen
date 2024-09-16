@@ -1,11 +1,11 @@
 id: 116898433
-type: way
+type: node
 latitude: 51.16962
 longitude: 14.45194
 postcode: "02625"
 city: Bautzen
-street: "Spittelwiesenweg"
-housenumber: 68
+street: Spittelwiesenweg
+housenumber: "68"
 phone: ""
-opening_hours: "Tu-Fr 07:00-13:00,14:30-17:30, Sa 06:30-11:00; Su,PH off"
+opening_hours: Tu-Fr 07:00-13:00,14:30-17:30, Sa 06:30-11:00; Su,PH off
 website: ""

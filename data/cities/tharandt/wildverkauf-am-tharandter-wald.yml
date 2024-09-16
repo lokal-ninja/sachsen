@@ -4,8 +4,8 @@ latitude: 50.98575
 longitude: 13.53051
 postcode: "01737"
 city: Tharandt
-street: "Mühlweg"
-housenumber: 2
-phone: "+49 174 3193116"
-opening_hours: "Fr 15:00-19:00"
-website: "https://www.wildfleisch-tharandt.de/"
+street: Mühlweg
+housenumber: "2"
+phone: +49 174 3193116
+opening_hours: Fr 15:00-19:00
+website: https://www.wildfleisch-tharandt.de/

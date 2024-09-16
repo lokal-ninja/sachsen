@@ -4,8 +4,8 @@ latitude: 51.33674
 longitude: 12.33461
 postcode: "04177"
 city: Leipzig
-street: "Lindenauer Markt"
-housenumber: 9
-phone: "+49 341 47841084"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.optik-weiss.de/"
+street: Lindenauer Markt
+housenumber: "9"
+phone: +49 341 47841084
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.optik-weiss.de/

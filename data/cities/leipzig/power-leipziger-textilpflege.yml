@@ -4,8 +4,8 @@ latitude: 51.33295
 longitude: 12.3783
 postcode: "04107"
 city: Leipzig
-street: "Windmühlenstraße"
-housenumber: 27
-phone: "+49 341 961 83 32"
-opening_hours: "Tu-Fr 08:00-18:00; Sa-Mo off"
-website: "https://www.power-textilpflege.de/"
+street: Windmühlenstraße
+housenumber: "27"
+phone: +49 341 961 83 32
+opening_hours: Tu-Fr 08:00-18:00; Sa-Mo off
+website: https://www.power-textilpflege.de/

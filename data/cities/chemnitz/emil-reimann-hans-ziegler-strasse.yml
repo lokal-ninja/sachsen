@@ -4,8 +4,8 @@ latitude: 50.82312
 longitude: 12.95896
 postcode: "09127"
 city: Chemnitz
-street: "Hans-Ziegler-Straße"
-housenumber: 3
-phone: "+49 178 4509541"
-opening_hours: "Mo-Sa 07:00-20:00, Su 07:00-11:00"
-website: "https://www.emil-reimann.de/de/filialen/uebersicht-unserer-filialen/baeckerei-im-edeka-markt-1509.html"
+street: Hans-Ziegler-Straße
+housenumber: "3"
+phone: +49 178 4509541
+opening_hours: Mo-Sa 07:00-20:00, Su 07:00-11:00
+website: https://www.emil-reimann.de/de/filialen/uebersicht-unserer-filialen/baeckerei-im-edeka-markt-1509.html

@@ -4,8 +4,8 @@ latitude: 50.80484
 longitude: 12.92475
 postcode: "09120"
 city: Chemnitz
-street: "Friedrich-Oskar-Schimmel-Straße"
-housenumber: 2
-phone: "+49 371 400 56 92"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"
-website: "https://www.mehrprofi.de/"
+street: Friedrich-Oskar-Schimmel-Straße
+housenumber: "2"
+phone: +49 371 400 56 92
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-16:00
+website: https://www.mehrprofi.de/

@@ -4,8 +4,8 @@ latitude: 51.34241
 longitude: 12.36202
 postcode: "04109"
 city: Leipzig
-street: "Lessingstraße"
-housenumber: 29
+street: Lessingstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

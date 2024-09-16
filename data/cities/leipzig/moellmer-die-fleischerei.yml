@@ -4,8 +4,8 @@ latitude: 51.37328
 longitude: 12.41073
 postcode: "04357"
 city: Leipzig
-street: "Oberläuterstraße"
-housenumber: 1
+street: Oberläuterstraße
+housenumber: "1"
 phone: ""
-opening_hours: "We-Fr 08:00-13:00,15:00-18:00; Sa 08:00-11:00; Su,PH off"
+opening_hours: We-Fr 08:00-13:00,15:00-18:00; Sa 08:00-11:00; Su,PH off
 website: ""

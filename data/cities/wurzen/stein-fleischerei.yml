@@ -1,11 +1,11 @@
 id: 89090337
-type: way
+type: node
 latitude: 51.34487
 longitude: 12.84104
 postcode: "04808"
 city: Wurzen
-street: "Schulstraße"
-housenumber: 38
+street: Schulstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

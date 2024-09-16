@@ -4,8 +4,8 @@ latitude: 50.99933
 longitude: 13.64986
 postcode: "01705"
 city: Freital
-street: "Dresdner Straße"
-housenumber: 176
-phone: "+49 351 6494479"
-opening_hours: "Tu-Fr 08:00-19:00; Mo,Sa off Nach Terminabsprache, PH,Su off"
-website: "https://www.friseur-katja-limbach.de/standorte/freital-deuben/"
+street: Dresdner Straße
+housenumber: "176"
+phone: +49 351 6494479
+opening_hours: Tu-Fr 08:00-19:00; Mo,Sa off "Nach Terminabsprache", PH,Su off
+website: https://www.friseur-katja-limbach.de/standorte/freital-deuben/

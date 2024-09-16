@@ -1,11 +1,11 @@
 id: 88734968
-type: way
+type: node
 latitude: 50.6227
 longitude: 12.5315
 postcode: "08107"
 city: Kirchberg
-street: "Schneeberger Straße"
-housenumber: 1
+street: Schneeberger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

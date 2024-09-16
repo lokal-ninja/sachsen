@@ -1,11 +1,11 @@
 id: 122372703
-type: way
+type: node
 latitude: 50.79996
 longitude: 12.80032
 postcode: "09224"
 city: Chemnitz
-street: "Hofer Straße"
-housenumber: 48
+street: Hofer Straße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

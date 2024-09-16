@@ -1,11 +1,11 @@
 id: 1263192771
-type: way
+type: node
 latitude: 51.59086
 longitude: 12.45845
 postcode: "04509"
 city: Löbnitz
-street: "Straße der Jugend"
-housenumber: 6
+street: Straße der Jugend
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00; Mo,Sa,Su,PH off"
+opening_hours: Tu-Fr 09:00-13:00; Mo,Sa,Su,PH off
 website: ""

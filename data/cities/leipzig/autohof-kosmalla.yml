@@ -4,8 +4,8 @@ latitude: 51.32393
 longitude: 12.32618
 postcode: "04229"
 city: Leipzig
-street: "Gießerstraße"
-housenumber: 44
-phone: "+49 341 4153680"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:30-12:00; PH off"
-website: "https://www.autohof-kosmalla.de/"
+street: Gießerstraße
+housenumber: "44"
+phone: +49 341 4153680
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:30-12:00; PH off
+website: https://www.autohof-kosmalla.de/

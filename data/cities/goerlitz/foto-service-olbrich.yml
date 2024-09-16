@@ -4,8 +4,8 @@ latitude: 51.14654
 longitude: 14.99179
 postcode: "02826"
 city: Görlitz
-street: "Emmerichstraße"
-housenumber: 17
+street: Emmerichstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,12:30-17:00"
-website: "https://www.fotoservice-olbrich.de/"
+opening_hours: Mo-Fr 09:00-12:00,12:30-17:00
+website: https://www.fotoservice-olbrich.de/

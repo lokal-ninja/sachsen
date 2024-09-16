@@ -4,8 +4,9 @@ latitude: 51.56615
 longitude: 14.56762
 postcode: "02959"
 city: Groß Düben
-street: "Dorfstraße"
-housenumber: 90
+street: Dorfstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo 08:00-14:00; Tu 09:00-18:00; We 08:00-15:00, Th 09:00-18:00; Fr 09:00-18:00"
+opening_hours: Mo 08:00-14:00; Tu 09:00-18:00; We 08:00-15:00, Th 09:00-18:00; Fr
+    09:00-18:00
 website: ""

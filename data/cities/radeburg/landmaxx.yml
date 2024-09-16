@@ -1,11 +1,11 @@
 id: 186849086
-type: way
+type: node
 latitude: 51.20777
 longitude: 13.72828
 postcode: "01471"
 city: Radeburg
-street: "Bahnhofstraße"
-housenumber: 13
+street: Bahnhofstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-13:00; PH off"
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-13:00; PH off
 website: ""

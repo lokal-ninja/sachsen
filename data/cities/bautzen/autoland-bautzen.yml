@@ -4,8 +4,8 @@ latitude: 51.18987
 longitude: 14.40977
 postcode: "02625"
 city: Bautzen
-street: "An der Hummel"
-housenumber: 5
+street: An der Hummel
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00, Su Schautag"
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-18:00, Su "Schautag"
 website: ""

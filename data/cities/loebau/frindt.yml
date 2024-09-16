@@ -1,11 +1,11 @@
 id: 203952127
-type: way
+type: node
 latitude: 51.09906
 longitude: 14.63452
 postcode: "02708"
 city: Löbau
-street: "Oelsa"
-housenumber: 32
+street: Oelsa
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

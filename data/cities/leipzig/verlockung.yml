@@ -4,8 +4,8 @@ latitude: 51.33444
 longitude: 12.35645
 postcode: "04109"
 city: Leipzig
-street: "Sebastian-Bach-Straße"
-housenumber: 33
+street: Sebastian-Bach-Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-13:00"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-13:00
 website: ""

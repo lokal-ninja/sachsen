@@ -1,11 +1,11 @@
 id: 660810682
-type: way
+type: node
 latitude: 50.58981
 longitude: 12.70026
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Bahnhofstraße"
-housenumber: 44
+street: Bahnhofstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.radhaus-aue.com/"
+website: https://www.radhaus-aue.com/

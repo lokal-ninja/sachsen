@@ -1,11 +1,11 @@
 id: 273773781
-type: way
+type: node
 latitude: 51.26785
 longitude: 12.35195
 postcode: "04416"
 city: Markkleeberg
-street: "Koburger Straße"
-housenumber: 199
-phone: "+49 341 3587365"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.autoservice-ritter.com/"
+street: Koburger Straße
+housenumber: "199"
+phone: +49 341 3587365
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.autoservice-ritter.com/

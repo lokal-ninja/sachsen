@@ -4,8 +4,8 @@ latitude: 50.70777
 longitude: 12.50041
 postcode: "08056"
 city: Zwickau
-street: "Oskar-Arnold-Straße"
-housenumber: 9
+street: Oskar-Arnold-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
 website: ""

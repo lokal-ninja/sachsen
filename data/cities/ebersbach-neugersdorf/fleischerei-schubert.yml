@@ -4,8 +4,9 @@ latitude: 50.98166
 longitude: 14.60261
 postcode: "02727"
 city: Ebersbach-Neugersdorf
-street: "Ernst-Thälmann-Straße"
-housenumber: 30
+street: Ernst-Thälmann-Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Tu,We 09:00-17:30; Th 09:00-18:00; Fr 08:30-18:00; Sa 08:00-11:00; Mo,Su,PH off"
+opening_hours: Tu,We 09:00-17:30; Th 09:00-18:00; Fr 08:30-18:00; Sa 08:00-11:00;
+    Mo,Su,PH off
 website: ""

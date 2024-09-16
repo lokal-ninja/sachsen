@@ -1,11 +1,11 @@
 id: 131031421
-type: way
+type: node
 latitude: 51.23754
 longitude: 14.51912
 postcode: "02694"
 city: Malschwitz
-street: "Dorfplatz"
-housenumber: 4
-phone: "+49 35932 30933"
-opening_hours: "Mo-Fr 07:00-13:00,15:00-18:00; Sa 06:30-10:00"
-website: "http://www.lecker-vom-baecker.de/"
+street: Dorfplatz
+housenumber: "4"
+phone: +49 35932 30933
+opening_hours: Mo-Fr 07:00-13:00,15:00-18:00; Sa 06:30-10:00
+website: http://www.lecker-vom-baecker.de/

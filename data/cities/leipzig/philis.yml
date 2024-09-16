@@ -4,8 +4,8 @@ latitude: 51.3417
 longitude: 12.36073
 postcode: "04109"
 city: Leipzig
-street: "Elsterstraße"
-housenumber: 57
-phone: "+49 341 1494030"
-opening_hours: "Mo,Sa 09:00-15:00; Tu-Fr 09:00-19:00"
-website: "http://www.philis.biz/"
+street: Elsterstraße
+housenumber: "57"
+phone: +49 341 1494030
+opening_hours: Mo,Sa 09:00-15:00; Tu-Fr 09:00-19:00
+website: http://www.philis.biz/

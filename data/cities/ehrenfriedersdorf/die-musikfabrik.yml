@@ -4,8 +4,8 @@ latitude: 50.64765
 longitude: 12.96974
 postcode: "09427"
 city: Ehrenfriedersdorf
-street: "Chemnitzer Straße"
-housenumber: 9
-phone: "+49 37341 574674"
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-13:00"
-website: "http://www.die-musikfabrik.de"
+street: Chemnitzer Straße
+housenumber: "9"
+phone: +49 37341 574674
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-13:00
+website: http://www.die-musikfabrik.de

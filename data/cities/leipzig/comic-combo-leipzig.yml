@@ -4,8 +4,8 @@ latitude: 51.33117
 longitude: 12.37306
 postcode: "04107"
 city: Leipzig
-street: "Riemannstraße"
-housenumber: 31
+street: Riemannstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00, Sa 10:00-15:00"
-website: "https://www.comiccombo.de/"
+opening_hours: Mo-Fr 11:00-19:00, Sa 10:00-15:00
+website: https://www.comiccombo.de/

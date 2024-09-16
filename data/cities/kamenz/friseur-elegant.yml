@@ -4,8 +4,9 @@ latitude: 51.26906
 longitude: 14.0938
 postcode: "01917"
 city: Kamenz
-street: "Pulsnitzer Straße"
-housenumber: 19
+street: Pulsnitzer Straße
+housenumber: "19"
 phone: ""
-opening_hours: "week 01-53/2 Tu-Fr 08:00-14:00; week 01-53/2 Sa 07:00-12:00; week 02-53/2 Mo-Fr 12:00-18:00; week 02-53/2 Sa off; PH off || nach Vereinbarung"
+opening_hours: week 01-53/2 Tu-Fr 08:00-14:00; week 01-53/2 Sa 07:00-12:00; week 02-53/2
+    Mo-Fr 12:00-18:00; week 02-53/2 Sa off; PH off || "nach Vereinbarung"
 website: ""

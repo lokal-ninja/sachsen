@@ -1,11 +1,11 @@
 id: 257777158
-type: way
+type: node
 latitude: 51.1775
 longitude: 14.96359
 postcode: "02828"
 city: Görlitz
-street: "Gewerbering"
-housenumber: 20
-phone: "+49 3581 402706"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "https://www.motorist-goerlitz.de"
+street: Gewerbering
+housenumber: "20"
+phone: +49 3581 402706
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: https://www.motorist-goerlitz.de

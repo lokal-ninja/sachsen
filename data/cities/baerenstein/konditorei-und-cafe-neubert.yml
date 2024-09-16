@@ -4,8 +4,9 @@ latitude: 50.49252
 longitude: 13.0262
 postcode: "09471"
 city: Bärenstein
-street: "Oberwiesenthaler Straße"
-housenumber: 7
+street: Oberwiesenthaler Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 07:00-12:00,13:00-17:00; Sa 06:00-11:00,13:00-17:00; Su 13:00-17:00; Mo off"
+opening_hours: Tu-Fr 07:00-12:00,13:00-17:00; Sa 06:00-11:00,13:00-17:00; Su 13:00-17:00;
+    Mo off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.12077
 longitude: 13.73347
 postcode: "01109"
 city: Dresden
-street: "Bauernweg"
-housenumber: 23
+street: Bauernweg
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-We 09:00-12:00,13:00-16:00; Th 09:00-12:00,13:00-18:00, PH off"
+opening_hours: Mo-We 09:00-12:00,13:00-16:00; Th 09:00-12:00,13:00-18:00, PH off
 website: ""

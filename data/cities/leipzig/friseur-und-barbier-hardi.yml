@@ -4,8 +4,8 @@ latitude: 51.31205
 longitude: 12.37356
 postcode: "04277"
 city: Leipzig
-street: "Karl-Liebknecht-Straße"
-housenumber: 151
-phone: "+49 341 68672359"
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
-website: "https://friseurhardi.de/standorte"
+street: Karl-Liebknecht-Straße
+housenumber: "151"
+phone: +49 341 68672359
+opening_hours: Mo-Sa 09:00-19:00; Su off
+website: https://friseurhardi.de/standorte

@@ -1,11 +1,11 @@
 id: 327571730
-type: way
+type: node
 latitude: 50.74123
 longitude: 12.48113
 postcode: "08058"
 city: Zwickau
-street: "Dorotheenstraße"
-housenumber: 30
+street: Dorotheenstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,12:30-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,12:30-18:00; Sa 09:00-12:00
 website: ""

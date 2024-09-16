@@ -1,11 +1,11 @@
 id: 184424349
-type: way
+type: node
 latitude: 51.16724
 longitude: 13.49732
 postcode: "01662"
 city: Meißen
-street: "Niederauer Straße"
-housenumber: 39
-phone: "+49 3521 74050"
+street: Niederauer Straße
+housenumber: "39"
+phone: +49 3521 74050
 opening_hours: ""
-website: "http://www.probau.de/"
+website: http://www.probau.de/

@@ -1,11 +1,11 @@
 id: 124841616
-type: way
+type: node
 latitude: 50.96814
 longitude: 12.97758
 postcode: "09648"
 city: Altmittweida
-street: "Neusorger Straße"
-housenumber: 28
+street: Neusorger Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

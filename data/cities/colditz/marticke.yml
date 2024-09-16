@@ -4,8 +4,8 @@ latitude: 51.13078
 longitude: 12.80355
 postcode: "04680"
 city: Colditz
-street: "Badergasse"
-housenumber: 32
+street: Badergasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo 06:00-13:00; Tu-Fr 06:00-18:00; Sa 06:00-10:00; Su 07:00-09:00"
+opening_hours: Mo 06:00-13:00; Tu-Fr 06:00-18:00; Sa 06:00-10:00; Su 07:00-09:00
 website: ""

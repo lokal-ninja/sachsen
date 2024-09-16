@@ -4,8 +4,8 @@ latitude: 51.01926
 longitude: 13.70322
 postcode: "01189"
 city: Dresden
-street: "Saarstraße"
-housenumber: 12
-phone: "+49 351 33948488"
-opening_hours: "Mo-Fr 07:00-12:00,14:00-18:00; Sa 07:00-11:00; Su 07:00-10:00; PH off"
-website: "https://www.dresdnerstollenbaeckerei.de/"
+street: Saarstraße
+housenumber: "12"
+phone: +49 351 33948488
+opening_hours: Mo-Fr 07:00-12:00,14:00-18:00; Sa 07:00-11:00; Su 07:00-10:00; PH off
+website: https://www.dresdnerstollenbaeckerei.de/

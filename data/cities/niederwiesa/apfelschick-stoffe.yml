@@ -1,11 +1,11 @@
 id: 269860954
-type: way
+type: node
 latitude: 50.88361
 longitude: 12.99958
 postcode: "09577"
 city: Niederwiesa
-street: "August-Bebel-Straße"
-housenumber: 47
+street: August-Bebel-Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 77835075
-type: way
+type: node
 latitude: 51.05741
 longitude: 12.78683
 postcode: "09306"
 city: Rochlitz
-street: "Geithainer Straße"
-housenumber: 19
+street: Geithainer Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.kuechenhaus-stelzer.de/"
+website: https://www.kuechenhaus-stelzer.de/

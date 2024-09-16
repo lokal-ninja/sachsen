@@ -4,8 +4,8 @@ latitude: 50.77977
 longitude: 13.04948
 postcode: "09573"
 city: Gornau
-street: "Hauptstraße"
-housenumber: 76
-phone: "+49 172 8792382"
-opening_hours: "24/7"
-website: "https://hofladen.business.site"
+street: Hauptstraße
+housenumber: "76"
+phone: +49 172 8792382
+opening_hours: 24/7
+website: https://hofladen.business.site

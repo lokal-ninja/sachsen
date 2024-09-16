@@ -4,8 +4,8 @@ latitude: 51.0367
 longitude: 13.78972
 postcode: "01277"
 city: Dresden
-street: "Schlüterstraße"
-housenumber: 9
+street: Schlüterstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00"
+opening_hours: Tu-Fr 10:00-19:00
 website: ""

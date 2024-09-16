@@ -4,8 +4,8 @@ latitude: 51.07794
 longitude: 13.72051
 postcode: "01127"
 city: Dresden
-street: "Bürgerstraße"
-housenumber: 56
-phone: "+49 351 84202-20"
-opening_hours: "Mo-Th 7:00-16:30; Fr 7:00-13:30"
-website: "https://www.fega-schmitt.de/unternehmen/standorte/elektrogrosshandel/dresden-ii/"
+street: Bürgerstraße
+housenumber: "56"
+phone: +49 351 84202-20
+opening_hours: Mo-Th 7:00-16:30; Fr 7:00-13:30
+website: https://www.fega-schmitt.de/unternehmen/standorte/elektrogrosshandel/dresden-ii/

@@ -4,8 +4,8 @@ latitude: 50.89587
 longitude: 14.80636
 postcode: "02763"
 city: Zittau
-street: "Markt"
-housenumber: 13
-phone: "+49 3583 704200"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-12:00"
-website: "https://www.cdstudio-tickets.de/"
+street: Markt
+housenumber: "13"
+phone: +49 3583 704200
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-12:00
+website: https://www.cdstudio-tickets.de/

@@ -4,8 +4,9 @@ latitude: 51.37478
 longitude: 14.06993
 postcode: "02994"
 city: Bernsdorf
-street: "Rathausallee"
-housenumber: 3
+street: Rathausallee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,We,Th 08:00-17:00; Tu 13:00-18:00; Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo,We,Th 08:00-17:00; Tu 13:00-18:00; Fr 09:00-13:00,14:00-18:00; Sa
+    09:00-12:00; Su,PH off
 website: ""

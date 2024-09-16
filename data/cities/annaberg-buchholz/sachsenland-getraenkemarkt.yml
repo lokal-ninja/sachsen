@@ -1,11 +1,11 @@
 id: 125963016
-type: way
+type: node
 latitude: 50.57741
 longitude: 12.99894
 postcode: "09456"
 city: Annaberg-Buchholz
-street: "Bahnhofsplatz"
-housenumber: 4
+street: Bahnhofsplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

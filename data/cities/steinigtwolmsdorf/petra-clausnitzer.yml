@@ -1,11 +1,11 @@
 id: 93921130
-type: way
+type: node
 latitude: 51.06983
 longitude: 14.34039
 postcode: "01904"
 city: Steinigtwolmsdorf
-street: "Dresdner Straße"
-housenumber: 39
+street: Dresdner Straße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.17929
 longitude: 14.43003
 postcode: "02625"
 city: Bautzen
-street: "Tuchmacherstraße"
-housenumber: 27
+street: Tuchmacherstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.domowina-verlag.de/smolersche-verlagsbuchhandlung"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.domowina-verlag.de/smolersche-verlagsbuchhandlung

@@ -1,11 +1,11 @@
 id: 43384622
-type: way
+type: node
 latitude: 51.03494
 longitude: 13.70426
 postcode: "01159"
 city: Dresden
-street: "Tharandter Straße"
-housenumber: 55
+street: Tharandter Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-17:00; Sa 09:00-14:00"
+opening_hours: Tu,Th,Fr 09:00-17:00; Sa 09:00-14:00
 website: ""

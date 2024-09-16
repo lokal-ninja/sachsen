@@ -4,8 +4,8 @@ latitude: 51.34477
 longitude: 12.26465
 postcode: "04178"
 city: Leipzig
-street: "Großer Marktweg"
-housenumber: 4
+street: Großer Marktweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://haus-der-1000-biere.de/"
+website: https://haus-der-1000-biere.de/

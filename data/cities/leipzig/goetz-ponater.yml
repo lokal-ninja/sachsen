@@ -4,8 +4,8 @@ latitude: 51.34152
 longitude: 12.36686
 postcode: "04109"
 city: Leipzig
-street: "Gottschedstraße"
-housenumber: 18
+street: Gottschedstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Tu-Fr 10:00-20:00"
-website: "http://www.goetz-ponater.de/G-Shop"
+opening_hours: Tu-Fr 10:00-20:00
+website: http://www.goetz-ponater.de/G-Shop

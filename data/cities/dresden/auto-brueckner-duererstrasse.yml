@@ -1,11 +1,11 @@
 id: 24161822
-type: way
+type: node
 latitude: 51.05048
 longitude: 13.77825
 postcode: "01309"
 city: Dresden
-street: "Dürerstraße"
-housenumber: 120
+street: Dürerstraße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 06:45-18:00; Sa 09:00-12:00"
-website: "https://www.auto-brueckner.de/"
+opening_hours: Mo-Fr 06:45-18:00; Sa 09:00-12:00
+website: https://www.auto-brueckner.de/

@@ -1,11 +1,11 @@
 id: 46344335
-type: way
+type: node
 latitude: 51.12493
 longitude: 14.17608
 postcode: "01877"
 city: Bischofswerda
-street: "Beethovenstraße"
-housenumber: 1
+street: Beethovenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

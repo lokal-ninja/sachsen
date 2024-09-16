@@ -1,11 +1,11 @@
 id: 210000658
-type: way
+type: node
 latitude: 50.83775
 longitude: 12.54143
 postcode: "08371"
 city: Glauchau
-street: "Waldenburger Straße"
-housenumber: 95
-phone: "+49 3763 3065"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00"
+street: Waldenburger Straße
+housenumber: "95"
+phone: +49 3763 3065
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00
 website: ""

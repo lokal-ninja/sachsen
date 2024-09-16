@@ -1,11 +1,11 @@
 id: 56953998
-type: way
+type: node
 latitude: 50.97686
 longitude: 14.27086
 postcode: "01855"
 city: Sebnitz
-street: "Gartenstraße"
-housenumber: 1
+street: Gartenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

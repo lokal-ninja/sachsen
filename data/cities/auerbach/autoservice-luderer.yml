@@ -1,11 +1,11 @@
 id: 135629588
-type: way
+type: node
 latitude: 50.50579
 longitude: 12.39402
 postcode: "08209"
 city: Auerbach
-street: "Kaiserstraße"
-housenumber: 47
-phone: "+49 3744 201090"
+street: Kaiserstraße
+housenumber: "47"
+phone: +49 3744 201090
 opening_hours: ""
-website: "https://autoserviceluderer.de/inhalt/"
+website: https://autoserviceluderer.de/inhalt/

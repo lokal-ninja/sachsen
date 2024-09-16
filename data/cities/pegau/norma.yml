@@ -1,11 +1,11 @@
 id: 202189860
-type: way
+type: node
 latitude: 51.17025
 longitude: 12.24903
 postcode: "04523"
 city: Pegau
-street: "Carsdorfer Straße"
-housenumber: 15
+street: Carsdorfer Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

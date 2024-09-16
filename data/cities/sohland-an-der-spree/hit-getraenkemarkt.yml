@@ -1,11 +1,11 @@
 id: 587159495
-type: way
+type: node
 latitude: 51.05625
 longitude: 14.43257
 postcode: "02689"
 city: Sohland an der Spree
-street: "Zittauer Straße"
+street: Zittauer Straße
 housenumber: 1b
-phone: "+49 35936 32233"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-12:00; PH off"
+phone: +49 35936 32233
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-12:00; PH off
 website: ""

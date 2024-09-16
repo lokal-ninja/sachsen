@@ -1,11 +1,11 @@
 id: 204558115
-type: way
+type: node
 latitude: 51.04514
 longitude: 13.08892
 postcode: "09648"
 city: Kriebstein
-street: "Südstraße"
-housenumber: 2
+street: Südstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

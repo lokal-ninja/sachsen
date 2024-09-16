@@ -4,8 +4,8 @@ latitude: 50.70148
 longitude: 12.84895
 postcode: "09380"
 city: Thalheim/Erzgebirge
-street: "Hauptstraße"
-housenumber: 20
-phone: "+49 3721 85032"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
+street: Hauptstraße
+housenumber: "20"
+phone: +49 3721 85032
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
 website: ""

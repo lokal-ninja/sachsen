@@ -1,11 +1,11 @@
 id: 117856902
-type: way
+type: node
 latitude: 51.15242
 longitude: 14.3935
 postcode: "02692"
 city: Doberschau-Gaußig
-street: "Alter Dorfplatz"
-housenumber: 12
+street: Alter Dorfplatz
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.werner-peugeot.de/"
+website: https://www.werner-peugeot.de/

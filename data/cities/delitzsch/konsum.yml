@@ -1,11 +1,11 @@
 id: 50895688
-type: way
+type: node
 latitude: 51.52551
 longitude: 12.35676
 postcode: "04509"
 city: Delitzsch
-street: "Beerendorfer Straße"
-housenumber: 49
+street: Beerendorfer Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

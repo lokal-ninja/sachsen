@@ -1,11 +1,11 @@
 id: 357805028
-type: way
+type: node
 latitude: 51.4642
 longitude: 12.67202
 postcode: "04838"
 city: Eilenburg
-street: "An der Schondorfer Mark"
-housenumber: 3
+street: An der Schondorfer Mark
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH
 website: ""

@@ -1,11 +1,11 @@
 id: 137082062
-type: way
+type: node
 latitude: 51.2885
 longitude: 12.391
 postcode: "04279"
 city: Leipzig
-street: "Helenenstraße"
-housenumber: 25
-phone: "+49 341 24870793"
+street: Helenenstraße
+housenumber: "25"
+phone: +49 341 24870793
 opening_hours: ""
-website: "https://www.moebelsuchtfarbe.de/"
+website: https://www.moebelsuchtfarbe.de/

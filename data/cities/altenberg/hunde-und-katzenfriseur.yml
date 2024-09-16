@@ -4,8 +4,8 @@ latitude: 50.76659
 longitude: 13.75852
 postcode: "01773"
 city: Altenberg
-street: "Neustadtstraße"
-housenumber: 5
+street: Neustadtstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su off Termine nach Vereinbarung "
-website: "https://www.hundefriseur-freital.de/"
+opening_hours: Mo-Su off "Termine nach Vereinbarung "
+website: https://www.hundefriseur-freital.de/

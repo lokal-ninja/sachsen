@@ -1,11 +1,11 @@
 id: 186961964
-type: way
+type: node
 latitude: 50.75242
 longitude: 12.85237
 postcode: "09387"
 city: Jahnsdorf/Erzgeb.
-street: "Wilhermsdorfer Straße"
-housenumber: 19
+street: Wilhermsdorfer Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

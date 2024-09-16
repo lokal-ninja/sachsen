@@ -4,8 +4,8 @@ latitude: 51.33405
 longitude: 12.4053
 postcode: "04317"
 city: Leipzig
-street: "Kippenbergstraße"
-housenumber: 4
-phone: "+49 152-042 318 41"
-opening_hours: "nach Vereinbarung"
-website: "https://www.greifwerk.de/"
+street: Kippenbergstraße
+housenumber: "4"
+phone: +49 152-042 318 41
+opening_hours: '"nach Vereinbarung"'
+website: https://www.greifwerk.de/

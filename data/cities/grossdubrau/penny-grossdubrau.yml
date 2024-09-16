@@ -1,11 +1,11 @@
 id: 132342226
-type: way
+type: node
 latitude: 51.24781
 longitude: 14.45985
 postcode: "02694"
 city: Großdubrau
-street: "Ernst-Thälmann-Straße"
-housenumber: 45
+street: Ernst-Thälmann-Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.9998
 longitude: 13.92097
 postcode: "01796"
 city: Pirna
-street: "Richard-Wagner-Straße"
-housenumber: 1
+street: Richard-Wagner-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Su 07:00-12:00"
-website: "http://www.baeckerei-richter-graupa.de"
+opening_hours: Su 07:00-12:00
+website: http://www.baeckerei-richter-graupa.de

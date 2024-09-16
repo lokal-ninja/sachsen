@@ -1,11 +1,11 @@
 id: 232360317
-type: way
+type: node
 latitude: 50.86096
 longitude: 12.768
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Burgstädter Straße"
-housenumber: 9
+street: Burgstädter Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

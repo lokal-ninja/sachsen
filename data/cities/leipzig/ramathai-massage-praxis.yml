@@ -4,8 +4,8 @@ latitude: 51.34194
 longitude: 12.35891
 postcode: "04109"
 city: Leipzig
-street: "Jahnallee"
-housenumber: 31
+street: Jahnallee
+housenumber: "31"
 phone: "+493414939478"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://ramathai.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://ramathai.de/

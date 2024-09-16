@@ -4,8 +4,8 @@ latitude: 51.48093
 longitude: 13.11855
 postcode: "04874"
 city: Belgern-Schildau
-street: "Torgauer Straße"
-housenumber: 41
+street: Torgauer Straße
+housenumber: "41"
 phone: ""
-opening_hours: "07:00-18:00"
-website: "https://www.baeckerei-gaebler.de/Unsere-Filialen/Bahnhofstrasse-Belgern"
+opening_hours: 07:00-18:00
+website: https://www.baeckerei-gaebler.de/Unsere-Filialen/Bahnhofstrasse-Belgern

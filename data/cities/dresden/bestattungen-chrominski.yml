@@ -4,8 +4,8 @@ latitude: 51.03645
 longitude: 13.71637
 postcode: "01187"
 city: Dresden
-street: "Nürnberger Straße"
-housenumber: 2
-phone: "+49 351 4718841"
-opening_hours: "Mo-Fr 09:00-16:00"
+street: Nürnberger Straße
+housenumber: "2"
+phone: +49 351 4718841
+opening_hours: Mo-Fr 09:00-16:00
 website: ""

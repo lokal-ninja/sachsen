@@ -1,11 +1,11 @@
 id: 108647748
-type: way
+type: node
 latitude: 50.92659
 longitude: 13.31454
 postcode: "09599"
 city: Freiberg
-street: "Lößnitzer Straße"
+street: Lößnitzer Straße
 housenumber: 43A
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su off"
-website: "https://www.citroen-haendler.de/birkner-freiberg/"
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su off
+website: https://www.citroen-haendler.de/birkner-freiberg/

@@ -4,8 +4,8 @@ latitude: 50.91673
 longitude: 13.34252
 postcode: "09599"
 city: Freiberg
-street: "Obermarkt"
-housenumber: 8
-phone: "+49 3731 2039980"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00; Mo off"
-website: "http://www.brillenbar8.de/"
+street: Obermarkt
+housenumber: "8"
+phone: +49 3731 2039980
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00; Mo off
+website: http://www.brillenbar8.de/

@@ -1,11 +1,11 @@
 id: 98623328
-type: way
+type: node
 latitude: 51.13968
 longitude: 12.65428
 postcode: "04651"
 city: Bad Lausick
-street: "Ballendorfer Straße"
-housenumber: 18
+street: Ballendorfer Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

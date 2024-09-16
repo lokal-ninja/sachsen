@@ -1,11 +1,11 @@
 id: 108566836
-type: way
+type: node
 latitude: 50.84091
 longitude: 12.94865
 postcode: "09130"
 city: Chemnitz
-street: "Heinrich-Schütz-Straße"
-housenumber: 51
+street: Heinrich-Schütz-Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-16:00; Sa off"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-16:00; Sa off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.34439
 longitude: 12.35812
 postcode: "04105"
 city: Leipzig
-street: "Waldstraße"
-housenumber: 32
-phone: "+49 341 2644 0141"
-opening_hours: "Termine nach telefonischer Vereinbarung"
-website: "https://www.beauty-and-nails-leipzig.de/"
+street: Waldstraße
+housenumber: "32"
+phone: +49 341 2644 0141
+opening_hours: '"Termine nach telefonischer Vereinbarung"'
+website: https://www.beauty-and-nails-leipzig.de/

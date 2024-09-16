@@ -1,11 +1,11 @@
 id: 111427722
-type: way
+type: node
 latitude: 50.82433
 longitude: 12.53918
 postcode: "08371"
 city: Glauchau
-street: "Auestraße"
-housenumber: 1
-phone: "+49 3763 488818"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00; PH off"
-website: "https://www.getraenkewelt.de"
+street: Auestraße
+housenumber: "1"
+phone: +49 3763 488818
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00; PH off
+website: https://www.getraenkewelt.de

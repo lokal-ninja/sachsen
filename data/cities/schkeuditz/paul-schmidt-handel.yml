@@ -1,11 +1,11 @@
 id: 204714389
-type: way
+type: node
 latitude: 51.4165
 longitude: 12.30857
 postcode: "04435"
 city: Schkeuditz
-street: "Milanstraße"
-housenumber: 1
+street: Milanstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-15:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 09:00-15:00; Sa,Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 239288758
-type: way
+type: node
 latitude: 50.54167
 longitude: 12.68569
 postcode: "08324"
 city: Bockau
-street: "Hauptstraße"
-housenumber: 9
+street: Hauptstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

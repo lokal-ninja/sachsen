@@ -1,11 +1,11 @@
 id: 128191713
-type: way
+type: node
 latitude: 51.16061
 longitude: 13.47332
 postcode: "01662"
 city: Meißen
-street: "Neumarkt"
-housenumber: 5
+street: Neumarkt
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

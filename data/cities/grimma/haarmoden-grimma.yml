@@ -1,11 +1,11 @@
 id: 401677055
-type: way
+type: node
 latitude: 51.23625
 longitude: 12.72982
 postcode: "04668"
 city: Grimma
-street: "Markt"
-housenumber: 2
-phone: "+49 (0)3437 92 97 207"
-opening_hours: "Mo 12:00-18:30; Tu-Fr 08:00-18:30; Sa 08:00-13:00"
-website: "http://www.haarmoden-grimma.de/"
+street: Markt
+housenumber: "2"
+phone: +49 (0)3437 92 97 207
+opening_hours: Mo 12:00-18:30; Tu-Fr 08:00-18:30; Sa 08:00-13:00
+website: http://www.haarmoden-grimma.de/

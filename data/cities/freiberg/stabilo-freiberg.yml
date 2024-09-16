@@ -1,11 +1,11 @@
 id: 87829637
-type: way
+type: node
 latitude: 50.91195
 longitude: 13.36868
 postcode: "09599"
 city: Freiberg
-street: "Hüttenstraße"
-housenumber: 5
-phone: "+49 3731 7751370"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+street: Hüttenstraße
+housenumber: "5"
+phone: +49 3731 7751370
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
 website: ""

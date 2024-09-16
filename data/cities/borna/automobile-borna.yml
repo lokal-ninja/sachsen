@@ -1,11 +1,11 @@
 id: 34298715
-type: way
+type: node
 latitude: 51.12751
 longitude: 12.50569
 postcode: "04552"
 city: Borna
-street: "Geschwister-Scholl-Straße"
+street: Geschwister-Scholl-Straße
 housenumber: 12-14
-phone: "+49 3433 2490"
+phone: +49 3433 2490
 opening_hours: ""
-website: "https://amb-autowelt.de/"
+website: https://amb-autowelt.de/

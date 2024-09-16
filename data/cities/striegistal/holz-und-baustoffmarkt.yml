@@ -1,11 +1,11 @@
 id: 231351559
-type: way
+type: node
 latitude: 51.04975
 longitude: 13.24021
 postcode: ""
 city: Striegistal
-street: "Hauptstraße"
-housenumber: 190
+street: Hauptstraße
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

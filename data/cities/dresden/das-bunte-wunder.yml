@@ -4,8 +4,8 @@ latitude: 51.07324
 longitude: 13.74849
 postcode: "01097"
 city: Dresden
-street: "Rudolf-Leonhard-Straße"
-housenumber: 18
-phone: "+49 351 6536168"
-opening_hours: "We-Fr 10:00-19:00, Tu 12:00-19:00, Sa 12:00-16:00"
-website: "http://www.dasbuntewunder.de/"
+street: Rudolf-Leonhard-Straße
+housenumber: "18"
+phone: +49 351 6536168
+opening_hours: We-Fr 10:00-19:00, Tu 12:00-19:00, Sa 12:00-16:00
+website: http://www.dasbuntewunder.de/

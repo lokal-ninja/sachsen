@@ -1,11 +1,11 @@
 id: 255724199
-type: way
+type: node
 latitude: 50.85766
 longitude: 13.07235
 postcode: "09557"
 city: Flöha
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 14
-phone: "+49 3726 789936"
-opening_hours: "Mo,Tu 08:30-13:00,14:00-17:30; Th 08:30-13:00,14:00-18:00"
-website: "https://www.ostechnikum-chemnitz.de/"
+street: Rudolf-Breitscheid-Straße
+housenumber: "14"
+phone: +49 3726 789936
+opening_hours: Mo,Tu 08:30-13:00,14:00-17:30; Th 08:30-13:00,14:00-18:00
+website: https://www.ostechnikum-chemnitz.de/

@@ -1,11 +1,11 @@
 id: 147881859
-type: way
+type: node
 latitude: 51.33994
 longitude: 12.29835
 postcode: "04179"
 city: Leipzig
-street: "Schomburgkstraße"
-housenumber: 4
+street: Schomburgkstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.89308
 longitude: 13.66483
 postcode: "01744"
 city: Dippoldiswalde
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://www.bz-dw.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://www.bz-dw.de/

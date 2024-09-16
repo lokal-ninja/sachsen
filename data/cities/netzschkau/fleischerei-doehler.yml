@@ -1,11 +1,11 @@
 id: 308229613
-type: way
+type: node
 latitude: 50.60855
 longitude: 12.24292
 postcode: "08491"
 city: Netzschkau
-street: "Ludwig-Uhland-Straße"
-housenumber: 1
+street: Ludwig-Uhland-Straße
+housenumber: "1"
 phone: "+49376534778"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-11:00"
-website: "https://fleischerei-doehler.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-11:00
+website: https://fleischerei-doehler.de/

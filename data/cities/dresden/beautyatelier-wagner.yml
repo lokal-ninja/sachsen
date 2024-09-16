@@ -4,8 +4,8 @@ latitude: 51.06067
 longitude: 13.75286
 postcode: "01099"
 city: Dresden
-street: "Hoyerswerdaer Straße"
-housenumber: 18
+street: Hoyerswerdaer Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.beautyatelier-wagner.de/"
+website: https://www.beautyatelier-wagner.de/

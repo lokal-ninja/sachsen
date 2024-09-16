@@ -4,8 +4,8 @@ latitude: 51.37022
 longitude: 12.73845
 postcode: "04808"
 city: Wurzen
-street: "Jacobsplatz"
-housenumber: 2
+street: Jacobsplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 06:00-18:00; Sa 06:00-11:00; Mo,Su,PH off"
-website: "https://baeckerei-keller.de/index.html"
+opening_hours: Tu-Fr 06:00-18:00; Sa 06:00-11:00; Mo,Su,PH off
+website: https://baeckerei-keller.de/index.html

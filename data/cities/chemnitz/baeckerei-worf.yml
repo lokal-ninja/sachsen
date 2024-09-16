@@ -4,8 +4,8 @@ latitude: 50.76381
 longitude: 12.94341
 postcode: "09123"
 city: Chemnitz
-street: "Berbisdorfer Straße"
-housenumber: 111
-phone: "+49 37209 2872"
-opening_hours: "Fr 07:00-11:00,15:30-18:00; Sa 07:00-11:00"
-website: "https://www.worf-baecker.de"
+street: Berbisdorfer Straße
+housenumber: "111"
+phone: +49 37209 2872
+opening_hours: Fr 07:00-11:00,15:30-18:00; Sa 07:00-11:00
+website: https://www.worf-baecker.de

@@ -1,11 +1,11 @@
 id: 400587567
-type: way
+type: node
 latitude: 50.83759
 longitude: 12.44903
 postcode: "08393"
 city: Meerane
-street: "Guteborner Allee"
-housenumber: 2
+street: Guteborner Allee
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00;PH,Su off;Mo-Sa 09:00-20:00;Su,PH off"
+opening_hours: Mo-Sa 09:00-19:00;PH,Su off;Mo-Sa 09:00-20:00;Su,PH off
 website: ""

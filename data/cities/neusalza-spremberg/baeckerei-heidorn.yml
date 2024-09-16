@@ -4,8 +4,8 @@ latitude: 51.03789
 longitude: 14.53799
 postcode: "02742"
 city: Neusalza-Spremberg
-street: "Zittauer Straße"
-housenumber: 30
-phone: "+49 35872 169046"
-opening_hours: "Tu-Fr 07:00-16:30; Sa 06:30-10:00"
-website: "http://www.bäckerei-heidorn.de"
+street: Zittauer Straße
+housenumber: "30"
+phone: +49 35872 169046
+opening_hours: Tu-Fr 07:00-16:30; Sa 06:30-10:00
+website: http://www.bäckerei-heidorn.de

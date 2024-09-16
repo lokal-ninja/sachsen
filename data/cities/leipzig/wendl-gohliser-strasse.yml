@@ -4,8 +4,8 @@ latitude: 51.35805
 longitude: 12.36784
 postcode: "04155"
 city: Leipzig
-street: "Gohliser Straße"
-housenumber: 43
+street: Gohliser Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa-Su 07:00-18:00"
-website: "http://www.konditorei-wendl.de/"
+opening_hours: Mo-Fr 06:30-18:30; Sa-Su 07:00-18:00
+website: http://www.konditorei-wendl.de/

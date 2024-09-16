@@ -1,11 +1,11 @@
 id: 99511292
-type: way
+type: node
 latitude: 50.69054
 longitude: 12.46794
 postcode: "08062"
 city: Zwickau
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 44
-phone: "+49 (0)375 / 7880021"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Rudolf-Breitscheid-Straße
+housenumber: "44"
+phone: +49 (0)375 / 7880021
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.33632
 longitude: 12.40048
 postcode: "04317"
 city: Leipzig
-street: "Täubchenweg"
-housenumber: 47
-phone: "+49 341 22344613"
-opening_hours: "Mo-Th 08:30-18:00; Fr 08:30-16:00"
-website: "https://www.zulassung-mammut.de"
+street: Täubchenweg
+housenumber: "47"
+phone: +49 341 22344613
+opening_hours: Mo-Th 08:30-18:00; Fr 08:30-16:00
+website: https://www.zulassung-mammut.de

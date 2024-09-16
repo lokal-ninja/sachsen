@@ -4,8 +4,8 @@ latitude: 50.92003
 longitude: 14.1512
 postcode: "01814"
 city: Bad Schandau
-street: "Sebnitzer Straße"
-housenumber: 5
-phone: "+49 35022 42883"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:30-12:00"
-website: "http://www.fahrrad-strohbach.de"
+street: Sebnitzer Straße
+housenumber: "5"
+phone: +49 35022 42883
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:30-12:00
+website: http://www.fahrrad-strohbach.de

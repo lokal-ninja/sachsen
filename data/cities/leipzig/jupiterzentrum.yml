@@ -1,11 +1,11 @@
 id: 260496533
-type: way
+type: node
 latitude: 51.32193
 longitude: 12.27073
 postcode: "04205"
 city: Leipzig
-street: "Jupiterstraße"
-housenumber: 44
+street: Jupiterstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

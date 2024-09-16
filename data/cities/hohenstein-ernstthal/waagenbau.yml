@@ -1,11 +1,11 @@
 id: 497125224
-type: way
+type: node
 latitude: 50.8021
 longitude: 12.71379
 postcode: "09337"
 city: Hohenstein-Ernstthal
-street: "Lungwitzer Straße"
-housenumber: 11
+street: Lungwitzer Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

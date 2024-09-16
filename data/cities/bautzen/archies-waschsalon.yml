@@ -4,8 +4,8 @@ latitude: 51.17948
 longitude: 14.4251
 postcode: "02625"
 city: Bautzen
-street: "Lauengraben"
-housenumber: 10
+street: Lauengraben
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; PH off"
-website: "https://www.archies-waschsalon.de/"
+opening_hours: Mo-Sa 06:00-22:00; PH off
+website: https://www.archies-waschsalon.de/

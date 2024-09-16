@@ -4,8 +4,8 @@ latitude: 50.91646
 longitude: 13.34505
 postcode: "09599"
 city: Freiberg
-street: "Stollngasse"
-housenumber: 3
-phone: "+49 3731 211526"
-opening_hours: "Mo,We-Fr 09:00-13:00,14:00-17:00; Tu 09:00-14:00"
+street: Stollngasse
+housenumber: "3"
+phone: +49 3731 211526
+opening_hours: Mo,We-Fr 09:00-13:00,14:00-17:00; Tu 09:00-14:00
 website: ""

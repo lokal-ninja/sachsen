@@ -1,11 +1,11 @@
 id: 127177550
-type: way
+type: node
 latitude: 50.61153
 longitude: 12.16864
 postcode: "07985"
 city: Elsterberg
-street: "Bahnhofstraße"
-housenumber: 26
+street: Bahnhofstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

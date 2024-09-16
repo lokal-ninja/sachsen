@@ -4,8 +4,8 @@ latitude: 50.71703
 longitude: 12.4959
 postcode: "08056"
 city: Zwickau
-street: "Münzstraße"
-housenumber: 8
-phone: "+49 375 281533"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.zweirad-haus.eu/"
+street: Münzstraße
+housenumber: "8"
+phone: +49 375 281533
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.zweirad-haus.eu/

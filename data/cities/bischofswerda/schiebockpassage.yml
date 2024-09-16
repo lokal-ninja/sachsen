@@ -1,11 +1,11 @@
 id: 45498837
-type: way
+type: node
 latitude: 51.12145
 longitude: 14.19263
 postcode: "01877"
 city: Bischofswerda
-street: "Ernst-Thälmann-Straße"
-housenumber: 3
+street: Ernst-Thälmann-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

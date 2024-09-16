@@ -1,11 +1,11 @@
 id: 1033527731
-type: way
+type: node
 latitude: 51.23396
 longitude: 12.72595
 postcode: "04668"
 city: Grimma
-street: "Weberstraße"
-housenumber: 15
+street: Weberstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

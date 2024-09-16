@@ -1,11 +1,11 @@
 id: 80506178
-type: way
+type: node
 latitude: 51.34559
 longitude: 12.26452
 postcode: "04178"
 city: Leipzig
-street: "Großer Marktweg"
-housenumber: 1
+street: Großer Marktweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

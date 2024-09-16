@@ -4,8 +4,8 @@ latitude: 50.83917
 longitude: 12.93691
 postcode: "09130"
 city: Chemnitz
-street: "Uhlandstraße"
-housenumber: 30
-phone: "+49 371 23479196"
-opening_hours: "Tu-Fr 08:00-19:00"
-website: "https://www.peacefood-chemnitz.de/"
+street: Uhlandstraße
+housenumber: "30"
+phone: +49 371 23479196
+opening_hours: Tu-Fr 08:00-19:00
+website: https://www.peacefood-chemnitz.de/

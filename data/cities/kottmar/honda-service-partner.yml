@@ -1,11 +1,11 @@
 id: 299138091
-type: way
+type: node
 latitude: 50.99605
 longitude: 14.637
 postcode: "02739"
 city: Kottmar
-street: "Hauptstraße"
-housenumber: 266
+street: Hauptstraße
+housenumber: "266"
 phone: ""
 opening_hours: ""
 website: ""

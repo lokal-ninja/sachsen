@@ -4,8 +4,8 @@ latitude: 50.89638
 longitude: 14.80619
 postcode: "02763"
 city: Zittau
-street: "Markt"
-housenumber: 12
-phone: "+49 3583 510660"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.design-b.de/"
+street: Markt
+housenumber: "12"
+phone: +49 3583 510660
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.design-b.de/

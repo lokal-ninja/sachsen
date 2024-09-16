@@ -4,8 +4,8 @@ latitude: 51.05118
 longitude: 13.80769
 postcode: "01277"
 city: Dresden
-street: "Tolkewitzer Straße"
-housenumber: 6
-phone: "+49 351 31410090"
-opening_hours: "Sa 10:00-13:00; Mo,Tu,Th,Fr 09:30-18:00"
-website: "https://www.kreativraum-dresden.de/"
+street: Tolkewitzer Straße
+housenumber: "6"
+phone: +49 351 31410090
+opening_hours: Sa 10:00-13:00; Mo,Tu,Th,Fr 09:30-18:00
+website: https://www.kreativraum-dresden.de/

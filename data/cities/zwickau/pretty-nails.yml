@@ -4,8 +4,8 @@ latitude: 50.72275
 longitude: 12.49509
 postcode: "08056"
 city: Zwickau
-street: "Leipziger Straße"
-housenumber: 16
+street: Leipziger Straße
+housenumber: "16"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

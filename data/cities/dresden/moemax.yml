@@ -1,11 +1,11 @@
 id: 1111845763
-type: way
+type: node
 latitude: 51.06139
 longitude: 13.69301
 postcode: "01067"
 city: Dresden
-street: "Hamburger Straße"
-housenumber: 46
+street: Hamburger Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://www.moemax.de/filiale/moemax-dresden/3M"
+website: https://www.moemax.de/filiale/moemax-dresden/3M

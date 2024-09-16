@@ -1,11 +1,11 @@
 id: 196847119
-type: way
+type: node
 latitude: 50.9185
 longitude: 12.81549
 postcode: ""
 city: Burgstädt
-street: "Mittweidaer Straße"
-housenumber: 1
+street: Mittweidaer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 200364963
-type: way
+type: node
 latitude: 50.66141
 longitude: 13.33553
 postcode: "09526"
 city: Olbernhau
-street: "Markt"
-housenumber: 12
-phone: "+49 37360 73166"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.brille-von-wolffersdorff.de/"
+street: Markt
+housenumber: "12"
+phone: +49 37360 73166
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.brille-von-wolffersdorff.de/

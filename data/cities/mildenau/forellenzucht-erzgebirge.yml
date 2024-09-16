@@ -1,11 +1,11 @@
 id: 714525946
-type: way
+type: node
 latitude: 50.55814
 longitude: 13.14828
 postcode: "09456"
 city: Mildenau
-street: "Steinbacher Straße"
-housenumber: 20
+street: Steinbacher Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

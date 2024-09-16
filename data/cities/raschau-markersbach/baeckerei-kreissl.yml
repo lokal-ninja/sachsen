@@ -1,11 +1,11 @@
 id: 234435464
-type: way
+type: node
 latitude: 50.53363
 longitude: 12.8679
 postcode: "08352"
 city: Raschau-Markersbach
-street: "Annaberger Straße"
-housenumber: 70
+street: Annaberger Straße
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.04391
 longitude: 13.78811
 postcode: "01309"
 city: Dresden
-street: "Eilenburger Straße"
-housenumber: 14
+street: Eilenburger Straße
+housenumber: "14"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

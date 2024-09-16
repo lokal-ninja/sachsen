@@ -1,11 +1,11 @@
 id: 206558947
-type: way
+type: node
 latitude: 51.09658
 longitude: 14.66667
 postcode: "02708"
 city: Löbau
-street: "Nicolaiplatz"
-housenumber: 1
-phone: "+49 3585 86 20 47"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-12:00"
-website: "https://www.loebauer-friseure.de/"
+street: Nicolaiplatz
+housenumber: "1"
+phone: +49 3585 86 20 47
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-12:00
+website: https://www.loebauer-friseure.de/

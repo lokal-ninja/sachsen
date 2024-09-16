@@ -1,11 +1,11 @@
 id: 158203927
-type: way
+type: node
 latitude: 50.87866
 longitude: 12.86394
 postcode: "09228"
 city: Chemnitz
-street: "Obere Hauptstraße"
-housenumber: 23
-phone: "+49 37200 81775"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.diska.de/"
+street: Obere Hauptstraße
+housenumber: "23"
+phone: +49 37200 81775
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.diska.de/

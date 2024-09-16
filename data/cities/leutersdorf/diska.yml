@@ -1,11 +1,11 @@
 id: 295610327
-type: way
+type: node
 latitude: 50.96006
 longitude: 14.65246
 postcode: "02794"
 city: Leutersdorf
-street: "Sachsenstraße"
-housenumber: 19
+street: Sachsenstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

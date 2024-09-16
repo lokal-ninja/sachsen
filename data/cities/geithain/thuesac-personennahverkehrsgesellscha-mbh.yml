@@ -1,11 +1,11 @@
 id: 89238966
-type: way
+type: node
 latitude: 51.04933
 longitude: 12.71129
 postcode: "04643"
 city: Geithain
-street: "Peniger Straße"
-housenumber: 5
-phone: "+49 34341 42456"
+street: Peniger Straße
+housenumber: "5"
+phone: +49 34341 42456
 opening_hours: ""
-website: "https://www.thuesac.de"
+website: https://www.thuesac.de

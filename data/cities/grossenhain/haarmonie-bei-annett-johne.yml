@@ -4,8 +4,8 @@ latitude: 51.29054
 longitude: 13.52998
 postcode: "01558"
 city: Großenhain
-street: "Meißner Straße"
-housenumber: 11
-phone: "+49 3522 502216"
-opening_hours: "nach Vereinbarung"
+street: Meißner Straße
+housenumber: "11"
+phone: +49 3522 502216
+opening_hours: '"nach Vereinbarung"'
 website: ""

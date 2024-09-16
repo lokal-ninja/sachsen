@@ -1,11 +1,11 @@
 id: 48858528
-type: way
+type: node
 latitude: 51.36498
 longitude: 12.43538
 postcode: "04347"
 city: Leipzig
-street: "Stöhrerstraße"
-housenumber: 22
+street: Stöhrerstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://auto-schroeder.de/"
+website: https://auto-schroeder.de/

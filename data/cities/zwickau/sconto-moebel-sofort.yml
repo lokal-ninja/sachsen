@@ -1,11 +1,11 @@
 id: 199358275
-type: way
+type: node
 latitude: 50.69376
 longitude: 12.4866
 postcode: "08056"
 city: Zwickau
-street: "Am Westsachsenstadion"
-housenumber: 1
+street: Am Westsachsenstadion
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

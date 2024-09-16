@@ -4,8 +4,8 @@ latitude: 51.3283
 longitude: 12.38
 postcode: "04107"
 city: Leipzig
-street: "Arthur-Hoffmann-Straße"
-housenumber: 7
+street: Arthur-Hoffmann-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00"
-website: "https://www.geiger-optik-leipzig.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00
+website: https://www.geiger-optik-leipzig.de/

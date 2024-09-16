@@ -4,8 +4,8 @@ latitude: 51.05691
 longitude: 12.5599
 postcode: "04654"
 city: Frohburg
-street: "Markt"
-housenumber: 4
+street: Markt
+housenumber: "4"
 phone: ""
-opening_hours: "Mo 06:00-11:00; Tu-Fr 06:00-17:30; Sa 06:00-11:00; Su,PH off"
+opening_hours: Mo 06:00-11:00; Tu-Fr 06:00-17:30; Sa 06:00-11:00; Su,PH off
 website: ""

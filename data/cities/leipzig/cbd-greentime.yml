@@ -4,8 +4,8 @@ latitude: 51.36631
 longitude: 12.3497
 postcode: "04159"
 city: Leipzig
-street: "Huygensstraße"
-housenumber: 1
+street: Huygensstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.cbd-greentime.com/"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.cbd-greentime.com/

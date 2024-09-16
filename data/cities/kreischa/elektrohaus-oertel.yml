@@ -4,8 +4,8 @@ latitude: 50.94454
 longitude: 13.75506
 postcode: "01731"
 city: Kreischa
-street: "Querstraße"
-housenumber: 2
-phone: "+49 35206 21165"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://www.elektrohaus-oertel.de/"
+street: Querstraße
+housenumber: "2"
+phone: +49 35206 21165
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: http://www.elektrohaus-oertel.de/

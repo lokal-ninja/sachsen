@@ -4,8 +4,8 @@ latitude: 51.33358
 longitude: 12.33165
 postcode: "04177"
 city: Leipzig
-street: "Merseburger Straße"
-housenumber: 53
-phone: "+49 341 4926018"
-opening_hours: "Sa 08:00-14:00; Tu-Fr 09:00-19:00"
-website: "https://www.haaratelier-pollack.de/"
+street: Merseburger Straße
+housenumber: "53"
+phone: +49 341 4926018
+opening_hours: Sa 08:00-14:00; Tu-Fr 09:00-19:00
+website: https://www.haaratelier-pollack.de/

@@ -1,11 +1,11 @@
 id: 183027069
-type: way
+type: node
 latitude: 51.29902
 longitude: 14.46156
 postcode: "02627"
 city: Radibor
-street: "Schloßstraße"
-housenumber: 24
-phone: "+49 35934 6436"
-opening_hours: "Sa 08:00-12:00"
-website: "http://www.teichwirtschaft-milkel.de"
+street: Schloßstraße
+housenumber: "24"
+phone: +49 35934 6436
+opening_hours: Sa 08:00-12:00
+website: http://www.teichwirtschaft-milkel.de

@@ -1,11 +1,11 @@
 id: 1305472422
-type: way
+type: node
 latitude: 51.18279
 longitude: 13.78489
 postcode: ""
 city: Ottendorf-Okrilla
-street: "Weixdorfer Straße"
-housenumber: 1
+street: Weixdorfer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.15267
 longitude: 14.98317
 postcode: "02826"
 city: Görlitz
-street: "Luisenstraße"
-housenumber: 10
+street: Luisenstraße
+housenumber: "10"
 phone: "+493581403060"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

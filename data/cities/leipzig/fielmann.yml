@@ -5,7 +5,7 @@ longitude: 12.37501
 postcode: "04109"
 city: Leipzig
 street: ""
-housenumber: 17
-phone: "+49 341 9605281"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.fielmann.de/niederlassungen/leipzig/04109-markt-17/"
+housenumber: "17"
+phone: +49 341 9605281
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.fielmann.de/niederlassungen/leipzig/04109-markt-17/

@@ -1,11 +1,11 @@
 id: 99873794
-type: way
+type: node
 latitude: 51.37032
 longitude: 12.74363
 postcode: "04808"
 city: Wurzen
-street: "Martin-Luther-Straße"
-housenumber: 25
-phone: "+49 3425 8531679"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00"
+street: Martin-Luther-Straße
+housenumber: "25"
+phone: +49 3425 8531679
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00
 website: ""

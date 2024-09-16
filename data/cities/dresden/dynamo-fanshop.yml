@@ -4,8 +4,8 @@ latitude: 51.04041
 longitude: 13.74868
 postcode: "01069"
 city: Dresden
-street: "Lennéstraße"
-housenumber: 12
+street: Lennéstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://www.dynamo-fanshop.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://www.dynamo-fanshop.de/

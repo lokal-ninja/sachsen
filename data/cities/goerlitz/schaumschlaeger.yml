@@ -4,8 +4,8 @@ latitude: 51.14914
 longitude: 14.98216
 postcode: "02826"
 city: Görlitz
-street: "Schulstraße"
-housenumber: 4
+street: Schulstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://schaum-schlaeger.de"
+opening_hours: Mo-Su 07:00-22:00
+website: https://schaum-schlaeger.de

@@ -4,8 +4,8 @@ latitude: 51.01574
 longitude: 13.66956
 postcode: "01705"
 city: Freital
-street: "Dresdner Straße"
-housenumber: 3
-phone: "+49 351 6492194"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa off nach Vereinbarung; PH,Su off"
-website: "https://reifenhaus-freital.de/"
+street: Dresdner Straße
+housenumber: "3"
+phone: +49 351 6492194
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa off "nach Vereinbarung"; PH,Su off
+website: https://reifenhaus-freital.de/

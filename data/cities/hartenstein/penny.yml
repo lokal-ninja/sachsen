@@ -1,11 +1,11 @@
 id: 135676938
-type: way
+type: node
 latitude: 50.66769
 longitude: 12.66972
 postcode: "08118"
 city: Hartenstein
-street: "Stiftstraße"
-housenumber: 1
+street: Stiftstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

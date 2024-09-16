@@ -4,8 +4,8 @@ latitude: 51.33137
 longitude: 12.34426
 postcode: "04229"
 city: Leipzig
-street: "Forststraße"
-housenumber: 10
+street: Forststraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 488326416
-type: way
+type: node
 latitude: 51.02039
 longitude: 12.70211
 postcode: "04643"
 city: Geithain
-street: "Untere Dorfstraße"
-housenumber: 11
+street: Untere Dorfstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 7:30-17:30"
+opening_hours: Mo-Fr 7:30-17:30
 website: ""

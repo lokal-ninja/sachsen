@@ -4,8 +4,8 @@ latitude: 50.83597
 longitude: 12.51931
 postcode: "08371"
 city: Glauchau
-street: "Siemensstraße"
-housenumber: 8
-phone: "+49 3763 4294530"
-opening_hours: "Mo-Sa 06:30-18:00;PH off"
-website: "https://www.foerster-backwaren.de"
+street: Siemensstraße
+housenumber: "8"
+phone: +49 3763 4294530
+opening_hours: Mo-Sa 06:30-18:00;PH off
+website: https://www.foerster-backwaren.de

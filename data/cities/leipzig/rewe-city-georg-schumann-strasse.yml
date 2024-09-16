@@ -1,11 +1,11 @@
 id: 316089708
-type: way
+type: node
 latitude: 51.36206
 longitude: 12.36798
 postcode: "04155"
 city: Leipzig
-street: "Georg-Schumann-Straße"
-housenumber: 60
-phone: "+49 341 58319865"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/leipzig-gohlis/4040476/rewe-markt-georg-schumann-str-60/"
+street: Georg-Schumann-Straße
+housenumber: "60"
+phone: +49 341 58319865
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/leipzig-gohlis/4040476/rewe-markt-georg-schumann-str-60/

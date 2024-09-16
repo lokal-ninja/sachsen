@@ -4,8 +4,8 @@ latitude: 50.56388
 longitude: 12.7499
 postcode: "08315"
 city: Lauter-Bernsbach
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Tu,Th 07:30-12:00,13:00-17:30; We,Fr 07:30-12:00; Sa-Su off"
+opening_hours: Mo-Tu,Th 07:30-12:00,13:00-17:30; We,Fr 07:30-12:00; Sa-Su off
 website: ""

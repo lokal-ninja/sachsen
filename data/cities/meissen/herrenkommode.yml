@@ -4,8 +4,8 @@ latitude: 51.16239
 longitude: 13.47086
 postcode: "01662"
 city: Meißen
-street: "Fleischergasse"
-housenumber: 3
-phone: "+49 3521401196"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://www.herrenkommode-meissen.de/"
+street: Fleischergasse
+housenumber: "3"
+phone: +49 3521401196
+opening_hours: Mo-Fr 09:30-18:00
+website: https://www.herrenkommode-meissen.de/

@@ -4,8 +4,8 @@ latitude: 51.04608
 longitude: 12.80013
 postcode: "09306"
 city: Rochlitz
-street: "Rathausstraße"
-housenumber: 20
-phone: "+49 3737 42079"
-opening_hours: "Mo 13:00-17:30; Tu 09:00-17:30; We 09:00-12:00; Th-Fr 09:00-18:00"
-website: "http://aida-friseure.de/"
+street: Rathausstraße
+housenumber: "20"
+phone: +49 3737 42079
+opening_hours: Mo 13:00-17:30; Tu 09:00-17:30; We 09:00-12:00; Th-Fr 09:00-18:00
+website: http://aida-friseure.de/

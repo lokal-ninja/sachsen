@@ -4,8 +4,8 @@ latitude: 50.98796
 longitude: 13.80667
 postcode: "01257"
 city: Dresden
-street: "Am Plan"
-housenumber: 6
-phone: "+49 351 84227640"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.peruecken-hofmann.de"
+street: Am Plan
+housenumber: "6"
+phone: +49 351 84227640
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.peruecken-hofmann.de

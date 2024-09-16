@@ -4,8 +4,8 @@ latitude: 51.27983
 longitude: 13.29
 postcode: "01594"
 city: Riesa
-street: "Auenwaldstraße"
-housenumber: 48
-phone: "+49 3525 630630"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.neugebauer-riesa.de/"
+street: Auenwaldstraße
+housenumber: "48"
+phone: +49 3525 630630
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.neugebauer-riesa.de/

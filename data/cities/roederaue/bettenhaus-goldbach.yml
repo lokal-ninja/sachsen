@@ -4,8 +4,9 @@ latitude: 51.37554
 longitude: 13.4878
 postcode: "01609"
 city: Röderaue
-street: "Großenhainer Straße"
-housenumber: 10
-phone: "+49 35263 120386"
-opening_hours: "Mo 09:00-12:00,14:00-18:00; We 09:00-12:00,14:00-18:00; Fr 09:00-12:00; Tu,Th off nach Vereinbarung; Sa-Su,PH off"
-website: "https://bettenhaus-goldbach.de/raden/"
+street: Großenhainer Straße
+housenumber: "10"
+phone: +49 35263 120386
+opening_hours: Mo 09:00-12:00,14:00-18:00; We 09:00-12:00,14:00-18:00; Fr 09:00-12:00;
+    Tu,Th off "nach Vereinbarung"; Sa-Su,PH off
+website: https://bettenhaus-goldbach.de/raden/

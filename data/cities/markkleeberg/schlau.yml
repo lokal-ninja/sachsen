@@ -1,11 +1,11 @@
 id: 32965547
-type: way
+type: node
 latitude: 51.28065
 longitude: 12.42961
 postcode: "04416"
 city: Markkleeberg
-street: "Apelsteinallee"
-housenumber: 28
+street: Apelsteinallee
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Th 09:00-15:00; Fr 09:00-12:00"
-website: "https://www.schlau-grosshandel.de/"
+opening_hours: Mo-Th 09:00-15:00; Fr 09:00-12:00
+website: https://www.schlau-grosshandel.de/

@@ -1,11 +1,11 @@
 id: 287341800
-type: way
+type: node
 latitude: 51.5187
 longitude: 12.33506
 postcode: "04509"
 city: Delitzsch
-street: "Leipziger Straße"
-housenumber: 21
-phone: "+49 34202 32184"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off"
-website: "https://www.pitstop.de/werkstatt/delitzsch/"
+street: Leipziger Straße
+housenumber: "21"
+phone: +49 34202 32184
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off
+website: https://www.pitstop.de/werkstatt/delitzsch/

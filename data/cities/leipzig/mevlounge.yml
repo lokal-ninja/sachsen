@@ -4,8 +4,8 @@ latitude: 51.343
 longitude: 12.363
 postcode: "04105"
 city: Leipzig
-street: "Funkenburgstraße"
-housenumber: 1
+street: Funkenburgstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-14:00"
-website: "http://www.mevlounge.de"
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-14:00
+website: http://www.mevlounge.de

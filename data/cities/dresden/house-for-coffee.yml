@@ -4,8 +4,8 @@ latitude: 51.0657
 longitude: 13.75603
 postcode: "01099"
 city: Dresden
-street: "Louisenstraße"
-housenumber: 64
-phone: "+49 162 1907435"
-opening_hours: "Mo,Fr-Su off; Tu,Th 10:00-11:30,13:00-16:04; We 13:00-16:04"
-website: "https://houseforcoffee.de/"
+street: Louisenstraße
+housenumber: "64"
+phone: +49 162 1907435
+opening_hours: Mo,Fr-Su off; Tu,Th 10:00-11:30,13:00-16:04; We 13:00-16:04
+website: https://houseforcoffee.de/

@@ -4,8 +4,8 @@ latitude: 51.07569
 longitude: 13.008
 postcode: "04736"
 city: Waldheim
-street: "Hauptstraße"
-housenumber: 5
-phone: "+49 34327 90985"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 06:30-11:00"
+street: Hauptstraße
+housenumber: "5"
+phone: +49 34327 90985
+opening_hours: Mo-Fr 06:30-17:00; Sa 06:30-11:00
 website: ""

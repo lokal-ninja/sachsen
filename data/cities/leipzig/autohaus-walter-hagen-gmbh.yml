@@ -1,11 +1,11 @@
 id: 23494900
-type: way
+type: node
 latitude: 51.3229
 longitude: 12.30776
 postcode: "04209"
 city: Leipzig
-street: "Brünner Straße"
+street: Brünner Straße
 housenumber: 8f
-phone: "+49341 2349110"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "http://www.autohaus-walter-hagen.de/"
+phone: +49341 2349110
+opening_hours: Mo-Fr 07:00-17:00
+website: http://www.autohaus-walter-hagen.de/

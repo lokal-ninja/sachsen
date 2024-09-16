@@ -4,8 +4,8 @@ latitude: 51.06643
 longitude: 13.75398
 postcode: "01099"
 city: Dresden
-street: "Görlitzer Straße"
-housenumber: 2
-phone: "+49 351 8043925"
-opening_hours: "Mo-Fr 11:30-18:30; Sa 11:00-15:00"
-website: "https://www.2pim.de/"
+street: Görlitzer Straße
+housenumber: "2"
+phone: +49 351 8043925
+opening_hours: Mo-Fr 11:30-18:30; Sa 11:00-15:00
+website: https://www.2pim.de/

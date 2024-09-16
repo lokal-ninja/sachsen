@@ -4,8 +4,8 @@ latitude: 51.04916
 longitude: 13.73914
 postcode: "01067"
 city: Dresden
-street: "Kreuzstraße"
-housenumber: 7
+street: Kreuzstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 11:00-17:00"
-website: "https://www.buchhandlung-ungelenk.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 11:00-17:00
+website: https://www.buchhandlung-ungelenk.de/

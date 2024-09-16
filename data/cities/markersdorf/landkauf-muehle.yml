@@ -1,11 +1,11 @@
 id: 34328292
-type: way
+type: node
 latitude: 51.09722
 longitude: 14.87246
 postcode: "02829"
 city: Markersdorf
-street: "Ortsstraße"
-housenumber: 90
+street: Ortsstraße
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.32808
 longitude: 12.37416
 postcode: "04107"
 city: Leipzig
-street: "Karl-Liebknecht-Straße"
-housenumber: 27
-phone: "+49 341 30816910"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://bio-mare.com/"
+street: Karl-Liebknecht-Straße
+housenumber: "27"
+phone: +49 341 30816910
+opening_hours: Mo-Sa 08:00-20:00
+website: https://bio-mare.com/

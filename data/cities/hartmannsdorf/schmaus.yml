@@ -1,11 +1,11 @@
 id: 137551205
-type: way
+type: node
 latitude: 50.89449
 longitude: 12.79461
 postcode: "09232"
 city: Hartmannsdorf
-street: "Ernst-Lässig-Straße"
-housenumber: 3
+street: Ernst-Lässig-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Tu 09:00-17:00; Fr 09:00-13:00; Sa,Su,PH off"
+opening_hours: Mo-Tu 09:00-17:00; Fr 09:00-13:00; Sa,Su,PH off
 website: ""

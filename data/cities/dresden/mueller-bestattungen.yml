@@ -4,8 +4,8 @@ latitude: 51.03752
 longitude: 13.81065
 postcode: "01279"
 city: Dresden
-street: "Wehlener Straße"
-housenumber: 9
-phone: "+49 351 254444"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Wehlener Straße
+housenumber: "9"
+phone: +49 351 254444
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

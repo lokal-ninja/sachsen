@@ -1,11 +1,11 @@
 id: 208428479
-type: way
+type: node
 latitude: 50.70852
 longitude: 12.77309
 postcode: "09366"
 city: Stollberg/Erzgebirge
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

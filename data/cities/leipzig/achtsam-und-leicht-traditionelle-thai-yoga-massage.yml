@@ -4,8 +4,8 @@ latitude: 51.32476
 longitude: 12.41277
 postcode: "04299"
 city: Leipzig
-street: "Papiermühlstraße"
-housenumber: 7
+street: Papiermühlstraße
+housenumber: "7"
 phone: "+491739589808"
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

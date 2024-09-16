@@ -1,11 +1,11 @@
 id: 1173687915
-type: way
+type: node
 latitude: 51.34754
 longitude: 12.26627
 postcode: "04178"
 city: Leipzig
-street: "Miltitzer Straße"
-housenumber: 13
+street: Miltitzer Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off"
-website: "https://multicycle.de/cube-store-leipzig"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off
+website: https://multicycle.de/cube-store-leipzig

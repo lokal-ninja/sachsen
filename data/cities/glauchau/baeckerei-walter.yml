@@ -1,11 +1,11 @@
 id: 269010171
-type: way
+type: node
 latitude: 50.82069
 longitude: 12.54271
 postcode: "08371"
 city: Glauchau
-street: "Leipziger Straße"
-housenumber: 74
+street: Leipziger Straße
+housenumber: "74"
 phone: "+4937633428"
 opening_hours: ""
 website: ""

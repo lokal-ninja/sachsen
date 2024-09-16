@@ -4,8 +4,8 @@ latitude: 51.0849
 longitude: 13.69633
 postcode: "01139"
 city: Dresden
-street: "Peschelstraße"
-housenumber: 33
-phone: "+49 351 847 0 778"
+street: Peschelstraße
+housenumber: "33"
+phone: +49 351 847 0 778
 opening_hours: ""
-website: "https://www.dresdnerteehandel.de/"
+website: https://www.dresdnerteehandel.de/

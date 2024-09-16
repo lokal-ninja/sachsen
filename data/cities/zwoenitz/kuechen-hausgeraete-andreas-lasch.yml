@@ -1,11 +1,11 @@
 id: 120513380
-type: way
+type: node
 latitude: 50.68581
 longitude: 12.81668
 postcode: "08297"
 city: Zwönitz
-street: "Volkshausstraße"
-housenumber: 2
+street: Volkshausstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu, Th 15:00-18:00"
+opening_hours: Tu, Th 15:00-18:00
 website: ""

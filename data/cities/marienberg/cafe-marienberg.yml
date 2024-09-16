@@ -1,11 +1,11 @@
 id: 585498877
-type: way
+type: node
 latitude: 50.64725
 longitude: 13.15314
 postcode: "09496"
 city: Marienberg
-street: "Silberallee"
-housenumber: 25
+street: Silberallee
+housenumber: "25"
 phone: ""
-opening_hours: "Su,Mo closed; Tu-Sa 06:00-17:00"
-website: "https://www.baeckereirach.de/"
+opening_hours: Su,Mo closed; Tu-Sa 06:00-17:00
+website: https://www.baeckereirach.de/

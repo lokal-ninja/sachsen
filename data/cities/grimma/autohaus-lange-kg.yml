@@ -1,11 +1,11 @@
 id: 749138701
-type: way
+type: node
 latitude: 51.23247
 longitude: 12.70656
 postcode: "04668"
 city: Grimma
-street: "Gerichtswiesen"
-housenumber: 31
-phone: "+49 34381 - 43369"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://www.renault-autohaus-lange.de/"
+street: Gerichtswiesen
+housenumber: "31"
+phone: +49 34381 - 43369
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://www.renault-autohaus-lange.de/

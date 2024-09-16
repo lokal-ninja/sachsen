@@ -4,8 +4,8 @@ latitude: 51.07749
 longitude: 13.72118
 postcode: "01127"
 city: Dresden
-street: "Osterbergstraße"
-housenumber: 26
+street: Osterbergstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo,We-Fr 10:00-15:00; Tu 10:00-18:00"
+opening_hours: Mo,We-Fr 10:00-15:00; Tu 10:00-18:00
 website: ""

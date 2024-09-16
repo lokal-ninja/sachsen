@@ -1,11 +1,11 @@
 id: 25823337
-type: way
+type: node
 latitude: 51.15215
 longitude: 14.98818
 postcode: "02826"
 city: Görlitz
-street: "An der Frauenkirche"
-housenumber: 12
+street: An der Frauenkirche
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

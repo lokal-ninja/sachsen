@@ -1,11 +1,11 @@
 id: 170370738
-type: way
+type: node
 latitude: 51.08234
 longitude: 12.99851
 postcode: "04736"
 city: Waldheim
-street: "Mendener Weg"
-housenumber: 9
+street: Mendener Weg
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-16:00
 website: ""

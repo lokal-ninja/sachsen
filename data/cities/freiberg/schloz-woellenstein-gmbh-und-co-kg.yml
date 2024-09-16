@@ -1,11 +1,11 @@
 id: 141915162
-type: way
+type: node
 latitude: 50.91333
 longitude: 13.36818
 postcode: "09599"
 city: Freiberg
-street: "Dresdner Straße"
-housenumber: 58
+street: Dresdner Straße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

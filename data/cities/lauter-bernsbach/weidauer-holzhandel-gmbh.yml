@@ -1,11 +1,11 @@
 id: 96911546
-type: way
+type: node
 latitude: 50.58024
 longitude: 12.74523
 postcode: "08315"
 city: Lauter-Bernsbach
-street: "Am Brethaus"
-housenumber: 1
+street: Am Brethaus
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

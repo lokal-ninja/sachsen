@@ -1,11 +1,11 @@
 id: 130112721
-type: way
+type: node
 latitude: 51.31415
 longitude: 12.2929
 postcode: "04209"
 city: Leipzig
-street: "Stuttgarter Allee"
-housenumber: 2
+street: Stuttgarter Allee
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.lidl.de/

@@ -4,8 +4,8 @@ latitude: 50.98338
 longitude: 12.97921
 postcode: "09648"
 city: Mittweida
-street: "Johann-Sebastian-Bach-Straße"
-housenumber: 4
+street: Johann-Sebastian-Bach-Straße
+housenumber: "4"
 phone: "+4937279983336"
-opening_hours: "Tu-Fr 09:00-18:00"
-website: "https://www.hairlounge-jane-laurenz.de/"
+opening_hours: Tu-Fr 09:00-18:00
+website: https://www.hairlounge-jane-laurenz.de/

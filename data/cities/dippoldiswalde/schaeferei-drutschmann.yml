@@ -4,8 +4,8 @@ latitude: 50.88543
 longitude: 13.64392
 postcode: "01744"
 city: Dippoldiswalde
-street: "Am Dorfbach"
-housenumber: 10
-phone: "+49 3504 613973"
-opening_hours: "Th-Fr 10:00-19:00; Sa 10:00-12:00"
-website: "https://www.schaeferei-drutschmann.de/"
+street: Am Dorfbach
+housenumber: "10"
+phone: +49 3504 613973
+opening_hours: Th-Fr 10:00-19:00; Sa 10:00-12:00
+website: https://www.schaeferei-drutschmann.de/

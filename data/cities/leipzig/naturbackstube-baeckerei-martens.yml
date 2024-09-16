@@ -4,8 +4,8 @@ latitude: 51.30896
 longitude: 12.37295
 postcode: "04277"
 city: Leipzig
-street: "Wolfgang-Heinze-Straße"
-housenumber: 12
+street: Wolfgang-Heinze-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,Sa 07:00-13:00; Tu-Fr 07:00-18:00; Su,PH off"
+opening_hours: Mo,Sa 07:00-13:00; Tu-Fr 07:00-18:00; Su,PH off
 website: ""

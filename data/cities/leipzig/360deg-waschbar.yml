@@ -4,8 +4,8 @@ latitude: 51.3378
 longitude: 12.32752
 postcode: "04177"
 city: Leipzig
-street: "Georg-Schwarz-Straße"
-housenumber: 2
-phone: "+49 163 8778310"
-opening_hours: "Mo-We 12:00-20:00; Th,Fr 12:00-24:00; Sa 12:00-24:00+"
-website: "https://www.360gradwaschbar.de/"
+street: Georg-Schwarz-Straße
+housenumber: "2"
+phone: +49 163 8778310
+opening_hours: Mo-We 12:00-20:00; Th,Fr 12:00-24:00; Sa 12:00-24:00+
+website: https://www.360gradwaschbar.de/

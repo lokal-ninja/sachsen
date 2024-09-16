@@ -4,8 +4,8 @@ latitude: 51.37011
 longitude: 12.40799
 postcode: "04357"
 city: Leipzig
-street: "Mockauer Straße"
-housenumber: 44
-phone: "+49341 60036668"
-opening_hours: "Di-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://www.hauptsache-leipzig.com/"
+street: Mockauer Straße
+housenumber: "44"
+phone: +49341 60036668
+opening_hours: Di-Fr 09:00-18:00; Sa 09:00-12:00
+website: http://www.hauptsache-leipzig.com/

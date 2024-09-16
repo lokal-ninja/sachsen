@@ -4,8 +4,8 @@ latitude: 51.05456
 longitude: 13.8141
 postcode: "01326"
 city: Dresden
-street: "Körnerplatz"
-housenumber: 10
+street: Körnerplatz
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 14:00-19:00, Sa 11:00-14:00"
-website: "http://www.galerie-am-damm.de/"
+opening_hours: Tu-Fr 14:00-19:00, Sa 11:00-14:00
+website: http://www.galerie-am-damm.de/

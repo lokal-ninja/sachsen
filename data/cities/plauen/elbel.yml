@@ -4,8 +4,8 @@ latitude: 50.4913
 longitude: 12.16255
 postcode: "08529"
 city: Plauen
-street: "Reusaer Straße"
-housenumber: 82
-phone: "+49 3741 443062"
-opening_hours: "Tu-Th 07:30-14:00; Fr 07:30-17:00"
-website: "https://fleischerei-elbel.de"
+street: Reusaer Straße
+housenumber: "82"
+phone: +49 3741 443062
+opening_hours: Tu-Th 07:30-14:00; Fr 07:30-17:00
+website: https://fleischerei-elbel.de

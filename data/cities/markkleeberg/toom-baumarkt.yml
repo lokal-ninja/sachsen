@@ -1,11 +1,11 @@
 id: 37235831
-type: way
+type: node
 latitude: 51.2715
 longitude: 12.36444
 postcode: "04416"
 city: Markkleeberg
-street: "Städtelner Straße"
-housenumber: 54
+street: Städtelner Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Fr 08:00-22:00; Su,PH off"
-website: "https://toom.de/m/markkleeberg/"
+opening_hours: Mo-Sa 08:00-20:00; Fr 08:00-22:00; Su,PH off
+website: https://toom.de/m/markkleeberg/

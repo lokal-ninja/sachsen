@@ -1,11 +1,11 @@
 id: 658619120
-type: way
+type: node
 latitude: 51.61336
 longitude: 12.91402
 postcode: "04880"
 city: Elsnig
-street: "Kiebitzweg"
-housenumber: 1
+street: Kiebitzweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

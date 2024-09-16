@@ -1,11 +1,11 @@
 id: 87238199
-type: way
+type: node
 latitude: 51.3135
 longitude: 13.2879
 postcode: "01591"
 city: Riesa
-street: "Heinrich-Schönberg-Straße"
-housenumber: 8
+street: Heinrich-Schönberg-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

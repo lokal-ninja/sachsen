@@ -1,11 +1,11 @@
 id: 152497648
-type: way
+type: node
 latitude: 50.90319
 longitude: 14.77269
 postcode: "02763"
 city: Zittau
-street: "Hörnitzer Straße"
-housenumber: 5
-phone: "+49 3583 773340"
+street: Hörnitzer Straße
+housenumber: "5"
+phone: +49 3583 773340
 opening_hours: ""
 website: ""

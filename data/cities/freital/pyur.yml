@@ -4,8 +4,8 @@ latitude: 51.00742
 longitude: 13.65796
 postcode: "01705"
 city: Freital
-street: "Dresdner Straße"
-housenumber: 123
-phone: "+49 30 25777777"
-opening_hours: "Tu 09:00-14:00; Th 14:00-18:00; Fr-Mo, We,PH off"
-website: "https://www.pyur.com/"
+street: Dresdner Straße
+housenumber: "123"
+phone: +49 30 25777777
+opening_hours: Tu 09:00-14:00; Th 14:00-18:00; Fr-Mo, We,PH off
+website: https://www.pyur.com/

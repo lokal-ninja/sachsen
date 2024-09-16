@@ -4,8 +4,8 @@ latitude: 51.34367
 longitude: 12.37366
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+493412101989"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.fast-forward-fashion.de"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.fast-forward-fashion.de

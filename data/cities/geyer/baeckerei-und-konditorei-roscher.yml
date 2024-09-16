@@ -4,8 +4,8 @@ latitude: 50.62496
 longitude: 12.9205
 postcode: "09468"
 city: Geyer
-street: "Goethestraße"
-housenumber: 2
-phone: "+49 37346 694102"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"
-website: "https://www.baeckerei-roscher.de/"
+street: Goethestraße
+housenumber: "2"
+phone: +49 37346 694102
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00
+website: https://www.baeckerei-roscher.de/

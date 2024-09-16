@@ -1,11 +1,11 @@
 id: 108472921
-type: way
+type: node
 latitude: 50.91866
 longitude: 13.36034
 postcode: "09599"
 city: Freiberg
-street: "Schachtweg"
-housenumber: 16
+street: Schachtweg
+housenumber: "16"
 phone: ""
-opening_hours: "Mo off; Tu-Sa 09:00-15:00"
+opening_hours: Mo off; Tu-Sa 09:00-15:00
 website: ""

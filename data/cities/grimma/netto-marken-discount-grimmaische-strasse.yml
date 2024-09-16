@@ -1,11 +1,11 @@
 id: 92103779
-type: way
+type: node
 latitude: 51.26411
 longitude: 12.79437
 postcode: "04668"
 city: Grimma
-street: "Grimmaische Straße"
-housenumber: 59
+street: Grimmaische Straße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

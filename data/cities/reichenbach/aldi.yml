@@ -1,11 +1,11 @@
 id: 525057242
-type: way
+type: node
 latitude: 50.63916
 longitude: 12.32811
 postcode: "08468"
 city: Reichenbach
-street: "Zwickauer Straße"
-housenumber: 320
+street: Zwickauer Straße
+housenumber: "320"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

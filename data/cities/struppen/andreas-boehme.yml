@@ -1,11 +1,11 @@
 id: 457955252
-type: way
+type: node
 latitude: 50.93494
 longitude: 14.03707
 postcode: "01796"
 city: Struppen
-street: "Thürmsdorfer Straße"
-housenumber: 39
+street: Thürmsdorfer Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Su 07:00-10:30; Sa 06:30-12:00; Th,Fr 06:30-17:00"
+opening_hours: Su 07:00-10:30; Sa 06:30-12:00; Th,Fr 06:30-17:00
 website: ""

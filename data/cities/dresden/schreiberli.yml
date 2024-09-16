@@ -4,8 +4,8 @@ latitude: 51.02409
 longitude: 13.74379
 postcode: ""
 city: Dresden
-street: "Paradiesstraße"
-housenumber: 40
+street: Paradiesstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "http://www.schreiberli.de"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: http://www.schreiberli.de

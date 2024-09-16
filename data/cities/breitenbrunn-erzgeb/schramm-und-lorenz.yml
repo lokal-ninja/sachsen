@@ -1,11 +1,11 @@
 id: 228274085
-type: way
+type: node
 latitude: 50.50348
 longitude: 12.75687
 postcode: "08359"
 city: Breitenbrunn/Erzgeb.
-street: "Jägerhäuser Straße"
-housenumber: 13
+street: Jägerhäuser Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

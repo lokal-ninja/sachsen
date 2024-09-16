@@ -1,11 +1,11 @@
 id: 295383435
-type: way
+type: node
 latitude: 50.59942
 longitude: 13.30972
 postcode: "09496"
 city: Marienberg
-street: "Olbernhauer Straße"
-housenumber: 17
+street: Olbernhauer Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

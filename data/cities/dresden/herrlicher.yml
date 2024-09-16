@@ -4,8 +4,8 @@ latitude: 51.07045
 longitude: 13.75185
 postcode: "01099"
 city: Dresden
-street: "Förstereistraße"
-housenumber: 33
+street: Förstereistraße
+housenumber: "33"
 phone: "+491781735693"
-opening_hours: "Tu-Fr 09:30-19:00"
-website: "http://friseur-herrlicher.de/"
+opening_hours: Tu-Fr 09:30-19:00
+website: http://friseur-herrlicher.de/

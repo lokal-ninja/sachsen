@@ -4,8 +4,8 @@ latitude: 50.51246
 longitude: 12.12429
 postcode: "08525"
 city: Plauen
-street: "Alleestraße"
-housenumber: 6
+street: Alleestraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.auto-voitel.de"
+website: http://www.auto-voitel.de

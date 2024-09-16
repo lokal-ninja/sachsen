@@ -4,8 +4,9 @@ latitude: 51.2982
 longitude: 13.10761
 postcode: "04758"
 city: Oschatz
-street: "Altmarkt"
-housenumber: 5
+street: Altmarkt
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 08:00-18:00; Tu 08:00-18:00; We 08:00-13:00; Th 08:00-18:00; Fr 08:00-18:00; Sa 07:00-12:00; PH off"
+opening_hours: Mo 08:00-18:00; Tu 08:00-18:00; We 08:00-13:00; Th 08:00-18:00; Fr
+    08:00-18:00; Sa 07:00-12:00; PH off
 website: ""

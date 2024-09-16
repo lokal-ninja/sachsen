@@ -4,8 +4,8 @@ latitude: 51.36828
 longitude: 12.3659
 postcode: "04157"
 city: Leipzig
-street: "Hoepnerstraße"
-housenumber: 2
+street: Hoepnerstraße
+housenumber: "2"
 phone: "+4934197671862"
-opening_hours: "Mo-Sa 08:00-18:00; Su,PH 10:00-12:00"
+opening_hours: Mo-Sa 08:00-18:00; Su,PH 10:00-12:00
 website: ""

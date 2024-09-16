@@ -1,11 +1,11 @@
 id: 152781281
-type: way
+type: node
 latitude: 51.13449
 longitude: 12.65694
 postcode: "04651"
 city: Bad Lausick
-street: "Alte Buchheimer Straße"
-housenumber: 12
+street: Alte Buchheimer Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa,Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.86183
 longitude: 13.32071
 postcode: "09618"
 city: Brand-Erbisdorf
-street: "Hauptstraße"
-housenumber: 41
-phone: "+49 37322 81790"
-opening_hours: "Mo-We 09:00-13:00, 15:00-18:00; Th-Su off"
+street: Hauptstraße
+housenumber: "41"
+phone: +49 37322 81790
+opening_hours: Mo-We 09:00-13:00, 15:00-18:00; Th-Su off
 website: ""

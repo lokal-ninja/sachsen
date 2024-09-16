@@ -4,8 +4,8 @@ latitude: 51.14313
 longitude: 12.63746
 postcode: "04651"
 city: Bad Lausick
-street: "Hospitalstraße"
-housenumber: 6
+street: Hospitalstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-14:30; Su,PH off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-14:30; Su,PH off
 website: ""

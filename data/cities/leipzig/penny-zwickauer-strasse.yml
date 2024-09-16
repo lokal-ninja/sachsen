@@ -4,8 +4,8 @@ latitude: 51.30182
 longitude: 12.39703
 postcode: "04279"
 city: Leipzig
-street: "Zwickauer Straße"
-housenumber: 125
+street: Zwickauer Straße
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.penny.de/unternehmen/ueber-uns/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.penny.de/unternehmen/ueber-uns/

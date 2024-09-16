@@ -1,11 +1,11 @@
 id: 103505053
-type: way
+type: node
 latitude: 50.74448
 longitude: 12.6358
 postcode: "09350"
 city: Lichtenstein/Sa.
-street: "Hartensteiner Straße"
-housenumber: 64
+street: Hartensteiner Straße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

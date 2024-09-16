@@ -4,8 +4,8 @@ latitude: 51.34551
 longitude: 12.35512
 postcode: "04105"
 city: Leipzig
-street: "Feuerbachstraße"
-housenumber: 21
+street: Feuerbachstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-12:00, Su 08:00-11:00; PH off"
+opening_hours: Mo-Fr 06:30-18:00, Sa 06:30-12:00, Su 08:00-11:00; PH off
 website: ""

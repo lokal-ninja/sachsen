@@ -1,11 +1,11 @@
 id: 329281439
-type: way
+type: node
 latitude: 50.75197
 longitude: 12.61938
 postcode: "09350"
 city: Lichtenstein/Sa.
-street: "Äußere Zwickauer Straße"
-housenumber: 16
+street: Äußere Zwickauer Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 05:30-20:00; Sa 06:30-18:00; Su 07:30-18:00"
+opening_hours: Mo-Fr 05:30-20:00; Sa 06:30-18:00; Su 07:30-18:00
 website: ""

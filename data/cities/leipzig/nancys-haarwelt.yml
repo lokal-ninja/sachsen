@@ -4,8 +4,8 @@ latitude: 51.32113
 longitude: 12.41879
 postcode: "04299"
 city: Leipzig
-street: "Arnoldstraße"
-housenumber: 22
-phone: "+49 341 8783509"
-opening_hours: "We 08:30-18:00; Th,Fr 10:00-19:00; Sa 08:30-12:00; PH off"
+street: Arnoldstraße
+housenumber: "22"
+phone: +49 341 8783509
+opening_hours: We 08:30-18:00; Th,Fr 10:00-19:00; Sa 08:30-12:00; PH off
 website: ""

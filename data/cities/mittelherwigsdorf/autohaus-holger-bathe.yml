@@ -1,11 +1,11 @@
 id: 98335296
-type: way
+type: node
 latitude: 50.90639
 longitude: 14.83052
 postcode: "02763"
 city: Mittelherwigsdorf
-street: "Hirschfelder Ring"
-housenumber: 30
+street: Hirschfelder Ring
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

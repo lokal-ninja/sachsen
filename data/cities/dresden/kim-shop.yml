@@ -4,8 +4,8 @@ latitude: 51.07734
 longitude: 13.71689
 postcode: "01127"
 city: Dresden
-street: "Leipziger Straße"
-housenumber: 103
-phone: "+49 176 30797922"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Leipziger Straße
+housenumber: "103"
+phone: +49 176 30797922
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

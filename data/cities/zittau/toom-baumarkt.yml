@@ -1,11 +1,11 @@
 id: 435449019
-type: way
+type: node
 latitude: 50.88822
 longitude: 14.79822
 postcode: "02763"
 city: Zittau
-street: "Hochwaldstraße"
-housenumber: 20
+street: Hochwaldstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th,Sa 08:00-20:00; Fr 08:00-22:00; PH off"
+opening_hours: Mo-Th,Sa 08:00-20:00; Fr 08:00-22:00; PH off
 website: ""

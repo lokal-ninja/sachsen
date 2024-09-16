@@ -1,11 +1,11 @@
 id: 322291694
-type: way
+type: node
 latitude: 51.06405
 longitude: 13.74628
 postcode: "01097"
 city: Dresden
-street: "Antonstraße"
+street: Antonstraße
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

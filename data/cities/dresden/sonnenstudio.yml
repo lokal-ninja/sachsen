@@ -4,8 +4,8 @@ latitude: 51.04488
 longitude: 13.77625
 postcode: "01309"
 city: Dresden
-street: "Borsbergstraße"
-housenumber: 
+street: Borsbergstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-18:00; Su 10:00-16:00
 website: ""

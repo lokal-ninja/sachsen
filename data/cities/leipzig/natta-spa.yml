@@ -4,8 +4,8 @@ latitude: 51.33729
 longitude: 12.33009
 postcode: "04177"
 city: Leipzig
-street: "Demmeringstraße"
-housenumber: 44
+street: Demmeringstraße
+housenumber: "44"
 phone: "+4934152950641"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-14:00"
-website: "https://www.natta-spa.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-14:00
+website: https://www.natta-spa.de

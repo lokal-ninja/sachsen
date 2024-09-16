@@ -4,8 +4,8 @@ latitude: 51.15836
 longitude: 13.59536
 postcode: "01689"
 city: Weinböhla
-street: "Forststraße"
-housenumber: 9
-phone: "+49 35243 32770"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
-website: "http://www.gartencenter-laubenberg.de"
+street: Forststraße
+housenumber: "9"
+phone: +49 35243 32770
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00
+website: http://www.gartencenter-laubenberg.de

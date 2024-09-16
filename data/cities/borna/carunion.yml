@@ -1,11 +1,11 @@
 id: 544330170
-type: way
+type: node
 latitude: 51.12588
 longitude: 12.48283
 postcode: "04552"
 city: Borna
-street: "Abtsdorfer Straße"
-housenumber: 31
+street: Abtsdorfer Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa,Su,PH off"
+opening_hours: Mo-Fr 09:00-17:30; Sa,Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 200742527
-type: way
+type: node
 latitude: 50.77352
 longitude: 12.62435
 postcode: "09356"
 city: St. Egidien
-street: "Platanenstraße"
-housenumber: 4
+street: Platanenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

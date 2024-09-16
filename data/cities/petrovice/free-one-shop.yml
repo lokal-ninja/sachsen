@@ -4,8 +4,8 @@ latitude: 50.80803
 longitude: 13.98111
 postcode: "40337"
 city: Petrovice
-street: "Petrovice"
-housenumber: 610
-phone: "+420 725 997 632"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://freeoneshop.com/shops_de/"
+street: Petrovice
+housenumber: "610"
+phone: +420 725 997 632
+opening_hours: Mo-Su 08:00-20:00
+website: https://freeoneshop.com/shops_de/

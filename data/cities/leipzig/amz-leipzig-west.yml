@@ -1,10 +1,10 @@
 id: 100601100
-type: way
+type: node
 latitude: 51.32954
 longitude: 12.31886
 postcode: "04179"
 city: Leipzig
-street: "Groitzscher Straße"
+street: Groitzscher Straße
 housenumber: 1-15
 phone: ""
 opening_hours: ""

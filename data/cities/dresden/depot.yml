@@ -1,11 +1,11 @@
 id: 5832989137
 type: node
-latitude: 51.05161
+latitude: 51.05163
 longitude: 13.80581
 postcode: "01309"
 city: Dresden
-street: "Hüblerstraße"
-housenumber: 9
-phone: "+49 351 20726432"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.depot-online.com/"
+street: Hüblerstraße
+housenumber: "9"
+phone: +49 351 20726432
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.depot-online.com/

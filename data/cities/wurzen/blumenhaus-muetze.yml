@@ -1,11 +1,11 @@
 id: 99897662
-type: way
+type: node
 latitude: 51.37029
 longitude: 12.74014
 postcode: "04808"
 city: Wurzen
-street: "Jacobsplatz"
-housenumber: 14
+street: Jacobsplatz
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 08:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.05579
 longitude: 13.72468
 postcode: "01067"
 city: Dresden
-street: "Könneritzstraße"
-housenumber: 21
+street: Könneritzstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Sa 12:00-16:00; Tu 12:00-20:00; We,Th 12:00-17:00; Fr 12:00-18:00"
-website: "https://www.east-side-tattoo.de"
+opening_hours: Sa 12:00-16:00; Tu 12:00-20:00; We,Th 12:00-17:00; Fr 12:00-18:00
+website: https://www.east-side-tattoo.de

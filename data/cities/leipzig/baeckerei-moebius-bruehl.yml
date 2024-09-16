@@ -4,8 +4,8 @@ latitude: 51.34374
 longitude: 12.37284
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+4934149278667"
-opening_hours: "Mo-Sa 06:30-19:00"
-website: "https://www.moebius-baeckerei.de/stores/leipzig-bruehl-1"
+opening_hours: Mo-Sa 06:30-19:00
+website: https://www.moebius-baeckerei.de/stores/leipzig-bruehl-1

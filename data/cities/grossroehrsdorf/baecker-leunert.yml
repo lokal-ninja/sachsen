@@ -1,11 +1,11 @@
 id: 545341781
-type: way
+type: node
 latitude: 51.14159
 longitude: 14.02535
 postcode: "01900"
 city: Großröhrsdorf
-street: "Rathausstraße"
-housenumber: 20
-phone: "+49 35952 46109"
-opening_hours: "Tu-Fr 05:30-17:00; Sa 04:30-11:00"
+street: Rathausstraße
+housenumber: "20"
+phone: +49 35952 46109
+opening_hours: Tu-Fr 05:30-17:00; Sa 04:30-11:00
 website: ""

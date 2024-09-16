@@ -1,11 +1,11 @@
 id: 397741739
-type: way
+type: node
 latitude: 50.49946
 longitude: 13.02758
 postcode: "09471"
 city: Bärenstein
-street: "Annaberger Straße"
-housenumber: 10
-phone: "+49 37347 1247"
+street: Annaberger Straße
+housenumber: "10"
+phone: +49 37347 1247
 opening_hours: ""
 website: ""

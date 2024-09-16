@@ -4,8 +4,8 @@ latitude: 51.33131
 longitude: 12.34241
 postcode: "04229"
 city: Leipzig
-street: "Alte Straße"
-housenumber: 5
+street: Alte Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu,We 14:00-18:00; Th 11:00-15:00; Fr 11:00-15:00"
-website: "http://haiglueck.de"
+opening_hours: Tu,We 14:00-18:00; Th 11:00-15:00; Fr 11:00-15:00
+website: http://haiglueck.de

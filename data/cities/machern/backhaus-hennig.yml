@@ -4,8 +4,8 @@ latitude: 51.3593
 longitude: 12.62287
 postcode: "04827"
 city: Machern
-street: "Neumarkt"
-housenumber: 1
+street: Neumarkt
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 06:30-14:00; We 06:30-19:00; Su; PH off"
+opening_hours: Mo,Tu,Th-Sa 06:30-14:00; We 06:30-19:00; Su; PH off
 website: ""

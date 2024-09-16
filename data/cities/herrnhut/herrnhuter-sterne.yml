@@ -4,8 +4,8 @@ latitude: 51.01633
 longitude: 14.73813
 postcode: "02747"
 city: Herrnhut
-street: "Oderwitzer Straße"
-housenumber: 8
+street: Oderwitzer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su,PH off"
-website: "https://www.herrnhuter-sterne.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su,PH off
+website: https://www.herrnhuter-sterne.de/

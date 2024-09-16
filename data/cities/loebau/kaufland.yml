@@ -1,11 +1,11 @@
 id: 75377946
-type: way
+type: node
 latitude: 51.08221
 longitude: 14.66144
 postcode: "02708"
 city: Löbau
-street: "Rumburger Straße"
-housenumber: 9
-phone: "+49 3585 47340"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+street: Rumburger Straße
+housenumber: "9"
+phone: +49 3585 47340
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

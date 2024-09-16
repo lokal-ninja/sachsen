@@ -4,8 +4,8 @@ latitude: 51.18128
 longitude: 14.42475
 postcode: "02625"
 city: Bautzen
-street: "Reichenstraße"
-housenumber: 3
+street: Reichenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00; Su 08:00-18:00; PH off"
+opening_hours: Mo-Sa 07:00-18:00; Su 08:00-18:00; PH off
 website: ""

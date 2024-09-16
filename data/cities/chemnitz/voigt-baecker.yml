@@ -1,11 +1,11 @@
 id: 93462260
-type: way
+type: node
 latitude: 50.78603
 longitude: 12.95163
 postcode: "09125"
 city: Chemnitz
-street: "Dr.-Karl-Wolff-Straße"
-housenumber: 4
+street: Dr.-Karl-Wolff-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

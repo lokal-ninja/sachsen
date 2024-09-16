@@ -4,8 +4,8 @@ latitude: 50.98366
 longitude: 13.58135
 postcode: "01737"
 city: Tharandt
-street: "Am Markt"
-housenumber: 10
-phone: "+49 35203 37225"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.o-pal.de/optiker/optik-christ-1737-tharandt.html"
+street: Am Markt
+housenumber: "10"
+phone: +49 35203 37225
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.o-pal.de/optiker/optik-christ-1737-tharandt.html

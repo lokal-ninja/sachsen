@@ -1,11 +1,11 @@
 id: 165768584
-type: way
+type: node
 latitude: 51.1991
 longitude: 13.77278
 postcode: "01471"
 city: Radeburg
-street: "Hauptstraße"
-housenumber: 35
-phone: "+49 35208 80470"
+street: Hauptstraße
+housenumber: "35"
+phone: +49 35208 80470
 opening_hours: ""
-website: "https://www.wareli.de/"
+website: https://www.wareli.de/

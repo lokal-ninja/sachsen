@@ -1,11 +1,11 @@
 id: 167363497
-type: way
+type: node
 latitude: 50.64855
 longitude: 13.15767
 postcode: "09496"
 city: Marienberg
-street: "Johann-Ehrenfried-Wagner-Straße"
-housenumber: 2
+street: Johann-Ehrenfried-Wagner-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

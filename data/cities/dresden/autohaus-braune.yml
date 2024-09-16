@@ -1,11 +1,11 @@
 id: 33807076
-type: way
+type: node
 latitude: 50.99313
 longitude: 13.80271
 postcode: "01257"
 city: Dresden
-street: "Am Galgenberg"
-housenumber: 43
+street: Am Galgenberg
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

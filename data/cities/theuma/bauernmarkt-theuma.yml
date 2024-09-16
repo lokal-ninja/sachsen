@@ -1,11 +1,11 @@
 id: 418116131
-type: way
+type: node
 latitude: 50.47173
 longitude: 12.22122
 postcode: "08541"
 city: Theuma
-street: "Hauptstraße"
-housenumber: 33
-phone: "+49 37463 88475"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-11:00"
-website: "https://www.ag-theuma.de/standorte--oeffnungszeiten.30,de.html"
+street: Hauptstraße
+housenumber: "33"
+phone: +49 37463 88475
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-11:00
+website: https://www.ag-theuma.de/standorte--oeffnungszeiten.30,de.html

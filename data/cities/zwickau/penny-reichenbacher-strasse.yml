@@ -1,11 +1,11 @@
 id: 199394631
-type: way
+type: node
 latitude: 50.7151
 longitude: 12.48198
 postcode: "08056"
 city: Zwickau
-street: "Reichenbacher Straße"
-housenumber: 50
+street: Reichenbacher Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

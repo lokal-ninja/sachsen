@@ -4,8 +4,8 @@ latitude: 51.05782
 longitude: 13.74737
 postcode: "01097"
 city: Dresden
-street: "Wilhelm-Buck-Straße"
-housenumber: 2
-phone: "+49 351 2605081"
+street: Wilhelm-Buck-Straße
+housenumber: "2"
+phone: +49 351 2605081
 opening_hours: ""
-website: "https://www.touristik-center.com"
+website: https://www.touristik-center.com

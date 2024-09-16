@@ -1,11 +1,11 @@
 id: 26814630
-type: way
+type: node
 latitude: 51.08223
 longitude: 13.70285
 postcode: "01139"
 city: Dresden
-street: "Lommatzscher Straße"
-housenumber: 53
-phone: "+49 351 8438568"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+street: Lommatzscher Straße
+housenumber: "53"
+phone: +49 351 8438568
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 338145529
-type: way
+type: node
 latitude: 50.9945
 longitude: 12.96694
 postcode: "09648"
 city: Mittweida
-street: "Sonnenstraße"
-housenumber: 9
+street: Sonnenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

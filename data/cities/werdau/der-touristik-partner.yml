@@ -1,11 +1,11 @@
 id: 628849405
-type: way
+type: node
 latitude: 50.73664
 longitude: 12.37646
 postcode: "08412"
 city: Werdau
-street: "Markt"
-housenumber: 30
+street: Markt
+housenumber: "30"
 phone: "+4937615040"
 opening_hours: ""
 website: ""

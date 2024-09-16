@@ -1,11 +1,11 @@
 id: 206341541
-type: way
+type: node
 latitude: 51.10458
 longitude: 14.65488
 postcode: "02708"
 city: Löbau
-street: "Äußere Bautzener Straße"
+street: Äußere Bautzener Straße
 housenumber: 32c
-phone: "+49 3585 47770"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; PH off"
-website: "https://www.ambestenbuechner.de/Renault/autohaus-loebau.html"
+phone: +49 3585 47770
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00; PH off
+website: https://www.ambestenbuechner.de/Renault/autohaus-loebau.html

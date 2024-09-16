@@ -1,11 +1,11 @@
 id: 33604841
-type: way
+type: node
 latitude: 51.17556
 longitude: 13.50013
 postcode: "01662"
 city: Meißen
-street: "Berghausstraße"
-housenumber: 9
-phone: "+49 3521 728070"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00"
-website: "http://www.teppich-schmidt.de/"
+street: Berghausstraße
+housenumber: "9"
+phone: +49 3521 728070
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00
+website: http://www.teppich-schmidt.de/

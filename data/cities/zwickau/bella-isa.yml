@@ -4,8 +4,8 @@ latitude: 50.7209
 longitude: 12.49314
 postcode: "08056"
 city: Zwickau
-street: "Kreisigstraße"
-housenumber: 4
+street: Kreisigstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Th 09:00-19:00, Fr 08:00-19:00, Sa 09:00-16:00"
+opening_hours: Tu-Th 09:00-19:00, Fr 08:00-19:00, Sa 09:00-16:00
 website: ""

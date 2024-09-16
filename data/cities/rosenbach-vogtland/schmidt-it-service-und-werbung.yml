@@ -4,8 +4,8 @@ latitude: 50.54573
 longitude: 12.08416
 postcode: "08548"
 city: Rosenbach/Vogtland
-street: "Bahnhofstraße"
-housenumber: 27
-phone: "+49 374313621"
-opening_hours: "24/7"
-website: "https://ews-schmidt.de"
+street: Bahnhofstraße
+housenumber: "27"
+phone: +49 374313621
+opening_hours: 24/7
+website: https://ews-schmidt.de

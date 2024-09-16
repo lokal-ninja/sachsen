@@ -4,8 +4,8 @@ latitude: 51.29602
 longitude: 12.38564
 postcode: "04279"
 city: Leipzig
-street: "Raschwitzer Straße"
-housenumber: 2
-phone: "+49 341 33799565"
-opening_hours: "Mo-Th 08:00-17:00; Fr-Sa 08:00-15:00"
-website: "https://www.autoeck-wb.de"
+street: Raschwitzer Straße
+housenumber: "2"
+phone: +49 341 33799565
+opening_hours: Mo-Th 08:00-17:00; Fr-Sa 08:00-15:00
+website: https://www.autoeck-wb.de

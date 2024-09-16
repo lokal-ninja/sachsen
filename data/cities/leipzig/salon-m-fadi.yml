@@ -4,8 +4,8 @@ latitude: 51.36231
 longitude: 12.36751
 postcode: "04155"
 city: Leipzig
-street: "Reginenstraße"
-housenumber: 2
-phone: "+49 341 60468912"
-opening_hours: "Tu 09:00-17:00; We 09:00-18:00; Tu 09:00-19:00; Fr 10:00-20:00"
+street: Reginenstraße
+housenumber: "2"
+phone: +49 341 60468912
+opening_hours: Tu 09:00-17:00; We 09:00-18:00; Tu 09:00-19:00; Fr 10:00-20:00
 website: ""

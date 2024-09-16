@@ -4,8 +4,8 @@ latitude: 50.75813
 longitude: 13.76519
 postcode: "01773"
 city: Altenberg
-street: "Zinnwalder Straße"
-housenumber: 13
+street: Zinnwalder Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

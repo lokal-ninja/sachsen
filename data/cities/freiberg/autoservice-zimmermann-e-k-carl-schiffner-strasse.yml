@@ -1,11 +1,11 @@
 id: 117382826
-type: way
+type: node
 latitude: 50.90768
 longitude: 13.36213
 postcode: "09599"
 city: Freiberg
-street: "Carl-Schiffner-Straße"
-housenumber: 3
-phone: "+49 3731 77310"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
+street: Carl-Schiffner-Straße
+housenumber: "3"
+phone: +49 3731 77310
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
 website: ""

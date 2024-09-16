@@ -1,11 +1,11 @@
 id: 228373971
-type: way
+type: node
 latitude: 51.34511
 longitude: 12.47719
 postcode: "04319"
 city: Leipzig
-street: "Riesaer Straße"
-housenumber: 102
+street: Riesaer Straße
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00"
-website: "https://toom.de/m/leipzig-engelsdorf/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00
+website: https://toom.de/m/leipzig-engelsdorf/

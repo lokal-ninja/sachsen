@@ -4,8 +4,8 @@ latitude: 51.06101
 longitude: 13.85723
 postcode: "01324"
 city: Dresden
-street: "Bautzner Landstraße"
-housenumber: 162
+street: Bautzner Landstraße
+housenumber: "162"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-14:00"
-website: "https://www.baeckerei-petzold.de/Home.1.html"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-14:00
+website: https://www.baeckerei-petzold.de/Home.1.html

@@ -4,8 +4,8 @@ latitude: 51.17559
 longitude: 14.45466
 postcode: "02625"
 city: Bautzen
-street: "Erich-Weinert-Straße"
-housenumber: 31
-phone: "+49 3591 22105"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-12:00"
-website: "https://www.figaro-bautzen.de/"
+street: Erich-Weinert-Straße
+housenumber: "31"
+phone: +49 3591 22105
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-12:00
+website: https://www.figaro-bautzen.de/

@@ -4,8 +4,8 @@ latitude: 51.06653
 longitude: 13.74944
 postcode: "01099"
 city: Dresden
-street: "Katharinenstraße"
-housenumber: 11
+street: Katharinenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,Th 11:00-19:00; Tu,Fr 11:00-17:00; We off"
-website: "http://www.radschlag-dresden.de/"
+opening_hours: Mo,Th 11:00-19:00; Tu,Fr 11:00-17:00; We off
+website: http://www.radschlag-dresden.de/

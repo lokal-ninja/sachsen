@@ -4,8 +4,8 @@ latitude: 51.04903
 longitude: 13.7358
 postcode: "01067"
 city: Dresden
-street: "Webergasse"
-housenumber: 1
+street: Webergasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.walbusch.de/filiale/dresden"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.walbusch.de/filiale/dresden

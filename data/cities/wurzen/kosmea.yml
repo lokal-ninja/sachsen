@@ -4,8 +4,8 @@ latitude: 51.3677
 longitude: 12.73457
 postcode: "04808"
 city: Wurzen
-street: "Wenceslaigasse"
-housenumber: 24
-phone: "+49 3425 8292900"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://www.kosmetikwurzen.de/"
+street: Wenceslaigasse
+housenumber: "24"
+phone: +49 3425 8292900
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://www.kosmetikwurzen.de/

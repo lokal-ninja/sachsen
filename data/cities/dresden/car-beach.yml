@@ -4,8 +4,8 @@ latitude: 51.08807
 longitude: 13.63134
 postcode: "01156"
 city: Dresden
-street: "Dresdner Straße"
-housenumber: 11
+street: Dresdner Straße
+housenumber: "11"
 phone: "+4935126056851"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.carbeach.de/"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.carbeach.de/

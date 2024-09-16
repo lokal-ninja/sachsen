@@ -4,8 +4,8 @@ latitude: 51.3208
 longitude: 12.37714
 postcode: "04275"
 city: Leipzig
-street: "Bernhard-Göring-Straße"
-housenumber: 91
-phone: "+49 341 3016717"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-16:00"
-website: "https://pauling-eisenwaren.de/"
+street: Bernhard-Göring-Straße
+housenumber: "91"
+phone: +49 341 3016717
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-16:00
+website: https://pauling-eisenwaren.de/

@@ -4,8 +4,8 @@ latitude: 51.33619
 longitude: 12.42274
 postcode: "04318"
 city: Leipzig
-street: "Theodor-Neubauer-Straße"
-housenumber: 63
+street: Theodor-Neubauer-Straße
+housenumber: "63"
 phone: ""
-opening_hours: "Sa,Su 08:00-17:00; We-Fr 11:00-17:00"
+opening_hours: Sa,Su 08:00-17:00; We-Fr 11:00-17:00
 website: ""

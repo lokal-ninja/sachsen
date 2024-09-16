@@ -1,11 +1,11 @@
 id: 160269972
-type: way
+type: node
 latitude: 50.77613
 longitude: 13.15109
 postcode: "09579"
 city: Grünhainichen
-street: "Rochhausmühle"
-housenumber: 1
+street: Rochhausmühle
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

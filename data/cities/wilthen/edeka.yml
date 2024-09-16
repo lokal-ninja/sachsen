@@ -1,11 +1,11 @@
 id: 1150576877
-type: way
+type: node
 latitude: 51.09581
 longitude: 14.39111
 postcode: "02681"
 city: Wilthen
-street: "Zittauer Straße"
-housenumber: 12
-phone: "+49 3592 542334"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Zittauer Straße
+housenumber: "12"
+phone: +49 3592 542334
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

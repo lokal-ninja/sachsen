@@ -4,8 +4,8 @@ latitude: 50.71761
 longitude: 12.78232
 postcode: "09366"
 city: Stollberg/Erzgebirge
-street: "Ringstraße"
-housenumber: 18
+street: Ringstraße
+housenumber: "18"
 phone: "+493729612924"
-opening_hours: "Mo-Th 09:00-12:00,13:00-17:30; Fr 09:00-11:30,13:00-17:00"
-website: "https://www.sonnenschutz-sievers.de/"
+opening_hours: Mo-Th 09:00-12:00,13:00-17:30; Fr 09:00-11:30,13:00-17:00
+website: https://www.sonnenschutz-sievers.de/

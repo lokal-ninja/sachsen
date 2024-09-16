@@ -4,8 +4,9 @@ latitude: 51.06752
 longitude: 13.75985
 postcode: "01099"
 city: Dresden
-street: "Sebnitzer Straße"
-housenumber: 50
-phone: "+49 351 219 645 19"
-opening_hours: "Mo-Th 10:00-18:00 || nach Vereinbarung; Fr 10:00-16:00 || nach Vereinbarung; Sa nach Vereinbarung"
-website: "https://ashera-naturkosmetik.de/"
+street: Sebnitzer Straße
+housenumber: "50"
+phone: +49 351 219 645 19
+opening_hours: Mo-Th 10:00-18:00 || "nach Vereinbarung"; Fr 10:00-16:00 || "nach Vereinbarung";
+    Sa "nach Vereinbarung"
+website: https://ashera-naturkosmetik.de/

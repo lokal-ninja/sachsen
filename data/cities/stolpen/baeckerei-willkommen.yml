@@ -1,11 +1,11 @@
 id: 205525995
-type: way
+type: node
 latitude: 51.04222
 longitude: 14.06667
 postcode: "01833"
 city: Stolpen
-street: "Talstraße"
-housenumber: 16
+street: Talstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

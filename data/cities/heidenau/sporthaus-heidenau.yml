@@ -4,8 +4,8 @@ latitude: 50.97824
 longitude: 13.86567
 postcode: "01809"
 city: Heidenau
-street: "Ernst-Thälmann-Straße"
-housenumber: 14
-phone: "+49 3529 512303"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-12:00"
-website: "https://www.sporthausheidenau.de/"
+street: Ernst-Thälmann-Straße
+housenumber: "14"
+phone: +49 3529 512303
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-12:00
+website: https://www.sporthausheidenau.de/

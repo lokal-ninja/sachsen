@@ -1,11 +1,11 @@
 id: 667386690
-type: way
+type: node
 latitude: 51.08941
 longitude: 12.44827
 postcode: "04565"
 city: Regis-Breitingen
-street: "Kirchstraße"
-housenumber: 11
-phone: "+49 34343 910941"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.zeolithwelt.de/"
+street: Kirchstraße
+housenumber: "11"
+phone: +49 34343 910941
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.zeolithwelt.de/

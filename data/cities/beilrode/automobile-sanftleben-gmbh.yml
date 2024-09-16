@@ -1,11 +1,11 @@
 id: 117384345
-type: way
+type: node
 latitude: 51.58139
 longitude: 13.04788
 postcode: "04886"
 city: Beilrode
-street: "Herzberger Straße"
-housenumber: 41
-phone: "+49 3421 707400"
+street: Herzberger Straße
+housenumber: "41"
+phone: +49 3421 707400
 opening_hours: ""
-website: "https://www.sanftleben.seat.de/"
+website: https://www.sanftleben.seat.de/

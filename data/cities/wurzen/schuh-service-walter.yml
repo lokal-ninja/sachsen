@@ -1,11 +1,11 @@
 id: 105411802
-type: way
+type: node
 latitude: 51.37525
 longitude: 12.74057
 postcode: "04808"
 city: Wurzen
-street: "Lessingstraße"
-housenumber: 29
+street: Lessingstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

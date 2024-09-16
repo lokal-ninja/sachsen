@@ -4,8 +4,8 @@ latitude: 50.89675
 longitude: 14.80577
 postcode: "02763"
 city: Zittau
-street: "Markt"
-housenumber: 16
+street: Markt
+housenumber: "16"
 phone: ""
-opening_hours: "Sa 09:00-13:00; Mo-Fr 09:30-18:00"
-website: "https://www.intersport-kunick.de/"
+opening_hours: Sa 09:00-13:00; Mo-Fr 09:30-18:00
+website: https://www.intersport-kunick.de/

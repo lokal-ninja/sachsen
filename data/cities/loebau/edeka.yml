@@ -1,11 +1,11 @@
 id: 1232774320
-type: way
+type: node
 latitude: 51.09714
 longitude: 14.66322
 postcode: "02708"
 city: Löbau
-street: "Hartmannstraße"
-housenumber: 3
-phone: "+49 800 3335211"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-l%C3%B6bau-hartmannstra%C3%9Fe-3/index.jsp"
+street: Hartmannstraße
+housenumber: "3"
+phone: +49 800 3335211
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-l%C3%B6bau-hartmannstra%C3%9Fe-3/index.jsp

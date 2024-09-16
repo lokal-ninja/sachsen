@@ -4,8 +4,8 @@ latitude: 51.34374
 longitude: 12.37387
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+4934122540715"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.depot-online.de/de/filialfinder#!/l/leipzig/bruhl-1/3258599"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.depot-online.de/de/filialfinder#!/l/leipzig/bruhl-1/3258599

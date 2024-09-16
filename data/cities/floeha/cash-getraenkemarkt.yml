@@ -1,11 +1,11 @@
 id: 27630984
-type: way
+type: node
 latitude: 50.85763
 longitude: 13.07496
 postcode: "09557"
 city: Flöha
-street: "Schillerstraße"
-housenumber: 21
-phone: "+49 3726 7909343"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-13:00"
+street: Schillerstraße
+housenumber: "21"
+phone: +49 3726 7909343
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.85528
 longitude: 12.77638
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Chemnitzer Straße"
-housenumber: 32
-phone: "+493722 88430"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-12:00"
-website: "https://www.ccw-online.de/"
+street: Chemnitzer Straße
+housenumber: "32"
+phone: +493722 88430
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-12:00
+website: https://www.ccw-online.de/

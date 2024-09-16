@@ -1,11 +1,11 @@
 id: 120030534
-type: way
+type: node
 latitude: 50.7705
 longitude: 12.85765
 postcode: "09221"
 city: Neukirchen/Erzgebirge
-street: "Südstraße"
-housenumber: 2
+street: Südstraße
+housenumber: "2"
 phone: "+4937184493200"
 opening_hours: ""
-website: "http://www.sportwagen-service.com/"
+website: http://www.sportwagen-service.com/

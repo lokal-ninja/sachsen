@@ -1,11 +1,11 @@
 id: 421296394
-type: way
+type: node
 latitude: 51.14104
 longitude: 13.5465
 postcode: "01640"
 city: Coswig
-street: "Cliebener Straße"
-housenumber: 99
-phone: "+49 3523 53410"
+street: Cliebener Straße
+housenumber: "99"
+phone: +49 3523 53410
 opening_hours: ""
-website: "https://www.natursteinmarkt-soernewitz.de/"
+website: https://www.natursteinmarkt-soernewitz.de/

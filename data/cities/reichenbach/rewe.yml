@@ -1,11 +1,11 @@
 id: 484411238
-type: way
+type: node
 latitude: 50.62309
 longitude: 12.29423
 postcode: "08468"
 city: Reichenbach
-street: "Goethestraße"
-housenumber: 30
+street: Goethestraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.72083
 longitude: 12.49542
 postcode: "08056"
 city: Zwickau
-street: "Marienstraße"
-housenumber: 72
+street: Marienstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00, Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-17:00, Sa 09:00-12:00
 website: ""

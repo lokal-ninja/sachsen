@@ -1,11 +1,11 @@
 id: 591326468
-type: way
+type: node
 latitude: 51.00254
 longitude: 13.84156
 postcode: "01259"
 city: Dresden
-street: "Pirnaer Landstraße"
-housenumber: 230
+street: Pirnaer Landstraße
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

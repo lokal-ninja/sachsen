@@ -1,11 +1,11 @@
 id: 126714617
-type: way
+type: node
 latitude: 51.35406
 longitude: 12.5434
 postcode: "04451"
 city: Borsdorf
-street: "Otto-von-Guericke-Straße"
-housenumber: 2
+street: Otto-von-Guericke-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

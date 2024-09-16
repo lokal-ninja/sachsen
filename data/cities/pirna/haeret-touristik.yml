@@ -4,8 +4,8 @@ latitude: 50.96992
 longitude: 13.93532
 postcode: "01796"
 city: Pirna
-street: "Schillerstraße"
-housenumber: 4
+street: Schillerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-17:00"
+opening_hours: Mo-Fr 09:00-12:00, 13:00-17:00
 website: ""

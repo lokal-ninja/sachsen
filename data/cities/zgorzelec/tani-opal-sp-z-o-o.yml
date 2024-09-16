@@ -1,11 +1,11 @@
 id: 408685651
-type: way
+type: node
 latitude: 51.13292
 longitude: 15.00332
-postcode: "59-900"
+postcode: 59-900
 city: Zgorzelec
-street: "Elizy Orzeszkowej"
-housenumber: 2
+street: Elizy Orzeszkowej
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

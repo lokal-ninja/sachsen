@@ -4,8 +4,8 @@ latitude: 50.84705
 longitude: 12.94123
 postcode: "09130"
 city: Chemnitz
-street: "Dresdner Straße"
-housenumber: 45
+street: Dresdner Straße
+housenumber: "45"
 phone: "+4937140464484"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.baeckerei-adler.de/Baeckerei-Adler/Filialen/Filiale-Sachsenallee"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.baeckerei-adler.de/Baeckerei-Adler/Filialen/Filiale-Sachsenallee

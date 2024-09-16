@@ -4,8 +4,8 @@ latitude: 51.37005
 longitude: 12.74188
 postcode: "04808"
 city: Wurzen
-street: "Martin-Luther-Straße"
-housenumber: 12
+street: Martin-Luther-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
-website: "https://www.yay-fashion.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off
+website: https://www.yay-fashion.de/

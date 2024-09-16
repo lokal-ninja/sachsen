@@ -1,11 +1,11 @@
 id: 1012854635
-type: way
+type: node
 latitude: 51.15184
 longitude: 12.28561
 postcode: "04539"
 city: Groitzsch
-street: "Schusterstraße"
-housenumber: 6
+street: Schusterstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.8376
 longitude: 12.93514
 postcode: "09130"
 city: Chemnitz
-street: "Ludwig-Kirsch-Straße"
-housenumber: 5
-phone: "+49 371 4011704"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; Sa 08:00-12:00"
+street: Ludwig-Kirsch-Straße
+housenumber: "5"
+phone: +49 371 4011704
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; Sa 08:00-12:00
 website: ""

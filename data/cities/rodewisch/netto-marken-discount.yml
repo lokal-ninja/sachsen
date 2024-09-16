@@ -1,11 +1,11 @@
 id: 330161353
-type: way
+type: node
 latitude: 50.52769
 longitude: 12.40503
 postcode: "08228"
 city: Rodewisch
-street: "Auerbacher Straße"
-housenumber: 15
+street: Auerbacher Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

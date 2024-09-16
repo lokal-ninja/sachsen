@@ -1,11 +1,11 @@
 id: 383806104
-type: way
+type: node
 latitude: 50.83143
 longitude: 12.94686
 postcode: "09126"
 city: Chemnitz
-street: "Adelsbergstraße"
-housenumber: 50
+street: Adelsbergstraße
+housenumber: "50"
 phone: "+4937150283"
-opening_hours: "Mo, Fr 08:00-09:00; Di, Do 14:00-17:00"
-website: "https://www.oehler-chemnitz.de/"
+opening_hours: Mo, Fr 08:00-09:00; Di, Do 14:00-17:00
+website: https://www.oehler-chemnitz.de/

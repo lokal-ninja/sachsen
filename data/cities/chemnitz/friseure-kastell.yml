@@ -1,11 +1,11 @@
 id: 1151604062
-type: way
+type: node
 latitude: 50.8224
 longitude: 12.95976
 postcode: "09127"
 city: Chemnitz
-street: "Carl-von-Ossietzky-Straße"
-housenumber: 153
-phone: "+49 371 71320"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-12:00"
-website: "http://www.friseure-kastell.de/fil2/"
+street: Carl-von-Ossietzky-Straße
+housenumber: "153"
+phone: +49 371 71320
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-12:00
+website: http://www.friseure-kastell.de/fil2/

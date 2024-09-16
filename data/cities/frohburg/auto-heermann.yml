@@ -1,11 +1,11 @@
 id: 549284425
-type: way
+type: node
 latitude: 51.04904
 longitude: 12.56004
 postcode: "04654"
 city: Frohburg
-street: "Südstraße"
-housenumber: 1
-phone: "+49 34348 52451"
-opening_hours: "Mo-Fr 07:00-17:00; Sa,Su,PH off"
-website: "https://www.heermann-autoservice.de/"
+street: Südstraße
+housenumber: "1"
+phone: +49 34348 52451
+opening_hours: Mo-Fr 07:00-17:00; Sa,Su,PH off
+website: https://www.heermann-autoservice.de/

@@ -1,11 +1,11 @@
 id: 676538470
-type: way
+type: node
 latitude: 51.42509
 longitude: 14.27701
 postcode: "02977"
 city: Hoyerswerda
-street: "Friedensstraße"
-housenumber: 2
+street: Friedensstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

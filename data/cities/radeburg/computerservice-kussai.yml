@@ -4,8 +4,8 @@ latitude: 51.21496
 longitude: 13.72766
 postcode: "01471"
 city: Radeburg
-street: "Radeberger Straße"
-housenumber: 7
-phone: "+49 35208 4390"
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-16:00; PH off"
-website: "www.computer-und-technik.de"
+street: Radeberger Straße
+housenumber: "7"
+phone: +49 35208 4390
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-16:00; PH off
+website: www.computer-und-technik.de

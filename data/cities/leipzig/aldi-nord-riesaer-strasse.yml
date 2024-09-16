@@ -1,11 +1,11 @@
 id: 496751465
-type: way
+type: node
 latitude: 51.34611
 longitude: 12.44457
 postcode: "04328"
 city: Leipzig
-street: "Riesaer Straße"
-housenumber: 30
-phone: "+49 800 7234870"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen/leipzig/riesaer-strasse-30.html"
+street: Riesaer Straße
+housenumber: "30"
+phone: +49 800 7234870
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen/leipzig/riesaer-strasse-30.html

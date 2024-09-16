@@ -4,8 +4,8 @@ latitude: 51.1195
 longitude: 13.69342
 postcode: "01468"
 city: Moritzburg
-street: "Kleiner Gallberg"
-housenumber: 22
-phone: "+49 351 4609103"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-12:00"
-website: "https://www.charmant-radebeul.de"
+street: Kleiner Gallberg
+housenumber: "22"
+phone: +49 351 4609103
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-12:00
+website: https://www.charmant-radebeul.de

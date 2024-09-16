@@ -1,11 +1,11 @@
 id: 24384340
-type: way
+type: node
 latitude: 50.84707
 longitude: 12.93978
 postcode: "09130"
 city: Chemnitz
-street: "Thomas-Mann-Platz"
+street: Thomas-Mann-Platz
 housenumber: 1b
-phone: "+49 371 452060"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00"
-website: "https://www.sachsenallee.de/"
+phone: +49 371 452060
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-20:00
+website: https://www.sachsenallee.de/

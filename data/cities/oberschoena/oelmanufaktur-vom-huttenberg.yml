@@ -4,8 +4,8 @@ latitude: 50.94164
 longitude: 13.24999
 postcode: "09600"
 city: Oberschöna
-street: "Ziegeleiweg"
-housenumber: 9
+street: Ziegeleiweg
+housenumber: "9"
 phone: ""
-opening_hours: "Th-Fr 14:00-18:00, Sa 07:30-11:00"
-website: "https://hofmanufaktur-huttenberg.de"
+opening_hours: Th-Fr 14:00-18:00, Sa 07:30-11:00
+website: https://hofmanufaktur-huttenberg.de

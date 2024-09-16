@@ -1,11 +1,11 @@
 id: 219410489
-type: way
+type: node
 latitude: 51.52627
 longitude: 12.34552
 postcode: "04509"
 city: Delitzsch
-street: "Friedrich-Ebert-Straße"
-housenumber: 8
-phone: "+49 34202 57848"
-opening_hours: "Sa 09:00-12:00"
+street: Friedrich-Ebert-Straße
+housenumber: "8"
+phone: +49 34202 57848
+opening_hours: Sa 09:00-12:00
 website: ""

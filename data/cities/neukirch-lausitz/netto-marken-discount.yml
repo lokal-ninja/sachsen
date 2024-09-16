@@ -1,11 +1,11 @@
 id: 153270030
-type: way
+type: node
 latitude: 51.09372
 longitude: 14.31831
 postcode: "01904"
 city: Neukirch/Lausitz
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

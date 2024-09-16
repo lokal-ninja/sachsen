@@ -1,11 +1,11 @@
 id: 25347508
-type: way
+type: node
 latitude: 51.11864
 longitude: 13.59914
 postcode: "01445"
 city: Radebeul
-street: "Meißner Straße"
-housenumber: 475
+street: Meißner Straße
+housenumber: "475"
 phone: ""
 opening_hours: ""
 website: ""

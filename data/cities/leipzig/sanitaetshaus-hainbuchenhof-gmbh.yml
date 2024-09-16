@@ -4,8 +4,8 @@ latitude: 51.35255
 longitude: 12.46218
 postcode: "04329"
 city: Leipzig
-street: "Am Vorwerk"
-housenumber: 13
-phone: "+49 341 2525862"
-opening_hours: "Mo-Fr 09:30-13:30, 14:00-18:00"
-website: "https://www.sanitaetshaus-hainbuchenhof.de/"
+street: Am Vorwerk
+housenumber: "13"
+phone: +49 341 2525862
+opening_hours: Mo-Fr 09:30-13:30, 14:00-18:00
+website: https://www.sanitaetshaus-hainbuchenhof.de/

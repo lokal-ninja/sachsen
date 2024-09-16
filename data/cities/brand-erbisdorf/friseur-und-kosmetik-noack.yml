@@ -1,11 +1,11 @@
 id: 204722697
-type: way
+type: node
 latitude: 50.87237
 longitude: 13.29048
 postcode: "09618"
 city: Brand-Erbisdorf
-street: "Talstraße"
-housenumber: 121
-phone: "+4937322 3761"
+street: Talstraße
+housenumber: "121"
+phone: +4937322 3761
 opening_hours: ""
 website: ""

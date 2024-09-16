@@ -4,8 +4,8 @@ latitude: 50.71681
 longitude: 12.46324
 postcode: "08060"
 city: Zwickau
-street: "Bernhardstraße"
-housenumber: 5
+street: Bernhardstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

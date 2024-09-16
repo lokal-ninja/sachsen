@@ -1,11 +1,11 @@
 id: 244469865
-type: way
+type: node
 latitude: 51.34523
 longitude: 12.43577
 postcode: "04328"
 city: Leipzig
-street: "Riesaer Straße"
-housenumber: 2
+street: Riesaer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,We,Th 07:00-17:00; Tu,Fr 08:00-16:00"
+opening_hours: Mo,We,Th 07:00-17:00; Tu,Fr 08:00-16:00
 website: ""

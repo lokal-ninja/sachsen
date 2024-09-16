@@ -4,8 +4,8 @@ latitude: 51.33515
 longitude: 12.33055
 postcode: "04177"
 city: Leipzig
-street: "Endersstraße"
-housenumber: 6
-phone: "+49 178 1325861"
+street: Endersstraße
+housenumber: "6"
+phone: +49 178 1325861
 opening_hours: ""
-website: "https://atelier3kleider.de/"
+website: https://atelier3kleider.de/

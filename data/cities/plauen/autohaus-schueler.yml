@@ -1,11 +1,11 @@
 id: 196670360
-type: way
+type: node
 latitude: 50.51578
 longitude: 12.12707
 postcode: "08525"
 city: Plauen
-street: "Hans-Sachs-Straße"
-housenumber: 26
+street: Hans-Sachs-Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

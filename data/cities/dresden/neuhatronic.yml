@@ -4,8 +4,8 @@ latitude: 51.04972
 longitude: 13.77833
 postcode: "01309"
 city: Dresden
-street: "Huttenstraße"
-housenumber: 15
+street: Huttenstraße
+housenumber: "15"
 phone: "+4935150196660"
-opening_hours: "Mo-Fr 15:00-18:00; Sa 09:00-12:00"
-website: "https://www.neuhatronic.de/"
+opening_hours: Mo-Fr 15:00-18:00; Sa 09:00-12:00
+website: https://www.neuhatronic.de/

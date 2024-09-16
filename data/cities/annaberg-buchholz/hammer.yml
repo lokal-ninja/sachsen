@@ -1,11 +1,11 @@
 id: 113789321
-type: way
+type: node
 latitude: 50.56394
 longitude: 13.01131
 postcode: "09456"
 city: Annaberg-Buchholz
-street: "Oberwiesenthaler Weg"
-housenumber: 2
+street: Oberwiesenthaler Weg
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.hammer-heimtex.de/"
+website: https://www.hammer-heimtex.de/

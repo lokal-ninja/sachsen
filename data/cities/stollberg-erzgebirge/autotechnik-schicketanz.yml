@@ -1,11 +1,11 @@
 id: 158767641
-type: way
+type: node
 latitude: 50.70059
 longitude: 12.77412
 postcode: "09366"
 city: Stollberg/Erzgebirge
-street: "Schneeberger Straße"
+street: Schneeberger Straße
 housenumber: 30a
-phone: "+49 37296 890236"
-opening_hours: "Mo-Fr 07:00-12:00,13:00-18:00"
+phone: +49 37296 890236
+opening_hours: Mo-Fr 07:00-12:00,13:00-18:00
 website: ""

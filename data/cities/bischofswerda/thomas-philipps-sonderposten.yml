@@ -4,8 +4,8 @@ latitude: 51.12149
 longitude: 14.19242
 postcode: "01877"
 city: Bischofswerda
-street: "Ernst-Thälmann-Straße"
-housenumber: 3
+street: Ernst-Thälmann-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.thomas-philipps.de/de/Stores/Details/bischofswerda"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.thomas-philipps.de/de/Stores/Details/bischofswerda

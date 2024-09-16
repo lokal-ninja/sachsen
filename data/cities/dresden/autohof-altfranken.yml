@@ -1,11 +1,11 @@
 id: 30121293
-type: way
+type: node
 latitude: 51.03789
 longitude: 13.63601
 postcode: "01156"
 city: Dresden
-street: "Rudolf-Walther-Straße"
-housenumber: 2
-phone: "+49 351 415060"
+street: Rudolf-Walther-Straße
+housenumber: "2"
+phone: +49 351 415060
 opening_hours: ""
 website: ""

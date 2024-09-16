@@ -1,11 +1,11 @@
 id: 25824680
-type: way
+type: node
 latitude: 51.02674
 longitude: 13.75673
 postcode: "01219"
 city: Dresden
-street: "Caspar-David-Friedrich-Straße"
-housenumber: 9
+street: Caspar-David-Friedrich-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

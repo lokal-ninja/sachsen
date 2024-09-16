@@ -1,11 +1,11 @@
 id: 132048827
-type: way
+type: node
 latitude: 50.72132
 longitude: 12.45413
 postcode: "08060"
 city: Zwickau
-street: "Jacobstraße"
-housenumber: 27
+street: Jacobstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

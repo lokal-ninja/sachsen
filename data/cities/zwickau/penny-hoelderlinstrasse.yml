@@ -1,11 +1,11 @@
 id: 219039031
-type: way
+type: node
 latitude: 50.72534
 longitude: 12.49307
 postcode: "08056"
 city: Zwickau
-street: "Hölderlinstraße"
-housenumber: 10
+street: Hölderlinstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

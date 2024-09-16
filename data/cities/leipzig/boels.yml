@@ -1,11 +1,11 @@
 id: 305464071
-type: way
+type: node
 latitude: 51.38115
 longitude: 12.38416
 postcode: "04129"
 city: Leipzig
-street: "Dübener Landstraße"
-housenumber: 7
-phone: "+49 341 9003340"
-opening_hours: "Mo-Sa 07:00-17:00; Sa 07:00-14:00"
+street: Dübener Landstraße
+housenumber: "7"
+phone: +49 341 9003340
+opening_hours: Mo-Sa 07:00-17:00; Sa 07:00-14:00
 website: ""

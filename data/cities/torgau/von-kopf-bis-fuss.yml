@@ -4,8 +4,8 @@ latitude: 51.55903
 longitude: 12.98932
 postcode: "04860"
 city: Torgau
-street: "Warschauer Straße"
-housenumber: 7
+street: Warschauer Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; We 09:00-19:00"
-website: "https://www.von-kopf-bis-fuss-torgau.de"
+opening_hours: Tu-Fr 09:00-18:00; We 09:00-19:00
+website: https://www.von-kopf-bis-fuss-torgau.de

@@ -4,8 +4,8 @@ latitude: 50.97847
 longitude: 13.86523
 postcode: "01809"
 city: Heidenau
-street: "Ernst-Thälmann-Straße"
-housenumber: 12
-phone: "+49 35 29 51 55 30"
-opening_hours: "Mo-Fr 08:30-12:00,12:30-17:00"
-website: "https://www.sicherheit-schneider.de/"
+street: Ernst-Thälmann-Straße
+housenumber: "12"
+phone: +49 35 29 51 55 30
+opening_hours: Mo-Fr 08:30-12:00,12:30-17:00
+website: https://www.sicherheit-schneider.de/

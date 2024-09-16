@@ -4,8 +4,8 @@ latitude: 50.97983
 longitude: 13.629
 postcode: "01705"
 city: Freital
-street: "Rabenauer Straße"
-housenumber: 39
-phone: "+49 351 6463502"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.baeckerei-langholz.de"
+street: Rabenauer Straße
+housenumber: "39"
+phone: +49 351 6463502
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.baeckerei-langholz.de

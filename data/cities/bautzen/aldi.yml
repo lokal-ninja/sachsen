@@ -1,11 +1,11 @@
 id: 1006502512
-type: way
+type: node
 latitude: 51.18012
 longitude: 14.40419
 postcode: "02625"
 city: Bautzen
-street: "Dresdener Straße"
-housenumber: 68
+street: Dresdener Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

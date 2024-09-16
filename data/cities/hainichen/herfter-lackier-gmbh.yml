@@ -4,8 +4,8 @@ latitude: 50.96806
 longitude: 13.10401
 postcode: "09661"
 city: Hainichen
-street: "Frankenberger Straße"
-housenumber: 58
-phone: "+49 37207 50060"
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "http://www.herfter.de/"
+street: Frankenberger Straße
+housenumber: "58"
+phone: +49 37207 50060
+opening_hours: Mo-Fr 07:00-16:00
+website: http://www.herfter.de/

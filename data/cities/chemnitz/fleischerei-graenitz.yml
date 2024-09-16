@@ -1,11 +1,11 @@
 id: 93710526
-type: way
+type: node
 latitude: 50.77822
 longitude: 12.92621
 postcode: "09125"
 city: Chemnitz
-street: "Annaberger Straße"
-housenumber: 477
+street: Annaberger Straße
+housenumber: "477"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1280097640
-type: way
+type: node
 latitude: 50.83162
 longitude: 12.95669
 postcode: "09127"
 city: Chemnitz
-street: "Augustusburger Straße"
-housenumber: 216
+street: Augustusburger Straße
+housenumber: "216"
 phone: "+4991123734733"
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

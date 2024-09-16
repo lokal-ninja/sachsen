@@ -4,8 +4,8 @@ latitude: 50.31165
 longitude: 12.32922
 postcode: "08258"
 city: Markneukirchen
-street: "Unterer Markt"
-housenumber: 12
+street: Unterer Markt
+housenumber: "12"
 phone: "+49374222312"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-11:00"
-website: "https://buecher-mkn.buchkatalog.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-11:00
+website: https://buecher-mkn.buchkatalog.de/

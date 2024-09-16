@@ -1,11 +1,11 @@
 id: 129302748
-type: way
+type: node
 latitude: 51.10169
 longitude: 14.44585
 postcode: "02681"
 city: Schirgiswalde-Kirschau
-street: "Hauptstraße"
-housenumber: 41
+street: Hauptstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 174629268
-type: way
+type: node
 latitude: 51.29618
 longitude: 13.28548
 postcode: "01587"
 city: Riesa
-street: "Lommatzscher Straße"
-housenumber: 16
-phone: "+49 3525 780800"
+street: Lommatzscher Straße
+housenumber: "16"
+phone: +49 3525 780800
 opening_hours: ""
-website: "https://www.dierchen.de/rtc-dierchen.html"
+website: https://www.dierchen.de/rtc-dierchen.html

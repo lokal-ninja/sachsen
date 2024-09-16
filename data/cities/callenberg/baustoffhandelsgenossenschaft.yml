@@ -1,11 +1,11 @@
 id: 155468231
-type: way
+type: node
 latitude: 50.86391
 longitude: 12.66467
 postcode: "09337"
 city: Callenberg
-street: "Waldenburger Straße"
-housenumber: 61
+street: Waldenburger Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

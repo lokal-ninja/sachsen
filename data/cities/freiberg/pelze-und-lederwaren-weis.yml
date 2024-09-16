@@ -4,8 +4,8 @@ latitude: 50.91886
 longitude: 13.344
 postcode: "09599"
 city: Freiberg
-street: "Heubnerstraße"
-housenumber: 8
+street: Heubnerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

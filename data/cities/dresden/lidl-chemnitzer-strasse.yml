@@ -1,11 +1,11 @@
 id: 11277320
-type: way
+type: node
 latitude: 51.03226
 longitude: 13.70928
 postcode: "01187"
 city: Dresden
-street: "Chemnitzer Straße"
-housenumber: 68
+street: Chemnitzer Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

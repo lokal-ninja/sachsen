@@ -1,11 +1,11 @@
 id: 165010583
-type: way
+type: node
 latitude: 50.76062
 longitude: 13.0653
 postcode: "09405"
 city: Zschopau
-street: "Johann-Gottlob-Pfaff-Straße"
-housenumber: 18
+street: Johann-Gottlob-Pfaff-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00;Sa 08:00-12:00"
-website: "https://www.besico.de/besico-standorte/Zschopau/"
+opening_hours: Mo-Fr 07:00-18:00;Sa 08:00-12:00
+website: https://www.besico.de/besico-standorte/Zschopau/

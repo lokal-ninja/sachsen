@@ -1,11 +1,11 @@
 id: 97753394
-type: way
+type: node
 latitude: 51.59294
 longitude: 12.59305
 postcode: "04849"
 city: Bad Düben
-street: "Dommitzscher Straße"
-housenumber: 15
+street: Dommitzscher Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

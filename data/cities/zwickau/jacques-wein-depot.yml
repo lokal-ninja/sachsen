@@ -4,8 +4,8 @@ latitude: 50.72736
 longitude: 12.50042
 postcode: "08066"
 city: Zwickau
-street: "Talstraße"
-housenumber: 6
-phone: "+49 375 / 4 40 07 33"
-opening_hours: "Tu-Th 15:00-19:00, Fr 13:00-20:00, Sa 10:00-16:00"
-website: "https://www.jacques.de/depot/273/zwickau/"
+street: Talstraße
+housenumber: "6"
+phone: +49 375 / 4 40 07 33
+opening_hours: Tu-Th 15:00-19:00, Fr 13:00-20:00, Sa 10:00-16:00
+website: https://www.jacques.de/depot/273/zwickau/

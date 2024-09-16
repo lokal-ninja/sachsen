@@ -1,11 +1,11 @@
 id: 44828918
-type: way
+type: node
 latitude: 51.08392
 longitude: 13.7648
 postcode: "01099"
 city: Dresden
-street: "Meschwitzstraße"
-housenumber: 6
-phone: "0351 40768110"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.zoundhouse.de/"
+street: Meschwitzstraße
+housenumber: "6"
+phone: 0351 40768110
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.zoundhouse.de/

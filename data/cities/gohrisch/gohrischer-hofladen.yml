@@ -1,11 +1,11 @@
 id: 240472240
-type: way
+type: node
 latitude: 50.91212
 longitude: 14.1059
 postcode: "01824"
 city: Gohrisch
-street: "Neue Hauptstraße"
-housenumber: 109
-phone: "+49 1577 9093173"
-opening_hours: "Mo-Su 13:00-18:00"
-website: "http://www.gohrischer-hofladen.de/"
+street: Neue Hauptstraße
+housenumber: "109"
+phone: +49 1577 9093173
+opening_hours: Mo-Su 13:00-18:00
+website: http://www.gohrischer-hofladen.de/

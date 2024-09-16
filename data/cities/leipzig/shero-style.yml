@@ -4,8 +4,8 @@ latitude: 51.34233
 longitude: 12.37824
 postcode: "04109"
 city: Leipzig
-street: "Nikolaistraße"
-housenumber: 36
+street: Nikolaistraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

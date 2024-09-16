@@ -4,8 +4,8 @@ latitude: 50.80812
 longitude: 12.92272
 postcode: "09120"
 city: Chemnitz
-street: "Fraunhoferstraße"
-housenumber: 60
+street: Fraunhoferstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "https://www.trapofit-chemnitz.de/"
+website: https://www.trapofit-chemnitz.de/

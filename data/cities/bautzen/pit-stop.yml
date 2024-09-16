@@ -1,11 +1,11 @@
 id: 44007832
-type: way
+type: node
 latitude: 51.16852
 longitude: 14.42614
 postcode: "02625"
 city: Bautzen
-street: "Neusalzaer Straße"
-housenumber: 41
-phone: "+49 3591 351747"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "http://www.pit-stop.de/"
+street: Neusalzaer Straße
+housenumber: "41"
+phone: +49 3591 351747
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: http://www.pit-stop.de/

@@ -1,11 +1,11 @@
 id: 137468118
-type: way
+type: node
 latitude: 51.27114
 longitude: 14.10397
 postcode: "01917"
 city: Kamenz
-street: "Uferstraße"
-housenumber: 2
+street: Uferstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

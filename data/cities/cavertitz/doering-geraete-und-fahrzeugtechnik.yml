@@ -1,11 +1,11 @@
 id: 169193797
-type: way
+type: node
 latitude: 51.40617
 longitude: 13.10386
 postcode: "04758"
 city: Cavertitz
-street: "Neue Straße"
-housenumber: 26
+street: Neue Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

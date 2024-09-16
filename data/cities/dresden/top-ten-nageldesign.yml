@@ -4,8 +4,8 @@ latitude: 51.0151
 longitude: 13.75177
 postcode: "01217"
 city: Dresden
-street: "Boderitzer Straße"
+street: Boderitzer Straße
 housenumber: 12a
 phone: ""
-opening_hours: "Mo-Fr, und nach Vereinbarung"
+opening_hours: Mo-Fr, "und nach Vereinbarung"
 website: ""

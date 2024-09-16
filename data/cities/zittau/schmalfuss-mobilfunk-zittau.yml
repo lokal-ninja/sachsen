@@ -4,8 +4,8 @@ latitude: 50.89651
 longitude: 14.80874
 postcode: "02763"
 city: Zittau
-street: "Frauenstraße"
-housenumber: 3
-phone: "+49 3583 9397472"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Frauenstraße
+housenumber: "3"
+phone: +49 3583 9397472
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

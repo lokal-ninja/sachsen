@@ -1,11 +1,11 @@
 id: 43244966
-type: way
+type: node
 latitude: 50.59695
 longitude: 12.63471
 postcode: "08289"
 city: Schneeberg
-street: "Zwickauer Straße"
-housenumber: 52
+street: Zwickauer Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/6179.ohtm/1645"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/6179.ohtm/1645

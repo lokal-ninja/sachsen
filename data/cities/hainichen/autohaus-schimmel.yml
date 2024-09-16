@@ -1,11 +1,11 @@
 id: 157428133
-type: way
+type: node
 latitude: 50.97165
 longitude: 13.11493
 postcode: "09661"
 city: Hainichen
-street: "Äußere Gerichtsstraße"
-housenumber: 4
+street: Äußere Gerichtsstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

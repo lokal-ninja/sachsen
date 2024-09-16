@@ -4,8 +4,8 @@ latitude: 51.33854
 longitude: 12.38416
 postcode: "04103"
 city: Leipzig
-street: "Grimmaischer Steinweg"
-housenumber: 15
-phone: "+49 341 99858270"
-opening_hours: "Mo-Fr 08:00-19:00"
-website: "https://www.hairstyling-halle.de/"
+street: Grimmaischer Steinweg
+housenumber: "15"
+phone: +49 341 99858270
+opening_hours: Mo-Fr 08:00-19:00
+website: https://www.hairstyling-halle.de/

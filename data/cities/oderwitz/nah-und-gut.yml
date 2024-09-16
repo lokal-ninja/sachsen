@@ -1,11 +1,11 @@
 id: 342018692
-type: way
+type: node
 latitude: 50.94947
 longitude: 14.73199
 postcode: "02791"
 city: Oderwitz
-street: "Marktstraße"
-housenumber: 1
+street: Marktstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-14:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:00-14:00
 website: ""

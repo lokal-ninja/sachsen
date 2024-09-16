@@ -4,8 +4,8 @@ latitude: 51.3209
 longitude: 13.26619
 postcode: "01591"
 city: Riesa
-street: "Alleestraße"
-housenumber: 90
+street: Alleestraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00 Sa 06:00-12:00"
-website: "https://www.baeckerbrade.de/de/"
+opening_hours: Mo-Fr 06:00-18:00 Sa 06:00-12:00
+website: https://www.baeckerbrade.de/de/

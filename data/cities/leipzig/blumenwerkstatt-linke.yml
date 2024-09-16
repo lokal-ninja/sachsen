@@ -4,8 +4,8 @@ latitude: 51.34284
 longitude: 12.36297
 postcode: "04109"
 city: Leipzig
-street: "Jahnallee"
-housenumber: 8
-phone: "+49 341 9804946"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+street: Jahnallee
+housenumber: "8"
+phone: +49 341 9804946
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

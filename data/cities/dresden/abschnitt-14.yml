@@ -4,8 +4,8 @@ latitude: 51.07303
 longitude: 13.74832
 postcode: "01097"
 city: Dresden
-street: "Rudolf-Leonhard-Straße"
-housenumber: 14
+street: Rudolf-Leonhard-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

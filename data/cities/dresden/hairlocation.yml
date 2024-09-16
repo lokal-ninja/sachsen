@@ -4,8 +4,8 @@ latitude: 51.03815
 longitude: 13.70309
 postcode: "01159"
 city: Dresden
-street: "Clara-Viebig-Straße"
-housenumber: 9
+street: Clara-Viebig-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "nur nach Vereinbarung"
+opening_hours: '"nur nach Vereinbarung"'
 website: ""

@@ -1,11 +1,11 @@
 id: 141202756
-type: way
+type: node
 latitude: 50.90663
 longitude: 13.34228
 postcode: "09599"
 city: Freiberg
-street: "Zuger Straße"
+street: Zuger Straße
 housenumber: 7B
-phone: "+49 3731 202441"
-opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-12:00"
+phone: +49 3731 202441
+opening_hours: Mo-Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-12:00
 website: ""

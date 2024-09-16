@@ -4,8 +4,8 @@ latitude: 50.78158
 longitude: 12.70201
 postcode: "09353"
 city: Oberlungwitz
-street: "Stollberger Straße"
-housenumber: 1
-phone: "+49 3723 628021"
-opening_hours: "Tu-Fr 07:00-18:00; Mo,Sa 07:00-13:00"
-website: "https://www.feinbaeckerei-friedemann.de/"
+street: Stollberger Straße
+housenumber: "1"
+phone: +49 3723 628021
+opening_hours: Tu-Fr 07:00-18:00; Mo,Sa 07:00-13:00
+website: https://www.feinbaeckerei-friedemann.de/

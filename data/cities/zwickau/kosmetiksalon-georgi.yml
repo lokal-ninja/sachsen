@@ -4,8 +4,8 @@ latitude: 50.78157
 longitude: 12.47766
 postcode: "08058"
 city: Zwickau
-street: "Dänkritzer Straße"
-housenumber: 7
-phone: "+49 (0)37604 2438"
-opening_hours: "Mo-Tu 10:00-19:30, We-Th 08:00-16:00, Fr-Sa nach Vereinbarung"
+street: Dänkritzer Straße
+housenumber: "7"
+phone: +49 (0)37604 2438
+opening_hours: Mo-Tu 10:00-19:30, We-Th 08:00-16:00, Fr-Sa "nach Vereinbarung"
 website: ""

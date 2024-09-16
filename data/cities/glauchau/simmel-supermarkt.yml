@@ -1,11 +1,11 @@
 id: 46096835
-type: way
+type: node
 latitude: 50.819
 longitude: 12.55064
 postcode: "08371"
 city: Glauchau
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 10
+street: Rudolf-Breitscheid-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

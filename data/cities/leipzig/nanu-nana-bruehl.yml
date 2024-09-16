@@ -4,8 +4,8 @@ latitude: 51.34347
 longitude: 12.37543
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+4934130858710"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://unternehmen.nanu-nana.de/filiale/leipzig-hoefe-am-bruehl-bruehl-1"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://unternehmen.nanu-nana.de/filiale/leipzig-hoefe-am-bruehl-bruehl-1

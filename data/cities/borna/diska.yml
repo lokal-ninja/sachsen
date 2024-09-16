@@ -1,11 +1,11 @@
 id: 39250130
-type: way
+type: node
 latitude: 51.1151
 longitude: 12.49154
 postcode: "04552"
 city: Borna
-street: "Stauffenbergstraße"
-housenumber: 16
+street: Stauffenbergstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

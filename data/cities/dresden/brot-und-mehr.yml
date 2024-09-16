@@ -4,8 +4,8 @@ latitude: 51.0636
 longitude: 13.82255
 postcode: "01324"
 city: Dresden
-street: "Bautzner Landstraße"
-housenumber: 11
-phone: "+493512 68 38 13"
-opening_hours: "Tu-Fr 07:30-16:00; Sa-Su 07:30-10:00"
-website: "https://www.brotundmehr-dresden.com/"
+street: Bautzner Landstraße
+housenumber: "11"
+phone: +493512 68 38 13
+opening_hours: Tu-Fr 07:30-16:00; Sa-Su 07:30-10:00
+website: https://www.brotundmehr-dresden.com/

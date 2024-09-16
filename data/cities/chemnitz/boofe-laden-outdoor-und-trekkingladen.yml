@@ -1,11 +1,11 @@
 id: 108198030
-type: way
+type: node
 latitude: 50.8199
 longitude: 12.93509
 postcode: "09126"
 city: Chemnitz
-street: "Bernsdorfer Straße"
-housenumber: 68
-phone: "+49 371 5607550"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 10:00-12:00"
-website: "https://www.boofeladen.de/"
+street: Bernsdorfer Straße
+housenumber: "68"
+phone: +49 371 5607550
+opening_hours: Mo-Fr 12:00-19:00; Sa 10:00-12:00
+website: https://www.boofeladen.de/

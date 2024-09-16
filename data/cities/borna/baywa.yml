@@ -1,11 +1,12 @@
 id: 1041174000
-type: way
+type: node
 latitude: 51.15333
 longitude: 12.50463
 postcode: "04552"
 city: Borna
-street: "Gewerbegebiet Eula West"
-housenumber: 14
+street: Gewerbegebiet Eula West
+housenumber: "14"
 phone: ""
-opening_hours: "Mar 01-Oct 31 Mo-Fr 06:30-18:00; Sa 08:00-12:00; Nov 01-Feb 28 Mo-Fr 06:30-17:00; PH off"
+opening_hours: Mar 01-Oct 31 Mo-Fr 06:30-18:00; Sa 08:00-12:00; Nov 01-Feb 28 Mo-Fr
+    06:30-17:00; PH off
 website: ""

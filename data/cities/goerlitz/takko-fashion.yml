@@ -4,8 +4,8 @@ latitude: 51.16976
 longitude: 14.97074
 postcode: "02828"
 city: Görlitz
-street: "Nieskyer Straße"
-housenumber: 100
-phone: "+49 3581 7610700"
-opening_hours: "Mo-Sa 09:00-19:30"
+street: Nieskyer Straße
+housenumber: "100"
+phone: +49 3581 7610700
+opening_hours: Mo-Sa 09:00-19:30; PH off
 website: ""

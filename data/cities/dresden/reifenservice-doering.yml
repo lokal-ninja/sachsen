@@ -4,8 +4,8 @@ latitude: 51.06391
 longitude: 13.75849
 postcode: "01099"
 city: Dresden
-street: "Bautzner Straße"
-housenumber: 71
-phone: "+49 351 8119260"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.reifendoering-points.de"
+street: Bautzner Straße
+housenumber: "71"
+phone: +49 351 8119260
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.reifendoering-points.de

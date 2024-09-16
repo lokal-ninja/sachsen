@@ -4,8 +4,8 @@ latitude: 51.06276
 longitude: 13.75309
 postcode: "01099"
 city: Dresden
-street: "Bautzner Straße"
-housenumber: 22
+street: Bautzner Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://vitalsanitaetshaus-bautzner-strasse.ord.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: http://vitalsanitaetshaus-bautzner-strasse.ord.de/

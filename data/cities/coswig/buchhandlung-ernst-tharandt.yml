@@ -1,11 +1,11 @@
 id: 142707924
-type: way
+type: node
 latitude: 51.12414
 longitude: 13.57941
 postcode: ""
 city: Coswig
-street: "Bahnhofstraße"
-housenumber: 3
-phone: "+49 3523 74577"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-12:00"
-website: "www.ernst-tharandt.de"
+street: Bahnhofstraße
+housenumber: "3"
+phone: +49 3523 74577
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-12:00
+website: www.ernst-tharandt.de

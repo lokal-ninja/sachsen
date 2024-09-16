@@ -1,11 +1,11 @@
 id: 91562540
-type: way
+type: node
 latitude: 51.36119
 longitude: 12.36489
 postcode: "04155"
 city: Leipzig
-street: "Eisenacher Straße"
-housenumber: 17
+street: Eisenacher Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-12:00"
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-12:00
 website: ""

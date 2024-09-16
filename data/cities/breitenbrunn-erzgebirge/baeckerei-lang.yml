@@ -4,8 +4,8 @@ latitude: 50.47327
 longitude: 12.75743
 postcode: "08359"
 city: Breitenbrunn/Erzgebirge
-street: "Hauptstraße"
-housenumber: 51
-phone: "+49 37756 7678"
-opening_hours: "Mo-Fr 07:00-11:00,11:30-17:30; Sa 07:00-11:00; PH off"
-website: "http://www.xn--lang-bcker-v5a.de/"
+street: Hauptstraße
+housenumber: "51"
+phone: +49 37756 7678
+opening_hours: Mo-Fr 07:00-11:00,11:30-17:30; Sa 07:00-11:00; PH off
+website: http://www.xn--lang-bcker-v5a.de/

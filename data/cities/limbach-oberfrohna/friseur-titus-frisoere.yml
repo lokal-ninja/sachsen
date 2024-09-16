@@ -4,8 +4,8 @@ latitude: 50.85717
 longitude: 12.76732
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Markt"
-housenumber: 5
+street: Markt
+housenumber: "5"
 phone: "+4937226939758"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-12:00"
-website: "https://www.titus-frisoere.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-12:00
+website: https://www.titus-frisoere.de/

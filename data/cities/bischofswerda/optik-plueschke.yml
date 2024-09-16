@@ -1,11 +1,11 @@
 id: 46272897
-type: way
+type: node
 latitude: 51.12663
 longitude: 14.17798
 postcode: "01877"
 city: Bischofswerda
-street: "Dresdener Straße"
-housenumber: 15
+street: Dresdener Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

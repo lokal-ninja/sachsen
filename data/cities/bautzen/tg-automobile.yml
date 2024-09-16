@@ -1,11 +1,11 @@
 id: 61582321
-type: way
+type: node
 latitude: 51.18978
 longitude: 14.4533
 postcode: "02625"
 city: Bautzen
-street: "Kreckwitzer Straße"
-housenumber: 13
-phone: "+49 3591 21710"
+street: Kreckwitzer Straße
+housenumber: "13"
+phone: +49 3591 21710
 opening_hours: ""
-website: "https://www.tgautohandel.de/pages/tgabau.php"
+website: https://www.tgautohandel.de/pages/tgabau.php

@@ -4,8 +4,8 @@ latitude: 51.30274
 longitude: 13.30913
 postcode: "01589"
 city: Riesa
-street: "Hauptstraße"
-housenumber: 25
-phone: "+49 3525 734307"
-opening_hours: "Tu-Fr 08:00-18:00,Sa 08:00-12:00,PH off"
-website: "https://www.fleischereialbrecht.de"
+street: Hauptstraße
+housenumber: "25"
+phone: +49 3525 734307
+opening_hours: Tu-Fr 08:00-18:00,Sa 08:00-12:00,PH off
+website: https://www.fleischereialbrecht.de

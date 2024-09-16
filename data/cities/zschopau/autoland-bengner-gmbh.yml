@@ -1,11 +1,11 @@
 id: 146042959
-type: way
+type: node
 latitude: 50.74387
 longitude: 13.06463
 postcode: "09405"
 city: Zschopau
-street: "Spinnereistraße"
-housenumber: 210
-phone: "+49 3725 22454"
+street: Spinnereistraße
+housenumber: "210"
+phone: +49 3725 22454
 opening_hours: ""
-website: "www.autoland-bengner.de"
+website: www.autoland-bengner.de

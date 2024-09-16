@@ -1,11 +1,11 @@
 id: 32652539
-type: way
+type: node
 latitude: 50.98637
 longitude: 12.97039
 postcode: "09648"
 city: Mittweida
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00"
+opening_hours: Mo-Fr 08:30-20:00
 website: ""

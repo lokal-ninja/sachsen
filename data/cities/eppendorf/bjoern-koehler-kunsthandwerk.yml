@@ -4,8 +4,8 @@ latitude: 50.80288
 longitude: 13.23864
 postcode: "09575"
 city: Eppendorf
-street: "Goetheweg"
-housenumber: 2
-phone: "+49 37293 70484"
-opening_hours: "Tu-Th 15:00-17:00; Fr 15:00-18:00; Sa 09:00-12:30; PH,Su,Mo off"
-website: "https://bjoern-koehler.de/"
+street: Goetheweg
+housenumber: "2"
+phone: +49 37293 70484
+opening_hours: Tu-Th 15:00-17:00; Fr 15:00-18:00; Sa 09:00-12:30; PH,Su,Mo off
+website: https://bjoern-koehler.de/

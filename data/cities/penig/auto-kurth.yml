@@ -1,11 +1,11 @@
 id: 523663563
-type: way
+type: node
 latitude: 50.92897
 longitude: 12.70467
 postcode: "09322"
 city: Penig
-street: "Schinkelstraße"
-housenumber: 8
-phone: "+49 37381 80211"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-12:00"
-website: "http://www.auto-kurth.peugeothaendler.de/site/startseite.php?standortnr=301505"
+street: Schinkelstraße
+housenumber: "8"
+phone: +49 37381 80211
+opening_hours: Mo-Fr 07:00-18:00, Sa 07:00-12:00
+website: http://www.auto-kurth.peugeothaendler.de/site/startseite.php?standortnr=301505

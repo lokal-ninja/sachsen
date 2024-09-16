@@ -1,11 +1,11 @@
 id: 387894794
-type: way
+type: node
 latitude: 50.73247
 longitude: 12.49037
 postcode: "08058"
 city: Zwickau
-street: "Franz-Mehring-Straße"
-housenumber: 20
+street: Franz-Mehring-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th 06:30-17:00; Fr 06:30-15:30"
+opening_hours: Mo-Th 06:30-17:00; Fr 06:30-15:30
 website: ""

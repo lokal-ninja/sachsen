@@ -1,11 +1,11 @@
 id: 49777013
-type: way
+type: node
 latitude: 50.28204
 longitude: 12.23024
 postcode: "08645"
 city: Bad Elster
-street: "Hagerstraße"
-housenumber: 28
+street: Hagerstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

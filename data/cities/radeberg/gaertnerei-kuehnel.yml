@@ -1,11 +1,11 @@
 id: 267014684
-type: way
+type: node
 latitude: 51.14169
 longitude: 13.89786
 postcode: "01454"
 city: Radeberg
-street: "Wachauer Straße"
-housenumber: 9
+street: Wachauer Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
 website: ""

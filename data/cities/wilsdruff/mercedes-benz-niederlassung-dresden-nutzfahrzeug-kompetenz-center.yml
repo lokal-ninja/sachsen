@@ -1,11 +1,11 @@
 id: 1227668312
-type: way
+type: node
 latitude: 51.04018
 longitude: 13.58634
 postcode: "01723"
 city: Wilsdruff
-street: "Zum Stern"
-housenumber: 2
-phone: "+49 351 28220"
+street: Zum Stern
+housenumber: "2"
+phone: +49 351 28220
 opening_hours: ""
 website: ""

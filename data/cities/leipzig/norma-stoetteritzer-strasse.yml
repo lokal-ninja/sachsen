@@ -1,11 +1,11 @@
 id: 123342615
-type: way
+type: node
 latitude: 51.32526
 longitude: 12.40882
 postcode: "04317"
 city: Leipzig
-street: "Stötteritzer Straße"
-housenumber: 38
+street: Stötteritzer Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.norma-online.de/de/angebote/?mode=6"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.norma-online.de/de/angebote/?mode=6

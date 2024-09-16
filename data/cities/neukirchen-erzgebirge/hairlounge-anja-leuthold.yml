@@ -1,11 +1,11 @@
 id: 113598295
-type: way
+type: node
 latitude: 50.77199
 longitude: 12.88272
 postcode: "09221"
 city: Neukirchen/Erzgebirge
-street: "Bahnhofstraße"
-housenumber: 15
+street: Bahnhofstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

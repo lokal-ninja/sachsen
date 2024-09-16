@@ -4,8 +4,8 @@ latitude: 51.14735
 longitude: 14.97917
 postcode: "02826"
 city: Görlitz
-street: "Bahnhofstraße"
-housenumber: 76
-phone: "+49 3581 429391"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
-website: "https://www.bioimbahnhof.de/"
+street: Bahnhofstraße
+housenumber: "76"
+phone: +49 3581 429391
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-14:00
+website: https://www.bioimbahnhof.de/

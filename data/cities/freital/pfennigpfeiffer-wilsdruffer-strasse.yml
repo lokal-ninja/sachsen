@@ -4,8 +4,8 @@ latitude: 51.01907
 longitude: 13.63924
 postcode: "01705"
 city: Freital
-street: "Wilsdruffer Straße"
-housenumber: 124
+street: Wilsdruffer Straße
+housenumber: "124"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-14:00"
-website: "https://www.pfennigpfeiffer.de/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-14:00
+website: https://www.pfennigpfeiffer.de/

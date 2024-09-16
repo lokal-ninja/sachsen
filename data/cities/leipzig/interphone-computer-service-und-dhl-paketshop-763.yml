@@ -4,8 +4,8 @@ latitude: 51.3354
 longitude: 12.40857
 postcode: "04318"
 city: Leipzig
-street: "Cichoriusstraße"
-housenumber: 2
+street: Cichoriusstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa,Su 12:00-20:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa,Su 12:00-20:00
 website: ""

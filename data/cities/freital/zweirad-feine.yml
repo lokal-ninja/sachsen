@@ -4,8 +4,8 @@ latitude: 50.99513
 longitude: 13.64652
 postcode: "01705"
 city: Freital
-street: "Wehrstraße"
-housenumber: 3
-phone: "+49 351 6493337"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00; PH,Su off"
-website: "https://www.zweirad-feine.de/"
+street: Wehrstraße
+housenumber: "3"
+phone: +49 351 6493337
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00; PH,Su off
+website: https://www.zweirad-feine.de/

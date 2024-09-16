@@ -1,11 +1,11 @@
 id: 31584473
-type: way
+type: node
 latitude: 51.28321
 longitude: 12.31148
 postcode: "04249"
 city: Leipzig
-street: "Dieskaustraße"
-housenumber: 365
+street: Dieskaustraße
+housenumber: "365"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.konsum-leipzig.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.konsum-leipzig.de/

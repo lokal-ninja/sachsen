@@ -4,8 +4,8 @@ latitude: 50.98782
 longitude: 13.66915
 postcode: "01705"
 city: Freital
-street: "Poisentalstraße"
-housenumber: 104
-phone: "+49 351 6494440"
-opening_hours: "Mo-Fr 06:00-13:00; Sa 06:30-10:00"
-website: "https://www.baeckerei-langholz.de/"
+street: Poisentalstraße
+housenumber: "104"
+phone: +49 351 6494440
+opening_hours: Mo-Fr 06:00-13:00; Sa 06:30-10:00
+website: https://www.baeckerei-langholz.de/

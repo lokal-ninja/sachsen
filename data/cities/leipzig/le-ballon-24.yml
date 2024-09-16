@@ -4,8 +4,8 @@ latitude: 51.34448
 longitude: 12.35806
 postcode: "04105"
 city: Leipzig
-street: "Waldstraße"
-housenumber: 34
+street: Waldstraße
+housenumber: "34"
 phone: "+4934198993360"
-opening_hours: "Mo-Fr 11:00-17:00; Sa 10:00-14:00"
-website: "https://leballon24.de"
+opening_hours: Mo-Fr 11:00-17:00; Sa 10:00-14:00
+website: https://leballon24.de

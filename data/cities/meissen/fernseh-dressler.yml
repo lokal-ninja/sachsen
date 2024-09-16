@@ -4,8 +4,8 @@ latitude: 51.16624
 longitude: 13.48822
 postcode: "01662"
 city: Meißen
-street: "Fabrikstraße"
-housenumber: 2
-phone: "+49 3521 737574"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00"
-website: "https://www.fernseh-dressler.de/"
+street: Fabrikstraße
+housenumber: "2"
+phone: +49 3521 737574
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00
+website: https://www.fernseh-dressler.de/

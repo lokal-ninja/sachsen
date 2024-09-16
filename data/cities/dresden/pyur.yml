@@ -4,8 +4,8 @@ latitude: 51.05712
 longitude: 13.6877
 postcode: "01157"
 city: Dresden
-street: "Raimundstraße"
-housenumber: 1
+street: Raimundstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu 09:00-12:00,Th 13:00-17:00"
+opening_hours: Tu 09:00-12:00,Th 13:00-17:00
 website: ""

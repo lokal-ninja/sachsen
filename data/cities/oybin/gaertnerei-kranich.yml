@@ -1,11 +1,11 @@
 id: 221473078
-type: way
+type: node
 latitude: 50.83971
 longitude: 14.73625
 postcode: "02797"
 city: Oybin
-street: "Straße der Jugend"
-housenumber: 23
+street: Straße der Jugend
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:30-17:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-12:00,13:30-17:00; Sa 09:00-12:00
 website: ""

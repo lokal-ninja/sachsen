@@ -4,8 +4,8 @@ latitude: 51.16824
 longitude: 14.96999
 postcode: "02828"
 city: Görlitz
-street: "Nieskyer Straße"
-housenumber: 100
-phone: "+49 3581 8999430"
-opening_hours: "24/7"
-website: "https://oktan-tankstellen.de/"
+street: Nieskyer Straße
+housenumber: "100"
+phone: +49 3581 8999430
+opening_hours: 24/7
+website: https://oktan-tankstellen.de/

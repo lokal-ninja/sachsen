@@ -1,11 +1,11 @@
 id: 51357840
-type: way
+type: node
 latitude: 51.34816
 longitude: 12.3046
 postcode: "04179"
 city: Leipzig
-street: "Franz-Flemming-Straße"
+street: Franz-Flemming-Straße
 housenumber: 39a
-phone: "+49 341 2333265;+49 170 2356126"
-opening_hours: "Mo-Th 10:00-19:00"
-website: "https://www.antikundtroedelhalle-leutzsch.de/"
+phone: +49 341 2333265;+49 170 2356126
+opening_hours: Mo-Th 10:00-19:00
+website: https://www.antikundtroedelhalle-leutzsch.de/

@@ -4,8 +4,8 @@ latitude: 51.09392
 longitude: 13.71965
 postcode: "01129"
 city: Dresden
-street: "Großenhainer Straße"
-housenumber: 207
-phone: "+49 351 811 23 78"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00"
-website: "https://www.ballonshop-dresden.de/"
+street: Großenhainer Straße
+housenumber: "207"
+phone: +49 351 811 23 78
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00
+website: https://www.ballonshop-dresden.de/

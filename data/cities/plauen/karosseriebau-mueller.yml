@@ -4,8 +4,8 @@ latitude: 50.50941
 longitude: 12.13443
 postcode: "08525"
 city: Plauen
-street: "Luisenstraße"
-housenumber: 17
-phone: "+49 3741 523677"
-opening_hours: "Mo-Fr 07:30-17:30; Sa auf Anfrage"
-website: "https://www.mueller-karosseriebau.de/"
+street: Luisenstraße
+housenumber: "17"
+phone: +49 3741 523677
+opening_hours: Mo-Fr 07:30-17:30; Sa "auf Anfrage"
+website: https://www.mueller-karosseriebau.de/

@@ -1,11 +1,11 @@
 id: 553763680
-type: way
+type: node
 latitude: 51.35096
 longitude: 12.47252
 postcode: "04328"
 city: Leipzig
-street: "Schongauerstraße"
-housenumber: 43
+street: Schongauerstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
 website: ""

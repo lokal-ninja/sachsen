@@ -4,8 +4,8 @@ latitude: 50.68017
 longitude: 12.56271
 postcode: "08141"
 city: Reinsdorf
-street: "Dorfstraße"
-housenumber: 3
+street: Dorfstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, Tu,Th,Fr 14:00-17:00, Sa 08:00-11:00"
+opening_hours: Mo-Fr 08:00-12:00, Tu,Th,Fr 14:00-17:00, Sa 08:00-11:00
 website: ""

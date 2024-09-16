@@ -1,11 +1,11 @@
 id: 32730681
-type: way
+type: node
 latitude: 51.37302
 longitude: 12.39576
 postcode: "04129"
 city: Leipzig
-street: "Zschortauer Straße"
-housenumber: 5
+street: Zschortauer Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://moebel-boss.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://moebel-boss.de/

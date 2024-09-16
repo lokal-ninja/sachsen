@@ -1,11 +1,11 @@
 id: 272598261
-type: way
+type: node
 latitude: 50.9361
 longitude: 14.79728
 postcode: "02763"
 city: Mittelherwigsdorf
-street: "Am Krebsbach"
-housenumber: 3
+street: Am Krebsbach
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

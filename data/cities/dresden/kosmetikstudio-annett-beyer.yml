@@ -4,8 +4,8 @@ latitude: 51.07255
 longitude: 13.74761
 postcode: "01097"
 city: Dresden
-street: "Rudolf-Leonhard-Straße"
-housenumber: 7
-phone: "+49 351 8107330"
-opening_hours: "Mo-Th 09:30-19:00 || Fr nach Vereinbarung"
-website: "https://www.kosmetik-beyer.de/"
+street: Rudolf-Leonhard-Straße
+housenumber: "7"
+phone: +49 351 8107330
+opening_hours: Mo-Th 09:30-19:00 || Fr "nach Vereinbarung"
+website: https://www.kosmetik-beyer.de/

@@ -1,11 +1,11 @@
 id: 336085962
-type: way
+type: node
 latitude: 51.24796
 longitude: 12.27196
 postcode: "04249"
 city: Leipzig
-street: "Werkstraße"
-housenumber: 8
+street: Werkstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

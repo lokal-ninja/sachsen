@@ -1,11 +1,11 @@
 id: 89101020
-type: way
+type: node
 latitude: 50.86546
 longitude: 12.86602
 postcode: "09247"
 city: Chemnitz
-street: "Ringstraße"
-housenumber: 17
-phone: "+49 3722 5046 0"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.chemnitz-center.de/"
+street: Ringstraße
+housenumber: "17"
+phone: +49 3722 5046 0
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.chemnitz-center.de/

@@ -4,8 +4,8 @@ latitude: 51.32745
 longitude: 12.34586
 postcode: "04229"
 city: Leipzig
-street: "Könneritzstraße"
-housenumber: 23
+street: Könneritzstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
-website: "https://salon-stilvoll-leipzig.de/"
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://salon-stilvoll-leipzig.de/

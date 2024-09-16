@@ -1,11 +1,11 @@
 id: 213587837
-type: way
+type: node
 latitude: 50.90675
 longitude: 14.8124
 postcode: "02763"
 city: Zittau
-street: "Oststraße"
-housenumber: 9
-phone: "+49 3583 57360"
-opening_hours: "Mo - Fr 07:00-16:30; PH off"
-website: "http://www.baustoff-renger.de"
+street: Oststraße
+housenumber: "9"
+phone: +49 3583 57360
+opening_hours: Mo - Fr 07:00-16:30; PH off
+website: http://www.baustoff-renger.de

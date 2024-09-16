@@ -1,11 +1,11 @@
 id: 442205644
-type: way
+type: node
 latitude: 51.35358
 longitude: 12.4223
 postcode: "04347"
 city: Leipzig
-street: "Poserstraße"
-housenumber: 2
+street: Poserstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

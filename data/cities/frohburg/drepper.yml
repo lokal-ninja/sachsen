@@ -1,11 +1,11 @@
 id: 73654504
-type: way
+type: node
 latitude: 51.01459
 longitude: 12.56015
 postcode: "04654"
 city: Frohburg
-street: "Gewerbegebiet Nord"
-housenumber: 3
+street: Gewerbegebiet Nord
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00; Su,PH off"
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00; Su,PH off
 website: ""

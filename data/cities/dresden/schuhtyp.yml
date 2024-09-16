@@ -4,8 +4,8 @@ latitude: 51.05212
 longitude: 13.74052
 postcode: "01067"
 city: Dresden
-street: "Neumarkt"
-housenumber: 2
+street: Neumarkt
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

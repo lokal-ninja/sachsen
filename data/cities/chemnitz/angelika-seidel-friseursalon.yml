@@ -1,11 +1,11 @@
 id: 112573555
-type: way
+type: node
 latitude: 50.86836
 longitude: 12.91175
 postcode: "09114"
 city: Chemnitz
-street: "Bornaer Straße"
-housenumber: 219
+street: Bornaer Straße
+housenumber: "219"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-12:30"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-12:30
 website: ""

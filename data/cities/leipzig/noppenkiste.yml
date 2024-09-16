@@ -4,8 +4,8 @@ latitude: 51.33117
 longitude: 12.3373
 postcode: "04229"
 city: Leipzig
-street: "Weißenfelser Straße"
-housenumber: 26
-phone: "+49 177 3084886"
-opening_hours: "Mo-Fr 15:30-19:00; Sa 11:00-15:00"
+street: Weißenfelser Straße
+housenumber: "26"
+phone: +49 177 3084886
+opening_hours: Mo-Fr 15:30-19:00; Sa 11:00-15:00
 website: ""

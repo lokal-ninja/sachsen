@@ -1,11 +1,11 @@
 id: 140120835
-type: way
+type: node
 latitude: 50.91308
 longitude: 13.34476
 postcode: "09599"
 city: Freiberg
-street: "Wernerplatz"
+street: Wernerplatz
 housenumber: 5A
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

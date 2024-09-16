@@ -4,8 +4,8 @@ latitude: 51.05464
 longitude: 12.69341
 postcode: "04643"
 city: Geithain
-street: "Leipziger Straße"
-housenumber: 9
-phone: "+49 34341 33065"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-11:00; PH off"
+street: Leipziger Straße
+housenumber: "9"
+phone: +49 34341 33065
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-11:00; PH off
 website: ""

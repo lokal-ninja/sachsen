@@ -4,8 +4,8 @@ latitude: 51.05197
 longitude: 13.80627
 postcode: "01309"
 city: Dresden
-street: "Hüblerstraße"
-housenumber: 2
+street: Hüblerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su,PH 07:00-18:00"
+opening_hours: Mo-Su,PH 07:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 185662787
-type: way
+type: node
 latitude: 51.16286
 longitude: 13.56582
 postcode: "01689"
 city: Weinböhla
-street: "Sachsenstraße"
-housenumber: 6
+street: Sachsenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-11:00; Su 07:00-10:00"
-website: "http://www.baeckerei-zur-bachmuehle.de/"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-11:00; Su 07:00-10:00
+website: http://www.baeckerei-zur-bachmuehle.de/

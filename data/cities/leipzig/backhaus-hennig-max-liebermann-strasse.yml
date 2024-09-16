@@ -4,8 +4,8 @@ latitude: 51.37699
 longitude: 12.37755
 postcode: "04157"
 city: Leipzig
-street: "Max-Liebermann-Straße"
-housenumber: 99
+street: Max-Liebermann-Straße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su,PH off
 website: ""

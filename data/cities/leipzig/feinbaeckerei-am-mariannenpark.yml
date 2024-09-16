@@ -4,8 +4,8 @@ latitude: 51.35627
 longitude: 12.40826
 postcode: "04347"
 city: Leipzig
-street: "Zittauer Straße"
-housenumber: 18
+street: Zittauer Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
-website: "https://www.feinbäckerei-mariannenpark.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00
+website: https://www.feinbäckerei-mariannenpark.de/

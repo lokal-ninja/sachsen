@@ -1,11 +1,11 @@
 id: 252766199
-type: way
+type: node
 latitude: 51.42984
 longitude: 12.36926
 postcode: "04519"
 city: Rackwitz
-street: "Kömmlitzer Straße"
-housenumber: 9
+street: Kömmlitzer Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://www.thassler-gmbh.de/"
+website: http://www.thassler-gmbh.de/

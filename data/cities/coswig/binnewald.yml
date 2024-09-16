@@ -1,11 +1,11 @@
 id: 229333396
-type: way
+type: node
 latitude: 51.1378
 longitude: 13.57502
 postcode: "01640"
 city: Coswig
-street: "Weinböhlaer Straße"
-housenumber: 57
-phone: "+49 3523 71458"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su 09:00-11:00"
+street: Weinböhlaer Straße
+housenumber: "57"
+phone: +49 3523 71458
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su 09:00-11:00
 website: ""

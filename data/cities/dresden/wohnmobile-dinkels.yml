@@ -4,8 +4,8 @@ latitude: 51.0873
 longitude: 13.63954
 postcode: "01156"
 city: Dresden
-street: "Dresdner Straße"
-housenumber: 47
-phone: "+49 351 82118580"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:14:00; PH off"
-website: "https://www.wohnmobile-dinkels.de/Startseite.html"
+street: Dresdner Straße
+housenumber: "47"
+phone: +49 351 82118580
+opening_hours: Mo-Th 08:00-17:00; Fr 08:14:00; PH off
+website: https://www.wohnmobile-dinkels.de/Startseite.html

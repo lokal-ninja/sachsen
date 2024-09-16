@@ -1,11 +1,11 @@
 id: 201509283
-type: way
+type: node
 latitude: 50.5991
 longitude: 13.06341
 postcode: "09456"
 city: Mildenau
-street: "Annaberger Straße"
-housenumber: 4
+street: Annaberger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off
 website: ""

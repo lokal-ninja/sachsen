@@ -1,11 +1,11 @@
 id: 329579056
-type: way
+type: node
 latitude: 50.68662
 longitude: 12.56316
 postcode: "08141"
 city: Reinsdorf
-street: "Gewerbestraße"
-housenumber: 3
+street: Gewerbestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00
 website: ""

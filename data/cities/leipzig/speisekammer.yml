@@ -4,8 +4,8 @@ latitude: 51.32628
 longitude: 12.34229
 postcode: "04229"
 city: Leipzig
-street: "Holbeinstraße"
-housenumber: 19
+street: Holbeinstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Su 11:00-22:00"
+opening_hours: Mo-Su 11:00-22:00
 website: ""

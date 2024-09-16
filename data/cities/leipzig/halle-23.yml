@@ -1,11 +1,11 @@
 id: 37041530
-type: way
+type: node
 latitude: 51.32752
 longitude: 12.32008
 postcode: "04179"
 city: Leipzig
-street: "Spinnereistraße"
-housenumber: 7
+street: Spinnereistraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

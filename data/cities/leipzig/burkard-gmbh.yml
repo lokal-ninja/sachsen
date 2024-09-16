@@ -1,11 +1,11 @@
 id: 322026772
-type: way
+type: node
 latitude: 51.27286
 longitude: 12.48072
 postcode: ""
 city: Leipzig
-street: "Am Niederholz"
-housenumber: 45
+street: Am Niederholz
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

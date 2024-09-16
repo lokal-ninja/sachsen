@@ -1,11 +1,11 @@
 id: 135676937
-type: way
+type: node
 latitude: 50.6676
 longitude: 12.66842
 postcode: "08118"
 city: Hartenstein
-street: "Lichtensteiner Straße"
-housenumber: 38
+street: Lichtensteiner Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

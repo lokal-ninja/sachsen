@@ -1,11 +1,11 @@
 id: 1116783681
-type: way
+type: node
 latitude: 51.18487
 longitude: 14.9628
 postcode: "02828"
 city: Görlitz
-street: "Gottlieb-Daimler-Straße"
-housenumber: 9
-phone: "+49 3581 3815-0"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://www.autohaus-muehlmann.de/"
+street: Gottlieb-Daimler-Straße
+housenumber: "9"
+phone: +49 3581 3815-0
+opening_hours: Mo-Fr 08:30-17:30
+website: https://www.autohaus-muehlmann.de/

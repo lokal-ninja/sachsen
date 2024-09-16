@@ -1,11 +1,11 @@
 id: 96214944
-type: way
+type: node
 latitude: 51.3102
 longitude: 12.37356
 postcode: ""
 city: Leipzig
-street: "Karl-Liebknecht-Straße"
-housenumber: 169
+street: Karl-Liebknecht-Straße
+housenumber: "169"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
 website: ""

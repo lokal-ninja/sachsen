@@ -1,11 +1,11 @@
 id: 456123199
-type: way
+type: node
 latitude: 51.00217
 longitude: 13.85163
 postcode: "01259"
 city: Dresden
-street: "Neue Straße"
-housenumber: 29
-phone: "+49 351 2044884"
-opening_hours: "Mo-Fr 10:00-15:30; Sa 09:30-12:00"
+street: Neue Straße
+housenumber: "29"
+phone: +49 351 2044884
+opening_hours: Mo-Fr 10:00-15:30; Sa 09:30-12:00
 website: ""

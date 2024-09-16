@@ -1,11 +1,11 @@
 id: 418935296
-type: way
+type: node
 latitude: 51.51892
 longitude: 12.32735
 postcode: "04509"
 city: Delitzsch
-street: "Richard-Wagner-Straße"
+street: Richard-Wagner-Straße
 housenumber: 18d
 phone: "+49342028050"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 8:00-12:00"
-website: "https://www.rhg.de/baustoffe-delitzsch"
+opening_hours: Mo-Fr 06:30-18:00; Sa 8:00-12:00
+website: https://www.rhg.de/baustoffe-delitzsch

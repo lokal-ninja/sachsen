@@ -1,11 +1,11 @@
 id: 136017358
-type: way
+type: node
 latitude: 51.22352
 longitude: 14.13462
 postcode: "01920"
 city: Elstra
-street: "Klosterstraße"
-housenumber: 11
+street: Klosterstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

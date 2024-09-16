@@ -4,8 +4,8 @@ latitude: 51.1668
 longitude: 13.48543
 postcode: "01662"
 city: Meißen
-street: "Melzerstraße"
-housenumber: 23
-phone: "+49 3521 72800"
+street: Melzerstraße
+housenumber: "23"
+phone: +49 3521 72800
 opening_hours: ""
-website: "https://www.hahn-schmidt.mercedes-benz.de"
+website: https://www.hahn-schmidt.mercedes-benz.de

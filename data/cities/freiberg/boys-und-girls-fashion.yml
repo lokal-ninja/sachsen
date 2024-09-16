@@ -4,8 +4,8 @@ latitude: 50.91525
 longitude: 13.33978
 postcode: "09599"
 city: Freiberg
-street: "Petersstraße"
-housenumber: 31
-phone: "+49 3731 23616"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.kinderwelt-weber.de/"
+street: Petersstraße
+housenumber: "31"
+phone: +49 3731 23616
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.kinderwelt-weber.de/

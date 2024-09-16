@@ -4,8 +4,8 @@ latitude: 51.32137
 longitude: 12.33995
 postcode: "04229"
 city: Leipzig
-street: "Brockhausstraße"
-housenumber: 47
+street: Brockhausstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Di-Do 13:00-19:00; Fr-Sa 12:00-19:00"
-website: "https://www.etsy.com/de/shop/flunderbar/"
+opening_hours: Di-Do 13:00-19:00; Fr-Sa 12:00-19:00
+website: https://www.etsy.com/de/shop/flunderbar/

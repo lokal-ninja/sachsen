@@ -4,8 +4,8 @@ latitude: 51.04946
 longitude: 13.72188
 postcode: "01067"
 city: Dresden
-street: "Freiberger Straße"
-housenumber: 33
-phone: "+49 351 4902627"
-opening_hours: "Tu-Fr 07:30-18:30; Sa 08:00-13:00; Mo 07:00-18:30"
-website: "https://www.blumen-florales.de/"
+street: Freiberger Straße
+housenumber: "33"
+phone: +49 351 4902627
+opening_hours: Tu-Fr 07:30-18:30; Sa 08:00-13:00; Mo 07:00-18:30
+website: https://www.blumen-florales.de/

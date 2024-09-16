@@ -1,11 +1,11 @@
 id: 6298486713
 type: node
-latitude: 51.1685
-longitude: 14.97208
+latitude: 51.16858
+longitude: 14.97205
 postcode: "02828"
 city: Görlitz
-street: "Nieskyer Straße"
-housenumber: 100
-phone: "+49 3581 8768454"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-15:00"
-website: "https://www.safetonet-family-store.de/"
+street: Nieskyer Straße
+housenumber: "100"
+phone: +49 3581 8768454
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-15:00; PH off
+website: https://www.safetonet-family-store.de

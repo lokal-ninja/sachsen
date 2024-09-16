@@ -4,8 +4,8 @@ latitude: 51.36554
 longitude: 12.43929
 postcode: "04347"
 city: Leipzig
-street: "Brahestraße"
-housenumber: 10
-phone: "+49 341 8709692"
+street: Brahestraße
+housenumber: "10"
+phone: +49 341 8709692
 opening_hours: ""
-website: "https://mit-autogas.de"
+website: https://mit-autogas.de

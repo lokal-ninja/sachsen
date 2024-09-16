@@ -1,11 +1,11 @@
 id: 126066392
-type: way
+type: node
 latitude: 51.46756
 longitude: 12.65746
 postcode: "04838"
 city: Eilenburg
-street: "Wurzener Platz"
-housenumber: 9
+street: Wurzener Platz
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

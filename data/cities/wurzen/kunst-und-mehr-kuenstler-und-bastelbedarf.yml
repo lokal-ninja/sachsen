@@ -1,11 +1,11 @@
 id: 106334561
-type: way
+type: node
 latitude: 51.37029
 longitude: 12.73692
 postcode: "04808"
 city: Wurzen
-street: "Jacobsgasse"
-housenumber: 15
-phone: "+49 3425 818124"
-opening_hours: "Mo-Fr 09:00-16:00; Sa 09:00-12:00"
-website: "https://liane-kunst.de/"
+street: Jacobsgasse
+housenumber: "15"
+phone: +49 3425 818124
+opening_hours: Mo-Fr 09:00-16:00; Sa 09:00-12:00
+website: https://liane-kunst.de/

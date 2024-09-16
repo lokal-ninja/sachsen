@@ -1,11 +1,11 @@
 id: 415307241
-type: way
+type: node
 latitude: 50.74921
 longitude: 13.07407
 postcode: "09405"
 city: Zschopau
-street: "Waldkirchener Straße"
-housenumber: 15
+street: Waldkirchener Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

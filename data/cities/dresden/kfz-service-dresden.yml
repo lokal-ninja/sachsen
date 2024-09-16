@@ -4,8 +4,8 @@ latitude: 51.09035
 longitude: 13.70431
 postcode: "01129"
 city: Dresden
-street: "Industriestraße"
-housenumber: 63
-phone: "+49 351 84710973"
-opening_hours: "Mo-Fr 09:00-18:00; Sa nach Vereinbarung"
-website: "http://www.kfzservicedresden.de/"
+street: Industriestraße
+housenumber: "63"
+phone: +49 351 84710973
+opening_hours: Mo-Fr 09:00-18:00; Sa "nach Vereinbarung"
+website: http://www.kfzservicedresden.de/

@@ -1,11 +1,11 @@
 id: 256422310
-type: way
+type: node
 latitude: 51.19106
 longitude: 14.95775
 postcode: "02828"
 city: Görlitz
-street: "Robert-Bosch-Straße"
+street: Robert-Bosch-Straße
 housenumber: 5-7
-phone: "+49 3581 38100"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su,PH off"
-website: "https://www.hornbach.de/mein-markt/baumarkt-hornbach-goerlitz/"
+phone: +49 3581 38100
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su,PH off
+website: https://www.hornbach.de/mein-markt/baumarkt-hornbach-goerlitz/

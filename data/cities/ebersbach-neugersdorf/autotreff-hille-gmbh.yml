@@ -1,11 +1,11 @@
 id: 202987877
-type: way
+type: node
 latitude: 50.99776
 longitude: 14.61594
 postcode: "02730"
 city: Ebersbach-Neugersdorf
-street: "Johann-Andreas-Schubert-Straße"
-housenumber: 15
+street: Johann-Andreas-Schubert-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

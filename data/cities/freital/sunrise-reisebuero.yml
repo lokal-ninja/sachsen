@@ -4,8 +4,8 @@ latitude: 50.99472
 longitude: 13.64597
 postcode: "01705"
 city: Freital
-street: "Dresdner Straße"
-housenumber: 255
-phone: "+49 351 6412336"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.touristik-center.com"
+street: Dresdner Straße
+housenumber: "255"
+phone: +49 351 6412336
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.touristik-center.com

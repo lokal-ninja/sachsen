@@ -4,8 +4,8 @@ latitude: 50.72178
 longitude: 12.49386
 postcode: "08056"
 city: Zwickau
-street: "Römerstraße"
-housenumber: 8
-phone: "+49 375 2739600"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Römerstraße
+housenumber: "8"
+phone: +49 375 2739600
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

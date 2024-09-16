@@ -1,11 +1,11 @@
 id: 136512100
-type: way
+type: node
 latitude: 51.33066
 longitude: 12.58377
 postcode: "04821"
 city: Brandis
-street: "Gewerbeallee"
-housenumber: 3
+street: Gewerbeallee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 06:30-17:00, Fr 06:30-16:30; Sa,Su,PH off"
+opening_hours: Mo-Th 06:30-17:00, Fr 06:30-16:30; Sa,Su,PH off
 website: ""

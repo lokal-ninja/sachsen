@@ -4,8 +4,8 @@ latitude: 50.7656
 longitude: 13.75747
 postcode: "01773"
 city: Altenberg
-street: "Rathausstraße"
-housenumber: 24
-phone: "+49 35056 23888"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-12:00"
-website: "https://www.rrw-travel.de/"
+street: Rathausstraße
+housenumber: "24"
+phone: +49 35056 23888
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-12:00
+website: https://www.rrw-travel.de/

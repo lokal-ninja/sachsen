@@ -1,11 +1,11 @@
 id: 98426096
-type: way
+type: node
 latitude: 50.71552
 longitude: 12.7836
 postcode: "09366"
 city: Stollberg/Erzgebirge
-street: "Chemnitzer Straße"
-housenumber: 27
+street: Chemnitzer Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

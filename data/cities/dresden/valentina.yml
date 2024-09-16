@@ -4,8 +4,8 @@ latitude: 51.0603
 longitude: 13.74316
 postcode: "01097"
 city: Dresden
-street: "Hauptstraße"
-housenumber: 19
+street: Hauptstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00; PH off"
-website: "https://valentina-dresden.de/"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-17:00; PH off
+website: https://valentina-dresden.de/

@@ -4,8 +4,8 @@ latitude: 51.07603
 longitude: 13.74898
 postcode: "01097"
 city: Dresden
-street: "Seitenstraße"
-housenumber: 3
-phone: "+49 351 8797938"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 10:00-16:00"
-website: "https://schnitte-hecht.de/"
+street: Seitenstraße
+housenumber: "3"
+phone: +49 351 8797938
+opening_hours: Mo-Fr 09:00-21:00; Sa 10:00-16:00
+website: https://schnitte-hecht.de/

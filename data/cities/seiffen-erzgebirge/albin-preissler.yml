@@ -1,11 +1,11 @@
 id: 123447638
-type: way
+type: node
 latitude: 50.64196
 longitude: 13.47647
 postcode: "09548"
 city: Seiffen/Erzgebirge
-street: "Hauptstraße"
-housenumber: 187
-phone: "+49 (0) 37362 8483"
-opening_hours: "Mo-Fr 06:30-16:30"
-website: "http://www.albinpreissler.de"
+street: Hauptstraße
+housenumber: "187"
+phone: +49 (0) 37362 8483
+opening_hours: Mo-Fr 06:30-16:30
+website: http://www.albinpreissler.de

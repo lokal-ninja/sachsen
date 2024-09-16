@@ -1,11 +1,11 @@
 id: 60671251
-type: way
+type: node
 latitude: 50.85651
 longitude: 14.70857
 postcode: "02796"
 city: Jonsdorf
-street: "Zittauer Straße"
-housenumber: 46
-phone: "+49 35844 70171"
-opening_hours: "Tu-Th 09:00-17:00"
-website: "http://www.donath-jonsdorf.de"
+street: Zittauer Straße
+housenumber: "46"
+phone: +49 35844 70171
+opening_hours: Tu-Th 09:00-17:00
+website: http://www.donath-jonsdorf.de

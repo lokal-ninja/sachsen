@@ -1,11 +1,11 @@
 id: 34336390
-type: way
+type: node
 latitude: 50.60013
 longitude: 12.62327
 postcode: "08289"
 city: Schneeberg
-street: "Bruno-Dost-Straße"
-housenumber: 20
+street: Bruno-Dost-Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-hempel.de/"
+website: https://www.autohaus-hempel.de/

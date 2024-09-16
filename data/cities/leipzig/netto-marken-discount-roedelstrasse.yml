@@ -1,11 +1,11 @@
 id: 24309731
-type: way
+type: node
 latitude: 51.31831
 longitude: 12.34098
 postcode: "04229"
 city: Leipzig
-street: "Rödelstraße"
-housenumber: 31
+street: Rödelstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/leipzig/r%C3%B6delstr-31/8712"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/leipzig/r%C3%B6delstr-31/8712

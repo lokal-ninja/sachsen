@@ -4,8 +4,8 @@ latitude: 51.12009
 longitude: 13.92151
 postcode: "01454"
 city: Radeberg
-street: "Pulsnitzer Straße"
-housenumber: 33
-phone: "+49 3528 4876040"
-opening_hours: "Mo-Sa 06:30-20:00; Su 07:00-18:00"
-website: "https://muehlenbaecker.de"
+street: Pulsnitzer Straße
+housenumber: "33"
+phone: +49 3528 4876040
+opening_hours: Mo-Sa 06:30-20:00; Su 07:00-18:00
+website: https://muehlenbaecker.de

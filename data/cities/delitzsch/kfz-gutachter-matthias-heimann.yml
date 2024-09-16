@@ -4,8 +4,8 @@ latitude: 51.53798
 longitude: 12.35366
 postcode: "04509"
 city: Delitzsch
-street: "Werbener Straße"
-housenumber: 1
+street: Werbener Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Bitte benutzen sie die Klingel und die Sprechanlage.     Tel 55010"
+opening_hours: '"Bitte benutzen sie die Klingel und die Sprechanlage.     Tel 55010"'
 website: ""

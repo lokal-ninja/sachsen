@@ -1,11 +1,11 @@
 id: 143277979
-type: way
+type: node
 latitude: 50.54779
 longitude: 12.65515
 postcode: "08321"
 city: Zschorlau
-street: "Albernauer Hauptstraße"
-housenumber: 36
+street: Albernauer Hauptstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

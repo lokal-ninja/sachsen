@@ -4,8 +4,8 @@ latitude: 51.33812
 longitude: 12.37456
 postcode: "04109"
 city: Leipzig
-street: "Petersstraße"
-housenumber: 30
-phone: "+49 341 2110433"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 08:00-19:00"
-website: "https://lukas-baecker.de/"
+street: Petersstraße
+housenumber: "30"
+phone: +49 341 2110433
+opening_hours: Mo-Fr 06:00-19:00; Sa 08:00-19:00
+website: https://lukas-baecker.de/

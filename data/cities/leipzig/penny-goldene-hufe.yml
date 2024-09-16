@@ -1,11 +1,11 @@
 id: 252267410
-type: way
+type: node
 latitude: 51.35934
 longitude: 12.47423
 postcode: "04329"
 city: Leipzig
-street: "Goldene Hufe"
-housenumber: 1
+street: Goldene Hufe
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.penny.de/

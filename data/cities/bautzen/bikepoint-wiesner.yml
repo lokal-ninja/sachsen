@@ -1,11 +1,11 @@
 id: 748660262
-type: way
+type: node
 latitude: 51.18986
 longitude: 14.45102
 postcode: "02625"
 city: Bautzen
-street: "Muskauer Straße"
-housenumber: 52
-phone: "+49 3591 351081"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-12:30"
-website: "https://www.bikepoint-wiesner.de/"
+street: Muskauer Straße
+housenumber: "52"
+phone: +49 3591 351081
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-12:30
+website: https://www.bikepoint-wiesner.de/

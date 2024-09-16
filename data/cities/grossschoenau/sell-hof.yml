@@ -4,8 +4,8 @@ latitude: 50.86926
 longitude: 14.67181
 postcode: "02799"
 city: Großschönau
-street: "Saalendorf"
-housenumber: 5
+street: Saalendorf
+housenumber: "5"
 phone: ""
-opening_hours: "Tu,Th,Fr 10:00-13:00,14:00-18:00, We,Sa 10:00-12:00; Su,PH off"
-website: "https://www.sell-hof.de/camping-im-zittauer-gebirge"
+opening_hours: Tu,Th,Fr 10:00-13:00,14:00-18:00, We,Sa 10:00-12:00; Su,PH off
+website: https://www.sell-hof.de/camping-im-zittauer-gebirge

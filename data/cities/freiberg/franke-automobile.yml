@@ -1,11 +1,11 @@
 id: 141309392
-type: way
+type: node
 latitude: 50.90141
 longitude: 13.3378
 postcode: "09599"
 city: Freiberg
-street: "Brander Straße"
-housenumber: 71
-phone: "+49 3731 6780"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-12:30"
-website: "https://www.franke-auto.de/"
+street: Brander Straße
+housenumber: "71"
+phone: +49 3731 6780
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-12:30
+website: https://www.franke-auto.de/

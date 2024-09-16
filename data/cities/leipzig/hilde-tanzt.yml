@@ -4,8 +4,8 @@ latitude: 51.34004
 longitude: 12.32605
 postcode: "04177"
 city: Leipzig
-street: "Georg-Schwarz-Straße"
-housenumber: 20
+street: Georg-Schwarz-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "We-Fr 11:00-18:00; Sa 12:00-17:00"
+opening_hours: We-Fr 11:00-18:00; Sa 12:00-17:00
 website: ""

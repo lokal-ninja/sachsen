@@ -1,11 +1,11 @@
 id: 237904741
-type: way
+type: node
 latitude: 50.90397
 longitude: 14.82539
 postcode: "02763"
 city: Zittau
-street: "Görlitzer Straße"
-housenumber: 53
+street: Görlitzer Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "https://www.glaubitz-autodienst.de/"
+website: https://www.glaubitz-autodienst.de/

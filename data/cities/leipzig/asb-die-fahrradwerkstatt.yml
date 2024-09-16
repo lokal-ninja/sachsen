@@ -4,8 +4,8 @@ latitude: 51.32772
 longitude: 12.33607
 postcode: "04229"
 city: Leipzig
-street: "Zschochersche Straße"
-housenumber: 61
-phone: "+49 92600808"
-opening_hours: "Mo,We,Fr 10:00-12:00; Mo,We,Fr 13:00-18:00; Tu,Th 12:00-18:00;"
-website: "https://www.asb-diefahrradwerkstatt.de"
+street: Zschochersche Straße
+housenumber: "61"
+phone: +49 92600808
+opening_hours: Mo,We,Fr 10:00-12:00; Mo,We,Fr 13:00-18:00; Tu,Th 12:00-18:00;
+website: https://www.asb-diefahrradwerkstatt.de

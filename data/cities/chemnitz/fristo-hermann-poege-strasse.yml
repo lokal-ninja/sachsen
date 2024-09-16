@@ -1,11 +1,11 @@
 id: 94696621
-type: way
+type: node
 latitude: 50.80472
 longitude: 12.92144
 postcode: "09120"
 city: Chemnitz
-street: "Hermann-Pöge-Straße"
-housenumber: 3
+street: Hermann-Pöge-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

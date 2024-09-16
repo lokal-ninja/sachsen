@@ -4,8 +4,8 @@ latitude: 51.09814
 longitude: 14.66583
 postcode: "02708"
 city: Löbau
-street: "August-Bebel-Straße"
-housenumber: 2
+street: August-Bebel-Straße
+housenumber: "2"
 phone: "+49358586740"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-13:00"
-website: "https://www.fleischerei-richter.de/"
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-13:00
+website: https://www.fleischerei-richter.de/

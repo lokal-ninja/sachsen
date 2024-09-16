@@ -4,8 +4,8 @@ latitude: 50.84351
 longitude: 12.90317
 postcode: "09113"
 city: Chemnitz
-street: "Winklerstraße"
-housenumber: 1
-phone: "+49 371 6957794"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 07:00-11:00"
+street: Winklerstraße
+housenumber: "1"
+phone: +49 371 6957794
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 07:00-11:00
 website: ""

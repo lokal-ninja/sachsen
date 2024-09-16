@@ -4,8 +4,8 @@ latitude: 50.82596
 longitude: 12.54303
 postcode: "08371"
 city: Glauchau
-street: "Güterbahnhofstraße"
-housenumber: 6
-phone: "+49 3763 4023013"
-opening_hours: "Mo-Th 6:30-17:00; Fr 6:30-15:00; Sa 8:00-10:00; PH off"
-website: "www.edki-sht.de"
+street: Güterbahnhofstraße
+housenumber: "6"
+phone: +49 3763 4023013
+opening_hours: Mo-Th 6:30-17:00; Fr 6:30-15:00; Sa 8:00-10:00; PH off
+website: www.edki-sht.de

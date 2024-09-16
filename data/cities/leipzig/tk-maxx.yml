@@ -5,7 +5,7 @@ longitude: 12.39759
 postcode: ""
 city: Leipzig
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.tkmaxx.de/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.tkmaxx.de/

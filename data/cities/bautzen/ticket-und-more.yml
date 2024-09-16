@@ -4,8 +4,8 @@ latitude: 51.17344
 longitude: 14.42898
 postcode: "02625"
 city: Bautzen
-street: "Rathenauplatz"
-housenumber: 1
+street: Rathenauplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.4876
 longitude: 12.3841
 postcode: "08236"
 city: Ellefeld
-street: "Gewerbering"
-housenumber: 22
+street: Gewerbering
+housenumber: "22"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:30-18:00; Sa 08:00-12:00; We,Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 08:30-18:00; Sa 08:00-12:00; We,Su,PH off
 website: ""

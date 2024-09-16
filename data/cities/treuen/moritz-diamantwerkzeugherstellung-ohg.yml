@@ -1,11 +1,11 @@
 id: 184223321
-type: way
+type: node
 latitude: 50.54173
 longitude: 12.3018
 postcode: "08233"
 city: Treuen
-street: "Walther-Rathenau-Straße"
+street: Walther-Rathenau-Straße
 housenumber: 5A
 phone: ""
 opening_hours: ""
-website: "https://www.moritz-diamant.de/"
+website: https://www.moritz-diamant.de/

@@ -4,8 +4,8 @@ latitude: 51.00191
 longitude: 13.65299
 postcode: "01705"
 city: Freital
-street: "Dresdner Straße"
-housenumber: 189
-phone: "+49 351 6411292"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.bilgro.de/"
+street: Dresdner Straße
+housenumber: "189"
+phone: +49 351 6411292
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.bilgro.de/

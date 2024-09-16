@@ -1,11 +1,11 @@
 id: 303824239
-type: way
+type: node
 latitude: 50.66253
 longitude: 12.47163
 postcode: "08064"
 city: Zwickau
-street: "Rottmannsdorfer Hauptstraße"
-housenumber: 33
+street: Rottmannsdorfer Hauptstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

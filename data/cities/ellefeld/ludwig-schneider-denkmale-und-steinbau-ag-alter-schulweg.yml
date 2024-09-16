@@ -1,11 +1,11 @@
 id: 328248438
-type: way
+type: node
 latitude: 50.48414
 longitude: 12.39025
 postcode: "08236"
 city: Ellefeld
-street: "Alter Schulweg"
-housenumber: 1
+street: Alter Schulweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

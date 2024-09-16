@@ -1,11 +1,11 @@
 id: 87557409
-type: way
+type: node
 latitude: 50.85255
 longitude: 13.07571
 postcode: "09557"
 city: Flöha
-street: "Augustusburger Straße"
+street: Augustusburger Straße
 housenumber: 74a
-phone: "+49 3726 4806"
-opening_hours: "Mo-Fr 08:00-16:00"
+phone: +49 3726 4806
+opening_hours: Mo-Fr 08:00-16:00
 website: ""

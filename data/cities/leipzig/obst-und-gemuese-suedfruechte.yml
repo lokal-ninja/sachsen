@@ -4,8 +4,8 @@ latitude: 51.36199
 longitude: 12.371
 postcode: "04155"
 city: Leipzig
-street: "Lützowstraße"
-housenumber: 11
+street: Lützowstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
 website: ""

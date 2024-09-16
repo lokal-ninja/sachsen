@@ -4,8 +4,8 @@ latitude: 51.04614
 longitude: 13.77077
 postcode: "01307"
 city: Dresden
-street: "Fetscherstraße"
-housenumber: 29
+street: Fetscherstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.mobilcom-debitel.de/shops/Dresden-Seevorstadt-Sued"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.mobilcom-debitel.de/shops/Dresden-Seevorstadt-Sued

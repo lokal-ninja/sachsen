@@ -1,11 +1,11 @@
 id: 179632491
-type: way
+type: node
 latitude: 51.13158
 longitude: 14.80538
 postcode: "02894"
 city: Reichenbach/O.L.
-street: "Paulsdorfer Straße"
-housenumber: 6
+street: Paulsdorfer Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:00, Fr 07:00-15:00; PH off"
+opening_hours: Mo-Th 07:00-16:00, Fr 07:00-15:00; PH off
 website: ""

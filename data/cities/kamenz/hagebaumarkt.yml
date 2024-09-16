@@ -1,11 +1,11 @@
 id: 99243997
-type: way
+type: node
 latitude: 51.29069
 longitude: 14.10494
 postcode: "01917"
 city: Kamenz
-street: "Friedensstraße"
-housenumber: 20
-phone: "+49 3578 380210"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 08:00-16:00; PH off"
-website: "https://www.bhg-kamenz.de/"
+street: Friedensstraße
+housenumber: "20"
+phone: +49 3578 380210
+opening_hours: Mo-Fr 06:30-19:00; Sa 08:00-16:00; PH off
+website: https://www.bhg-kamenz.de/

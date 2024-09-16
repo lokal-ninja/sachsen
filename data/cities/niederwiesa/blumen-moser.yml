@@ -1,11 +1,11 @@
 id: 267483894
-type: way
+type: node
 latitude: 50.88459
 longitude: 13.00434
 postcode: "09577"
 city: Niederwiesa
-street: "Frankenberger Straße"
-housenumber: 3
-phone: "+49 37206 5108"
-opening_hours: "Mo-Fr 13:00-18:00; Sa 09:00-12:00"
-website: "https://blumen-moser.de/"
+street: Frankenberger Straße
+housenumber: "3"
+phone: +49 37206 5108
+opening_hours: Mo-Fr 13:00-18:00; Sa 09:00-12:00
+website: https://blumen-moser.de/

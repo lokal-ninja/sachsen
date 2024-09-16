@@ -1,11 +1,11 @@
 id: 122112374
-type: way
+type: node
 latitude: 50.96962
 longitude: 13.87255
 postcode: "01809"
 city: Heidenau
-street: "Hauptstraße"
-housenumber: 41
+street: Hauptstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

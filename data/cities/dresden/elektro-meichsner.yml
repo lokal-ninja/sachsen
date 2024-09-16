@@ -4,8 +4,8 @@ latitude: 51.04537
 longitude: 13.66425
 postcode: "01169"
 city: Dresden
-street: "Omsewitzer Ring"
-housenumber: 15
+street: Omsewitzer Ring
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.lichthaus-meichsner.de.tl/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.lichthaus-meichsner.de.tl/

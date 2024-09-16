@@ -1,11 +1,11 @@
 id: 46344738
-type: way
+type: node
 latitude: 51.12468
 longitude: 14.17972
 postcode: "01877"
 city: Bischofswerda
-street: "Stolpener Straße"
-housenumber: 11
+street: Stolpener Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.91892
 longitude: 13.34832
 postcode: "09599"
 city: Freiberg
-street: "Berggasse"
-housenumber: 3
-phone: "+49 3731 23931"
-opening_hours: "nach Ankündigung am Haus"
+street: Berggasse
+housenumber: "3"
+phone: +49 3731 23931
+opening_hours: '"nach Ankündigung am Haus"'
 website: ""

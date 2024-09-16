@@ -4,8 +4,8 @@ latitude: 50.85921
 longitude: 12.76333
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Hechinger Straße"
-housenumber: 5
+street: Hechinger Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://www.fotobiener.de/impressum.php"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: http://www.fotobiener.de/impressum.php

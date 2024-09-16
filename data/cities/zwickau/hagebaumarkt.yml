@@ -1,11 +1,11 @@
 id: 161797863
-type: way
+type: node
 latitude: 50.72074
 longitude: 12.44796
 postcode: "08060"
 city: Zwickau
-street: "Brander Weg"
-housenumber: 1
+street: Brander Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.mtb-baustoffe.de/mtb/index.html"
+website: http://www.mtb-baustoffe.de/mtb/index.html

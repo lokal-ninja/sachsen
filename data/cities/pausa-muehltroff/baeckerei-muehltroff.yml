@@ -1,11 +1,11 @@
 id: 178188966
-type: way
+type: node
 latitude: 50.54046
 longitude: 11.92828
 postcode: "07919"
 city: Pausa-Mühltroff
-street: "Hauptstraße"
-housenumber: 8
+street: Hauptstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

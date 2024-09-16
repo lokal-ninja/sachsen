@@ -4,8 +4,8 @@ latitude: 50.5047
 longitude: 12.40036
 postcode: "08209"
 city: Auerbach
-street: "Herrenwiese"
-housenumber: 3
+street: Herrenwiese
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.medimax.de/auerbach/"
+website: https://www.medimax.de/auerbach/

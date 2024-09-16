@@ -1,11 +1,11 @@
 id: 91390143
-type: way
+type: node
 latitude: 50.65463
 longitude: 13.23768
 postcode: "09496"
 city: Marienberg
-street: "Johannisstraße"
-housenumber: 126
+street: Johannisstraße
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

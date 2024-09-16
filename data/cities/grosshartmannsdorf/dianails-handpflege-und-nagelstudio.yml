@@ -1,11 +1,11 @@
 id: 292289754
-type: way
+type: node
 latitude: 50.79999
 longitude: 13.32082
 postcode: "09618"
 city: Großhartmannsdorf
-street: "Hauptstraße"
-housenumber: 158
+street: Hauptstraße
+housenumber: "158"
 phone: ""
 opening_hours: ""
 website: ""

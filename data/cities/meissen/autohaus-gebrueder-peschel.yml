@@ -1,11 +1,11 @@
 id: 166050125
-type: way
+type: node
 latitude: 51.158
 longitude: 13.50639
 postcode: "01662"
 city: Meißen
-street: "Am Wall"
-housenumber: 2
+street: Am Wall
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

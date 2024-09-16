@@ -1,11 +1,11 @@
 id: 31904088
-type: way
+type: node
 latitude: 51.11376
 longitude: 13.90805
 postcode: "01454"
 city: Radeberg
-street: "Dresdener Straße"
+street: Dresdener Straße
 housenumber: 43a
-phone: "+49 3528 444444"
+phone: +49 3528 444444
 opening_hours: ""
 website: ""

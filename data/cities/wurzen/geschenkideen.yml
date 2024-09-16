@@ -1,11 +1,11 @@
 id: 100058833
-type: way
+type: node
 latitude: 51.36889
 longitude: 12.73504
 postcode: "04808"
 city: Wurzen
-street: "Wenceslaigasse"
-housenumber: 1
+street: Wenceslaigasse
+housenumber: "1"
 phone: ""
-opening_hours: "We 10:01-12:01"
+opening_hours: We 10:01-12:01
 website: ""

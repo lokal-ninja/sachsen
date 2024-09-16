@@ -1,11 +1,11 @@
 id: 555913461
-type: way
+type: node
 latitude: 50.51217
 longitude: 12.04859
 postcode: "08527"
 city: Rosenbach/Vogtland
-street: "Hauptstraße"
-housenumber: 8
+street: Hauptstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

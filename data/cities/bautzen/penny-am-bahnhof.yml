@@ -1,11 +1,11 @@
 id: 99218018
-type: way
+type: node
 latitude: 51.1741
 longitude: 14.42705
 postcode: "02625"
 city: Bautzen
-street: "Tzschirnerstraße"
-housenumber: 16
+street: Tzschirnerstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

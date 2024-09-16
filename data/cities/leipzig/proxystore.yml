@@ -4,8 +4,8 @@ latitude: 51.30942
 longitude: 12.37628
 postcode: "04277"
 city: Leipzig
-street: "Bernhard-Göring-Straße"
-housenumber: 162
+street: Bernhard-Göring-Straße
+housenumber: "162"
 phone: ""
-opening_hours: "Mo,Th 10:00-18:00; Tu-Sa 10:00-14:00"
+opening_hours: Mo,Th 10:00-18:00; Tu-Sa 10:00-14:00
 website: ""

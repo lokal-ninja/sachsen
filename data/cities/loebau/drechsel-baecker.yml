@@ -4,8 +4,8 @@ latitude: 51.09913
 longitude: 14.66815
 postcode: "02708"
 city: Löbau
-street: "Sachsenstraße"
-housenumber: 4
-phone: "+49 3585 4138186"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
-website: "https://www.drechsel-baecker.de"
+street: Sachsenstraße
+housenumber: "4"
+phone: +49 3585 4138186
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00
+website: https://www.drechsel-baecker.de

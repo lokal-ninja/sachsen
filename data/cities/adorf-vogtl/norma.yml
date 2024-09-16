@@ -1,11 +1,11 @@
 id: 143024068
-type: way
+type: node
 latitude: 50.31773
 longitude: 12.26701
 postcode: "08626"
 city: Adorf/Vogtl.
-street: "Markneukirchner Straße"
-housenumber: 54
+street: Markneukirchner Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 90625295
-type: way
+type: node
 latitude: 51.27239
 longitude: 12.378
 postcode: "04416"
 city: Markkleeberg
-street: "Hauptstraße"
-housenumber: 99
+street: Hauptstraße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

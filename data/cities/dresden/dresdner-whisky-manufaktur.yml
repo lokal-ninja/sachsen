@@ -1,11 +1,11 @@
 id: 305465172
-type: way
+type: node
 latitude: 51.06542
 longitude: 13.71514
 postcode: "01067"
 city: Dresden
-street: "Magdeburger Straße"
-housenumber: 58
-phone: "+49 351 501 953 60"
+street: Magdeburger Straße
+housenumber: "58"
+phone: +49 351 501 953 60
 opening_hours: ""
-website: "https://www.hellinger42.de/"
+website: https://www.hellinger42.de/

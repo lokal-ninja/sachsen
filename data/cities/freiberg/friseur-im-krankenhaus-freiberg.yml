@@ -4,8 +4,8 @@ latitude: 50.92054
 longitude: 13.35139
 postcode: "09599"
 city: Freiberg
-street: "Donatsring"
-housenumber: 20
-phone: "+49 3731 772376"
-opening_hours: "Mo-We 08:30-18:00; Th-Fr 08:30-20:00; Sa-Su 09:00-16:00"
-website: "http://friseur-im-krankenhaus.de/"
+street: Donatsring
+housenumber: "20"
+phone: +49 3731 772376
+opening_hours: Mo-We 08:30-18:00; Th-Fr 08:30-20:00; Sa-Su 09:00-16:00
+website: http://friseur-im-krankenhaus.de/

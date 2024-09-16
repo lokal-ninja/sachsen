@@ -1,11 +1,11 @@
 id: 236581682
-type: way
+type: node
 latitude: 51.36049
 longitude: 12.38869
 postcode: "04129"
 city: Leipzig
-street: "Zerbster Straße"
-housenumber: 16
+street: Zerbster Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

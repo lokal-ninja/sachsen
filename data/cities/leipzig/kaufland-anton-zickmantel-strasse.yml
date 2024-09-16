@@ -4,8 +4,8 @@ latitude: 51.3035
 longitude: 12.32261
 postcode: "04249"
 city: Leipzig
-street: "Anton-Zickmantel-Straße"
-housenumber: 42
-phone: "+49 341 490430"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+street: Anton-Zickmantel-Straße
+housenumber: "42"
+phone: +49 341 490430
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

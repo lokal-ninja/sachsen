@@ -4,8 +4,8 @@ latitude: 51.32008
 longitude: 12.42773
 postcode: "04299"
 city: Leipzig
-street: "Holzhäuser Straße"
-housenumber: 119
-phone: "+49 341 86 32 00 90"
-opening_hours: "nach Vereinbarung"
-website: "https://www.janas-haargarten.de/"
+street: Holzhäuser Straße
+housenumber: "119"
+phone: +49 341 86 32 00 90
+opening_hours: nach Vereinbarung
+website: https://www.janas-haargarten.de/

@@ -1,11 +1,11 @@
 id: 46893456
-type: way
+type: node
 latitude: 50.7112
 longitude: 12.99606
 postcode: "09423"
 city: Gelenau/Erzgeb.
-street: "Venusberger Straße"
-housenumber: 3
+street: Venusberger Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

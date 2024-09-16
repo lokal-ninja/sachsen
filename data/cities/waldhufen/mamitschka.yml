@@ -1,11 +1,11 @@
 id: 394200087
-type: way
+type: node
 latitude: 51.2108
 longitude: 14.77171
 postcode: "02906"
 city: Waldhufen
-street: "Arnsdorfer Straße"
-housenumber: 53
+street: Arnsdorfer Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.mamitschka.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.mamitschka.de/

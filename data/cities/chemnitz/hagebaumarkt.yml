@@ -1,11 +1,11 @@
 id: 98872594
-type: way
+type: node
 latitude: 50.87926
 longitude: 12.82411
 postcode: "09228"
 city: Chemnitz
-street: "Wittgensdorfer Höhe"
-housenumber: 3
+street: Wittgensdorfer Höhe
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
 website: ""

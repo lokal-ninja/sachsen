@@ -4,8 +4,8 @@ latitude: 51.35935
 longitude: 12.26979
 postcode: "04178"
 city: Leipzig
-street: "Burghausener Straße"
-housenumber: 21
+street: Burghausener Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo,We 09:00-15:00; Tu,Th,Fr 09:00-16:30; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo,We 09:00-15:00; Tu,Th,Fr 09:00-16:30; Sa 09:00-13:00; Su,PH off
 website: ""

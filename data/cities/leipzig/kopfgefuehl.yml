@@ -4,8 +4,8 @@ latitude: 51.30681
 longitude: 12.45843
 postcode: "04288"
 city: Leipzig
-street: "Arthur-Polenz-Straße"
-housenumber: 43
+street: Arthur-Polenz-Straße
+housenumber: "43"
 phone: "+4934297463452"
-opening_hours: "Mo off; Tu, We 09:00-18:00; Th, Fr 13:00-18:00; Sa on appointment"
-website: "https://www.kopfgefuehl-leipzig.de/"
+opening_hours: Mo off; Tu, We 09:00-18:00; Th, Fr 13:00-18:00; Sa on appointment
+website: https://www.kopfgefuehl-leipzig.de/

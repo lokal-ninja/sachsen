@@ -4,8 +4,8 @@ latitude: 50.71723
 longitude: 12.48391
 postcode: "08056"
 city: Zwickau
-street: "Brunnenstraße"
-housenumber: 8
+street: Brunnenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,Tu 08:00-12:00,13:00-17:00"
+opening_hours: Mo,Tu 08:00-12:00,13:00-17:00
 website: ""

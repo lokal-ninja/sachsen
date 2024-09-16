@@ -1,11 +1,11 @@
 id: 99897560
-type: way
+type: node
 latitude: 51.36885
 longitude: 12.74074
 postcode: "04808"
 city: Wurzen
-street: "Friedrich-Engels-Straße"
-housenumber: 2
+street: Friedrich-Engels-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:00-17:00"
+opening_hours: Mo-Fr 09:00-12:30,13:00-17:00
 website: ""

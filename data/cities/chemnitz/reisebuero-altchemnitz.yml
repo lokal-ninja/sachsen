@@ -4,8 +4,8 @@ latitude: 50.79525
 longitude: 12.9248
 postcode: "09125"
 city: Chemnitz
-street: "Olbernhauer Straße"
-housenumber: 22
-phone: "+49 371 517647"
-opening_hours: "Mo,Fr 10:00-14:00; Tu,Th 14:00-18:00"
-website: "http://reisebuero-altchemnitz.de"
+street: Olbernhauer Straße
+housenumber: "22"
+phone: +49 371 517647
+opening_hours: Mo,Fr 10:00-14:00; Tu,Th 14:00-18:00
+website: http://reisebuero-altchemnitz.de

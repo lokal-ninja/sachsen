@@ -1,11 +1,11 @@
 id: 223420679
-type: way
+type: node
 latitude: 50.63771
 longitude: 12.32642
 postcode: "08468"
 city: Reichenbach
-street: "Obere Lindenstraße"
-housenumber: 26
+street: Obere Lindenstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:30; Sa 08:30-18:00; Su,PH off"
+opening_hours: Mo-Fr 08:30-19:30; Sa 08:30-18:00; Su,PH off
 website: ""

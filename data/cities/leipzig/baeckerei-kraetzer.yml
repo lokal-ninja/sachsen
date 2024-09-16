@@ -4,8 +4,8 @@ latitude: 51.37878
 longitude: 12.40667
 postcode: "04357"
 city: Leipzig
-street: "Friedrichshafner Straße"
-housenumber: 150
-phone: "+49 341 6018100"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-11:00"
-website: "https://baeckerei-kraetzer.de/"
+street: Friedrichshafner Straße
+housenumber: "150"
+phone: +49 341 6018100
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-11:00
+website: https://baeckerei-kraetzer.de/

@@ -1,11 +1,11 @@
 id: 1121901937
-type: way
+type: node
 latitude: 51.33397
 longitude: 12.60642
 postcode: "04821"
 city: Brandis
-street: "Pappelallee"
-housenumber: 6
+street: Pappelallee
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
 website: ""

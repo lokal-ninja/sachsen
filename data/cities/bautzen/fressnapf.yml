@@ -1,11 +1,11 @@
 id: 88659601
-type: way
+type: node
 latitude: 51.17335
 longitude: 14.46997
 postcode: "02625"
 city: Bautzen
-street: "Löbauer Straße"
-housenumber: 120
+street: Löbauer Straße
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.89579
 longitude: 14.80865
 postcode: "02763"
 city: Zittau
-street: "Rathausplatz"
-housenumber: 6
-phone: "+49 3583 684591"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:45"
-website: "https://www.blumen-kreativkeller.de/"
+street: Rathausplatz
+housenumber: "6"
+phone: +49 3583 684591
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-12:45
+website: https://www.blumen-kreativkeller.de/

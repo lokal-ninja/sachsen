@@ -1,11 +1,11 @@
 id: 169074002
-type: way
+type: node
 latitude: 50.82123
 longitude: 12.92065
 postcode: "09120"
 city: Chemnitz
-street: "Wilhelm-Raabe-Straße"
-housenumber: 2
+street: Wilhelm-Raabe-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.poco.de/standorte/poco-einrichtungsmarkt-chemnitz"
+website: https://www.poco.de/standorte/poco-einrichtungsmarkt-chemnitz

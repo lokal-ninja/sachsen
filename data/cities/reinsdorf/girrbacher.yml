@@ -1,11 +1,11 @@
 id: 119059809
-type: way
+type: node
 latitude: 50.69155
 longitude: 12.55863
 postcode: "08141"
 city: Reinsdorf
-street: "August-Horch-Straße"
-housenumber: 68
+street: August-Horch-Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-12:30; PH,Su off"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-12:30; PH,Su off
 website: ""

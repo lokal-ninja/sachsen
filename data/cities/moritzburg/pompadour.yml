@@ -4,8 +4,8 @@ latitude: 51.16028
 longitude: 13.68027
 postcode: "01468"
 city: Moritzburg
-street: "Schloßallee"
-housenumber: 23
-phone: "+49 35207 81347;+49 172 7977456"
-opening_hours: "nach Vereinbarung"
-website: "http://pompadour-moritzburg.de"
+street: Schloßallee
+housenumber: "23"
+phone: +49 35207 81347;+49 172 7977456
+opening_hours: nach Vereinbarung
+website: http://pompadour-moritzburg.de

@@ -4,8 +4,8 @@ latitude: 51.33697
 longitude: 12.40825
 postcode: "04317"
 city: Leipzig
-street: "Breite Straße"
-housenumber: 12
-phone: "+49 176 60029355"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://studio-fur-nagelkunst.business.site/"
+street: Breite Straße
+housenumber: "12"
+phone: +49 176 60029355
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://studio-fur-nagelkunst.business.site/

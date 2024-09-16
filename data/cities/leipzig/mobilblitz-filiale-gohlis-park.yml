@@ -4,8 +4,8 @@ latitude: 51.37571
 longitude: 12.3599
 postcode: "04157"
 city: Leipzig
-street: "Landsberger Straße"
-housenumber: 81
-phone: "+49 341 91075975"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-13:00"
-website: "https://www.mobilblitz.de/"
+street: Landsberger Straße
+housenumber: "81"
+phone: +49 341 91075975
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-13:00
+website: https://www.mobilblitz.de/

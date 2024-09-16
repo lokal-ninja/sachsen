@@ -1,11 +1,11 @@
 id: 202194874
-type: way
+type: node
 latitude: 50.86254
 longitude: 12.76062
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Kleines Dörfchen"
-housenumber: 5
+street: Kleines Dörfchen
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

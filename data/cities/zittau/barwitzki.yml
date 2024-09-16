@@ -4,8 +4,8 @@ latitude: 50.89715
 longitude: 14.8057
 postcode: "02763"
 city: Zittau
-street: "Bautzner Straße"
-housenumber: 1
-phone: "+49 3583510163"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 07:00-12:00"
-website: "https://www.fleischerei-barwitzki.de/"
+street: Bautzner Straße
+housenumber: "1"
+phone: +49 3583510163
+opening_hours: Mo-Fr 09:00-18:00; Sa 07:00-12:00
+website: https://www.fleischerei-barwitzki.de/

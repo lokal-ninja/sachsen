@@ -4,8 +4,8 @@ latitude: 51.34326
 longitude: 12.37462
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+4934122558210"
-opening_hours: "Mo-Sa 06:30-20:30; Su 07:00-18:00"
-website: "https://lukas-baecker.de/"
+opening_hours: Mo-Sa 06:30-20:30; Su 07:00-18:00
+website: https://lukas-baecker.de/

@@ -4,8 +4,8 @@ latitude: 50.71543
 longitude: 12.47869
 postcode: "08056"
 city: Zwickau
-street: "Am Bahnhof"
-housenumber: 5
+street: Am Bahnhof
+housenumber: "5"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

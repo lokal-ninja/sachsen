@@ -4,8 +4,8 @@ latitude: 50.94531
 longitude: 13.757
 postcode: "01731"
 city: Kreischa
-street: "Hauptstraße"
-housenumber: 8
-phone: "+49 35206 21303"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00"
-website: "http://www.fahrradmarkt-kreischa.de"
+street: Hauptstraße
+housenumber: "8"
+phone: +49 35206 21303
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00
+website: http://www.fahrradmarkt-kreischa.de

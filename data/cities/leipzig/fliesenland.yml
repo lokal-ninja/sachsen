@@ -4,8 +4,8 @@ latitude: 51.36678
 longitude: 12.43014
 postcode: "04347"
 city: Leipzig
-street: "Braunstraße"
-housenumber: 15
-phone: "+49 341 245550"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-13:00"
-website: "https://www.fliesenland-leipzig.de/"
+street: Braunstraße
+housenumber: "15"
+phone: +49 341 245550
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-13:00
+website: https://www.fliesenland-leipzig.de/

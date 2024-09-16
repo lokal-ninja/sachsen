@@ -1,11 +1,11 @@
 id: 34394699
-type: way
+type: node
 latitude: 50.60317
 longitude: 12.63683
 postcode: "08289"
 city: Schneeberg
-street: "Gottlieb-Heinrich-Dietz-Straße"
-housenumber: 15
+street: Gottlieb-Heinrich-Dietz-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

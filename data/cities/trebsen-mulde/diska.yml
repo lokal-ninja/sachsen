@@ -1,11 +1,11 @@
 id: 210966406
-type: way
+type: node
 latitude: 51.29028
 longitude: 12.75231
 postcode: "04687"
 city: Trebsen/Mulde
-street: "Wurzener Straße"
-housenumber: 9
+street: Wurzener Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 372885012
-type: way
+type: node
 latitude: 51.05719
 longitude: 13.68804
 postcode: "01157"
 city: Dresden
-street: "Raimundstraße"
-housenumber: 1
+street: Raimundstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

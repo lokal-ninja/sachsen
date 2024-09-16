@@ -4,8 +4,8 @@ latitude: 51.34354
 longitude: 12.37388
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+4934123064780"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.vorwerk.com/de/de/c/home"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.vorwerk.com/de/de/c/home

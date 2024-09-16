@@ -1,11 +1,11 @@
 id: 533452886
-type: way
+type: node
 latitude: 50.81907
 longitude: 12.39223
 postcode: "08451"
 city: Crimmitschau
-street: "Amselstraße"
-housenumber: 2
+street: Amselstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

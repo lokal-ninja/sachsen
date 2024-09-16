@@ -1,11 +1,11 @@
 id: 102704640
-type: way
+type: node
 latitude: 50.51901
 longitude: 12.38318
 postcode: "08209"
 city: Auerbach
-street: "Göltzschtalblick"
-housenumber: 4
+street: Göltzschtalblick
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

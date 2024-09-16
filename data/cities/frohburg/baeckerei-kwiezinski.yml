@@ -1,11 +1,12 @@
 id: 320088123
-type: way
+type: node
 latitude: 51.12358
 longitude: 12.58956
 postcode: "04654"
 city: Frohburg
-street: "Straße des Friedens"
-housenumber: 26
+street: Straße des Friedens
+housenumber: "26"
 phone: ""
-opening_hours: "We,Th 06:00-12:30; Fr 06:00-12:30,14:00-17:00; Sa 06:00-10:00; Mo,Tu,Su,PH off"
+opening_hours: We,Th 06:00-12:30; Fr 06:00-12:30,14:00-17:00; Sa 06:00-10:00; Mo,Tu,Su,PH
+    off
 website: ""

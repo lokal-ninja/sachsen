@@ -1,11 +1,11 @@
 id: 60546525
-type: way
+type: node
 latitude: 50.5346
 longitude: 12.77385
 postcode: "08340"
 city: Schwarzenberg/Erzgebirge
-street: "Eibenstocker Straße"
-housenumber: 29
+street: Eibenstocker Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

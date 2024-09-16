@@ -4,8 +4,9 @@ latitude: 50.98633
 longitude: 12.9743
 postcode: "09648"
 city: Mittweida
-street: "Rochlitzer Straße"
-housenumber: 80
+street: Rochlitzer Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo 05:30-18:00; Tu,Th 06:00-17:00; We 06:00-15:00; Fr 05:30-15:00; Sa 05:30-11:00"
+opening_hours: Mo 05:30-18:00; Tu,Th 06:00-17:00; We 06:00-15:00; Fr 05:30-15:00;
+    Sa 05:30-11:00
 website: ""

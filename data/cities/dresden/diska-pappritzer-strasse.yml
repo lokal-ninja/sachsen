@@ -1,11 +1,11 @@
 id: 207912870
-type: way
+type: node
 latitude: 51.0457
 longitude: 13.86477
 postcode: "01328"
 city: Dresden
-street: "Pappritzer Straße"
-housenumber: 22
+street: Pappritzer Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

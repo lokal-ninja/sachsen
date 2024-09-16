@@ -4,8 +4,8 @@ latitude: 50.83156
 longitude: 12.95752
 postcode: "09127"
 city: Chemnitz
-street: "Augustusburger Straße"
-housenumber: 221
-phone: "+49 371 724139"
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "https://mdw-chemnitz.de"
+street: Augustusburger Straße
+housenumber: "221"
+phone: +49 371 724139
+opening_hours: Mo-Fr 14:00-18:00
+website: https://mdw-chemnitz.de

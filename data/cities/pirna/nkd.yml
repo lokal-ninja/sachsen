@@ -4,8 +4,8 @@ latitude: 50.96218
 longitude: 13.94132
 postcode: "01796"
 city: Pirna
-street: "Marktgasse"
-housenumber: 3
-phone: "+49 3501 5091297"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-15:00"
+street: Marktgasse
+housenumber: "3"
+phone: +49 3501 5091297
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-15:00
 website: ""

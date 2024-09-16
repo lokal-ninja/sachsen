@@ -1,11 +1,11 @@
 id: 117695539
-type: way
+type: node
 latitude: 51.15842
 longitude: 15.00962
-postcode: "59-900"
+postcode: 59-900
 city: Zgorzelec
-street: "Lubańska"
-housenumber: 13
+street: Lubańska
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

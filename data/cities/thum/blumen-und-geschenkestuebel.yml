@@ -4,8 +4,9 @@ latitude: 50.67303
 longitude: 12.94967
 postcode: "09419"
 city: Thum
-street: "Chemnitzer Straße"
-housenumber: 13
+street: Chemnitzer Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo 09:00-13:00; Tu-Fr 09:00-13:00,14:30-17:00; Sa 08:00-11:00; Su,PH off"
+opening_hours: Mo 09:00-13:00; Tu-Fr 09:00-13:00,14:30-17:00; Sa 08:00-11:00; Su,PH
+    off
 website: ""

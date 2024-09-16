@@ -1,11 +1,11 @@
 id: 90972249
-type: way
+type: node
 latitude: 50.83137
 longitude: 12.8813
 postcode: "09116"
 city: Chemnitz
-street: "Waldenburger Straße"
-housenumber: 33
+street: Waldenburger Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

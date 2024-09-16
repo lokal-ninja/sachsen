@@ -1,11 +1,11 @@
 id: 222517338
-type: way
+type: node
 latitude: 51.07386
 longitude: 13.73762
 postcode: "01097"
 city: Dresden
-street: "Fritz-Reuter-Straße"
+street: Fritz-Reuter-Straße
 housenumber: 41b
-phone: "+49 178 1359200"
-opening_hours: "nov.- märz nur nach voranmeldung offen"
-website: "http://www.customgang.de/"
+phone: +49 178 1359200
+opening_hours: '"nov.- märz nur nach voranmeldung offen"'
+website: http://www.customgang.de/

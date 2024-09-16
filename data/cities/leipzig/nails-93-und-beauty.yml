@@ -4,8 +4,8 @@ latitude: 51.3304
 longitude: 12.33739
 postcode: "04229"
 city: Leipzig
-street: "Zschochersche Straße"
-housenumber: 36
-phone: "+49 341 97486640"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-17:00"
+street: Zschochersche Straße
+housenumber: "36"
+phone: +49 341 97486640
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-17:00
 website: ""

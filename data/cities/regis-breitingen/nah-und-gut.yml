@@ -1,11 +1,11 @@
 id: 318363815
-type: way
+type: node
 latitude: 51.08977
 longitude: 12.4308
 postcode: "04565"
 city: Regis-Breitingen
-street: "An der Kippe"
-housenumber: 32
+street: An der Kippe
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:30-18:30; Su,PH off"
+opening_hours: Mo-Sa 07:30-18:30; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.33138
 longitude: 12.33432
 postcode: "04229"
 city: Leipzig
-street: "Karl-Heine-Straße"
-housenumber: 63
-phone: "+49 341 24741821"
-opening_hours: "Mo 12:00-22:00; Tu,We 10:00-22:00; Th-Sa 10:00-23:00; Su 11:00-20:00"
-website: "https://dipasquale.de/"
+street: Karl-Heine-Straße
+housenumber: "63"
+phone: +49 341 24741821
+opening_hours: Mo 12:00-22:00; Tu,We 10:00-22:00; Th-Sa 10:00-23:00; Su 11:00-20:00
+website: https://dipasquale.de/

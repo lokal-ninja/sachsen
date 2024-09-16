@@ -4,8 +4,8 @@ latitude: 50.82245
 longitude: 12.88009
 postcode: "09116"
 city: Chemnitz
-street: "Guerickestraße"
-housenumber: 6
+street: Guerickestraße
+housenumber: "6"
 phone: ""
-opening_hours: "Offen ist, wenn das Rollo oben ist"
-website: "https://www.gszi.de/"
+opening_hours: '"Offen ist, wenn das Rollo oben ist"'
+website: https://www.gszi.de/

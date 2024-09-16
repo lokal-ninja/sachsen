@@ -1,11 +1,12 @@
 id: 154929702
-type: way
+type: node
 latitude: 51.22115
 longitude: 14.12916
 postcode: "01920"
 city: Elstra
-street: "Stadtring"
+street: Stadtring
 housenumber: 16a
 phone: ""
-opening_hours: "Mo 09:00-12:00,13:00-18:00; Tu 09:00-12:00,13:00-18:00; We 09:00-12:00,13:00-18:00; Th 09:00-12:00,13:00-18:00; Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00"
-website: "https://www.zweirad-mierisch.com/"
+opening_hours: Mo 09:00-12:00,13:00-18:00; Tu 09:00-12:00,13:00-18:00; We 09:00-12:00,13:00-18:00;
+    Th 09:00-12:00,13:00-18:00; Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00
+website: https://www.zweirad-mierisch.com/

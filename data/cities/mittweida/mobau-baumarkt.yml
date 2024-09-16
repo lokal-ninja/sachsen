@@ -1,11 +1,11 @@
 id: 1292030973
-type: way
+type: node
 latitude: 50.98133
 longitude: 12.97464
 postcode: "09648"
 city: Mittweida
-street: "Poststraße"
-housenumber: 45
+street: Poststraße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

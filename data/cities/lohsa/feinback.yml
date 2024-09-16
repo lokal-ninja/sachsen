@@ -4,8 +4,8 @@ latitude: 51.38831
 longitude: 14.40443
 postcode: "02999"
 city: Lohsa
-street: "Am Park"
-housenumber: 25
-phone: "+49 35724 50046"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-12:00; Su 06:00-10:00"
-website: "https://www.baeckerei-dreissig.de/"
+street: Am Park
+housenumber: "25"
+phone: +49 35724 50046
+opening_hours: Mo-Fr 05:00-18:00; Sa 05:00-12:00; Su 06:00-10:00
+website: https://www.baeckerei-dreissig.de/

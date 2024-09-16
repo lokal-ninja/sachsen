@@ -1,11 +1,11 @@
 id: 267372203
-type: way
+type: node
 latitude: 51.16721
 longitude: 12.2561
 postcode: "04523"
 city: Pegau
-street: "Salzgasse"
-housenumber: 9
+street: Salzgasse
+housenumber: "9"
 phone: ""
-opening_hours: "Tu,Th 09:00-11:00,14:30-18:00; Mo,We,Fr,Sa,Su,PH off"
+opening_hours: Tu,Th 09:00-11:00,14:30-18:00; Mo,We,Fr,Sa,Su,PH off
 website: ""

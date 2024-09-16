@@ -4,8 +4,8 @@ latitude: 51.06509
 longitude: 13.75646
 postcode: "01099"
 city: Dresden
-street: "Martin-Luther-Straße"
-housenumber: 20
+street: Martin-Luther-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 12:00-18:00; Sa 11:00-18:00"
-website: "https://www.zaffaran.de/"
+opening_hours: Tu-Fr 12:00-18:00; Sa 11:00-18:00
+website: https://www.zaffaran.de/

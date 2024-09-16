@@ -1,11 +1,11 @@
 id: 88969351
-type: way
+type: node
 latitude: 51.38327
 longitude: 12.78032
 postcode: "04808"
 city: Lossatal
-street: "Am Gabelsberg"
-housenumber: 7
+street: Am Gabelsberg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.83603
 longitude: 12.89261
 postcode: "09116"
 city: Chemnitz
-street: "Limbacher Straße"
-housenumber: 85
+street: Limbacher Straße
+housenumber: "85"
 phone: "+4937169577410"
-opening_hours: "Mo, We 10:00-14:00; Tu, Th, Fr 10:00-17:00 || by appointment"
-website: "https://www.superfotochemnitz.de/"
+opening_hours: Mo, We 10:00-14:00; Tu, Th, Fr 10:00-17:00 || "by appointment"
+website: https://www.superfotochemnitz.de/

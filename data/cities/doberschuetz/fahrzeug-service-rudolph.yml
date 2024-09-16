@@ -1,11 +1,11 @@
 id: 395656211
-type: way
+type: node
 latitude: 51.49931
 longitude: 12.74858
 postcode: "04838"
 city: Doberschütz
-street: "Eilenburger Chaussee"
-housenumber: 25
+street: Eilenburger Chaussee
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 294878069
-type: way
+type: node
 latitude: 50.87077
 longitude: 12.61007
 postcode: "08396"
 city: Waldenburg
-street: "Bahnhofstraße"
-housenumber: 25
+street: Bahnhofstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de

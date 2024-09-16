@@ -1,11 +1,11 @@
 id: 1270678375
-type: way
+type: node
 latitude: 51.15709
 longitude: 12.91614
 postcode: "04703"
 city: Leisnig
-street: "Wilhelm-Ostwald-Straße"
-housenumber: 
+street: Wilhelm-Ostwald-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

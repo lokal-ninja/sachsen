@@ -1,11 +1,11 @@
 id: 102606680
-type: way
+type: node
 latitude: 50.8642
 longitude: 13.01084
 postcode: "09577"
 city: Niederwiesa
-street: "Arthur-Emmerlich-Straße"
-housenumber: 8
+street: Arthur-Emmerlich-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 06:30-17:00; Sa 06:00-11:00"
+opening_hours: Tu-Fr 06:30-17:00; Sa 06:00-11:00
 website: ""

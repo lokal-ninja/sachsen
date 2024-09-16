@@ -1,11 +1,11 @@
 id: 232907847
-type: way
+type: node
 latitude: 50.98084
 longitude: 14.61683
 postcode: "02727"
 city: Ebersbach-Neugersdorf
-street: "Humboldtstraße"
-housenumber: 20
+street: Humboldtstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

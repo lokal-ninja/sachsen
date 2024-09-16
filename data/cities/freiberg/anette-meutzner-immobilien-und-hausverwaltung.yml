@@ -4,8 +4,9 @@ latitude: 50.91494
 longitude: 13.3463
 postcode: "09599"
 city: Freiberg
-street: "Poststraße"
-housenumber: 4
-phone: "+49 3731 248100"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00, Mo 12:30-17:00, Tu 12:30-16:00, Th 12:30-18:00, Fr 12:30-14:00"
+street: Poststraße
+housenumber: "4"
+phone: +49 3731 248100
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00, Mo 12:30-17:00, Tu 12:30-16:00, Th 12:30-18:00,
+    Fr 12:30-14:00
 website: ""

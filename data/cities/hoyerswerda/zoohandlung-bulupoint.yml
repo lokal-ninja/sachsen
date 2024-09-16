@@ -1,11 +1,11 @@
 id: 134944059
-type: way
+type: node
 latitude: 51.41899
 longitude: 14.18831
 postcode: "02977"
 city: Hoyerswerda
-street: "Dresdener Straße"
-housenumber: 144
+street: Dresdener Straße
+housenumber: "144"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:00; Sa 09:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 12:00-18:00; Sa 09:00-14:00; Su,PH off
 website: ""

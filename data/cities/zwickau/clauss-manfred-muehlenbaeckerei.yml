@@ -4,8 +4,8 @@ latitude: 50.72152
 longitude: 12.43682
 postcode: "08060"
 city: Zwickau
-street: "Friedrich-Staude-Straße"
-housenumber: 2
+street: Friedrich-Staude-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-12:00"
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:00-12:00
 website: ""

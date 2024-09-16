@@ -4,8 +4,8 @@ latitude: 51.30856
 longitude: 12.37164
 postcode: "04277"
 city: Leipzig
-street: "Simildenstraße"
-housenumber: 20
+street: Simildenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off
 website: ""

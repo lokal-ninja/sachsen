@@ -1,11 +1,11 @@
 id: 256420524
-type: way
+type: node
 latitude: 51.34818
 longitude: 12.2658
 postcode: "04178"
 city: Leipzig
-street: "Miltitzer Straße"
-housenumber: 13
+street: Miltitzer Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.obi.de/"
+website: https://www.obi.de/

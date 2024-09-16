@@ -4,8 +4,8 @@ latitude: 50.83266
 longitude: 12.9342
 postcode: "09130"
 city: Chemnitz
-street: "Jakobstraße"
-housenumber: 12
+street: Jakobstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

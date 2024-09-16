@@ -1,11 +1,11 @@
 id: 88436132
-type: way
+type: node
 latitude: 50.82107
 longitude: 13.49109
 postcode: "09623"
 city: Frauenstein
-street: "Frauensteiner Straße"
-housenumber: 108
+street: Frauensteiner Straße
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

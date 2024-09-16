@@ -4,8 +4,8 @@ latitude: 50.78518
 longitude: 13.64592
 postcode: "01744"
 city: Dippoldiswalde
-street: "Schönfeld"
-housenumber: 44
-phone: "+49 35052 67485"
-opening_hours: "Tu-Th 08:00-17:30; Fr 07:00-17:30"
+street: Schönfeld
+housenumber: "44"
+phone: +49 35052 67485
+opening_hours: Tu-Th 08:00-17:30; Fr 07:00-17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 207625031
-type: way
+type: node
 latitude: 50.95845
 longitude: 14.07969
 postcode: "01824"
 city: Kurort Rathen
-street: "Wehlener Weg"
-housenumber: 
+street: Wehlener Weg
+housenumber: ""
 phone: "+49351866090"
 opening_hours: ""
-website: "https://www.saechsische-dampfschiffahrt.de/anlegestellen/anleger-kurort-rathen/"
+website: https://www.saechsische-dampfschiffahrt.de/anlegestellen/anleger-kurort-rathen/

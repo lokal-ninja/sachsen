@@ -1,11 +1,11 @@
 id: 499837918
-type: way
+type: node
 latitude: 50.99439
 longitude: 13.53479
 postcode: "01737"
 city: Tharandt
-street: "Spechtshausener Straße"
-housenumber: 8
-phone: "+49 35203 37273"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "http://www.rhododendronmarkt-nake.de/"
+street: Spechtshausener Straße
+housenumber: "8"
+phone: +49 35203 37273
+opening_hours: Mo-Sa 09:00-18:00
+website: http://www.rhododendronmarkt-nake.de/

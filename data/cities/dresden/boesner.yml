@@ -4,8 +4,8 @@ latitude: 51.00943
 longitude: 13.81406
 postcode: "01237"
 city: Dresden
-street: "Breitscheidstraße"
-housenumber: 78
-phone: "+49 351 210790"
+street: Breitscheidstraße
+housenumber: "78"
+phone: +49 351 210790
 opening_hours: ""
-website: "https://www.boesner.com/"
+website: https://www.boesner.com/

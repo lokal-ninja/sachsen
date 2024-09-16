@@ -4,8 +4,8 @@ latitude: 51.01504
 longitude: 13.63662
 postcode: "01705"
 city: Freital
-street: "Glück-Auf-Straße"
-housenumber: 3
-phone: "+49 351 6502567"
-opening_hours: "Mo 10:00-17:00 Azubi; Tu-Fr 08:00-18:00; Sa 07:00-11:00"
-website: "https://www.elegant-bannewitz.de/kontakt/salon-freital-zauckerrode/"
+street: Glück-Auf-Straße
+housenumber: "3"
+phone: +49 351 6502567
+opening_hours: Mo 10:00-17:00 "Azubi"; Tu-Fr 08:00-18:00; Sa 07:00-11:00
+website: https://www.elegant-bannewitz.de/kontakt/salon-freital-zauckerrode/

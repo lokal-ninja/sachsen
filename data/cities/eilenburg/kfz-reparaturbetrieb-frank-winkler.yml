@@ -1,11 +1,11 @@
 id: 262172345
-type: way
+type: node
 latitude: 51.45775
 longitude: 12.63612
 postcode: "04838"
 city: Eilenburg
-street: "Schulstraße"
-housenumber: 21
+street: Schulstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

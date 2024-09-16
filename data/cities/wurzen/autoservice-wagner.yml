@@ -1,11 +1,11 @@
 id: 94404016
-type: way
+type: node
 latitude: 51.34664
 longitude: 12.76338
 postcode: "04808"
 city: Wurzen
-street: "Am Erlenhof"
-housenumber: 5
+street: Am Erlenhof
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://www.autoservice-wagner-nemt.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://www.autoservice-wagner-nemt.de/

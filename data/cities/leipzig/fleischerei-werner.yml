@@ -4,8 +4,8 @@ latitude: 51.27314
 longitude: 12.31007
 postcode: "04249"
 city: Leipzig
-street: "Rehbacher Straße"
-housenumber: 7
-phone: "+49 341 4253456"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-12:00"
-website: "http://fleischerei-werner-leipzig.de"
+street: Rehbacher Straße
+housenumber: "7"
+phone: +49 341 4253456
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-12:00
+website: http://fleischerei-werner-leipzig.de

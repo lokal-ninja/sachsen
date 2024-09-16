@@ -1,11 +1,11 @@
 id: 396085021
-type: way
+type: node
 latitude: 50.75917
 longitude: 13.04966
 postcode: "09405"
 city: Gornau
-street: "Waldkirchener Straße"
-housenumber: 2
+street: Waldkirchener Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

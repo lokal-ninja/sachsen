@@ -1,11 +1,11 @@
 id: 231621998
-type: way
+type: node
 latitude: 51.0917
 longitude: 12.97484
 postcode: "04746"
 city: Hartha
-street: "Dresdener Straße"
-housenumber: 74
+street: Dresdener Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

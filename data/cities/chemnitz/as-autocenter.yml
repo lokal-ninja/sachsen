@@ -4,8 +4,8 @@ latitude: 50.86185
 longitude: 12.92078
 postcode: "09114"
 city: Chemnitz
-street: "Chemnitztalstraße"
-housenumber: 75
+street: Chemnitztalstraße
+housenumber: "75"
 phone: ""
 opening_hours: ""
-website: "https://www.as-autocenter.de/"
+website: https://www.as-autocenter.de/

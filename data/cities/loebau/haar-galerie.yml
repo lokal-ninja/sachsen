@@ -4,8 +4,8 @@ latitude: 51.09618
 longitude: 14.66676
 postcode: "02708"
 city: Löbau
-street: "Nicolaiplatz"
-housenumber: 3
-phone: "+49 3585 833504"
-opening_hours: "Mo-We, Fr 08:00-18:00; Th 08:00-20:00; Sa 08:00-12:00"
-website: "https://www.haargalerie-hensel.de/"
+street: Nicolaiplatz
+housenumber: "3"
+phone: +49 3585 833504
+opening_hours: Mo-We, Fr 08:00-18:00; Th 08:00-20:00; Sa 08:00-12:00
+website: https://www.haargalerie-hensel.de/

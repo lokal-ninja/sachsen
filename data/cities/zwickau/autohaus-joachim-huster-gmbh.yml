@@ -4,8 +4,8 @@ latitude: 50.75131
 longitude: 12.48414
 postcode: "08058"
 city: Zwickau
-street: "Leipziger Straße"
-housenumber: 250
-phone: "+49 375 35366 0"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 09:00-16:00"
-website: "https://www.huster.de/"
+street: Leipziger Straße
+housenumber: "250"
+phone: +49 375 35366 0
+opening_hours: Mo-Fr 08:00-20:00, Sa 09:00-16:00
+website: https://www.huster.de/

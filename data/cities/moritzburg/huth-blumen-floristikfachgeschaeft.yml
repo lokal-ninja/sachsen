@@ -1,11 +1,11 @@
 id: 43210042
-type: way
+type: node
 latitude: 51.11711
 longitude: 13.69723
 postcode: "01468"
 city: Moritzburg
-street: "Dresdner Straße"
-housenumber: 18
+street: Dresdner Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

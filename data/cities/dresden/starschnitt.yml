@@ -4,8 +4,8 @@ latitude: 51.03359
 longitude: 13.78331
 postcode: "01277"
 city: Dresden
-street: "Zwinglistraße"
-housenumber: 28
+street: Zwinglistraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

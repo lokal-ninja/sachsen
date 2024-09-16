@@ -1,11 +1,11 @@
 id: 22999208
-type: way
+type: node
 latitude: 51.04134
 longitude: 13.73246
 postcode: "01069"
 city: Dresden
-street: "Wiener Platz"
-housenumber: 10
+street: Wiener Platz
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

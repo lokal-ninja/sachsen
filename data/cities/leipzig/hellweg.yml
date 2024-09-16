@@ -1,11 +1,11 @@
 id: 27252812
-type: way
+type: node
 latitude: 51.38624
 longitude: 12.26364
 postcode: "04159"
 city: Leipzig
-street: "Hallesche Straße"
-housenumber: 214
+street: Hallesche Straße
+housenumber: "214"
 phone: ""
 opening_hours: ""
-website: "https://www.hellweg.de/"
+website: https://www.hellweg.de/

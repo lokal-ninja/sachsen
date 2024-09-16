@@ -4,8 +4,8 @@ latitude: 51.32264
 longitude: 12.34288
 postcode: "04229"
 city: Leipzig
-street: "Könneritzstraße"
-housenumber: 60
-phone: "+49 341 2535552"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-12:00"
-website: "https://www.klimbim-leipzig.de/"
+street: Könneritzstraße
+housenumber: "60"
+phone: +49 341 2535552
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-12:00
+website: https://www.klimbim-leipzig.de/

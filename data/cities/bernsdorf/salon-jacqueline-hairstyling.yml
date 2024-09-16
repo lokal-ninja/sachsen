@@ -4,8 +4,9 @@ latitude: 51.36613
 longitude: 14.0635
 postcode: "02994"
 city: Bernsdorf
-street: "Am Langen Holz"
+street: Am Langen Holz
 housenumber: 1A
 phone: ""
-opening_hours: "Mo 09:00-15:00; Tu,We 09:00-11:00,14:30-18:00; Th 09:00-11:00, 14:00-18:00; Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo 09:00-15:00; Tu,We 09:00-11:00,14:30-18:00; Th 09:00-11:00, 14:00-18:00;
+    Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

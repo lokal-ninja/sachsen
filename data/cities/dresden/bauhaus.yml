@@ -1,11 +1,11 @@
 id: 768890944
-type: way
+type: node
 latitude: 50.99873
 longitude: 13.79819
 postcode: "01239"
 city: Dresden
-street: "Tschirnhausstraße"
-housenumber: 2
+street: Tschirnhausstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

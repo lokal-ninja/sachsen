@@ -1,11 +1,11 @@
 id: 58713064
-type: way
+type: node
 latitude: 51.14776
 longitude: 14.02265
 postcode: "01900"
 city: Großröhrsdorf
-street: "Pulsnitzer Straße"
-housenumber: 13
+street: Pulsnitzer Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

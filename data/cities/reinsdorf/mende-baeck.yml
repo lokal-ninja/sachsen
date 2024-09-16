@@ -4,8 +4,8 @@ latitude: 50.67778
 longitude: 12.53842
 postcode: "08141"
 city: Reinsdorf
-street: "Hauptstraße"
-housenumber: 44
+street: Hauptstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 06:00-11:00"
+opening_hours: Mo-Fr 07:00-17:00; Sa 06:00-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 385148820
-type: way
+type: node
 latitude: 51.01288
 longitude: 14.58137
 postcode: "02730"
 city: Ebersbach-Neugersdorf
-street: "Bautzener Straße"
-housenumber: 27
+street: Bautzener Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

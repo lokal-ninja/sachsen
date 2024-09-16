@@ -4,8 +4,8 @@ latitude: 51.07697
 longitude: 13.72474
 postcode: "01127"
 city: Dresden
-street: "Oschatzer Straße"
-housenumber: 27
+street: Oschatzer Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 14:00-18:00; Sa 10:00-14:00"
-website: "https://www.diefloraleart.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 14:00-18:00; Sa 10:00-14:00
+website: https://www.diefloraleart.de/

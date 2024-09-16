@@ -1,11 +1,11 @@
 id: 102701566
-type: way
+type: node
 latitude: 51.19057
 longitude: 12.9746
 postcode: "04703"
 city: Leisnig
-street: "Beiersdorf"
-housenumber: 11
+street: Beiersdorf
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

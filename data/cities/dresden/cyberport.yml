@@ -4,8 +4,8 @@ latitude: 51.06848
 longitude: 13.77953
 postcode: "01099"
 city: Dresden
-street: "Am Brauhaus"
-housenumber: 5
+street: Am Brauhaus
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.cyberport.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.cyberport.de/

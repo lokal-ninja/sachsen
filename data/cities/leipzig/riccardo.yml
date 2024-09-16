@@ -4,8 +4,8 @@ latitude: 51.34218
 longitude: 12.37362
 postcode: "04109"
 city: Leipzig
-street: "Hainstraße"
-housenumber: 12
+street: Hainstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://riccardo-zigarette.de/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://riccardo-zigarette.de/

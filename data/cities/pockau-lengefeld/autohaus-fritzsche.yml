@@ -1,11 +1,11 @@
 id: 308842430
-type: way
+type: node
 latitude: 50.71028
 longitude: 13.22166
 postcode: "09509"
 city: Pockau-Lengefeld
-street: "Fischereiweg"
-housenumber: 45
-phone: "+49 37367 9495"
+street: Fischereiweg
+housenumber: "45"
+phone: +49 37367 9495
 opening_hours: ""
-website: "https://www.autohaus-fritzsche-pockau.de/"
+website: https://www.autohaus-fritzsche-pockau.de/

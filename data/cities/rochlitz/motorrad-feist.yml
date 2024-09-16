@@ -1,11 +1,11 @@
 id: 229829988
-type: way
+type: node
 latitude: 51.05776
 longitude: 12.78621
 postcode: "09306"
 city: Rochlitz
-street: "Geithainer Straße"
+street: Geithainer Straße
 housenumber: 19a
-phone: "+49 3737 40930"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.motorrad-feist.de/"
+phone: +49 3737 40930
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://www.motorrad-feist.de/

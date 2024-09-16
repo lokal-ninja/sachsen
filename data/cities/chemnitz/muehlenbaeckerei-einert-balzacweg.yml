@@ -1,11 +1,11 @@
 id: 94359701
-type: way
+type: node
 latitude: 50.81471
 longitude: 12.98822
 postcode: "09127"
 city: Chemnitz
-street: "Balzacweg"
-housenumber: 4
+street: Balzacweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo 7:00-13:00; Tu-Fr 7:00-18:00; Sa 6:00-11:00"
+opening_hours: Mo 7:00-13:00; Tu-Fr 7:00-18:00; Sa 6:00-11:00
 website: ""

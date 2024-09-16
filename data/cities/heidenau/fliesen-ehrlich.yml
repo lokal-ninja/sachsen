@@ -1,11 +1,11 @@
 id: 114794477
-type: way
+type: node
 latitude: 50.96358
 longitude: 13.88285
 postcode: "01809"
 city: Heidenau
-street: "Dürerstraße"
-housenumber: 2
+street: Dürerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.fliesen-ehrlich.de"
+website: https://www.fliesen-ehrlich.de

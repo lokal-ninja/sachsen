@@ -4,8 +4,8 @@ latitude: 51.16952
 longitude: 14.97213
 postcode: "02828"
 city: Görlitz
-street: "Nieskyer Straße"
-housenumber: 100
-phone: "+49 3581 3670"
-opening_hours: "Mo-We,Sa 07:00-20:00; Th-Fr 07:00-21:00"
-website: "https://www.dein-marktkauf.de/goerlitz/"
+street: Nieskyer Straße
+housenumber: "100"
+phone: +49 3581 3670
+opening_hours: Mo-We,Sa 07:00-20:00; Th-Fr 07:00-21:00; PH off
+website: https://www.dein-marktkauf.de/goerlitz

@@ -4,8 +4,8 @@ latitude: 50.80507
 longitude: 12.9246
 postcode: "09120"
 city: Chemnitz
-street: "F.-O.-Schimmel-Straße"
-housenumber: 2
-phone: "+49 371 4957210"
-opening_hours: "Mo off; Tu-Fr 10:00-18:00; Sa off"
-website: "https://radfabrik.eu/"
+street: F.-O.-Schimmel-Straße
+housenumber: "2"
+phone: +49 371 4957210
+opening_hours: Mo off; Tu-Fr 10:00-18:00; Sa off
+website: https://radfabrik.eu/

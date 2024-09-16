@@ -1,11 +1,11 @@
 id: 237201998
-type: way
+type: node
 latitude: 51.33423
 longitude: 12.42369
 postcode: "04318"
 city: Leipzig
-street: "Herrnhuter Straße"
-housenumber: 34
-phone: "+49 341 6810589"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
-website: "http://www.autoservice-geyer.de"
+street: Herrnhuter Straße
+housenumber: "34"
+phone: +49 341 6810589
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
+website: http://www.autoservice-geyer.de

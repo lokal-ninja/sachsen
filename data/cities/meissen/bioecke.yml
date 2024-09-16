@@ -4,8 +4,8 @@ latitude: 51.16656
 longitude: 13.48766
 postcode: "01662"
 city: Meißen
-street: "Vorbrücker Straße"
-housenumber: 34
-phone: "+49 3521 404561"
-opening_hours: "Tu 15:00-19:00; Th 14:00-19:00; Fr 09:00-14:00; Mo,We,Sa,Su,PH off"
-website: "https://vg-bioeck-meissen.de/"
+street: Vorbrücker Straße
+housenumber: "34"
+phone: +49 3521 404561
+opening_hours: Tu 15:00-19:00; Th 14:00-19:00; Fr 09:00-14:00; Mo,We,Sa,Su,PH off
+website: https://vg-bioeck-meissen.de/

@@ -1,11 +1,11 @@
 id: 666377209
-type: way
+type: node
 latitude: 51.44539
 longitude: 14.24084
 postcode: "02977"
 city: Hoyerswerda
-street: "Elsterstraße"
-housenumber: 106
+street: Elsterstraße
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

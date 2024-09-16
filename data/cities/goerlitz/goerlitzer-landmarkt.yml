@@ -1,11 +1,11 @@
 id: 487533082
-type: way
+type: node
 latitude: 51.11645
 longitude: 14.9728
 postcode: "02827"
 city: Görlitz
-street: "Paul-Mühsam-Straße"
-housenumber: 5
+street: Paul-Mühsam-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

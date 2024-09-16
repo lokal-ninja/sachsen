@@ -1,11 +1,11 @@
 id: 483095612
-type: way
+type: node
 latitude: 51.2329
 longitude: 12.72515
 postcode: "04668"
 city: Grimma
-street: "Leipziger Straße"
-housenumber: 3
+street: Leipziger Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 313258549
-type: way
+type: node
 latitude: 50.78362
 longitude: 12.63414
 postcode: "09356"
 city: St. Egidien
-street: "Lungwitzer Straße"
-housenumber: 109
-phone: "+49 37204 928296"
-opening_hours: "Mo-Fr 08:00-12:00,12:45-18:00; Sa 10:00-12:00"
-website: "https://www.inno-car.com/"
+street: Lungwitzer Straße
+housenumber: "109"
+phone: +49 37204 928296
+opening_hours: Mo-Fr 08:00-12:00,12:45-18:00; Sa 10:00-12:00
+website: https://www.inno-car.com/

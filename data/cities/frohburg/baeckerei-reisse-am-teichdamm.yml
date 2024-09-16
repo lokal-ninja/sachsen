@@ -1,11 +1,11 @@
 id: 678171241
-type: way
+type: node
 latitude: 51.01879
 longitude: 12.57386
 postcode: "04654"
 city: Frohburg
-street: "Am Teichdamm"
-housenumber: 3
-phone: "+49 34344 614 07"
+street: Am Teichdamm
+housenumber: "3"
+phone: +49 34344 614 07
 opening_hours: ""
-website: "https://www.baeckerei-reisse.de/"
+website: https://www.baeckerei-reisse.de/

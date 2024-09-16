@@ -4,8 +4,8 @@ latitude: 50.83812
 longitude: 12.91701
 postcode: "09111"
 city: Chemnitz
-street: "Schloßstraße"
-housenumber: 12
+street: Schloßstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-14:00"
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-14:00
 website: ""

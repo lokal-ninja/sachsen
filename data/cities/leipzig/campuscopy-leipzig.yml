@@ -4,8 +4,8 @@ latitude: 51.33754
 longitude: 12.3777
 postcode: "04109"
 city: Leipzig
-street: "Universitätsstraße"
-housenumber: 18
-phone: "+49 341 149 906 11"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.kopier-tech.de/index.php/2016/08/30/zentrum/"
+street: Universitätsstraße
+housenumber: "18"
+phone: +49 341 149 906 11
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.kopier-tech.de/index.php/2016/08/30/zentrum/

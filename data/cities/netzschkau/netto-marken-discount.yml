@@ -1,11 +1,11 @@
 id: 91907850
-type: way
+type: node
 latitude: 50.60964
 longitude: 12.24219
 postcode: "08491"
 city: Netzschkau
-street: "Elsterberger Straße"
-housenumber: 7
+street: Elsterberger Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

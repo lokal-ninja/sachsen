@@ -1,11 +1,11 @@
 id: 271449626
-type: way
+type: node
 latitude: 50.65741
 longitude: 13.32791
 postcode: "09526"
 city: Olbernhau
-street: "Hammergasse"
-housenumber: 22
-phone: "+49 37360 75148"
+street: Hammergasse
+housenumber: "22"
+phone: +49 37360 75148
 opening_hours: ""
 website: ""

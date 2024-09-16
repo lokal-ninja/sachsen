@@ -1,11 +1,11 @@
 id: 106334575
-type: way
+type: node
 latitude: 51.37019
 longitude: 12.7373
 postcode: "04808"
 city: Wurzen
-street: "Jacobsgasse"
-housenumber: 21
-phone: "+49 3425 924083"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.brille-wurzen.de"
+street: Jacobsgasse
+housenumber: "21"
+phone: +49 3425 924083
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.brille-wurzen.de

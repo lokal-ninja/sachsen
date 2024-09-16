@@ -1,11 +1,11 @@
 id: 825103405
-type: way
+type: node
 latitude: 51.01143
 longitude: 13.80997
 postcode: "01257"
 city: Dresden
-street: "Wilhelm-Liebknecht-Straße"
-housenumber: 2
+street: Wilhelm-Liebknecht-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

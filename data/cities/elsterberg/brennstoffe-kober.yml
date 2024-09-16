@@ -4,8 +4,9 @@ latitude: 50.61965
 longitude: 12.19796
 postcode: "07985"
 city: Elsterberg
-street: "Coschützer Straße"
-housenumber: 7
+street: Coschützer Straße
+housenumber: "7"
 phone: ""
-opening_hours: "May-Sep: Mo-Fr 07:00-17:00; May-Sep: Sa 08:00-12:00; Oct-Apr: Mo-Fr 07:00-18:00; Oct-Apr: Sa 08:00-12:00; Su,PH off"
+opening_hours: 'May-Sep: Mo-Fr 07:00-17:00; May-Sep: Sa 08:00-12:00; Oct-Apr: Mo-Fr
+    07:00-18:00; Oct-Apr: Sa 08:00-12:00; Su,PH off'
 website: ""

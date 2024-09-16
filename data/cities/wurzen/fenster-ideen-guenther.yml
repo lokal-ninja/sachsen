@@ -1,11 +1,11 @@
 id: 99897700
-type: way
+type: node
 latitude: 51.36855
 longitude: 12.74146
 postcode: "04808"
 city: Wurzen
-street: "Schillerstraße"
+street: Schillerstraße
 housenumber: 5b
-phone: "+49 3425 814450"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.fensterideen-guenther.de/"
+phone: +49 3425 814450
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.fensterideen-guenther.de/

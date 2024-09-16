@@ -1,11 +1,11 @@
 id: 686305129
-type: way
+type: node
 latitude: 50.56814
 longitude: 12.36472
 postcode: "08485"
 city: Lengenfeld
-street: "Poststraße"
-housenumber: 15
+street: Poststraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Th 09:00-13:00,14:00-17:00"
+opening_hours: Mo-Th 09:00-13:00,14:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.05044
 longitude: 13.73939
 postcode: "01067"
 city: Dresden
-street: "Wilsdruffer Straße"
-housenumber: 16
-phone: "+49 351 4976790"
-opening_hours: "Mo-Th,Sa 10:00-19:00; Fr 10:00-20:00"
-website: "https://www.hirmer-grosse-groessen.de/"
+street: Wilsdruffer Straße
+housenumber: "16"
+phone: +49 351 4976790
+opening_hours: Mo-Th,Sa 10:00-19:00; Fr 10:00-20:00
+website: https://www.hirmer-grosse-groessen.de/

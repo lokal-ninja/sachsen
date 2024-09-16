@@ -4,8 +4,8 @@ latitude: 51.3434
 longitude: 12.37415
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+4934196283821"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.monki.com/de_de/index.html"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.monki.com/de_de/index.html

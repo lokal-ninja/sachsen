@@ -1,11 +1,11 @@
 id: 179385058
-type: way
+type: node
 latitude: 51.13949
 longitude: 14.9587
 postcode: "02827"
 city: Görlitz
-street: "Wiesenweg"
-housenumber: 1
+street: Wiesenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

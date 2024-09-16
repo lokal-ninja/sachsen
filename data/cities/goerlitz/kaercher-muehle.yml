@@ -1,11 +1,11 @@
 id: 175222584
-type: way
+type: node
 latitude: 51.18462
 longitude: 14.96267
 postcode: "02828"
 city: Görlitz
-street: "Gottlieb-Daimler-Straße"
-housenumber: 9
-phone: "+49 3581 766831"
+street: Gottlieb-Daimler-Straße
+housenumber: "9"
+phone: +49 3581 766831
 opening_hours: ""
-website: "https://www.kaercher-muehle.de"
+website: https://www.kaercher-muehle.de

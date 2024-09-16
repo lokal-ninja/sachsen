@@ -1,11 +1,11 @@
 id: 119136930
-type: way
+type: node
 latitude: 51.03096
 longitude: 14.20206
 postcode: "01844"
 city: Neustadt in Sachsen
-street: "Am Wasserberg"
-housenumber: 2
+street: Am Wasserberg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

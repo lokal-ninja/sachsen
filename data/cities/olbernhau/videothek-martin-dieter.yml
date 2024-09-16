@@ -1,11 +1,11 @@
 id: 267950664
-type: way
+type: node
 latitude: 50.66076
 longitude: 13.33929
 postcode: "09526"
 city: Olbernhau
-street: "Töpfergasse"
-housenumber: 7
-phone: "+49 37360 35055"
-opening_hours: "Fr,Sa 15:00-19:00"
+street: Töpfergasse
+housenumber: "7"
+phone: +49 37360 35055
+opening_hours: Fr,Sa 15:00-19:00
 website: ""

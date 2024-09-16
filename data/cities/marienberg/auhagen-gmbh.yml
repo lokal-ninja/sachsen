@@ -1,11 +1,11 @@
 id: 244793487
-type: way
+type: node
 latitude: 50.65286
 longitude: 13.20139
 postcode: "09496"
 city: Marienberg
-street: "Hüttengrund"
-housenumber: 25
-phone: "+49 37 35 66 84 66"
+street: Hüttengrund
+housenumber: "25"
+phone: +49 37 35 66 84 66
 opening_hours: ""
-website: "https://auhagen.de/"
+website: https://auhagen.de/

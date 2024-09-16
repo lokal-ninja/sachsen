@@ -1,11 +1,11 @@
 id: 243528715
-type: way
+type: node
 latitude: 50.751
 longitude: 13.2867
 postcode: "09618"
 city: Großhartmannsdorf
-street: "Dorfstraße"
-housenumber: 60
+street: Dorfstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-12:00
 website: ""

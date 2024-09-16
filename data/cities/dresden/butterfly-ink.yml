@@ -4,8 +4,8 @@ latitude: 51.08473
 longitude: 13.72676
 postcode: "01129"
 city: Dresden
-street: "Barbarastraße"
-housenumber: 40
-phone: "+49 351 32320640"
-opening_hours: "PH,Su off; Tu-Fr 11:00-17:00; Sa 10:00-15:00"
+street: Barbarastraße
+housenumber: "40"
+phone: +49 351 32320640
+opening_hours: PH,Su off; Tu-Fr 11:00-17:00; Sa 10:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 520997446
-type: way
+type: node
 latitude: 50.68461
 longitude: 12.50129
 postcode: "08056"
 city: Zwickau
-street: "Muldestraße"
-housenumber: 67
-phone: "+49 375 213177"
+street: Muldestraße
+housenumber: "67"
+phone: +49 375 213177
 opening_hours: ""
 website: ""

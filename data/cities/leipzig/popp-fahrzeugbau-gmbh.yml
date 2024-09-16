@@ -1,11 +1,11 @@
 id: 271884517
-type: way
+type: node
 latitude: 51.36623
 longitude: 12.39078
 postcode: "04129"
 city: Leipzig
-street: "Schönefelder Straße"
+street: Schönefelder Straße
 housenumber: 21A
-phone: "+49 341 919910"
+phone: +49 341 919910
 opening_hours: ""
-website: "https://www.volvocars-haendler.de/popp-fahrzeugbau/leipzig/"
+website: https://www.volvocars-haendler.de/popp-fahrzeugbau/leipzig/

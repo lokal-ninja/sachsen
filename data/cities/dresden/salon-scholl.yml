@@ -4,8 +4,8 @@ latitude: 51.06219
 longitude: 13.8524
 postcode: "01324"
 city: Dresden
-street: "Königsberger Straße"
-housenumber: 1
-phone: "+49 351 2698123"
-opening_hours: "Tu-Fr 09:00-18:00; Sa nach Vereinbarung"
+street: Königsberger Straße
+housenumber: "1"
+phone: +49 351 2698123
+opening_hours: Tu-Fr 09:00-18:00; Sa "nach Vereinbarung"
 website: ""

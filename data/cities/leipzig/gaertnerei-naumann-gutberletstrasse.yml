@@ -1,11 +1,11 @@
 id: 603665930
-type: way
+type: node
 latitude: 51.33476
 longitude: 12.4602
 postcode: "04316"
 city: Leipzig
-street: "Gutberletstraße"
+street: Gutberletstraße
 housenumber: 15a
-phone: "+49 341 6515546"
-opening_hours: "mo-fr 7:00-16:00"
-website: "https://gaertnerei-naumann.de/"
+phone: +49 341 6515546
+opening_hours: mo-fr 7:00-16:00
+website: https://gaertnerei-naumann.de/

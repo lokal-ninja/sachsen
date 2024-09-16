@@ -4,8 +4,8 @@ latitude: 50.82262
 longitude: 12.94054
 postcode: "09126"
 city: Chemnitz
-street: "Jahnstraße"
-housenumber: 76
-phone: "+491520 8554172"
-opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-16:00"
-website: "https://www.baeckerei-einert.de/filialen/jahnstrasse-chemnitz.html"
+street: Jahnstraße
+housenumber: "76"
+phone: +491520 8554172
+opening_hours: Mo-Fr 07:00-20:00, Sa 07:00-16:00
+website: https://www.baeckerei-einert.de/filialen/jahnstrasse-chemnitz.html

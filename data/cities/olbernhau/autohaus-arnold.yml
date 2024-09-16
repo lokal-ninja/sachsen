@@ -1,11 +1,11 @@
 id: 272989232
-type: way
+type: node
 latitude: 50.65779
 longitude: 13.33535
 postcode: "09526"
 city: Olbernhau
-street: "Bahnhofstraße"
-housenumber: 18
-phone: "+49 37360 20336"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:30-12:30"
-website: "https://www.auto-arnold.com/"
+street: Bahnhofstraße
+housenumber: "18"
+phone: +49 37360 20336
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:30-12:30
+website: https://www.auto-arnold.com/

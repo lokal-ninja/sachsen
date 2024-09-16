@@ -1,11 +1,11 @@
 id: 382332073
-type: way
+type: node
 latitude: 51.16888
 longitude: 13.56438
 postcode: "01689"
 city: Weinböhla
-street: "Großenhainer Straße"
-housenumber: 52
+street: Großenhainer Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 134156089
-type: way
+type: node
 latitude: 51.32434
 longitude: 12.43489
 postcode: "04316"
 city: Leipzig
-street: "Sommerfelder Straße"
-housenumber: 80
+street: Sommerfelder Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

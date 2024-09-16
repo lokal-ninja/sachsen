@@ -4,8 +4,8 @@ latitude: 50.83586
 longitude: 12.93815
 postcode: "09130"
 city: Chemnitz
-street: "Fürstenstraße"
-housenumber: 
+street: Fürstenstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-17:00; We off; Sa 09:00-12:00"
-website: "https://www.viva-la-flora.de/cms/home.html"
+opening_hours: Mo,Tu,Th,Fr 09:00-17:00; We off; Sa 09:00-12:00
+website: https://www.viva-la-flora.de/cms/home.html

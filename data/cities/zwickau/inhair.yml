@@ -4,8 +4,8 @@ latitude: 50.73314
 longitude: 12.52464
 postcode: "08066"
 city: Zwickau
-street: "Max-Planck-Straße"
-housenumber: 18
+street: Max-Planck-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo 08:00-18:00, Tu-Fr 07:00-19:00, Sa 07:00-13:00"
+opening_hours: Mo 08:00-18:00, Tu-Fr 07:00-19:00, Sa 07:00-13:00
 website: ""

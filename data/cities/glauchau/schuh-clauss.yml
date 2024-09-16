@@ -4,8 +4,8 @@ latitude: 50.81935
 longitude: 12.54268
 postcode: "08371"
 city: Glauchau
-street: "Hoffnung"
-housenumber: 1
-phone: "+49 3763 7776515"
-opening_hours: "Mo-Fr 09:00-13:00, Sa 09:00-12:00, Mo-Fr 14:00-18:00"
+street: Hoffnung
+housenumber: "1"
+phone: +49 3763 7776515
+opening_hours: Mo-Fr 09:00-13:00, Sa 09:00-12:00, Mo-Fr 14:00-18:00
 website: ""

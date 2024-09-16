@@ -4,8 +4,8 @@ latitude: 51.34196
 longitude: 12.36651
 postcode: "04109"
 city: Leipzig
-street: "Lessingstraße"
-housenumber: 7
+street: Lessingstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo- Th 16:00-19:00"
-website: "https://villa-leipzig.de/fahrrad-selbsthilfe-werkstatt"
+opening_hours: Mo- Th 16:00-19:00
+website: https://villa-leipzig.de/fahrrad-selbsthilfe-werkstatt

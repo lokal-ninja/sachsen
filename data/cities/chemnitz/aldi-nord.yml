@@ -4,8 +4,8 @@ latitude: 50.80921
 longitude: 12.89153
 postcode: "09119"
 city: Chemnitz
-street: "Dr.-Salvador-Allende-Straße"
-housenumber: 1
+street: Dr.-Salvador-Allende-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/chemnitz/dr-salvador-allende-strasse-1/3180847"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/chemnitz/dr-salvador-allende-strasse-1/3180847

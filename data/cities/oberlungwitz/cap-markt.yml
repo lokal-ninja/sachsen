@@ -1,11 +1,11 @@
 id: 150942361
-type: way
+type: node
 latitude: 50.78241
 longitude: 12.70912
 postcode: "09353"
 city: Oberlungwitz
-street: "Neue Welt"
-housenumber: 1
-phone: "+49 3723 628086"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"
-website: "https://www.cap-markt.de/"
+street: Neue Welt
+housenumber: "1"
+phone: +49 3723 628086
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00
+website: https://www.cap-markt.de/

@@ -1,11 +1,11 @@
 id: 463047207
-type: way
+type: node
 latitude: 50.54293
 longitude: 12.73885
 postcode: "08315"
 city: Lauter-Bernsbach
-street: "Antonsthaler Straße"
-housenumber: 46
-phone: "03771 259658"
-opening_hours: "Fr 09:00-17:00; Sa 09:00-12:00"
+street: Antonsthaler Straße
+housenumber: "46"
+phone: 03771 259658
+opening_hours: Fr 09:00-17:00; Sa 09:00-12:00
 website: ""

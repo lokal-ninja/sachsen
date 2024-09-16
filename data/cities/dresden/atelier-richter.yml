@@ -4,8 +4,8 @@ latitude: 51.04156
 longitude: 13.69123
 postcode: "01159"
 city: Dresden
-street: "Malterstraße"
-housenumber: 38
-phone: "+49 351 4120434"
-opening_hours: "Mo-Th 09:00-18:00, Fr,Sa nach Vereinbarung"
-website: "http://mode-atelier-richter.de/"
+street: Malterstraße
+housenumber: "38"
+phone: +49 351 4120434
+opening_hours: Mo-Th 09:00-18:00, Fr,Sa "nach Vereinbarung"
+website: http://mode-atelier-richter.de/

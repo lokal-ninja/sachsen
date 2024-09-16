@@ -1,11 +1,11 @@
 id: 69863463
-type: way
+type: node
 latitude: 51.11215
 longitude: 13.76106
 postcode: "01109"
 city: Dresden
-street: "Karl-Liebknecht-Straße"
-housenumber: 31
-phone: "+49 351 8809424"
-opening_hours: "Mo,Th,Fr 08:30-13:00,15:00-17:00"
+street: Karl-Liebknecht-Straße
+housenumber: "31"
+phone: +49 351 8809424
+opening_hours: Mo,Th,Fr 08:30-13:00,15:00-17:00
 website: ""

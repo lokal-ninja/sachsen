@@ -1,11 +1,11 @@
 id: 200176488
-type: way
+type: node
 latitude: 50.58661
 longitude: 13.03056
 postcode: "09456"
 city: Annaberg-Buchholz
-street: "Geyersdorfer Hauptstraße"
-housenumber: 47
+street: Geyersdorfer Hauptstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

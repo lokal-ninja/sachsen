@@ -4,8 +4,8 @@ latitude: 50.67245
 longitude: 12.48213
 postcode: "08064"
 city: Zwickau
-street: "Bergstraße"
-housenumber: 62
-phone: "+49 375 789144"
-opening_hours: "Mo-Fr 06:30-12:00; Sa 05:30-10:00"
+street: Bergstraße
+housenumber: "62"
+phone: +49 375 789144
+opening_hours: Mo-Fr 06:30-12:00; Sa 05:30-10:00
 website: ""

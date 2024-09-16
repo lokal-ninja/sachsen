@@ -4,8 +4,8 @@ latitude: 51.43295
 longitude: 14.23187
 postcode: "02977"
 city: Hoyerswerda
-street: "Bahnhofsallee"
-housenumber: 1
+street: Bahnhofsallee
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:00-16:00; Sa 09:00-12:00"
+opening_hours: Tu-Fr 09:00-16:00; Sa 09:00-12:00
 website: ""

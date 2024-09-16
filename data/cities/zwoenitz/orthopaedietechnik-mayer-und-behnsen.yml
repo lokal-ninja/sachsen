@@ -1,11 +1,11 @@
 id: 237691948
-type: way
+type: node
 latitude: 50.63235
 longitude: 12.81216
 postcode: "08297"
 city: Zwönitz
-street: "Am Mühlgraben"
-housenumber: 11
+street: Am Mühlgraben
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.mayer-behnsen.de/"
+website: https://www.mayer-behnsen.de/

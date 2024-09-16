@@ -4,8 +4,8 @@ latitude: 51.05166
 longitude: 13.80484
 postcode: "01309"
 city: Dresden
-street: "Loschwitzer Straße"
-housenumber: 52
+street: Loschwitzer Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.nkd.com"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.nkd.com

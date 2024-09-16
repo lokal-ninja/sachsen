@@ -1,11 +1,11 @@
 id: 230163809
-type: way
+type: node
 latitude: 50.82564
 longitude: 12.56209
 postcode: "08371"
 city: Glauchau
-street: "Am Lungwitzbach"
-housenumber: 15
-phone: "+49 3763 50080"
-opening_hours: "Mo-Fr 6:00-18:00; PH off"
-website: "https://www.pft-riesa.de"
+street: Am Lungwitzbach
+housenumber: "15"
+phone: +49 3763 50080
+opening_hours: Mo-Fr 6:00-18:00; PH off
+website: https://www.pft-riesa.de

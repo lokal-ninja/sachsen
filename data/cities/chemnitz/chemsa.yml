@@ -4,8 +4,8 @@ latitude: 50.84352
 longitude: 12.90774
 postcode: "09113"
 city: Chemnitz
-street: "Bergstraße"
-housenumber: 42
-phone: "+49 371 2839068"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-16:00"
-website: "https://www.chemsa.de/"
+street: Bergstraße
+housenumber: "42"
+phone: +49 371 2839068
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-16:00
+website: https://www.chemsa.de/

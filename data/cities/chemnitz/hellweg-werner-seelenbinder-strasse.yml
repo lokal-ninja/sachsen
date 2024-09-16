@@ -1,11 +1,11 @@
 id: 92439661
-type: way
+type: node
 latitude: 50.8049
 longitude: 12.91304
 postcode: "09120"
 city: Chemnitz
-street: "Werner-Seelenbinder-Straße"
-housenumber: 5
+street: Werner-Seelenbinder-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

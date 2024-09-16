@@ -1,11 +1,11 @@
 id: 239486609
-type: way
+type: node
 latitude: 50.86659
 longitude: 13.53428
 postcode: "01774"
 city: Klingenberg
-street: "Thomas-Müntzer-Straße"
-housenumber: 11
-phone: "+49 35058 41261"
+street: Thomas-Müntzer-Straße
+housenumber: "11"
+phone: +49 35058 41261
 opening_hours: ""
 website: ""

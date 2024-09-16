@@ -1,11 +1,11 @@
 id: 225731890
-type: way
+type: node
 latitude: 51.00304
 longitude: 13.78874
 postcode: "01239"
 city: Dresden
-street: "Dohnaer Straße"
-housenumber: 190
+street: Dohnaer Straße
+housenumber: "190"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-20:00"
-website: "https://www.selgros.de/markt/dresden"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-20:00
+website: https://www.selgros.de/markt/dresden

@@ -4,8 +4,8 @@ latitude: 51.34085
 longitude: 12.33609
 postcode: "04177"
 city: Leipzig
-street: "Angerstraße"
-housenumber: 53
+street: Angerstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off"
-website: "https://www.gutergriff.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off
+website: https://www.gutergriff.de

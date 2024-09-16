@@ -1,11 +1,11 @@
 id: 330170807
-type: way
+type: node
 latitude: 50.53179
 longitude: 12.40215
 postcode: "08228"
 city: Rodewisch
-street: "Lengenfelder Straße"
-housenumber: 3
+street: Lengenfelder Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
+opening_hours: Mo-Su 07:00-20:00
 website: ""

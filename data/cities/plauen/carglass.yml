@@ -1,11 +1,11 @@
 id: 225804520
-type: way
+type: node
 latitude: 50.49379
 longitude: 12.14686
 postcode: "08527"
 city: Plauen
-street: "Stresemannstraße"
+street: Stresemannstraße
 housenumber: 91a
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su off
 website: ""

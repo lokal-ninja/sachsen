@@ -4,8 +4,8 @@ latitude: 51.34432
 longitude: 12.35722
 postcode: "04105"
 city: Leipzig
-street: "Waldstraße"
-housenumber: 23
+street: Waldstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-16:00
 website: ""

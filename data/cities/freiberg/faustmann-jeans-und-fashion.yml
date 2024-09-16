@@ -4,8 +4,8 @@ latitude: 50.91875
 longitude: 13.34181
 postcode: "09599"
 city: Freiberg
-street: "Burgstraße"
-housenumber: 17
+street: Burgstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"
-website: "http://mobilfunk-freiberg.phonekauf.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00
+website: http://mobilfunk-freiberg.phonekauf.de

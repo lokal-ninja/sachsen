@@ -4,8 +4,8 @@ latitude: 51.05068
 longitude: 13.73301
 postcode: "01067"
 city: Dresden
-street: "Postplatz"
+street: Postplatz
 housenumber: 2b
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.deiters.de/l/dresden"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.deiters.de/l/dresden

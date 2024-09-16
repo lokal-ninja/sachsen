@@ -4,8 +4,8 @@ latitude: 50.76537
 longitude: 13.75787
 postcode: "01773"
 city: Altenberg
-street: "Rathausstraße"
-housenumber: 22
-phone: "+49 35056 35253"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "http://www.fahrrad-kohl.de"
+street: Rathausstraße
+housenumber: "22"
+phone: +49 35056 35253
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: http://www.fahrrad-kohl.de

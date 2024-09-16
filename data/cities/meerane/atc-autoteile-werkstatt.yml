@@ -1,11 +1,11 @@
 id: 573213354
-type: way
+type: node
 latitude: 50.85924
 longitude: 12.45737
 postcode: "08393"
 city: Meerane
-street: "Crotenlaider Straße"
-housenumber: 41
+street: Crotenlaider Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30"
+opening_hours: Mo-Fr 08:30-17:30
 website: ""

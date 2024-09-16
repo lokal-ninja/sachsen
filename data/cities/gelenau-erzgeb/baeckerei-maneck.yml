@@ -1,11 +1,11 @@
 id: 461530129
-type: way
+type: node
 latitude: 50.71131
 longitude: 12.99494
 postcode: ""
 city: Gelenau/Erzgeb.
-street: "Straße der Befreiung"
-housenumber: 1
+street: Straße der Befreiung
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

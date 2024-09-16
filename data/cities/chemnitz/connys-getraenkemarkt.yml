@@ -1,11 +1,11 @@
 id: 93205423
-type: way
+type: node
 latitude: 50.8131
 longitude: 12.83113
 postcode: "09117"
 city: Chemnitz
-street: "Zwickauer Straße"
-housenumber: 500
+street: Zwickauer Straße
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

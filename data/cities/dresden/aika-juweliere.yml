@@ -4,8 +4,8 @@ latitude: 51.06284
 longitude: 13.75002
 postcode: "01099"
 city: Dresden
-street: "Bautzner Straße"
-housenumber: 6
-phone: "+49 351 4262075"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00"
-website: "https://www.uhrenlounge.de/"
+street: Bautzner Straße
+housenumber: "6"
+phone: +49 351 4262075
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00
+website: https://www.uhrenlounge.de/

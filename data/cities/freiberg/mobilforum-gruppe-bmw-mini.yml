@@ -1,11 +1,11 @@
 id: 88563366
-type: way
+type: node
 latitude: 50.89749
 longitude: 13.32973
 postcode: "09599"
 city: Freiberg
-street: "Häuersteig"
-housenumber: 25
+street: Häuersteig
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

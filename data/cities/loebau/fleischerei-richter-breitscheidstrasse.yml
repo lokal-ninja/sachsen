@@ -1,11 +1,11 @@
 id: 56077238
-type: way
+type: node
 latitude: 51.10191
 longitude: 14.67515
 postcode: "02708"
 city: Löbau
-street: "Breitscheidstraße"
-housenumber: 1
-phone: "+49 3585 867421"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
-website: "https://www.fleischerei-richter.de/"
+street: Breitscheidstraße
+housenumber: "1"
+phone: +49 3585 867421
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00
+website: https://www.fleischerei-richter.de/

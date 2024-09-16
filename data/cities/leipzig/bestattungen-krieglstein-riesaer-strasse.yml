@@ -4,8 +4,8 @@ latitude: 51.34632
 longitude: 12.44606
 postcode: "04328"
 city: Leipzig
-street: "Riesaer Straße"
-housenumber: 31
-phone: "+49 341 35 23 998"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://bnkrieglstein.de/"
+street: Riesaer Straße
+housenumber: "31"
+phone: +49 341 35 23 998
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://bnkrieglstein.de/

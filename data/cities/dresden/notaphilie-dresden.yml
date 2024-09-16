@@ -4,8 +4,8 @@ latitude: 51.07558
 longitude: 13.72392
 postcode: "01127"
 city: Dresden
-street: "Oschatzer Straße"
-housenumber: 14
-phone: "+49 351 8583253"
-opening_hours: "We-Fr 15:00-18:00"
-website: "http://www.muenzen-dresden.de"
+street: Oschatzer Straße
+housenumber: "14"
+phone: +49 351 8583253
+opening_hours: We-Fr 15:00-18:00
+website: http://www.muenzen-dresden.de

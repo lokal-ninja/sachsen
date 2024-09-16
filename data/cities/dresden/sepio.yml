@@ -4,8 +4,8 @@ latitude: 51.05233
 longitude: 13.80603
 postcode: "01309"
 city: Dresden
-street: "Angelsteg"
-housenumber: 5
-phone: "+49 351 3113867"
-opening_hours: "Mo-Fr 10:00-15:00"
-website: "https://sepio-media.de/kontakt/dresden/"
+street: Angelsteg
+housenumber: "5"
+phone: +49 351 3113867
+opening_hours: Mo-Fr 10:00-15:00
+website: https://sepio-media.de/kontakt/dresden/

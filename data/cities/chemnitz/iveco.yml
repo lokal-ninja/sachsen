@@ -1,11 +1,11 @@
 id: 158020071
-type: way
+type: node
 latitude: 50.86119
 longitude: 12.92423
 postcode: "09114"
 city: Chemnitz
-street: "Chemnitztalstraße"
-housenumber: 46
+street: Chemnitztalstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

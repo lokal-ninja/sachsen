@@ -1,11 +1,11 @@
 id: 131681427
-type: way
+type: node
 latitude: 51.05419
 longitude: 13.3451
 postcode: "01683"
 city: Nossen
-street: "Eulaer Hauptstraße"
-housenumber: 60
-phone: "+49 35242 68300"
+street: Eulaer Hauptstraße
+housenumber: "60"
+phone: +49 35242 68300
 opening_hours: ""
 website: ""

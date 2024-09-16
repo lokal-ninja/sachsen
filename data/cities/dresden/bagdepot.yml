@@ -4,8 +4,8 @@ latitude: 51.07504
 longitude: 13.72342
 postcode: "01127"
 city: Dresden
-street: "Oschatzer Straße"
-housenumber: 4
-phone: "+49 351 4827993"
-opening_hours: "nur Online-Geschäft"
-website: "https://www.bagdepot.de/"
+street: Oschatzer Straße
+housenumber: "4"
+phone: +49 351 4827993
+opening_hours: '"nur Online-Geschäft"'
+website: https://www.bagdepot.de/

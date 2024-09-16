@@ -1,11 +1,11 @@
 id: 631928338
-type: way
+type: node
 latitude: 50.91562
 longitude: 13.82749
 postcode: "01809"
 city: Müglitztal
-street: "Müglitztalstraße"
-housenumber: 76
+street: Müglitztalstraße
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://www.elbtal-getraenke.de/"
+website: https://www.elbtal-getraenke.de/

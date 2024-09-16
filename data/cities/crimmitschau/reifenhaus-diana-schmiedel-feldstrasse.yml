@@ -1,11 +1,11 @@
 id: 586393454
-type: way
+type: node
 latitude: 50.82835
 longitude: 12.39829
 postcode: "08451"
 city: Crimmitschau
-street: "Feldstraße"
-housenumber: 5
+street: Feldstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

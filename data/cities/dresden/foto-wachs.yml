@@ -4,8 +4,8 @@ latitude: 51.04428
 longitude: 13.7967
 postcode: "01309"
 city: Dresden
-street: "Wittenberger Straße"
-housenumber: 84
-phone: "+49 351 2523618"
-opening_hours: "Nur auf Termin"
-website: "https://www.foto-wachs.de/"
+street: Wittenberger Straße
+housenumber: "84"
+phone: +49 351 2523618
+opening_hours: '"Nur auf Termin"'
+website: https://www.foto-wachs.de/

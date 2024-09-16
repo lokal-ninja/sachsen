@@ -4,8 +4,8 @@ latitude: 51.36177
 longitude: 12.37054
 postcode: "04155"
 city: Leipzig
-street: "Georg-Schumann-Straße"
-housenumber: 50
-phone: "+49 0341 5502525"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-16:00"
-website: "https://www.sh-borgmann.de/"
+street: Georg-Schumann-Straße
+housenumber: "50"
+phone: +49 0341 5502525
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-16:00
+website: https://www.sh-borgmann.de/

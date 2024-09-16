@@ -4,8 +4,8 @@ latitude: 51.17001
 longitude: 14.97847
 postcode: "02828"
 city: Görlitz
-street: "Lausitzer Straße"
-housenumber: 20
-phone: "+49 3581 303761"
-opening_hours: "Mo,We,Fr 09:00-15:00; Tu,Th 09:00-18:00"
-website: "https://scheinpflug-gesundheitsdienste.de/"
+street: Lausitzer Straße
+housenumber: "20"
+phone: +49 3581 303761
+opening_hours: Mo,We,Fr 09:00-15:00; Tu,Th 09:00-18:00
+website: https://scheinpflug-gesundheitsdienste.de/

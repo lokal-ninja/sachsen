@@ -4,8 +4,8 @@ latitude: 51.52309
 longitude: 12.33498
 postcode: "04509"
 city: Delitzsch
-street: "Breite Straße"
-housenumber: 30
-phone: "+49 34202 355544"
-opening_hours: "Mo,We 08:00-14:00; Tu,Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-12:00"
+street: Breite Straße
+housenumber: "30"
+phone: +49 34202 355544
+opening_hours: Mo,We 08:00-14:00; Tu,Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

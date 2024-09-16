@@ -4,8 +4,8 @@ latitude: 51.22103
 longitude: 12.71949
 postcode: "04668"
 city: Grimma
-street: "Südstraße"
-housenumber: 80
-phone: "+49 3437 972597"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-13:00"
-website: "www.pleitegeier-gmbh.de"
+street: Südstraße
+housenumber: "80"
+phone: +49 3437 972597
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-13:00
+website: www.pleitegeier-gmbh.de

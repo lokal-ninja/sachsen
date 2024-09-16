@@ -4,8 +4,8 @@ latitude: 50.42659
 longitude: 12.03627
 postcode: "08538"
 city: Weischlitz
-street: "Schäfereiweg"
+street: Schäfereiweg
 housenumber: 1A
 phone: ""
-opening_hours: "Nach Vereinbarung"
-website: "https://www.kirchhoff-fruchtverarbeitung.de"
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.kirchhoff-fruchtverarbeitung.de

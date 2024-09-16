@@ -1,11 +1,11 @@
 id: 806560335
-type: way
+type: node
 latitude: 50.86693
 longitude: 12.61581
 postcode: "08396"
 city: Waldenburg
-street: "Feldweg"
+street: Feldweg
 housenumber: 1b
-phone: "+49 37608 22475"
-opening_hours: "Mo-Fr 6:30-18:00; Sa 8:00-11:30; Su off"
-website: "https://www.agroaw.de"
+phone: +49 37608 22475
+opening_hours: Mo-Fr 6:30-18:00; Sa 8:00-11:30; Su off
+website: https://www.agroaw.de

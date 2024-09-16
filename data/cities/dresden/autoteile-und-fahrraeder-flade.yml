@@ -4,8 +4,8 @@ latitude: 51.06977
 longitude: 13.7495
 postcode: "01099"
 city: Dresden
-street: "Königsbrücker Straße"
-housenumber: 56
-phone: "+49 351 8041028"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-12:00"
-website: "https://www.fahrrad-flade.de/"
+street: Königsbrücker Straße
+housenumber: "56"
+phone: +49 351 8041028
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-12:00
+website: https://www.fahrrad-flade.de/

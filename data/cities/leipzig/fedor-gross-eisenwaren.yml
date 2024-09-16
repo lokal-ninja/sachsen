@@ -4,8 +4,8 @@ latitude: 51.3325
 longitude: 12.33506
 postcode: "04177"
 city: Leipzig
-street: "Josephstraße"
-housenumber: 47
-phone: "+49 341 4805238"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://eisen-gross.de"
+street: Josephstraße
+housenumber: "47"
+phone: +49 341 4805238
+opening_hours: Mo-Fr 09:00-18:00
+website: http://eisen-gross.de

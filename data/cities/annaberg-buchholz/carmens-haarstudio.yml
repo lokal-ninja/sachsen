@@ -4,8 +4,8 @@ latitude: 50.5795
 longitude: 13.0024
 postcode: "09456"
 city: Annaberg-Buchholz
-street: "Buchholzer Straße"
-housenumber: 3
-phone: "+49 3733 66491"
-opening_hours: "Mo 09:00-18:00; Tu-Fr 08:00-18:00; Sa 08:00-12:00"
+street: Buchholzer Straße
+housenumber: "3"
+phone: +49 3733 66491
+opening_hours: Mo 09:00-18:00; Tu-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

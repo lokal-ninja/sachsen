@@ -4,8 +4,8 @@ latitude: 51.30313
 longitude: 12.42628
 postcode: "04289"
 city: Leipzig
-street: "Chemnitzer Straße"
-housenumber: 4
-phone: " +49 341 8 77 01 11"
-opening_hours: "Montag - Donnerstag 08:00 - 18:00 Uhr, Freitags 08:00 - 17:00 Uhr"
-website: "https://www.wiessner-tuning.de/"
+street: Chemnitzer Straße
+housenumber: "4"
+phone: ' +49 341 8 77 01 11'
+opening_hours: Montag - Donnerstag 08:00 - 18:00 Uhr, Freitags 08:00 - 17:00 Uhr
+website: https://www.wiessner-tuning.de/

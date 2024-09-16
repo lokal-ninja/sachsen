@@ -1,11 +1,11 @@
 id: 298390999
-type: way
+type: node
 latitude: 51.35922
 longitude: 12.41776
 postcode: "04347"
 city: Leipzig
-street: "Gorkistraße"
-housenumber: 21
+street: Gorkistraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
 website: ""

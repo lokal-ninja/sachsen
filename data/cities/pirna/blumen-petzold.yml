@@ -4,8 +4,8 @@ latitude: 50.96234
 longitude: 13.93869
 postcode: "01796"
 city: Pirna
-street: "Jacobäerstraße"
-housenumber: 1
-phone: "+49 3501 528016"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-13:00"
+street: Jacobäerstraße
+housenumber: "1"
+phone: +49 3501 528016
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-13:00
 website: ""

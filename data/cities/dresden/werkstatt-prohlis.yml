@@ -4,8 +4,8 @@ latitude: 51.0077
 longitude: 13.79559
 postcode: "01239"
 city: Dresden
-street: "Gamigstraße"
-housenumber: 18
+street: Gamigstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo, Do 15:00-19:00"
-website: "https://www.vsp-dresden.org/familie-freizeit/buergerwerkstatt-prohlis.html"
+opening_hours: Mo, Do 15:00-19:00
+website: https://www.vsp-dresden.org/familie-freizeit/buergerwerkstatt-prohlis.html

@@ -1,11 +1,11 @@
 id: 207710415
-type: way
+type: node
 latitude: 50.80333
 longitude: 12.7314
 postcode: "09337"
 city: Hohenstein-Ernstthal
-street: "Dresdner Straße"
-housenumber: 122
+street: Dresdner Straße
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

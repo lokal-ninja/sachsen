@@ -4,8 +4,8 @@ latitude: 51.18213
 longitude: 13.29214
 postcode: "01623"
 city: Lommatzsch
-street: "Schwochau"
-housenumber: 13
-phone: "+49 35241 5430"
-opening_hours: "Mo-We 07:30-15:00; Th 07:30-18:00; Fr 07:30-16:15; Sa 09:00-11:00"
-website: "https://www.gefluegelfarm-lommatzsch.de/"
+street: Schwochau
+housenumber: "13"
+phone: +49 35241 5430
+opening_hours: Mo-We 07:30-15:00; Th 07:30-18:00; Fr 07:30-16:15; Sa 09:00-11:00
+website: https://www.gefluegelfarm-lommatzsch.de/

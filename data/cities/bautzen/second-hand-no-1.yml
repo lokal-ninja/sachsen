@@ -4,8 +4,9 @@ latitude: 51.18021
 longitude: 14.42487
 postcode: "02625"
 city: Bautzen
-street: "Schulstraße"
-housenumber: 4
+street: Schulstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Tu 10:00-18:00; We 10:00-16:00; Th 10:00-18:00; Fr 10:00-16:00; Sa 10:00-12:00; PH off"
+opening_hours: Mo-Tu 10:00-18:00; We 10:00-16:00; Th 10:00-18:00; Fr 10:00-16:00;
+    Sa 10:00-12:00; PH off
 website: ""

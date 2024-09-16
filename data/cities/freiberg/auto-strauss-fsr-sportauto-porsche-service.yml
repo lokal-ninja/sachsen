@@ -1,11 +1,11 @@
 id: 115653677
-type: way
+type: node
 latitude: 50.90717
 longitude: 13.33693
 postcode: "09599"
 city: Freiberg
-street: "Olbernhauer Straße"
-housenumber: 49
-phone: "+49 37317746677"
+street: Olbernhauer Straße
+housenumber: "49"
+phone: +49 37317746677
 opening_hours: ""
-website: "https://www.fsr-sportauto.de/"
+website: https://www.fsr-sportauto.de/

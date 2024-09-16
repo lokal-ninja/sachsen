@@ -1,11 +1,11 @@
 id: 73003854
-type: way
+type: node
 latitude: 51.14538
 longitude: 14.16167
 postcode: "01877"
 city: Bischofswerda
-street: "Geißmannsdorfer Straße"
-housenumber: 38
+street: Geißmannsdorfer Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-12:00
 website: ""

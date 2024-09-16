@@ -1,11 +1,11 @@
 id: 41062958
-type: way
+type: node
 latitude: 50.88642
 longitude: 14.80224
 postcode: "02763"
 city: Zittau
-street: "Kantstraße"
-housenumber: 31
+street: Kantstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 256420532
-type: way
+type: node
 latitude: 51.34761
 longitude: 12.26818
 postcode: "04178"
 city: Leipzig
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

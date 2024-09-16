@@ -4,8 +4,8 @@ latitude: 50.91651
 longitude: 13.55836
 postcode: "01774"
 city: Klingenberg
-street: "Dorfstraße"
-housenumber: 10
-phone: "+49 35055 693189"
-opening_hours: "Fr 07:00-12:00,14:00-17:00, Sa 07:00-12:00"
-website: "https://www.biohahn.de/"
+street: Dorfstraße
+housenumber: "10"
+phone: +49 35055 693189
+opening_hours: Fr 07:00-12:00,14:00-17:00, Sa 07:00-12:00
+website: https://www.biohahn.de/

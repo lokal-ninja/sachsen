@@ -4,8 +4,8 @@ latitude: 50.9103
 longitude: 13.34151
 postcode: "09599"
 city: Freiberg
-street: "Am Bahnhof"
-housenumber: 4
-phone: "+49 3731 7748867"
-opening_hours: "Mo-Sa 06:00-20:00"
-website: "https://www.sternenbaeck.de/unsere-filialen/detail?tx_zwbisdreifilialen_filialliste%5Baction%5D=detail&tx_zwbisdreifilialen_filialliste%5Bcontroller%5D=Filialen&tx_zwbisdreifilialen_filialliste%5Bfiliale%5D=278&cHash=5e866b01bfcd7e6d179529332bfde69a"
+street: Am Bahnhof
+housenumber: "4"
+phone: +49 3731 7748867
+opening_hours: Mo-Sa 06:00-20:00
+website: https://www.sternenbaeck.de/unsere-filialen/detail?tx_zwbisdreifilialen_filialliste%5Baction%5D=detail&tx_zwbisdreifilialen_filialliste%5Bcontroller%5D=Filialen&tx_zwbisdreifilialen_filialliste%5Bfiliale%5D=278&cHash=5e866b01bfcd7e6d179529332bfde69a

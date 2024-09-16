@@ -1,11 +1,11 @@
 id: 97877618
-type: way
+type: node
 latitude: 50.90442
 longitude: 14.7717
 postcode: "02763"
 city: Zittau
-street: "Hainewalder Straße"
-housenumber: 2
-phone: "+49 3583 540320"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.obi.de/de/maerkte/zittau"
+street: Hainewalder Straße
+housenumber: "2"
+phone: +49 3583 540320
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.obi.de/de/maerkte/zittau

@@ -4,8 +4,8 @@ latitude: 51.41212
 longitude: 13.44529
 postcode: "01609"
 city: Gröditz
-street: "Marktstraße"
-housenumber: 16
-phone: "+49 35263 68071"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Marktstraße
+housenumber: "16"
+phone: +49 35263 68071
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

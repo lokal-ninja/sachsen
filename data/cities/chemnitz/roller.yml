@@ -1,11 +1,11 @@
 id: 52718205
-type: way
+type: node
 latitude: 50.80323
 longitude: 12.91833
 postcode: "09120"
 city: Chemnitz
-street: "Hermann-Pöge-Straße"
-housenumber: 4
-phone: "+49 371 533870"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00"
+street: Hermann-Pöge-Straße
+housenumber: "4"
+phone: +49 371 533870
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00
 website: ""

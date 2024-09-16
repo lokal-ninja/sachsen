@@ -1,11 +1,11 @@
 id: 108911817
-type: way
+type: node
 latitude: 50.89892
 longitude: 13.86421
 postcode: "01825"
 city: Liebstadt
-street: "Lochau"
-housenumber: 92
-phone: "+49 35025 50419"
+street: Lochau
+housenumber: "92"
+phone: +49 35025 50419
 opening_hours: ""
 website: ""

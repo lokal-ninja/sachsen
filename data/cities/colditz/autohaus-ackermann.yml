@@ -1,11 +1,11 @@
 id: 484165124
-type: way
+type: node
 latitude: 51.14806
 longitude: 12.76465
 postcode: "04680"
 city: Colditz
-street: "Schönbacher Hohle"
-housenumber: 1
+street: Schönbacher Hohle
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

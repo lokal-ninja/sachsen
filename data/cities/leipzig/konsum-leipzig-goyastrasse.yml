@@ -4,8 +4,8 @@ latitude: 51.34938
 longitude: 12.35255
 postcode: "04105"
 city: Leipzig
-street: "Goyastraße"
-housenumber: 2
+street: Goyastraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00"
-website: "https://www.konsum-leipzig.de/"
+opening_hours: Mo-Sa 07:30-22:00
+website: https://www.konsum-leipzig.de/

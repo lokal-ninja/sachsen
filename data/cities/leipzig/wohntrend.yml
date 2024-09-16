@@ -1,11 +1,11 @@
 id: 56044090
-type: way
+type: node
 latitude: 51.32303
 longitude: 12.30851
 postcode: "04209"
 city: Leipzig
-street: "Brünner Straße"
+street: Brünner Straße
 housenumber: 8b
-phone: "+49 341 4205190"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.wohntrend-leipzig.de"
+phone: +49 341 4205190
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.wohntrend-leipzig.de

@@ -4,8 +4,8 @@ latitude: 51.01341
 longitude: 13.66366
 postcode: "01705"
 city: Freital
-street: "Dresdner Straße"
-housenumber: 55
-phone: "+49 351 6442908"
-opening_hours: "Mo 12:00-18:00; Tu-Fr 08:00-19:00; Sa 08:00-12:00; PH,Su off"
-website: "https://sandras-salon.de/"
+street: Dresdner Straße
+housenumber: "55"
+phone: +49 351 6442908
+opening_hours: Mo 12:00-18:00; Tu-Fr 08:00-19:00; Sa 08:00-12:00; PH,Su off
+website: https://sandras-salon.de/

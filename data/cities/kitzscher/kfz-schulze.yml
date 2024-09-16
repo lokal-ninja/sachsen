@@ -1,11 +1,11 @@
 id: 151426933
-type: way
+type: node
 latitude: 51.17649
 longitude: 12.53042
 postcode: "04567"
 city: Kitzscher
-street: "Landstraße"
-housenumber: 48
+street: Landstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

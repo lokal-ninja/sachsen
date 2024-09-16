@@ -1,11 +1,11 @@
 id: 569937805
-type: way
+type: node
 latitude: 50.82027
 longitude: 12.40862
 postcode: "08451"
 city: Crimmitschau
-street: "Breitscheidstraße"
-housenumber: 80
+street: Breitscheidstraße
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

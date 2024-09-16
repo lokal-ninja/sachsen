@@ -1,11 +1,11 @@
 id: 284961585
-type: way
+type: node
 latitude: 51.22539
 longitude: 12.71419
 postcode: "04668"
 city: Grimma
-street: "Lausicker Straße"
+street: Lausicker Straße
 housenumber: 7a
 phone: "+49343771350"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.holzhandel-fritsch.de/"
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.holzhandel-fritsch.de/

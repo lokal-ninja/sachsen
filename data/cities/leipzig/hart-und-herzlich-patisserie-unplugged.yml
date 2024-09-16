@@ -4,8 +4,8 @@ latitude: 51.36471
 longitude: 12.35636
 postcode: "04155"
 city: Leipzig
-street: "Georg-Schumann-Straße"
-housenumber: 130
-phone: "+49 341 67972344"
-opening_hours: "We-Sa 10:00-17:00"
-website: "https://www.hartundherzlich-patisserie.com/"
+street: Georg-Schumann-Straße
+housenumber: "130"
+phone: +49 341 67972344
+opening_hours: We-Sa 10:00-17:00
+website: https://www.hartundherzlich-patisserie.com/

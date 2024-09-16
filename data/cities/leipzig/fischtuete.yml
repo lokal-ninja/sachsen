@@ -4,8 +4,8 @@ latitude: 51.32503
 longitude: 12.34218
 postcode: "04229"
 city: Leipzig
-street: "Industriestraße"
-housenumber: 18
+street: Industriestraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:00"
-website: "https://www.knall-tuete.de/"
+opening_hours: Mo-Fr 12:00-18:00
+website: https://www.knall-tuete.de/

@@ -1,11 +1,11 @@
 id: 261690516
-type: way
+type: node
 latitude: 50.6569
 longitude: 13.34416
 postcode: "09526"
 city: Olbernhau
-street: "Grünthaler Straße"
-housenumber: 50
-phone: "+49 37360 20105"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.prooptik.de/"
+street: Grünthaler Straße
+housenumber: "50"
+phone: +49 37360 20105
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.prooptik.de/

@@ -1,11 +1,11 @@
 id: 102518638
-type: way
+type: node
 latitude: 51.2193
 longitude: 12.3292
 postcode: "04442"
 city: Zwenkau
-street: "Arthur-Mahler-Straße"
-housenumber: 14
-phone: "+49 34203 52495"
+street: Arthur-Mahler-Straße
+housenumber: "14"
+phone: +49 34203 52495
 opening_hours: ""
 website: ""

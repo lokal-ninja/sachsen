@@ -4,8 +4,8 @@ latitude: 50.86272
 longitude: 13.06655
 postcode: "09557"
 city: Flöha
-street: "Chemnitzer Straße"
-housenumber: 3
-phone: "+49 3726 3049"
-opening_hours: "Mo-Th 07:00-17:00 || nach Vereinbarung"
-website: "http://www.uhlig-kfz.de"
+street: Chemnitzer Straße
+housenumber: "3"
+phone: +49 3726 3049
+opening_hours: Mo-Th 07:00-17:00 || "nach Vereinbarung"
+website: http://www.uhlig-kfz.de

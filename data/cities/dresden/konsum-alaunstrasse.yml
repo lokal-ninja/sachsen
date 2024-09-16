@@ -4,8 +4,8 @@ latitude: 51.06496
 longitude: 13.7495
 postcode: "01099"
 city: Dresden
-street: "Alaunstraße"
-housenumber: 21
+street: Alaunstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su off"
-website: "https://www.konsum.de/"
+opening_hours: Mo-Sa 09:00-22:00; Su off
+website: https://www.konsum.de/

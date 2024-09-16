@@ -4,8 +4,8 @@ latitude: 50.50145
 longitude: 12.13526
 postcode: "08523"
 city: Plauen
-street: "Karlstraße"
-housenumber: 2
-phone: "+49 3741 226894"
-opening_hours: "Mo-Fr 09:00-17:00; Th 09:30-14:00; Sa 10:00-12:00"
-website: "http://www.mdmusik.homepage.t-online.de/"
+street: Karlstraße
+housenumber: "2"
+phone: +49 3741 226894
+opening_hours: Mo-Fr 09:00-17:00; Th 09:30-14:00; Sa 10:00-12:00
+website: http://www.mdmusik.homepage.t-online.de/

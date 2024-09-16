@@ -4,8 +4,8 @@ latitude: 51.34367
 longitude: 12.37501
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+4934197690955"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.g-star.com/de_de"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.g-star.com/de_de

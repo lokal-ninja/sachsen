@@ -4,8 +4,8 @@ latitude: 50.83359
 longitude: 12.91903
 postcode: "09111"
 city: Chemnitz
-street: "Webergasse"
-housenumber: 1
+street: Webergasse
+housenumber: "1"
 phone: "+49371242880"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "http://www.alltoursreisecenterchemnitz.de/"
+opening_hours: Mo-Sa 10:00-18:00
+website: http://www.alltoursreisecenterchemnitz.de/

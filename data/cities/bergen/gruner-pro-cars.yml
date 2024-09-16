@@ -1,11 +1,11 @@
 id: 155457988
-type: way
+type: node
 latitude: 50.47612
 longitude: 12.28372
 postcode: "08239"
 city: Bergen
-street: "Falkensteiner Straße"
-housenumber: 65
+street: Falkensteiner Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

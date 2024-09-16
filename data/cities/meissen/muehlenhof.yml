@@ -4,8 +4,8 @@ latitude: 51.16393
 longitude: 13.47244
 postcode: "01662"
 city: Meißen
-street: "Leipziger Straße"
-housenumber: 2
+street: Leipziger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Sa-We off; Th 10:00-18:00; Fr 10:00-17:00"
-website: "https://www.fichtenmuehle.de/cms/muehlenladen"
+opening_hours: Sa-We off; Th 10:00-18:00; Fr 10:00-17:00
+website: https://www.fichtenmuehle.de/cms/muehlenladen

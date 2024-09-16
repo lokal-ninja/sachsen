@@ -1,11 +1,11 @@
 id: 201317136
-type: way
+type: node
 latitude: 51.06543
 longitude: 13.03189
 postcode: "04736"
 city: Waldheim
-street: "Mortelstraße"
-housenumber: 27
+street: Mortelstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

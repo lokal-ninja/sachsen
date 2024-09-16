@@ -1,11 +1,11 @@
 id: 24377010
-type: way
+type: node
 latitude: 51.33724
 longitude: 12.37492
 postcode: "04109"
 city: Leipzig
-street: "Petersstraße"
-housenumber: 44
+street: Petersstraße
+housenumber: "44"
 phone: ""
-opening_hours: "24/7"
-website: "https://petersbogen-leipzig.de/"
+opening_hours: 24/7
+website: https://petersbogen-leipzig.de/

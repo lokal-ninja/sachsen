@@ -1,11 +1,11 @@
 id: 323343205
-type: way
+type: node
 latitude: 51.31567
 longitude: 12.28068
 postcode: "04209"
 city: Leipzig
-street: "Breisgaustraße"
-housenumber: 85
+street: Breisgaustraße
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

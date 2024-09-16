@@ -1,11 +1,11 @@
 id: 615981265
-type: way
+type: node
 latitude: 51.52172
 longitude: 12.32898
 postcode: "04509"
 city: Delitzsch
-street: "Hallesche Straße"
-housenumber: 35
+street: Hallesche Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

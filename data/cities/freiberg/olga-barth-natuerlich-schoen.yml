@@ -4,8 +4,8 @@ latitude: 50.91801
 longitude: 13.34364
 postcode: "09599"
 city: Freiberg
-street: "Weingasse"
-housenumber: 6
+street: Weingasse
+housenumber: "6"
 phone: ""
-opening_hours: "only after registration; PH off"
+opening_hours: '"only after registration"; PH off'
 website: ""

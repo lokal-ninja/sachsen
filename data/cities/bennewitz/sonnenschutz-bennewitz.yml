@@ -1,11 +1,11 @@
 id: 588330920
-type: way
+type: node
 latitude: 51.36061
 longitude: 12.69426
 postcode: "04828"
 city: Bennewitz
-street: "Leipziger Straße"
+street: Leipziger Straße
 housenumber: 77a
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-13:00"
-website: "https://www.sonnenschutz-bennewitz.de/"
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-13:00
+website: https://www.sonnenschutz-bennewitz.de/

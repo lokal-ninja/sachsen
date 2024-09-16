@@ -1,11 +1,11 @@
 id: 155153563
-type: way
+type: node
 latitude: 50.80403
 longitude: 12.73264
 postcode: "09337"
 city: Hohenstein-Ernstthal
-street: "Dresdner Straße"
+street: Dresdner Straße
 housenumber: 124c
-phone: "+49 3723 6299634"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.aktionshaus-wreesmann.de/"
+phone: +49 3723 6299634
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.aktionshaus-wreesmann.de/

@@ -1,11 +1,11 @@
 id: 119908561
-type: way
+type: node
 latitude: 51.07613
 longitude: 13.7351
 postcode: "01097"
 city: Dresden
-street: "Fritz-Reuter-Straße"
-housenumber: 56
-phone: "+49 351 85170"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-12:00"
-website: "https://www.saxonia-baustoffe.de/"
+street: Fritz-Reuter-Straße
+housenumber: "56"
+phone: +49 351 85170
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-12:00
+website: https://www.saxonia-baustoffe.de/

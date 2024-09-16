@@ -4,8 +4,8 @@ latitude: 50.96817
 longitude: 13.9331
 postcode: "01796"
 city: Pirna
-street: "Rudolf-Renner-Straße"
-housenumber: 10
+street: Rudolf-Renner-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://muehlenbaecker.de"
+website: https://muehlenbaecker.de

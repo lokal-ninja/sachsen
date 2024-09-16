@@ -1,11 +1,11 @@
 id: 27896347
-type: way
+type: node
 latitude: 51.02188
 longitude: 13.7476
 postcode: "01217"
 city: Dresden
-street: "Räcknitzhöhe"
-housenumber: 76
-phone: "+49 351 4723270"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 09:00-12:00"
-website: "https://www.schoenherr-dresden.de/"
+street: Räcknitzhöhe
+housenumber: "76"
+phone: +49 351 4723270
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 09:00-12:00
+website: https://www.schoenherr-dresden.de/

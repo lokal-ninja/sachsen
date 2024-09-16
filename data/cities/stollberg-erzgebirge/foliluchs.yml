@@ -4,8 +4,8 @@ latitude: 50.71667
 longitude: 12.78324
 postcode: "09366"
 city: Stollberg/Erzgebirge
-street: "Ringstraße"
-housenumber: 2
+street: Ringstraße
+housenumber: "2"
 phone: "+4937296927020"
-opening_hours: "Tu 07:30-16:30; Mo,We 08:00-18:00; Fr 07:30-17:00; Th 08:00-16:30"
-website: "https://www.foliluchs.de"
+opening_hours: Tu 07:30-16:30; Mo,We 08:00-18:00; Fr 07:30-17:00; Th 08:00-16:30
+website: https://www.foliluchs.de

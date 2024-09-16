@@ -4,8 +4,8 @@ latitude: 50.73637
 longitude: 12.47259
 postcode: "08058"
 city: Zwickau
-street: "Jahnstraße"
-housenumber: 1
+street: Jahnstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 08:00-17:00, Sa 07:00-11:30"
+opening_hours: Tu-Fr 08:00-17:00, Sa 07:00-11:30
 website: ""

@@ -1,11 +1,11 @@
 id: 131325787
-type: way
+type: node
 latitude: 51.17782
 longitude: 12.24851
 postcode: "04523"
 city: Pegau
-street: "Carsdorfer Höhe"
-housenumber: 24
-phone: "+49 34296 75132"
-opening_hours: "Mo-Fr 07:30-17:30; Sa,Su,PH off"
-website: "https://www.doerfer.de/"
+street: Carsdorfer Höhe
+housenumber: "24"
+phone: +49 34296 75132
+opening_hours: Mo-Fr 07:30-17:30; Sa,Su,PH off
+website: https://www.doerfer.de/

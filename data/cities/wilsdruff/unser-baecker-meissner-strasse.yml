@@ -1,11 +1,11 @@
 id: 238333050
-type: way
+type: node
 latitude: 51.05744
 longitude: 13.53193
 postcode: "01723"
 city: Wilsdruff
-street: "Meißner Straße"
+street: Meißner Straße
 housenumber: 30d
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-17:00; Su 07:00-17:00"
-website: "https://unser-baecker.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-17:00; Su 07:00-17:00
+website: https://unser-baecker.de/

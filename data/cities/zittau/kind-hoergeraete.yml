@@ -4,8 +4,8 @@ latitude: 50.897
 longitude: 14.80556
 postcode: "02763"
 city: Zittau
-street: "Innere Weberstraße"
-housenumber: 4
-phone: "+49 3583 512089"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.kind.com"
+street: Innere Weberstraße
+housenumber: "4"
+phone: +49 3583 512089
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.kind.com

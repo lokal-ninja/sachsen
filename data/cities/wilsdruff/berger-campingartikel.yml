@@ -1,11 +1,12 @@
 id: 134228122
-type: way
+type: node
 latitude: 51.03576
 longitude: 13.58972
 postcode: "01723"
 city: Wilsdruff
-street: "Sachsenallee"
-housenumber: 8
+street: Sachsenallee
+housenumber: "8"
 phone: ""
-opening_hours: "Mar-Sep: Mo-Fr 09:00-19:00; Mar-Sep: Sa 09:00-16:00; Oct-Feb: Mo-Fr 10:00-18:00; Oct-Feb: Sa 10:00-14:00"
-website: "https://www.fritz-berger.de/"
+opening_hours: 'Mar-Sep: Mo-Fr 09:00-19:00; Mar-Sep: Sa 09:00-16:00; Oct-Feb: Mo-Fr
+    10:00-18:00; Oct-Feb: Sa 10:00-14:00'
+website: https://www.fritz-berger.de/

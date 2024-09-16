@@ -4,8 +4,8 @@ latitude: 51.16059
 longitude: 13.47098
 postcode: "01662"
 city: Meißen
-street: "Neugasse"
-housenumber: 20
-phone: "+49 3521 413433"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.murmel-creation.de/"
+street: Neugasse
+housenumber: "20"
+phone: +49 3521 413433
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.murmel-creation.de/

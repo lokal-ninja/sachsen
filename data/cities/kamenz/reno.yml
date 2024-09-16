@@ -1,11 +1,11 @@
 id: 1193156270
-type: way
+type: node
 latitude: 51.28608
 longitude: 14.09535
 postcode: "01917"
 city: Kamenz
-street: "An der Windmühle"
-housenumber: 2
-phone: "+49 3578 7799796"
+street: An der Windmühle
+housenumber: "2"
+phone: +49 3578 7799796
 opening_hours: ""
 website: ""

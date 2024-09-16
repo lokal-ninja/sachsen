@@ -1,11 +1,11 @@
 id: 439776900
-type: way
+type: node
 latitude: 50.81692
 longitude: 12.38367
 postcode: "08451"
 city: Crimmitschau
-street: "Jakobsgasse"
-housenumber: 25
+street: Jakobsgasse
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

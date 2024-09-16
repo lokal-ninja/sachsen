@@ -1,11 +1,11 @@
 id: 948728324
-type: way
+type: node
 latitude: 51.22742
 longitude: 12.45522
 postcode: "04463"
 city: Großpösna
-street: "Grunaer Weg"
-housenumber: 
-phone: "+49 34206 78313"
-opening_hours: "Th-Su 14:00-18:00"
-website: "http://www.surfschule-leipzig.de/"
+street: Grunaer Weg
+housenumber: ""
+phone: +49 34206 78313
+opening_hours: Th-Su 14:00-18:00
+website: http://www.surfschule-leipzig.de/

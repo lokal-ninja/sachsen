@@ -1,11 +1,11 @@
 id: 376090884
-type: way
+type: node
 latitude: 50.47402
 longitude: 12.34962
 postcode: "08223"
 city: Falkenstein/Vogtl.
-street: "Plauensche Straße"
-housenumber: 82
+street: Plauensche Straße
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 179272616
-type: way
+type: node
 latitude: 51.1064
 longitude: 14.67025
 postcode: "02708"
 city: Löbau
-street: "Weißenberger Straße"
-housenumber: 45
+street: Weißenberger Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off"
-website: "https://www.auto-elitzsch.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off
+website: https://www.auto-elitzsch.de/

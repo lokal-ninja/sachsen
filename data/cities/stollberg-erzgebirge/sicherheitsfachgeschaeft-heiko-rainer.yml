@@ -1,11 +1,12 @@
 id: 120027092
-type: way
+type: node
 latitude: 50.70639
 longitude: 12.77122
 postcode: "09366"
 city: Stollberg/Erzgebirge
-street: "Gießereistraße"
-housenumber: 3
+street: Gießereistraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,We,Fr 08:00-12:00,13:00-17:00; Tu,Th 08:00-12:00,13:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo,We,Fr 08:00-12:00,13:00-17:00; Tu,Th 08:00-12:00,13:00-18:00; Sa
+    09:00-12:00
 website: ""

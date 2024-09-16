@@ -1,11 +1,11 @@
 id: 99873880
-type: way
+type: node
 latitude: 51.37034
 longitude: 12.7443
 postcode: "04808"
 city: Wurzen
-street: "Clara-Zetkin-Platz"
-housenumber: 2
-phone: "+49 3425 818300"
+street: Clara-Zetkin-Platz
+housenumber: "2"
+phone: +49 3425 818300
 opening_hours: ""
-website: "https://www.bestatter-schade.de/"
+website: https://www.bestatter-schade.de/

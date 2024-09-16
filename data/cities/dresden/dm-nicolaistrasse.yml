@@ -4,8 +4,8 @@ latitude: 51.04625
 longitude: 13.77054
 postcode: "01307"
 city: Dresden
-street: "Nicolaistraße"
-housenumber: 28
+street: Nicolaistraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

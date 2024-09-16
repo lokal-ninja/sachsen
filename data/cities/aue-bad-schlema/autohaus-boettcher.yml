@@ -1,11 +1,11 @@
 id: 231850374
-type: way
+type: node
 latitude: 50.57958
 longitude: 12.69064
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Bockauer Talstraße"
-housenumber: 20
-phone: "+49 3771 2590900"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "http://www.böttcher-aktiv.de"
+street: Bockauer Talstraße
+housenumber: "20"
+phone: +49 3771 2590900
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: http://www.böttcher-aktiv.de

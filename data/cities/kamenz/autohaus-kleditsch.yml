@@ -1,11 +1,11 @@
 id: 137477264
-type: way
+type: node
 latitude: 51.27525
 longitude: 14.10557
 postcode: "01917"
 city: Kamenz
-street: "Hohe Straße"
-housenumber: 5
+street: Hohe Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

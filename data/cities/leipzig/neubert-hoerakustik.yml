@@ -4,8 +4,8 @@ latitude: 51.36185
 longitude: 12.37074
 postcode: "04155"
 city: Leipzig
-street: "Lützowstraße"
-housenumber: 11
-phone: "+49 341 5643220"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://neubert-hoerakustik.de/"
+street: Lützowstraße
+housenumber: "11"
+phone: +49 341 5643220
+opening_hours: Mo-Fr 09:00-18:00
+website: https://neubert-hoerakustik.de/

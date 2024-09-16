@@ -4,8 +4,8 @@ latitude: 51.11801
 longitude: 13.72345
 postcode: "01109"
 city: Dresden
-street: "Keulenbergstraße"
-housenumber: 44
+street: Keulenbergstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-10:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-10:00
 website: ""

@@ -1,11 +1,11 @@
 id: 55970662
-type: way
+type: node
 latitude: 51.16254
 longitude: 13.68039
 postcode: "01468"
 city: Moritzburg
-street: "Schloßallee"
-housenumber: 9
+street: Schloßallee
+housenumber: "9"
 phone: "+493520781360"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://www.auto-christen.de/"
+opening_hours: Mo-Fr 07:30-18:00
+website: https://www.auto-christen.de/

@@ -4,8 +4,8 @@ latitude: 50.78339
 longitude: 12.89537
 postcode: "09123"
 city: Chemnitz
-street: "Chemnitzer Straße"
-housenumber: 65
+street: Chemnitzer Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://richtererzgebirge.de/"
+website: https://richtererzgebirge.de/

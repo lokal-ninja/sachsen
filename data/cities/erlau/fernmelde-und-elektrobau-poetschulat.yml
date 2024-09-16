@@ -1,11 +1,11 @@
 id: 185427498
-type: way
+type: node
 latitude: 51.0524
 longitude: 12.85668
 postcode: "09306"
 city: Erlau
-street: "Alte Hauptstraße"
-housenumber: 31
-phone: "+49 3737 42579"
+street: Alte Hauptstraße
+housenumber: "31"
+phone: +49 3737 42579
 opening_hours: ""
-website: "poetschulat.de"
+website: poetschulat.de

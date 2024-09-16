@@ -4,8 +4,8 @@ latitude: 51.04531
 longitude: 13.77651
 postcode: "01309"
 city: Dresden
-street: "Borsbergstraße"
-housenumber: 21
-phone: "+49 351 323 22 434"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://www.haiyen-hairdesign.de"
+street: Borsbergstraße
+housenumber: "21"
+phone: +49 351 323 22 434
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://www.haiyen-hairdesign.de

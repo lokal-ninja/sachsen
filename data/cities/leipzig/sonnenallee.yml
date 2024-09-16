@@ -4,8 +4,8 @@ latitude: 51.35795
 longitude: 12.37596
 postcode: "04105"
 city: Leipzig
-street: "Trufanowstraße"
-housenumber: 47
-phone: "+49 341 5832195"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH 10:00-20:00"
-website: "http://www.sonnenallee-studio.de/"
+street: Trufanowstraße
+housenumber: "47"
+phone: +49 341 5832195
+opening_hours: Mo-Sa 08:00-21:00; Su,PH 10:00-20:00
+website: http://www.sonnenallee-studio.de/

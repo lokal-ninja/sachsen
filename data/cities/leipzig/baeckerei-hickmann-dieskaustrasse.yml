@@ -4,8 +4,8 @@ latitude: 51.31585
 longitude: 12.32643
 postcode: "04229"
 city: Leipzig
-street: "Dieskaustraße"
-housenumber: 65
+street: Dieskaustraße
+housenumber: "65"
 phone: ""
-opening_hours: "Di-Sa"
+opening_hours: Di-Sa
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.31632
 longitude: 12.29101
 postcode: "04209"
 city: Leipzig
-street: "Stuttgarter Allee"
-housenumber: 15
+street: Stuttgarter Allee
+housenumber: "15"
 phone: ""
-opening_hours: "Mo 09:00-17:00; Tu-Fr 08:00-19:00; Sa 08:00-13:00"
+opening_hours: Mo 09:00-17:00; Tu-Fr 08:00-19:00; Sa 08:00-13:00
 website: ""

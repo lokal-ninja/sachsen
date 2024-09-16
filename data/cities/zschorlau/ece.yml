@@ -1,11 +1,11 @@
 id: 42206640
-type: way
+type: node
 latitude: 50.5635
 longitude: 12.63682
 postcode: "08321"
 city: Zschorlau
-street: "Am Kuchenhaus"
-housenumber: 12
+street: Am Kuchenhaus
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

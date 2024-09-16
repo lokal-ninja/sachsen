@@ -1,11 +1,11 @@
 id: 40905474
-type: way
+type: node
 latitude: 51.32606
 longitude: 12.37154
 postcode: "04107"
 city: Leipzig
-street: "Braustraße"
-housenumber: 26
+street: Braustraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.aldi-nord.de/

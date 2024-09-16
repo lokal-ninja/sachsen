@@ -4,8 +4,8 @@ latitude: 50.70705
 longitude: 12.49611
 postcode: "08056"
 city: Zwickau
-street: "Äußere Schneeberger Straße"
-housenumber: 100
-phone: "+49 375 27090"
-opening_hours: "Mo-We 08:00-20:00; Th-Sa 08:00-22:00"
-website: "https://www.globus.de/"
+street: Äußere Schneeberger Straße
+housenumber: "100"
+phone: +49 375 27090
+opening_hours: Mo-We 08:00-20:00; Th-Sa 08:00-22:00
+website: https://www.globus.de/

@@ -4,8 +4,8 @@ latitude: 50.88658
 longitude: 14.80081
 postcode: "02763"
 city: Zittau
-street: "Hochwaldstraße"
-housenumber: 25
+street: Hochwaldstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.city-it.de/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.city-it.de/

@@ -1,11 +1,11 @@
 id: 238851009
-type: way
+type: node
 latitude: 50.59725
 longitude: 12.26538
 postcode: "08491"
 city: Limbach
-street: "Plauener Straße"
-housenumber: 7
+street: Plauener Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

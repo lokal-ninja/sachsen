@@ -4,8 +4,8 @@ latitude: 51.33756
 longitude: 12.37297
 postcode: "04109"
 city: Leipzig
-street: "Burgplatz"
-housenumber: 2
-phone: "+49 341 1248330"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.smow.de/leipzig/"
+street: Burgplatz
+housenumber: "2"
+phone: +49 341 1248330
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.smow.de/leipzig/

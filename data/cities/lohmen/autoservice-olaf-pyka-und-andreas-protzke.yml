@@ -1,11 +1,11 @@
 id: 167907287
-type: way
+type: node
 latitude: 50.98867
 longitude: 14.02412
 postcode: "01847"
 city: Lohmen
-street: "Basteistraße"
-housenumber: 101
+street: Basteistraße
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

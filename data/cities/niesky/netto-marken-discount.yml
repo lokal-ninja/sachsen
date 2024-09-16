@@ -1,11 +1,11 @@
 id: 61724475
-type: way
+type: node
 latitude: 51.292
 longitude: 14.82104
 postcode: "02906"
 city: Niesky
-street: "Bautzener Straße"
-housenumber: 3
+street: Bautzener Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:30-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 06:30-21:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 51.3567
 longitude: 12.41357
 postcode: "04347"
 city: Leipzig
-street: "Löbauer Straße"
-housenumber: 30
+street: Löbauer Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo,Th,Fr 11:00-18:00"
-website: "https://naehklischee.de"
+opening_hours: Mo,Th,Fr 11:00-18:00
+website: https://naehklischee.de

@@ -4,8 +4,8 @@ latitude: 51.05083
 longitude: 13.78347
 postcode: "01309"
 city: Dresden
-street: "Löscherstraße"
-housenumber: 20
-phone: "+49 351 31200957"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"
-website: "https://baeckerei-groschupf.de"
+street: Löscherstraße
+housenumber: "20"
+phone: +49 351 31200957
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00
+website: https://baeckerei-groschupf.de

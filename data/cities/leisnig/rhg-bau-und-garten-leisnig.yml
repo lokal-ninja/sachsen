@@ -1,11 +1,11 @@
 id: 34680648
-type: way
+type: node
 latitude: 51.15948
 longitude: 12.94698
 postcode: "04703"
 city: Leisnig
-street: "Georg-Friedrich-Händel-Straße"
-housenumber: 54
+street: Georg-Friedrich-Händel-Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

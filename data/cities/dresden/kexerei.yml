@@ -4,8 +4,8 @@ latitude: 51.05184
 longitude: 13.73811
 postcode: "01067"
 city: Dresden
-street: "Sporergasse"
-housenumber: 5
+street: Sporergasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://www.kexerei.de/"
+opening_hours: Mo-Su 09:00-20:00
+website: https://www.kexerei.de/

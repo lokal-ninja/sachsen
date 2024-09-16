@@ -4,8 +4,8 @@ latitude: 51.37816
 longitude: 12.42207
 postcode: "04357"
 city: Leipzig
-street: "Kieler Straße"
-housenumber: 11
-phone: "+49 341 902 289 08"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.kinderwagencenter.de"
+street: Kieler Straße
+housenumber: "11"
+phone: +49 341 902 289 08
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.kinderwagencenter.de

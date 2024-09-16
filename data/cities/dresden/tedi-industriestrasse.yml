@@ -4,8 +4,8 @@ latitude: 51.08851
 longitude: 13.71274
 postcode: "01129"
 city: Dresden
-street: "Industriestraße"
-housenumber: 19
-phone: "+49 231 555770"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"
-website: "https://tedi.com/"
+street: Industriestraße
+housenumber: "19"
+phone: +49 231 555770
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00
+website: https://tedi.com/

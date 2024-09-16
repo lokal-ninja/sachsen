@@ -1,11 +1,11 @@
 id: 292098425
-type: way
+type: node
 latitude: 50.62816
 longitude: 12.52209
 postcode: "08107"
 city: Kirchberg
-street: "Hinter dem Bahnhof"
-housenumber: 1
+street: Hinter dem Bahnhof
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

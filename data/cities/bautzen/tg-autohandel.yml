@@ -1,11 +1,11 @@
 id: 117463306
-type: way
+type: node
 latitude: 51.19056
 longitude: 14.46052
 postcode: "02625"
 city: Bautzen
-street: "Kreckwitzer Straße"
-housenumber: 13
+street: Kreckwitzer Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-14:00; Su,PH off
 website: ""

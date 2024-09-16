@@ -4,8 +4,8 @@ latitude: 50.69456
 longitude: 12.46748
 postcode: "08062"
 city: Zwickau
-street: "Ernst-Grube-Straße"
-housenumber: 49
+street: Ernst-Grube-Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:00,15:00-18:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-12:00,15:00-18:00
 website: ""

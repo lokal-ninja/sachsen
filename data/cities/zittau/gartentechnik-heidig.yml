@@ -1,11 +1,11 @@
 id: 262746099
-type: way
+type: node
 latitude: 50.90539
 longitude: 14.77058
 postcode: "02763"
 city: Zittau
-street: "Neusalzaer Straße"
-housenumber: 51
-phone: "+49 3583 57640"
-opening_hours: "Mo, Th 09:00-18:00; Sa 09:00-12:00; Tu, We, Fr 09:00-16:00"
-website: "www.gartentechnik-heidig.de"
+street: Neusalzaer Straße
+housenumber: "51"
+phone: +49 3583 57640
+opening_hours: Mo, Th 09:00-18:00; Sa 09:00-12:00; Tu, We, Fr 09:00-16:00
+website: www.gartentechnik-heidig.de

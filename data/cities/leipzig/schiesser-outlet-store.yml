@@ -4,8 +4,8 @@ latitude: 51.40245
 longitude: 12.39638
 postcode: ""
 city: Leipzig
-street: "Handelsstraße"
-housenumber: 10
-phone: "+49 341 52039811"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "https://www.schiesser.com/"
+street: Handelsstraße
+housenumber: "10"
+phone: +49 341 52039811
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00
+website: https://www.schiesser.com/

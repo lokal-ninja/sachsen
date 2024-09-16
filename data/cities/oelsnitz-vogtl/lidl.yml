@@ -1,11 +1,11 @@
 id: 112773095
-type: way
+type: node
 latitude: 50.4269
 longitude: 12.17627
 postcode: "08606"
 city: Oelsnitz/Vogtl.
-street: "Plauensche Straße"
-housenumber: 67
+street: Plauensche Straße
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

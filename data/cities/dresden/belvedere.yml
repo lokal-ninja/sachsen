@@ -4,8 +4,8 @@ latitude: 51.11602
 longitude: 13.78676
 postcode: "01109"
 city: Dresden
-street: "Boltenhagener Straße"
-housenumber: 2
+street: Boltenhagener Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 13:00-19:00; Tu-Fr 07:30-19:00"
+opening_hours: Mo 13:00-19:00; Tu-Fr 07:30-19:00
 website: ""

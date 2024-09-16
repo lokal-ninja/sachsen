@@ -1,11 +1,11 @@
 id: 239751726
-type: way
+type: node
 latitude: 51.37684
 longitude: 12.31584
 postcode: "04159"
 city: Leipzig
-street: "Flößenstraße"
-housenumber: 2
+street: Flößenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 318843135
-type: way
+type: node
 latitude: 50.91758
 longitude: 14.71341
 postcode: "02779"
 city: Hainewalde
-street: "Talstraße"
-housenumber: 92
+street: Talstraße
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

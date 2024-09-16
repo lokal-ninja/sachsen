@@ -1,11 +1,11 @@
 id: 1024042456
-type: way
+type: node
 latitude: 51.34275
 longitude: 12.29344
 postcode: "04178"
 city: Leipzig
-street: "Merseburger Straße"
-housenumber: 215
+street: Merseburger Straße
+housenumber: "215"
 phone: "+493416868300"
-opening_hours: "Mo-Fr 06:30-15:15"
-website: "https://www.vemes.de/"
+opening_hours: Mo-Fr 06:30-15:15
+website: https://www.vemes.de/

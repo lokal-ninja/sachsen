@@ -1,11 +1,11 @@
 id: 475857048
-type: way
+type: node
 latitude: 51.14645
 longitude: 12.28562
 postcode: "04539"
 city: Groitzsch
-street: "Am Pappelhain"
-housenumber: 4
+street: Am Pappelhain
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:30,13:00-18:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 07:30-12:30,13:00-18:00; Sa,Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.26914
 longitude: 14.09576
 postcode: "01917"
 city: Kamenz
-street: "Anger"
-housenumber: 9
+street: Anger
+housenumber: "9"
 phone: ""
-opening_hours: "bei Bedarf anrufen"
+opening_hours: '"bei Bedarf anrufen"'
 website: ""

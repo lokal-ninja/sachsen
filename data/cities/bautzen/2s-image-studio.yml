@@ -4,8 +4,8 @@ latitude: 51.17406
 longitude: 14.43565
 postcode: "02625"
 city: Bautzen
-street: "Paulistraße"
-housenumber: 49
+street: Paulistraße
+housenumber: "49"
 phone: "+4935912704908"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 230552954
-type: way
+type: node
 latitude: 51.09339
 longitude: 12.32639
 postcode: "04613"
 city: Lucka
-street: "An der Bahn"
-housenumber: 3
+street: An der Bahn
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

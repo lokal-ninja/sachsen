@@ -1,11 +1,11 @@
 id: 298619869
-type: way
+type: node
 latitude: 51.05815
 longitude: 14.50015
 postcode: "02736"
 city: Oppach
-street: "Gartenstraße"
-housenumber: 4
+street: Gartenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 99897464
-type: way
+type: node
 latitude: 51.36854
 longitude: 12.74091
 postcode: "04808"
 city: Wurzen
-street: "Schillerstraße"
-housenumber: 3
-phone: "+49 3425 921516"
-opening_hours: "Mo,We,Fr 09:00-17:00; Tu,Th 09:00-12:00,13:00-17:00"
+street: Schillerstraße
+housenumber: "3"
+phone: +49 3425 921516
+opening_hours: Mo,We,Fr 09:00-17:00; Tu,Th 09:00-12:00,13:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 56133295
-type: way
+type: node
 latitude: 51.20496
 longitude: 13.73622
 postcode: "01471"
 city: Radeburg
-street: "Pfälzer Allee"
-housenumber: 2
+street: Pfälzer Allee
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.selgros.de/markt/radeburg"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
+website: https://www.selgros.de/markt/radeburg

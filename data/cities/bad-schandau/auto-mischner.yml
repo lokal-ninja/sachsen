@@ -1,11 +1,11 @@
 id: 504593270
-type: way
+type: node
 latitude: 50.93296
 longitude: 14.11181
 postcode: "01814"
 city: Bad Schandau
-street: "Gründelweg"
-housenumber: 12
+street: Gründelweg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00; Su off"
-website: "http://www.ford-mischner.de"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00; Su off
+website: http://www.ford-mischner.de

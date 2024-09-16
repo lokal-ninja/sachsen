@@ -4,8 +4,8 @@ latitude: 51.32203
 longitude: 12.34131
 postcode: "04229"
 city: Leipzig
-street: "Schnorrstraße"
-housenumber: 34
-phone: "+49 341 5198175"
-opening_hours: "Tu-Fr 11:00-13:00,15:00-20:00; Sa 11:00-14:00"
-website: "https://proregional-leipzig.de/"
+street: Schnorrstraße
+housenumber: "34"
+phone: +49 341 5198175
+opening_hours: Tu-Fr 11:00-13:00,15:00-20:00; Sa 11:00-14:00
+website: https://proregional-leipzig.de/

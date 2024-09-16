@@ -1,11 +1,11 @@
 id: 204425386
-type: way
+type: node
 latitude: 50.96101
 longitude: 12.74284
 postcode: "09328"
 city: Lunzenau
-street: "Altenburger Straße"
-housenumber: 83
+street: Altenburger Straße
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

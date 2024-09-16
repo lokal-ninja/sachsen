@@ -1,11 +1,11 @@
 id: 99348446
-type: way
+type: node
 latitude: 50.81251
 longitude: 12.79781
 postcode: "09224"
 city: Chemnitz
-street: "Chemnitzer Straße"
-housenumber: 48
+street: Chemnitzer Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo,We,Fr 14:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo,We,Fr 14:00-18:00; Sa 09:00-12:00
 website: ""

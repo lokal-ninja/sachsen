@@ -1,11 +1,11 @@
 id: 34569883
-type: way
+type: node
 latitude: 50.60149
 longitude: 12.63597
 postcode: "08289"
 city: Schneeberg
-street: "Gottlieb-Heinrich-Dietz-Straße"
-housenumber: 22
-phone: "+49 3772 3729750"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-12:00"
+street: Gottlieb-Heinrich-Dietz-Straße
+housenumber: "22"
+phone: +49 3772 3729750
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-12:00
 website: ""

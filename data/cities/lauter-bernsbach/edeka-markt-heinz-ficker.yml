@@ -4,8 +4,8 @@ latitude: 50.57204
 longitude: 12.76709
 postcode: "08315"
 city: Lauter-Bernsbach
-street: "Lauterer Straße"
-housenumber: 48
-phone: "+49 3774 34503"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 07:00-11:00"
-website: "https://www.edeka.de/"
+street: Lauterer Straße
+housenumber: "48"
+phone: +49 3774 34503
+opening_hours: Mo-Fr 08:00-18:00, Sa 07:00-11:00
+website: https://www.edeka.de/

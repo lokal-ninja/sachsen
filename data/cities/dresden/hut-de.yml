@@ -4,8 +4,8 @@ latitude: 51.05203
 longitude: 13.73767
 postcode: "01067"
 city: Dresden
-street: "Schloßstraße"
-housenumber: 16
+street: Schloßstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.dresden-hut.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.dresden-hut.de/

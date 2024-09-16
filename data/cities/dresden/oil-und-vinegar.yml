@@ -4,8 +4,8 @@ latitude: 51.05173
 longitude: 13.73761
 postcode: "01067"
 city: Dresden
-street: "Schloßstraße"
-housenumber: 14
+street: Schloßstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.oilvinegar.de/store/oil-vinegar-dresden/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.oilvinegar.de/store/oil-vinegar-dresden/

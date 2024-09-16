@@ -4,8 +4,8 @@ latitude: 51.18106
 longitude: 14.42509
 postcode: "02625"
 city: Bautzen
-street: "Reichenstraße"
-housenumber: 8
-phone: "+49 3591 49770"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00; PH off"
-website: "https://www.juwelierscholze.de/"
+street: Reichenstraße
+housenumber: "8"
+phone: +49 3591 49770
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00; PH off
+website: https://www.juwelierscholze.de/

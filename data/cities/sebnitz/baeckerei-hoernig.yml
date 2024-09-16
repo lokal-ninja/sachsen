@@ -1,11 +1,11 @@
 id: 116719828
-type: way
+type: node
 latitude: 50.98295
 longitude: 14.23383
 postcode: "01855"
 city: Sebnitz
-street: "Martin-May-Straße"
-housenumber: 4
+street: Martin-May-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.3453
 longitude: 12.38018
 postcode: "04109"
 city: Leipzig
-street: "Willy-Brandt-Platz"
-housenumber: 5
+street: Willy-Brandt-Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:30-21:00"
-website: "https://www.deichmann.com/"
+opening_hours: Mo-Sa 09:30-21:00
+website: https://www.deichmann.com/

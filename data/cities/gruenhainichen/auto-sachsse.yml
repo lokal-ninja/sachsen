@@ -1,11 +1,11 @@
 id: 394501890
-type: way
+type: node
 latitude: 50.77184
 longitude: 13.19041
 postcode: "09579"
 city: Grünhainichen
-street: "Försterbauerweg"
-housenumber: 4
-phone: "+49 37294 90220"
+street: Försterbauerweg
+housenumber: "4"
+phone: +49 37294 90220
 opening_hours: ""
 website: ""

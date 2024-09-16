@@ -1,11 +1,11 @@
 id: 443558994
-type: way
+type: node
 latitude: 51.13705
 longitude: 12.79317
 postcode: "04680"
 city: Colditz
-street: "Weststraße"
-housenumber: 3
-phone: "+49 34381 43369"
+street: Weststraße
+housenumber: "3"
+phone: +49 34381 43369
 opening_hours: ""
-website: "https://www.renault-autohaus-lange.de/"
+website: https://www.renault-autohaus-lange.de/

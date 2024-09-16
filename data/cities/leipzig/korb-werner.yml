@@ -4,8 +4,8 @@ latitude: 51.32158
 longitude: 12.37322
 postcode: "04275"
 city: Leipzig
-street: "Karl-Liebknecht-Straße"
-housenumber: 78
-phone: "+49 341 3914213"
-opening_hours: "Mo,We,Fr 10:00-14:00; Tu,Th 14:00-18:00"
-website: "https://www.korb-werner-leipzig.de"
+street: Karl-Liebknecht-Straße
+housenumber: "78"
+phone: +49 341 3914213
+opening_hours: Mo,We,Fr 10:00-14:00; Tu,Th 14:00-18:00
+website: https://www.korb-werner-leipzig.de

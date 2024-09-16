@@ -4,8 +4,8 @@ latitude: 51.34502
 longitude: 12.3578
 postcode: "04105"
 city: Leipzig
-street: "Waldstraße"
-housenumber: 42
+street: Waldstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.konsum-leipzig.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.konsum-leipzig.de/

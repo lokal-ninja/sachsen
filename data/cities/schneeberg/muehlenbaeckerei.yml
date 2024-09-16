@@ -4,8 +4,8 @@ latitude: 50.59663
 longitude: 12.63468
 postcode: "08289"
 city: Schneeberg
-street: "Zwickauer Straße"
-housenumber: 52
+street: Zwickauer Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:00-11:00"
-website: "https://www.stangengruener-muehlenbaeckerei.de"
+opening_hours: Mo-Sa 07:00-20:00; Su 07:00-11:00
+website: https://www.stangengruener-muehlenbaeckerei.de

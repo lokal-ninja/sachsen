@@ -4,8 +4,8 @@ latitude: 51.16989
 longitude: 14.97074
 postcode: "02828"
 city: Görlitz
-street: "Nieskyer Straße"
-housenumber: 100
-phone: "+4935813609540"
-opening_hours: "Mo-Sa 08:00-19:30"
-website: "https://www.dm.de/"
+street: Nieskyer Straße
+housenumber: "100"
+phone: +49 3581 3609540
+opening_hours: Mo-Sa 08:00-19:30; PH off
+website: https://www.dm.de

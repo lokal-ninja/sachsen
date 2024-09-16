@@ -4,8 +4,8 @@ latitude: 50.77919
 longitude: 12.86762
 postcode: ""
 city: Neukirchen/Erzgebirge
-street: "Hauptstraße"
-housenumber: 96
+street: Hauptstraße
+housenumber: "96"
 phone: ""
-opening_hours: "Mo,Tu,Th 10:00-18:00; We,Fr 10:00-16:00"
+opening_hours: Mo,Tu,Th 10:00-18:00; We,Fr 10:00-16:00
 website: ""

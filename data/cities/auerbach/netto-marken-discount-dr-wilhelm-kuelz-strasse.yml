@@ -1,11 +1,11 @@
 id: 457627923
-type: way
+type: node
 latitude: 50.50722
 longitude: 12.40159
 postcode: "08209"
 city: Auerbach
-street: "Dr.-Wilhelm-Külz-Straße"
-housenumber: 8
+street: Dr.-Wilhelm-Külz-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

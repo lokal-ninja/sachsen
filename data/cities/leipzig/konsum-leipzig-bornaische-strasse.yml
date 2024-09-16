@@ -1,11 +1,11 @@
 id: 94501672
-type: way
+type: node
 latitude: 51.3052
 longitude: 12.38237
 postcode: "04277"
 city: Leipzig
-street: "Bornaische Straße"
-housenumber: 55
+street: Bornaische Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.konsum-leipzig.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.konsum-leipzig.de/

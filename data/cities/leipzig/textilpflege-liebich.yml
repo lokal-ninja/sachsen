@@ -4,8 +4,8 @@ latitude: 51.34424
 longitude: 12.3613
 postcode: "04105"
 city: Leipzig
-street: "Tschaikowskistraße"
-housenumber: 12
+street: Tschaikowskistraße
+housenumber: "12"
 phone: ""
-opening_hours: "Sa 09:00-12:00; Tu 08:00-13:00; Th,Fr 09:00-13:00"
+opening_hours: Sa 09:00-12:00; Tu 08:00-13:00; Th,Fr 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 106529729
-type: way
+type: node
 latitude: 51.3458
 longitude: 12.26178
 postcode: "04178"
 city: Leipzig
-street: "Sandberg"
-housenumber: 30
+street: Sandberg
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-freydank.de/"
+website: https://www.auto-freydank.de/

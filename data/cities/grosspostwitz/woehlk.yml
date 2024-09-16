@@ -1,11 +1,11 @@
 id: 731895851
-type: way
+type: node
 latitude: 51.14603
 longitude: 14.44046
 postcode: "02692"
 city: Großpostwitz
-street: "Gewerbepark"
-housenumber: 20
+street: Gewerbepark
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-12:00; Su,PH off
 website: ""

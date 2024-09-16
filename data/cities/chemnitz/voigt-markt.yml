@@ -4,8 +4,8 @@ latitude: 50.83212
 longitude: 12.91866
 postcode: "09111"
 city: Chemnitz
-street: "Markt"
-housenumber: 
+street: Markt
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 220907399
-type: way
+type: node
 latitude: 50.58028
 longitude: 11.99644
 postcode: "07952"
 city: Pausa-Mühltroff
-street: "Paul-Scharf-Straße"
-housenumber: 5
+street: Paul-Scharf-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.vogtland-getraenke.de/"
+website: https://www.vogtland-getraenke.de/

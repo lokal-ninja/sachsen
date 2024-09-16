@@ -1,11 +1,11 @@
 id: 1002948018
-type: way
+type: node
 latitude: 50.92276
 longitude: 13.51554
 postcode: "01774"
 city: Klingenberg
-street: "Siedlungsweg"
-housenumber: 70
+street: Siedlungsweg
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

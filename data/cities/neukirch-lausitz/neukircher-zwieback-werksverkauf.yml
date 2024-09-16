@@ -4,8 +4,8 @@ latitude: 51.09846
 longitude: 14.30249
 postcode: "01904"
 city: Neukirch/Lausitz
-street: "Hauptstraße"
-housenumber: 68
+street: Hauptstraße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Th 08:00-15:00; Fr 08:00-14:00; Sa,Su,PH off"
+opening_hours: Mo-Th 08:00-15:00; Fr 08:00-14:00; Sa,Su,PH off
 website: ""

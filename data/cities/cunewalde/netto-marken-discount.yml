@@ -1,11 +1,11 @@
 id: 548083685
-type: way
+type: node
 latitude: 51.09222
 longitude: 14.47672
 postcode: "02733"
 city: Cunewalde
-street: "Köblitzer Straße"
-housenumber: 2
+street: Köblitzer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

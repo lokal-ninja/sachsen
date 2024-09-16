@@ -4,8 +4,8 @@ latitude: 51.004
 longitude: 13.84765
 postcode: "01259"
 city: Dresden
-street: "Putjatinstraße"
-housenumber: 9
-phone: "+49 351 2013534"
-opening_hours: "We-Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00"
-website: "https://www.heyde-optik.de/"
+street: Putjatinstraße
+housenumber: "9"
+phone: +49 351 2013534
+opening_hours: We-Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00
+website: https://www.heyde-optik.de/

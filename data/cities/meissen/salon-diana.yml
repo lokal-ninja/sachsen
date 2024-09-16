@@ -4,8 +4,8 @@ latitude: 51.16102
 longitude: 13.48708
 postcode: "01662"
 city: Meißen
-street: "Zaschendorfer Straße"
-housenumber: 17
-phone: "+49 3521 735415"
-opening_hours: "Mo 08:00-13:00; Tu,Th,Fr 08:00-18:00; We 13:00-18:00; Sa,Su off"
-website: "https://www.salon-diana.de"
+street: Zaschendorfer Straße
+housenumber: "17"
+phone: +49 3521 735415
+opening_hours: Mo 08:00-13:00; Tu,Th,Fr 08:00-18:00; We 13:00-18:00; Sa,Su off
+website: https://www.salon-diana.de

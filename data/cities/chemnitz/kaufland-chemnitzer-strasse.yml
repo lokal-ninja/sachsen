@@ -4,8 +4,8 @@ latitude: 50.78366
 longitude: 12.89519
 postcode: "09123"
 city: Chemnitz
-street: "Chemnitzer Straße"
-housenumber: 65
+street: Chemnitzer Straße
+housenumber: "65"
 phone: "+49371266570"
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 386927433
-type: way
+type: node
 latitude: 51.00123
 longitude: 14.61612
 postcode: "02730"
 city: Ebersbach-Neugersdorf
-street: "Adam-Ries-Straße"
-housenumber: 6
+street: Adam-Ries-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
 website: ""

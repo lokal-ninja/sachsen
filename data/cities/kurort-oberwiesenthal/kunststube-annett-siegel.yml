@@ -4,8 +4,8 @@ latitude: 50.41932
 longitude: 12.96938
 postcode: "09484"
 city: Kurort Oberwiesenthal
-street: "Karlsbader Straße"
-housenumber: 1
-phone: "+49 37348 7713"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://kunststube-siegel.de/"
+street: Karlsbader Straße
+housenumber: "1"
+phone: +49 37348 7713
+opening_hours: Mo-Fr 09:00-18:00
+website: https://kunststube-siegel.de/

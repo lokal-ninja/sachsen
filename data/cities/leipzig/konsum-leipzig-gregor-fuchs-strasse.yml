@@ -1,11 +1,11 @@
 id: 33071885
-type: way
+type: node
 latitude: 51.33749
 longitude: 12.41567
 postcode: "04318"
 city: Leipzig
-street: "Gregor-Fuchs-Straße"
+street: Gregor-Fuchs-Straße
 housenumber: 31A
-phone: "+49 341 6898352"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.konsum-leipzig.de/"
+phone: +49 341 6898352
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.konsum-leipzig.de/

@@ -1,11 +1,11 @@
 id: 193837854
-type: way
+type: node
 latitude: 50.4159
 longitude: 12.17048
 postcode: "08606"
 city: Oelsnitz/Vogtl.
-street: "Grabenstraße"
-housenumber: 26
+street: Grabenstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

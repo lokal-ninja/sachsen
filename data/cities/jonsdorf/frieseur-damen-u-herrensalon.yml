@@ -1,11 +1,11 @@
 id: 60391508
-type: way
+type: node
 latitude: 50.85414
 longitude: 14.70556
 postcode: "02796"
 city: Jonsdorf
-street: "Zittauer Straße"
-housenumber: 60
+street: Zittauer Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo,We 08:30-14:00; Tu,Th,Fr 08:30-16:00; PH off"
+opening_hours: Mo,We 08:30-14:00; Tu,Th,Fr 08:30-16:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 406776248
-type: way
+type: node
 latitude: 50.49567
 longitude: 12.10045
 postcode: "08523"
 city: Plauen
-street: "Ricarda-Huch-Straße"
-housenumber: 4
-phone: "+49 3741 3006492"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+street: Ricarda-Huch-Straße
+housenumber: "4"
+phone: +49 3741 3006492
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

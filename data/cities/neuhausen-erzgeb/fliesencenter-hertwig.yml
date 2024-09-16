@@ -1,11 +1,11 @@
 id: 296197891
-type: way
+type: node
 latitude: 50.67302
 longitude: 13.46005
 postcode: "09544"
 city: Neuhausen/Erzgeb.
-street: "Olbernhauer Straße"
-housenumber: 21
-phone: "+49 37361 4044"
+street: Olbernhauer Straße
+housenumber: "21"
+phone: +49 37361 4044
 opening_hours: ""
-website: "http://www.fliesencenter-hertwig.de"
+website: http://www.fliesencenter-hertwig.de

@@ -4,8 +4,8 @@ latitude: 50.6957
 longitude: 13.09071
 postcode: "09432"
 city: Großolbersdorf
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 3 73 69 / 92 18"
-opening_hours: "Mo-Fr 08:30-12:30, Mo,Tu,Th,Fr 13:30-17:30; Sa 08:00-12:00; PH off"
-website: "https://blumen-bluetenzauber.de/"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 3 73 69 / 92 18
+opening_hours: Mo-Fr 08:30-12:30, Mo,Tu,Th,Fr 13:30-17:30; Sa 08:00-12:00; PH off
+website: https://blumen-bluetenzauber.de/

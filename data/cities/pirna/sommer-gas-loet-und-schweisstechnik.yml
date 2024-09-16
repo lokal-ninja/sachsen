@@ -1,11 +1,11 @@
 id: 521367002
-type: way
+type: node
 latitude: 50.95781
 longitude: 13.90139
 postcode: "01796"
 city: Pirna
-street: "Kunstseidenstraße"
-housenumber: 8
+street: Kunstseidenstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.schweisstechnik-sommer.de"
+website: https://www.schweisstechnik-sommer.de

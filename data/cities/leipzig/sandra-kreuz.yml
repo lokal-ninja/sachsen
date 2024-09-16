@@ -4,8 +4,8 @@ latitude: 51.34427
 longitude: 12.35764
 postcode: "04105"
 city: Leipzig
-street: "Waldstraße"
-housenumber: 
+street: Waldstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo,We 10:00-13:00; Tu,Th 15:00-18:00; PH,Fr,Su off"
-website: "https://www.sandra-kreuz.de/"
+opening_hours: Mo,We 10:00-13:00; Tu,Th 15:00-18:00; PH,Fr,Su off
+website: https://www.sandra-kreuz.de/

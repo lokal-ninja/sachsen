@@ -1,11 +1,11 @@
 id: 262464847
-type: way
+type: node
 latitude: 51.28984
 longitude: 13.12479
 postcode: "04758"
 city: Oschatz
-street: "Nossener Straße"
-housenumber: 7
-phone: "+49 3435 90350"
+street: Nossener Straße
+housenumber: "7"
+phone: +49 3435 90350
 opening_hours: ""
-website: "http://www.gruma.mercedes-benz.de"
+website: http://www.gruma.mercedes-benz.de

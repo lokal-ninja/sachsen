@@ -1,11 +1,11 @@
 id: 454689326
-type: way
+type: node
 latitude: 50.67049
 longitude: 12.51002
 postcode: "08112"
 city: Wilkau-Haßlau
-street: "Cainsdorfer Straße"
-housenumber: 29
+street: Cainsdorfer Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

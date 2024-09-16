@@ -4,8 +4,8 @@ latitude: 50.49232
 longitude: 12.39529
 postcode: "08209"
 city: Auerbach
-street: "Göltzschtalstraße"
-housenumber: 81
+street: Göltzschtalstraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.edeka.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.edeka.de/

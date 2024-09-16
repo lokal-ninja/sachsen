@@ -1,11 +1,11 @@
 id: 155055815
-type: way
+type: node
 latitude: 51.01878
 longitude: 13.76626
 postcode: "01219"
 city: Dresden
-street: "Uhdestraße"
-housenumber: 9
-phone: "+49 351 4720996"
+street: Uhdestraße
+housenumber: "9"
+phone: +49 351 4720996
 opening_hours: ""
 website: ""

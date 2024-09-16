@@ -4,8 +4,8 @@ latitude: 51.33158
 longitude: 12.33046
 postcode: "04177"
 city: Leipzig
-street: "Helmholtzstraße"
-housenumber: 27
+street: Helmholtzstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Sa 12:00-16:00; Mo-Fr 11:00-14:30,15:00-19:30"
+opening_hours: Sa 12:00-16:00; Mo-Fr 11:00-14:30,15:00-19:30
 website: ""

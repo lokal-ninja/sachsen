@@ -1,11 +1,11 @@
 id: 87931175
-type: way
+type: node
 latitude: 51.05642
 longitude: 12.68295
 postcode: "04643"
 city: Geithain
-street: "Niedergräfenhainer Weg"
-housenumber: 9
+street: Niedergräfenhainer Weg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

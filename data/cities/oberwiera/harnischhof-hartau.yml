@@ -1,11 +1,11 @@
 id: 200760317
-type: way
+type: node
 latitude: 50.89701
 longitude: 12.51958
 postcode: "08396"
 city: Oberwiera
-street: "Dorfstraße"
-housenumber: 6
+street: Dorfstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,Th,Fr 08:00-11:30,13:00-18:00; Sa 08:30-11:30; Tu,We,Su,PH off"
+opening_hours: Mo,Th,Fr 08:00-11:30,13:00-18:00; Sa 08:30-11:30; Tu,We,Su,PH off
 website: ""

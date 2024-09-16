@@ -4,8 +4,9 @@ latitude: 50.85419
 longitude: 13.11361
 postcode: "09557"
 city: Flöha
-street: "Straße der Einheit"
-housenumber: 12
-phone: "+49 3726 2786"
-opening_hours: "Tu-Th 07:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00; Sa 06:30-11:00; Su,Mo,PH off"
+street: Straße der Einheit
+housenumber: "12"
+phone: +49 3726 2786
+opening_hours: Tu-Th 07:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00; Sa 06:30-11:00;
+    Su,Mo,PH off
 website: ""

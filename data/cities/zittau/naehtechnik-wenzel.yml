@@ -4,8 +4,8 @@ latitude: 50.89682
 longitude: 14.80819
 postcode: "02763"
 city: Zittau
-street: "Brüderstraße"
-housenumber: 5
-phone: "+49 3583 510857"
-opening_hours: "Mo-We 10:00-13:00, Mo-We 13:30-18:00"
+street: Brüderstraße
+housenumber: "5"
+phone: +49 3583 510857
+opening_hours: Mo-We 10:00-13:00, Mo-We 13:30-18:00
 website: ""

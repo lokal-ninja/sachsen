@@ -1,11 +1,11 @@
 id: 263456178
-type: way
+type: node
 latitude: 50.66169
 longitude: 13.3369
 postcode: "09526"
 city: Olbernhau
-street: "Freiberger Straße"
-housenumber: 2
-phone: "+49 37360 72849"
+street: Freiberger Straße
+housenumber: "2"
+phone: +49 37360 72849
 opening_hours: ""
-website: "www.goldschmiedehuelsen.de"
+website: www.goldschmiedehuelsen.de

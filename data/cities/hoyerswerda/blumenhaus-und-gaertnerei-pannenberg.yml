@@ -1,11 +1,11 @@
 id: 131356208
-type: way
+type: node
 latitude: 51.43848
 longitude: 14.23807
 postcode: "02977"
 city: Hoyerswerda
-street: "Schulstraße"
+street: Schulstraße
 housenumber: 2b
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 244075951
-type: way
+type: node
 latitude: 50.89987
 longitude: 14.82016
 postcode: "02763"
 city: Zittau
-street: "Mozartstraße"
-housenumber: 2
+street: Mozartstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

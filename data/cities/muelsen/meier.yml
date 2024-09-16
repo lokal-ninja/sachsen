@@ -1,11 +1,11 @@
 id: 388030567
-type: way
+type: node
 latitude: 50.70802
 longitude: 12.63657
 postcode: "08132"
 city: Mülsen
-street: "Neuschönburger Straße"
-housenumber: 78
+street: Neuschönburger Straße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

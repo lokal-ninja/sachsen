@@ -4,8 +4,8 @@ latitude: 51.32404
 longitude: 12.37391
 postcode: "04275"
 city: Leipzig
-street: "Karl-Liebknecht-Straße"
-housenumber: 71
+street: Karl-Liebknecht-Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-10:30"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-10:30
 website: ""

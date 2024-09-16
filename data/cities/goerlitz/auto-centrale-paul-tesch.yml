@@ -4,8 +4,8 @@ latitude: 51.14784
 longitude: 14.98402
 postcode: "02826"
 city: Görlitz
-street: "Jakobstraße"
-housenumber: 12
+street: Jakobstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://www.auto-centrale-tesch.de"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://www.auto-centrale-tesch.de

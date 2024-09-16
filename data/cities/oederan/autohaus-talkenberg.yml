@@ -1,11 +1,11 @@
 id: 166693531
-type: way
+type: node
 latitude: 50.8771
 longitude: 13.20625
 postcode: "09569"
 city: Oederan
-street: "Zum Goldenen Stern"
-housenumber: 49
+street: Zum Goldenen Stern
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00,Su,PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00,Su,PH off
 website: ""

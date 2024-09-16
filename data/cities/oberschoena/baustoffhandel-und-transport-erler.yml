@@ -1,11 +1,11 @@
 id: 151690720
-type: way
+type: node
 latitude: 50.90573
 longitude: 13.24613
 postcode: "09600"
 city: Oberschöna
-street: "Dorfstraße"
-housenumber: 17
+street: Dorfstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

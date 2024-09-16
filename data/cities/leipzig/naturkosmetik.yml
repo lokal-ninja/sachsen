@@ -4,8 +4,8 @@ latitude: 51.36555
 longitude: 12.36242
 postcode: "04155"
 city: Leipzig
-street: "Breitenfelder Straße"
-housenumber: 36
+street: Breitenfelder Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
-website: "http://www.naturkosmetik-prager.de/"
+opening_hours: '"Termine nach Vereinbarung"'
+website: http://www.naturkosmetik-prager.de/

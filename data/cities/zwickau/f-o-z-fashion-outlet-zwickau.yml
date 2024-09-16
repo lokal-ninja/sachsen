@@ -1,11 +1,11 @@
 id: 91306496
-type: way
+type: node
 latitude: 50.74484
 longitude: 12.48232
 postcode: "08058"
 city: Zwickau
-street: "Schubertstraße"
-housenumber: 9
+street: Schubertstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

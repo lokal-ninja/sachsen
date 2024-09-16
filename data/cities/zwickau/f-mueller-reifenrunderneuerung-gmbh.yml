@@ -4,8 +4,8 @@ latitude: 50.662
 longitude: 12.44711
 postcode: "08064"
 city: Zwickau
-street: "Werkstraße"
-housenumber: 13
+street: Werkstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 06:00-16:00"
+opening_hours: Mo-Fr 06:00-16:00
 website: ""

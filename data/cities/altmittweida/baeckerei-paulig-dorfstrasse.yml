@@ -1,11 +1,11 @@
 id: 663102886
-type: way
+type: node
 latitude: 50.96355
 longitude: 12.94711
 postcode: "09648"
 city: Altmittweida
-street: "Dorfstraße"
-housenumber: 66
+street: Dorfstraße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo,Sa 05:00-10:00; Tu,Th 05:00-12:30,14:30-16:30"
+opening_hours: Mo,Sa 05:00-10:00; Tu,Th 05:00-12:30,14:30-16:30
 website: ""

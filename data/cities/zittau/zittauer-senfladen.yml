@@ -4,8 +4,8 @@ latitude: 50.89633
 longitude: 14.81067
 postcode: "02763"
 city: Zittau
-street: "Neustadt"
-housenumber: 22
-phone: "+49 3583 7966690"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.zittauer-senfladen.de/"
+street: Neustadt
+housenumber: "22"
+phone: +49 3583 7966690
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.zittauer-senfladen.de/

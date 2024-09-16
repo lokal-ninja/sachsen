@@ -4,8 +4,8 @@ latitude: 50.98854
 longitude: 13.65993
 postcode: "01705"
 city: Freital
-street: "Wilhelm-Müller-Straße"
-housenumber: 11
-phone: "+49 351 40763923"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-12:00; Su-Mo,PH off"
-website: "https://www.raschelbergfriseur.de"
+street: Wilhelm-Müller-Straße
+housenumber: "11"
+phone: +49 351 40763923
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-12:00; Su-Mo,PH off
+website: https://www.raschelbergfriseur.de

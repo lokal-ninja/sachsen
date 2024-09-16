@@ -4,8 +4,8 @@ latitude: 51.31255
 longitude: 12.2646
 postcode: "04207"
 city: Leipzig
-street: "Selliner Straße"
-housenumber: 11
-phone: "+49 341 9 41 91 32"
-opening_hours: "Mo 15:00-19:00; We 10:00-12:30; Fr 12:30-18:00"
-website: "https://kommhaus.de/veranstaltung/regelmaessig/Fahrradwerkstatt_Mittwoch"
+street: Selliner Straße
+housenumber: "11"
+phone: +49 341 9 41 91 32
+opening_hours: Mo 15:00-19:00; We 10:00-12:30; Fr 12:30-18:00
+website: https://kommhaus.de/veranstaltung/regelmaessig/Fahrradwerkstatt_Mittwoch

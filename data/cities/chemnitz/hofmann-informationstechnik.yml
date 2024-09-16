@@ -4,8 +4,8 @@ latitude: 50.77157
 longitude: 12.97427
 postcode: "09123"
 city: Chemnitz
-street: "Einsiedler Hauptstraße"
-housenumber: 68
-phone: "+49 37209 2274"
-opening_hours: "Mo 9:00-12:00;Tu-Fr 9:00-12:00,15:00-17:00"
-website: "https://www.hofmann-informationstechnik.de/"
+street: Einsiedler Hauptstraße
+housenumber: "68"
+phone: +49 37209 2274
+opening_hours: Mo 9:00-12:00;Tu-Fr 9:00-12:00,15:00-17:00
+website: https://www.hofmann-informationstechnik.de/

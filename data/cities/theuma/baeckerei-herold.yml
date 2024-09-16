@@ -1,11 +1,11 @@
 id: 418148446
-type: way
+type: node
 latitude: 50.47186
 longitude: 12.21819
 postcode: "08541"
 city: Theuma
-street: "Schulstraße"
-housenumber: 6
-phone: "+49 37463 83460"
+street: Schulstraße
+housenumber: "6"
+phone: +49 37463 83460
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 50.51988
 longitude: 12.94651
 postcode: "09474"
 city: Crottendorf
-street: "Annaberger Straße"
-housenumber: 183
+street: Annaberger Straße
+housenumber: "183"
 phone: ""
-opening_hours: "Mo-Fr 09:00-15:00; Oct-Nov: Sa 8:00-12:00; Dec: Mo-Fr 8:00-18:00, Sa 8:00-12:00"
-website: "https://holzminiaturen.de/"
+opening_hours: 'Mo-Fr 09:00-15:00; Oct-Nov: Sa 8:00-12:00; Dec: Mo-Fr 8:00-18:00,
+    Sa 8:00-12:00'
+website: https://holzminiaturen.de/

@@ -1,11 +1,11 @@
 id: 849020098
-type: way
+type: node
 latitude: 51.28246
 longitude: 12.42765
 postcode: "04416"
 city: Markkleeberg
-street: "Nordstraße"
-housenumber: 1
-phone: "+49 34297 790"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.globus.de/"
+street: Nordstraße
+housenumber: "1"
+phone: +49 34297 790
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.globus.de/

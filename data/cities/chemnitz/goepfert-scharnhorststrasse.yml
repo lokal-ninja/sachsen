@@ -4,8 +4,8 @@ latitude: 50.83292
 longitude: 12.95731
 postcode: "09130"
 city: Chemnitz
-street: "Scharnhorststraße"
-housenumber: 11
+street: Scharnhorststraße
+housenumber: "11"
 phone: "+493714002015"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 48857552
-type: way
+type: node
 latitude: 51.36549
 longitude: 12.43261
 postcode: "04347"
 city: Leipzig
-street: "Stöhrerstraße"
-housenumber: 18
-phone: "+49 341 2349367"
+street: Stöhrerstraße
+housenumber: "18"
+phone: +49 341 2349367
 opening_hours: ""
-website: "https://www.autohausnordost.de/"
+website: https://www.autohausnordost.de/

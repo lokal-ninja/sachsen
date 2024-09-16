@@ -1,11 +1,11 @@
 id: 110515878
-type: way
+type: node
 latitude: 50.82064
 longitude: 12.51733
 postcode: "08371"
 city: Glauchau
-street: "Grenayer Straße"
-housenumber: 1
+street: Grenayer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

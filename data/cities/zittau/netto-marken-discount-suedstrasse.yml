@@ -1,11 +1,11 @@
 id: 132443273
-type: way
+type: node
 latitude: 50.8854
 longitude: 14.80949
 postcode: "02763"
 city: Zittau
-street: "Südstraße"
-housenumber: 35
+street: Südstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

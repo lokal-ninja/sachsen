@@ -1,11 +1,11 @@
 id: 106334559
-type: way
+type: node
 latitude: 51.37
 longitude: 12.73705
 postcode: "04808"
 city: Wurzen
-street: "Jacobsgasse"
-housenumber: 12
-phone: "+49 3425 853885"
-opening_hours: "Mo-We 09:00-13:00; Th,Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://zur-kraeuterfee.business.site/"
+street: Jacobsgasse
+housenumber: "12"
+phone: +49 3425 853885
+opening_hours: Mo-We 09:00-13:00; Th,Fr 09:00-18:00; Sa 09:00-12:00
+website: https://zur-kraeuterfee.business.site/

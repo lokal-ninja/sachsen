@@ -1,11 +1,11 @@
 id: 330891254
-type: way
+type: node
 latitude: 50.60881
 longitude: 12.68284
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Alte Lößnitzer Straße"
-housenumber: 15
+street: Alte Lößnitzer Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

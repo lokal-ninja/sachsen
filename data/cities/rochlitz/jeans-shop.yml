@@ -4,8 +4,8 @@ latitude: 51.04612
 longitude: 12.80126
 postcode: "09306"
 city: Rochlitz
-street: "Rathausstraße"
-housenumber: 4
-phone: "+49 3737 40690"
-opening_hours: "Mo-Fr 09:30-12:30,13:30-17:00; Sa-Su,PH off"
+street: Rathausstraße
+housenumber: "4"
+phone: +49 3737 40690
+opening_hours: Mo-Fr 09:30-12:30,13:30-17:00; Sa-Su,PH off
 website: ""

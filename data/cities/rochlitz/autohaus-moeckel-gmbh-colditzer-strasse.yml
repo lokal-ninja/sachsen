@@ -1,11 +1,11 @@
 id: 722511621
-type: way
+type: node
 latitude: 51.05795
 longitude: 12.78964
 postcode: "09306"
 city: Rochlitz
-street: "Colditzer Straße"
+street: Colditzer Straße
 housenumber: 3a
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://www-moeckel.skoda-auto.de"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://www-moeckel.skoda-auto.de

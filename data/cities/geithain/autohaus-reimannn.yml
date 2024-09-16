@@ -4,8 +4,8 @@ latitude: 51.05522
 longitude: 12.70146
 postcode: "04643"
 city: Geithain
-street: "Colditzer Straße"
-housenumber: 4
+street: Colditzer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Sa nach Vereinbarung"
+opening_hours: '"Sa nach Vereinbarung"'
 website: ""

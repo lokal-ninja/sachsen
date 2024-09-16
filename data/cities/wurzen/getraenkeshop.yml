@@ -1,11 +1,11 @@
 id: 107712198
-type: way
+type: node
 latitude: 51.36738
 longitude: 12.75999
 postcode: "04808"
 city: Wurzen
-street: "Roitzscher Weg"
-housenumber: 54
+street: Roitzscher Weg
+housenumber: "54"
 phone: ""
-opening_hours: "Tu-Fr 12:00-20:00; Sa 09:00-18:00; Su 09:00-12:00"
+opening_hours: Tu-Fr 12:00-20:00; Sa 09:00-18:00; Su 09:00-12:00
 website: ""

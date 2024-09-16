@@ -1,11 +1,11 @@
 id: 192496836
-type: way
+type: node
 latitude: 51.38304
 longitude: 12.5099
 postcode: "04425"
 city: Taucha
-street: "Dewitzer Straße"
-housenumber: 77
+street: Dewitzer Straße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

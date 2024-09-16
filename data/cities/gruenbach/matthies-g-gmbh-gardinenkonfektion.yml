@@ -1,11 +1,11 @@
 id: 369357542
-type: way
+type: node
 latitude: 50.4524
 longitude: 12.36346
 postcode: "08223"
 city: Grünbach
-street: "Falkensteiner Straße"
-housenumber: 20
-phone: "+49 3745 72479"
+street: Falkensteiner Straße
+housenumber: "20"
+phone: +49 3745 72479
 opening_hours: ""
 website: ""

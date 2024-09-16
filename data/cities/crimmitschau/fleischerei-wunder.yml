@@ -1,11 +1,11 @@
 id: 818166788
-type: way
+type: node
 latitude: 50.79974
 longitude: 12.28056
 postcode: "08451"
 city: Crimmitschau
-street: "Schloßblickstraße"
-housenumber: 9
+street: Schloßblickstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-We 08:00-17:00, Th-Fr 08:00-18:00, Sa 07:30-11:00"
+opening_hours: Tu-We 08:00-17:00, Th-Fr 08:00-18:00, Sa 07:30-11:00
 website: ""

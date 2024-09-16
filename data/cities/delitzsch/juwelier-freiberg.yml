@@ -4,8 +4,8 @@ latitude: 51.52412
 longitude: 12.33767
 postcode: "04509"
 city: Delitzsch
-street: "Marienstraße"
-housenumber: 12
-phone: "+49 34202 62684"
-opening_hours: "PH,Su off; Mo,Tu,Th 09:00-18:00; We,Fr 09:00-13:00"
-website: "https://juwelier-freiberg.de/"
+street: Marienstraße
+housenumber: "12"
+phone: +49 34202 62684
+opening_hours: PH,Su off; Mo,Tu,Th 09:00-18:00; We,Fr 09:00-13:00
+website: https://juwelier-freiberg.de/

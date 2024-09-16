@@ -1,11 +1,11 @@
 id: 382308058
-type: way
+type: node
 latitude: 51.16657
 longitude: 13.49547
 postcode: "01662"
 city: Meißen
-street: "Niederauer Straße"
-housenumber: 22
+street: Niederauer Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

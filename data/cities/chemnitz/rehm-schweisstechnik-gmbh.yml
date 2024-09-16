@@ -1,11 +1,11 @@
 id: 395732200
-type: way
+type: node
 latitude: 50.82279
 longitude: 12.90193
 postcode: "09119"
 city: Chemnitz
-street: "Neefestraße"
+street: Neefestraße
 housenumber: 52e
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://www.rehmshop.de/"
+opening_hours: Mo-Fr 07:30-18:00
+website: https://www.rehmshop.de/

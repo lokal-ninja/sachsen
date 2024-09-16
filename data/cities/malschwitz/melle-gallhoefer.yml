@@ -1,11 +1,11 @@
 id: 697599762
-type: way
+type: node
 latitude: 51.24995
 longitude: 14.54467
 postcode: "02694"
 city: Malschwitz
-street: "Am Bahnhof"
-housenumber: 9
+street: Am Bahnhof
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

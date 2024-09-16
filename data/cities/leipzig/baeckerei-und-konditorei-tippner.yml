@@ -4,8 +4,8 @@ latitude: 51.33474
 longitude: 12.31168
 postcode: "04179"
 city: Leipzig
-street: "Morgensternstraße"
-housenumber: 2
-phone: "+49 341 4774223"
-opening_hours: "Mo-Fr 04:45-18:00; Sa 04:45-11:00"
-website: "https://www.baeckereitippner.de/"
+street: Morgensternstraße
+housenumber: "2"
+phone: +49 341 4774223
+opening_hours: Mo-Fr 04:45-18:00; Sa 04:45-11:00
+website: https://www.baeckereitippner.de/

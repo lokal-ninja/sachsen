@@ -4,8 +4,8 @@ latitude: 50.85734
 longitude: 12.76744
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Marktstraße"
-housenumber: 2
+street: Marktstraße
+housenumber: "2"
 phone: "+493722599296"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.handyshop-2000.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.handyshop-2000.de/

@@ -1,11 +1,11 @@
 id: 6298486706
 type: node
-latitude: 51.1687
-longitude: 14.97228
+latitude: 51.16859
+longitude: 14.97239
 postcode: "02828"
 city: Görlitz
-street: "Nieskyer Straße"
-housenumber: 100
+street: Nieskyer Straße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00; PH off
 website: ""

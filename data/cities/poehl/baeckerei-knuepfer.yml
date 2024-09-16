@@ -1,11 +1,11 @@
 id: 552140544
-type: way
+type: node
 latitude: 50.57016
 longitude: 12.23006
 postcode: "08543"
 city: Pöhl
-street: "Bahnhofstraße"
-housenumber: 19
+street: Bahnhofstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Tu-Fr 07:00-13:00, 14:30-17:00; Sa 06:30-10:30"
+opening_hours: Tu-Fr 07:00-13:00, 14:30-17:00; Sa 06:30-10:30
 website: ""

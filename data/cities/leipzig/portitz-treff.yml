@@ -1,11 +1,11 @@
 id: 149229263
-type: way
+type: node
 latitude: 51.38183
 longitude: 12.45186
 postcode: "04349"
 city: Leipzig
-street: "Tauchaer Straße"
-housenumber: 260
+street: Tauchaer Straße
+housenumber: "260"
 phone: ""
 opening_hours: ""
 website: ""

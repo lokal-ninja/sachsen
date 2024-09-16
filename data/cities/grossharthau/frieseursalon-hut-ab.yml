@@ -1,11 +1,11 @@
 id: 106810447
-type: way
+type: node
 latitude: 51.10795
 longitude: 14.10475
 postcode: "01909"
 city: Großharthau
-street: "Dresdener Straße"
-housenumber: 
+street: Dresdener Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

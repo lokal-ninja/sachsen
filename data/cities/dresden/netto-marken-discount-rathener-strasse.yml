@@ -1,11 +1,11 @@
 id: 747963097
-type: way
+type: node
 latitude: 51.00376
 longitude: 13.84033
 postcode: "01259"
 city: Dresden
-street: "Rathener Straße"
-housenumber: 24
+street: Rathener Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 195276892
-type: way
+type: node
 latitude: 51.29772
 longitude: 13.27142
 postcode: "01587"
 city: Riesa
-street: "Rostocker Straße"
-housenumber: 26
+street: Rostocker Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

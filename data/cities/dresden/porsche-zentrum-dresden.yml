@@ -1,11 +1,11 @@
 id: 840584957
-type: way
+type: node
 latitude: 51.09814
 longitude: 13.73193
 postcode: "01129"
 city: Dresden
-street: "Meinholdstraße"
-housenumber: 5
+street: Meinholdstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 9:00-12:00"
-website: "https://www.porsche-dresden.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 9:00-12:00
+website: https://www.porsche-dresden.de/

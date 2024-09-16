@@ -1,11 +1,11 @@
 id: 275469858
-type: way
+type: node
 latitude: 51.0759
 longitude: 13.00777
 postcode: "04736"
 city: Waldheim
-street: "Hauptstraße"
-housenumber: 5
+street: Hauptstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

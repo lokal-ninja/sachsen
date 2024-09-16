@@ -1,11 +1,11 @@
 id: 52462136
-type: way
+type: node
 latitude: 51.3938
 longitude: 12.3423
 postcode: "04158"
 city: Leipzig
-street: "Zum Apelstein"
-housenumber: 3
-phone: "+49 341 461090"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://auto-center-weber.de/"
+street: Zum Apelstein
+housenumber: "3"
+phone: +49 341 461090
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://auto-center-weber.de/

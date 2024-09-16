@@ -1,11 +1,11 @@
 id: 237425279
-type: way
+type: node
 latitude: 50.51008
 longitude: 12.81515
 postcode: "08340"
 city: Schwarzenberg/Erzgebirge
-street: "Mitteldorf"
-housenumber: 18
+street: Mitteldorf
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

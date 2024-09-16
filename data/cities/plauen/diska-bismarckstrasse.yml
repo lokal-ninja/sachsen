@@ -1,11 +1,11 @@
 id: 105573450
-type: way
+type: node
 latitude: 50.49223
 longitude: 12.14946
 postcode: "08527"
 city: Plauen
-street: "Bismarckstraße"
-housenumber: 35
+street: Bismarckstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

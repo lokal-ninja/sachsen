@@ -1,11 +1,11 @@
 id: 88055404
-type: way
+type: node
 latitude: 50.92002
 longitude: 12.71436
 postcode: "09322"
 city: Penig
-street: "Kreisel"
-housenumber: 3
+street: Kreisel
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

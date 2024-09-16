@@ -4,8 +4,8 @@ latitude: 51.04356
 longitude: 13.78184
 postcode: "01309"
 city: Dresden
-street: "Borsbergstraße"
-housenumber: 44
-phone: "+49 351 2523005"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.kuechenstudiobutter.de/"
+street: Borsbergstraße
+housenumber: "44"
+phone: +49 351 2523005
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.kuechenstudiobutter.de/

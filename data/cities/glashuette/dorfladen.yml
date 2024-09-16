@@ -4,8 +4,8 @@ latitude: 50.89145
 longitude: 13.75173
 postcode: "01768"
 city: Glashütte
-street: "Grimmsche Hauptstraße"
-housenumber: 63
+street: Grimmsche Hauptstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Tu-We,Fr 15:00-18:00; Mo,Th 09:00-12:00,15:00-18:00; Sa 09:00-11:00"
-website: "https://www.festverleih-boehme.de/sky-bar-cafe/"
+opening_hours: Tu-We,Fr 15:00-18:00; Mo,Th 09:00-12:00,15:00-18:00; Sa 09:00-11:00
+website: https://www.festverleih-boehme.de/sky-bar-cafe/

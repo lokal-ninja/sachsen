@@ -1,11 +1,11 @@
 id: 603999002
-type: way
+type: node
 latitude: 50.61555
 longitude: 12.72616
 postcode: "08294"
 city: Lößnitz
-street: "Rudolf-Weber-Straße"
-housenumber: 102
+street: Rudolf-Weber-Straße
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://www.ktm-bernhardt.de"
+website: https://www.ktm-bernhardt.de

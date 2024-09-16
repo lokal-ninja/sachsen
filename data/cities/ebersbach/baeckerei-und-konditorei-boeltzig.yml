@@ -1,11 +1,11 @@
 id: 86496776
-type: way
+type: node
 latitude: 51.24816
 longitude: 13.66212
 postcode: "01561"
 city: Ebersbach
-street: "Hauptstraße"
-housenumber: 23
+street: Hauptstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

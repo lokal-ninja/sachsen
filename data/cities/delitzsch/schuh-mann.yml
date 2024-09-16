@@ -4,8 +4,8 @@ latitude: 51.52611
 longitude: 12.34418
 postcode: "04509"
 city: Delitzsch
-street: "Eisenbahnstraße"
-housenumber: 27
+street: Eisenbahnstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
 website: ""

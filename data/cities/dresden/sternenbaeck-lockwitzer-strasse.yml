@@ -4,8 +4,8 @@ latitude: 51.02538
 longitude: 13.76177
 postcode: "01219"
 city: Dresden
-street: "Lockwitzer Straße"
-housenumber: 15
-phone: "+49 351-4720919"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-12:00"
+street: Lockwitzer Straße
+housenumber: "15"
+phone: +49 351-4720919
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-12:00
 website: ""

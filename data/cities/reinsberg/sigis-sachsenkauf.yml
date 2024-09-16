@@ -1,11 +1,11 @@
 id: 86120742
-type: way
+type: node
 latitude: 51.02875
 longitude: 13.39844
 postcode: "09629"
 city: Reinsberg
-street: "Mörnerstraße"
-housenumber: 87
+street: Mörnerstraße
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 34336391
-type: way
+type: node
 latitude: 50.6007
 longitude: 12.62454
 postcode: "08289"
 city: Schneeberg
-street: "Bruno-Dost-Straße"
-housenumber: 29
+street: Bruno-Dost-Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

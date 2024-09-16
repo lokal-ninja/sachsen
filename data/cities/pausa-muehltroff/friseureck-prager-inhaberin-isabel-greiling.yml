@@ -4,8 +4,8 @@ latitude: 50.5806
 longitude: 11.99571
 postcode: "07952"
 city: Pausa-Mühltroff
-street: "Braugasse"
-housenumber: 2
-phone: "+49 37432 50388"
-opening_hours: "Mo-Fr 08:30-20:00"
+street: Braugasse
+housenumber: "2"
+phone: +49 37432 50388
+opening_hours: Mo-Fr 08:30-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 401199809
-type: way
+type: node
 latitude: 50.50987
 longitude: 12.12595
 postcode: "08525"
 city: Plauen
-street: "Pausaer Straße"
-housenumber: 25
+street: Pausaer Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 89084017
-type: way
+type: node
 latitude: 50.92573
 longitude: 13.34916
 postcode: "09599"
 city: Freiberg
-street: "Halsbrücker Straße"
-housenumber: 24
-phone: "+49 3731 213131"
+street: Halsbrücker Straße
+housenumber: "24"
+phone: +49 3731 213131
 opening_hours: ""
 website: ""

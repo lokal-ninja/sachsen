@@ -4,8 +4,8 @@ latitude: 51.06104
 longitude: 13.85735
 postcode: "01324"
 city: Dresden
-street: "Bautzner Landstraße"
-housenumber: 162
+street: Bautzner Landstraße
+housenumber: "162"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-18:00"
-website: "https://www.richtererzgebirge.de/"
+opening_hours: Mo-Fr 07:00-19:00, Sa 07:00-18:00
+website: https://www.richtererzgebirge.de/

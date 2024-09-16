@@ -1,11 +1,11 @@
 id: 119238629
-type: way
+type: node
 latitude: 51.2958
 longitude: 12.38623
 postcode: "04279"
 city: Leipzig
-street: "Bornaische Straße"
-housenumber: 111
-phone: "+49 341 3389343"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+street: Bornaische Straße
+housenumber: "111"
+phone: +49 341 3389343
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

@@ -1,11 +1,11 @@
 id: 659724867
-type: way
+type: node
 latitude: 51.45674
 longitude: 12.61281
 postcode: "04838"
 city: Eilenburg
-street: "Bergstraße"
-housenumber: 37
+street: Bergstraße
+housenumber: "37"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://www.massagenineilenburg.com/"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.massagenineilenburg.com/

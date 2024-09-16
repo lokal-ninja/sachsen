@@ -4,8 +4,8 @@ latitude: 50.8265
 longitude: 12.94146
 postcode: "09126"
 city: Chemnitz
-street: "Clausstraße"
-housenumber: 47
-phone: "+49 371 3677854"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "http://ladenaleks.de"
+street: Clausstraße
+housenumber: "47"
+phone: +49 371 3677854
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: http://ladenaleks.de

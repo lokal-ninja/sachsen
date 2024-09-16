@@ -1,11 +1,11 @@
 id: 122223535
-type: way
+type: node
 latitude: 51.15286
 longitude: 15.00711
-postcode: "59-900"
+postcode: 59-900
 city: Zgorzelec
-street: "Tadeusza Kościuszki"
-housenumber: 34
+street: Tadeusza Kościuszki
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-15:30"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-15:30
 website: ""

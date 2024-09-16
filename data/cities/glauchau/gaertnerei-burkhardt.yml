@@ -1,11 +1,11 @@
 id: 685705838
-type: way
+type: node
 latitude: 50.83076
 longitude: 12.52841
 postcode: "08371"
 city: Glauchau
-street: "Eschenweg"
-housenumber: 5
+street: Eschenweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
 website: ""

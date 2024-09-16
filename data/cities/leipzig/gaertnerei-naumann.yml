@@ -1,11 +1,11 @@
 id: 336287608
-type: way
+type: node
 latitude: 51.33243
 longitude: 12.4529
 postcode: "04316"
 city: Leipzig
-street: "Engelsdorfer Straße"
-housenumber: 56
+street: Engelsdorfer Straße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

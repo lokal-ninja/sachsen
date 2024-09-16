@@ -4,8 +4,8 @@ latitude: 51.04439
 longitude: 13.73525
 postcode: "01069"
 city: Dresden
-street: "Prager Straße"
-housenumber: 11
-phone: "+49 351 48455944"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.maisonsdumonde.com"
+street: Prager Straße
+housenumber: "11"
+phone: +49 351 48455944
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.maisonsdumonde.com

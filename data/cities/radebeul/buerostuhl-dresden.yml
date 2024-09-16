@@ -4,8 +4,8 @@ latitude: 51.12166
 longitude: 13.59191
 postcode: "01445"
 city: Radebeul
-street: "Meißner Straße"
-housenumber: 511
-phone: "+49 351 / 8328630"
-opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-14:30"
-website: "https://www.buerostuhl-dresden.de/"
+street: Meißner Straße
+housenumber: "511"
+phone: +49 351 / 8328630
+opening_hours: Mo-Th 08:00-17:30; Fr 08:00-14:30
+website: https://www.buerostuhl-dresden.de/

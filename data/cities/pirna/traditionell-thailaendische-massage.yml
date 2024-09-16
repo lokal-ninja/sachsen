@@ -4,8 +4,8 @@ latitude: 50.96018
 longitude: 13.96405
 postcode: "01796"
 city: Pirna
-street: "Cunnersdorf"
-housenumber: 11
-phone: "+49 3501 784866"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-20:00 nach Vorannmeldung; PH off"
+street: Cunnersdorf
+housenumber: "11"
+phone: +49 3501 784866
+opening_hours: Mo-Fr 08:00-12:00,14:00-20:00 "nach Vorannmeldung"; PH off
 website: ""

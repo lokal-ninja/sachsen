@@ -1,11 +1,11 @@
 id: 84761272
-type: way
+type: node
 latitude: 51.36832
 longitude: 12.47604
 postcode: "04425"
 city: Taucha
-street: "Otto-Schmidt-Straße"
-housenumber: 8
+street: Otto-Schmidt-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su,PH off
 website: ""

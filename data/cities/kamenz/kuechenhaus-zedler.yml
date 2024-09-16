@@ -1,11 +1,11 @@
 id: 137595920
-type: way
+type: node
 latitude: 51.27607
 longitude: 14.10919
 postcode: "01917"
 city: Kamenz
-street: "Jesauer Straße"
-housenumber: 11
+street: Jesauer Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

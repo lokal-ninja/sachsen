@@ -4,8 +4,8 @@ latitude: 50.83169
 longitude: 12.91825
 postcode: "09111"
 city: Chemnitz
-street: "Rosenhof"
-housenumber: 11
+street: Rosenhof
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00"
+opening_hours: Mo-Fr 10:00-20:00
 website: ""

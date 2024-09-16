@@ -1,11 +1,11 @@
 id: 105189252
-type: way
+type: node
 latitude: 50.72041
 longitude: 12.78429
 postcode: "09366"
 city: Niederdorf
-street: "Chemnitzer Straße"
-housenumber: 73
+street: Chemnitzer Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:00
 website: ""

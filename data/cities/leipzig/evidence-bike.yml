@@ -4,8 +4,9 @@ latitude: 51.35233
 longitude: 12.29131
 postcode: "04178"
 city: Leipzig
-street: "Südstraße"
-housenumber: 68
-phone: "+49 178 32 70 953"
-opening_hours: "Tu 10:00-19:00; We 10:00-17:00; Th 11:00-17:00; Fr 10:00-17:00; Sa 10:00-14:00;"
-website: "https://www.evidence-bike.de"
+street: Südstraße
+housenumber: "68"
+phone: +49 178 32 70 953
+opening_hours: Tu 10:00-19:00; We 10:00-17:00; Th 11:00-17:00; Fr 10:00-17:00; Sa
+    10:00-14:00;
+website: https://www.evidence-bike.de

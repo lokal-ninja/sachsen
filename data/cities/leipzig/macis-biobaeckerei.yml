@@ -4,8 +4,8 @@ latitude: 51.33749
 longitude: 12.37237
 postcode: "04109"
 city: Leipzig
-street: "Markgrafenstraße"
-housenumber: 10
-phone: "+49 341 222 875 23"
-opening_hours: "Mo-Sa 07:00-20:00, Su 08:00-14:00"
-website: "https://macis-leipzig.de/biobaeckerei/"
+street: Markgrafenstraße
+housenumber: "10"
+phone: +49 341 222 875 23
+opening_hours: Mo-Sa 07:00-20:00, Su 08:00-14:00
+website: https://macis-leipzig.de/biobaeckerei/

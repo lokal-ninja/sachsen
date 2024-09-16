@@ -4,8 +4,9 @@ latitude: 51.23972
 longitude: 15.01191
 postcode: "02829"
 city: Neißeaue
-street: "Dorfstraße"
-housenumber: 83
+street: Dorfstraße
+housenumber: "83"
 phone: ""
-opening_hours: "Tu-We 08:00-12:00; Th 13:00-18:00; Fr 08:00-18:00; Sa 08:00-11:00; Su,PH off"
+opening_hours: Tu-We 08:00-12:00; Th 13:00-18:00; Fr 08:00-18:00; Sa 08:00-11:00;
+    Su,PH off
 website: ""

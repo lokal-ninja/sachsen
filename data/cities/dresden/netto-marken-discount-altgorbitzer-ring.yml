@@ -1,11 +1,11 @@
 id: 23423105
-type: way
+type: node
 latitude: 51.04331
 longitude: 13.66408
 postcode: "01169"
 city: Dresden
-street: "Altgorbitzer Ring"
-housenumber: 9
+street: Altgorbitzer Ring
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.netto-online.de

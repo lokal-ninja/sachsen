@@ -1,11 +1,11 @@
 id: 445366025
-type: way
+type: node
 latitude: 51.38483
 longitude: 12.52374
 postcode: "04425"
 city: Taucha
-street: "Dewitzer Straße"
-housenumber: 131
-phone: "+49 34298 68409"
+street: Dewitzer Straße
+housenumber: "131"
+phone: +49 34298 68409
 opening_hours: ""
 website: ""

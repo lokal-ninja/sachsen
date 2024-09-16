@@ -1,11 +1,11 @@
 id: 107240777
-type: way
+type: node
 latitude: 51.34765
 longitude: 12.47312
 postcode: "04328"
 city: Leipzig
-street: "Schongauerstraße"
-housenumber: 27
+street: Schongauerstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

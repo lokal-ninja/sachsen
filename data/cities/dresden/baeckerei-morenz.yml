@@ -4,8 +4,8 @@ latitude: 51.02545
 longitude: 13.76375
 postcode: "01219"
 city: Dresden
-street: "Dohnaer Straße"
-housenumber: 18
+street: Dohnaer Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00, Sa 06:00-10:30; Su,PH off"
-website: "https://morenzbaeckerei.de/"
+opening_hours: Mo-Fr 06:00-17:00, Sa 06:00-10:30; Su,PH off
+website: https://morenzbaeckerei.de/

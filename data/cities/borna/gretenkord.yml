@@ -4,8 +4,8 @@ latitude: 51.10919
 longitude: 12.48736
 postcode: "04552"
 city: Borna
-street: "Am Wilhelmschacht"
-housenumber: 34
-phone: "+49 3433 243533"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.gretenkord.de/"
+street: Am Wilhelmschacht
+housenumber: "34"
+phone: +49 3433 243533
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.gretenkord.de/

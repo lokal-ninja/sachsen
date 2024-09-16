@@ -4,8 +4,8 @@ latitude: 50.94496
 longitude: 13.75781
 postcode: "01731"
 city: Kreischa
-street: "Am Mühlgraben"
-housenumber: 5
-phone: "+49 35206 22088"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://reisebuero-unger.de/"
+street: Am Mühlgraben
+housenumber: "5"
+phone: +49 35206 22088
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00
+website: https://reisebuero-unger.de/

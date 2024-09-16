@@ -4,8 +4,8 @@ latitude: 51.3415
 longitude: 12.37379
 postcode: "04109"
 city: Leipzig
-street: "Hainstraße"
-housenumber: 5
-phone: "+49341 3089710"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.tkmaxx.de/filialen/TK_Maxx_Leipzig"
+street: Hainstraße
+housenumber: "5"
+phone: +49341 3089710
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.tkmaxx.de/filialen/TK_Maxx_Leipzig

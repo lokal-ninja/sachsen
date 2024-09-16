@@ -1,11 +1,11 @@
 id: 134820388
-type: way
+type: node
 latitude: 50.70388
 longitude: 12.77545
 postcode: "09366"
 city: Stollberg/Erzgebirge
-street: "Schneeberger Straße"
-housenumber: 13
+street: Schneeberger Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

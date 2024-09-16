@@ -1,11 +1,11 @@
 id: 137068442
-type: way
+type: node
 latitude: 51.17355
 longitude: 12.49115
 postcode: "04571"
 city: Rötha
-street: "Leipziger Straße"
-housenumber: 42
-phone: "+49 34206 78101"
-opening_hours: "Mo-Fr 06:30-17:30"
-website: "https://www.raabkarcher.de/roetha"
+street: Leipziger Straße
+housenumber: "42"
+phone: +49 34206 78101
+opening_hours: Mo-Fr 06:30-17:30
+website: https://www.raabkarcher.de/roetha

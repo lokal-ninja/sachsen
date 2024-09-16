@@ -1,11 +1,11 @@
 id: 165626907
-type: way
+type: node
 latitude: 51.54969
 longitude: 14.71281
 postcode: "02953"
 city: Bad Muskau
-street: "Gablenzer Straße"
-housenumber: 10
+street: Gablenzer Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

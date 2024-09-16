@@ -1,11 +1,11 @@
 id: 398039529
-type: way
+type: node
 latitude: 51.33177
 longitude: 14.96622
 postcode: "02929"
 city: Rothenburg/Oberlausitz
-street: "Horkaer Straße"
-housenumber: 12
+street: Horkaer Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

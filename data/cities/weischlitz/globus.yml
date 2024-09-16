@@ -1,11 +1,11 @@
 id: 973875263
-type: way
+type: node
 latitude: 50.43785
 longitude: 12.09189
 postcode: "08538"
 city: Weischlitz
-street: "Taltitzer Straße"
-housenumber: 80
-phone: "+49 37436 290"
-opening_hours: "Mo-Th, Sa 08:00-20:00; Fr 08:00-21:00"
-website: "http://www.globus-weischlitz.de"
+street: Taltitzer Straße
+housenumber: "80"
+phone: +49 37436 290
+opening_hours: Mo-Th, Sa 08:00-20:00; Fr 08:00-21:00
+website: http://www.globus-weischlitz.de

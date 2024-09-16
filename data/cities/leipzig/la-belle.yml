@@ -4,8 +4,8 @@ latitude: 51.31914
 longitude: 12.34099
 postcode: "04229"
 city: Leipzig
-street: "Könneritzstraße"
-housenumber: 102
-phone: "+49 341 4801947"
-opening_hours: "Sa 07:00-12:00; Mo 11:00-17:00; Tu,We 08:00-18:00; Th,Fr 08:00-19:00"
-website: "https://www.labelle-leipzig.de"
+street: Könneritzstraße
+housenumber: "102"
+phone: +49 341 4801947
+opening_hours: Sa 07:00-12:00; Mo 11:00-17:00; Tu,We 08:00-18:00; Th,Fr 08:00-19:00
+website: https://www.labelle-leipzig.de

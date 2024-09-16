@@ -4,8 +4,8 @@ latitude: 50.83427
 longitude: 12.91586
 postcode: "09111"
 city: Chemnitz
-street: "Theaterstraße"
-housenumber: 58
+street: Theaterstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.e-artis.de/"
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.e-artis.de/

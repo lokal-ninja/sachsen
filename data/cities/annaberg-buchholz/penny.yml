@@ -1,11 +1,11 @@
 id: 100707452
-type: way
+type: node
 latitude: 50.57482
 longitude: 13.01022
 postcode: "09456"
 city: Annaberg-Buchholz
-street: "Große Kirchgasse"
-housenumber: 67
+street: Große Kirchgasse
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

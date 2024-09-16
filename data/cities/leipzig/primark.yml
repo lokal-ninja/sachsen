@@ -4,8 +4,8 @@ latitude: 51.34295
 longitude: 12.37283
 postcode: "04109"
 city: Leipzig
-street: "Hainstraße"
-housenumber: 
+street: Hainstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.primark.com/de/filiale/leipzig"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.primark.com/de/filiale/leipzig

@@ -1,11 +1,11 @@
 id: 131387446
-type: way
+type: node
 latitude: 50.85559
 longitude: 12.7544
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Weststraße"
-housenumber: 57
+street: Weststraße
+housenumber: "57"
 phone: "+49372260900"
 opening_hours: ""
-website: "https://autohaus-schubert.eu/"
+website: https://autohaus-schubert.eu/

@@ -4,8 +4,8 @@ latitude: 50.89422
 longitude: 13.66587
 postcode: "01744"
 city: Dippoldiswalde
-street: "Bahnhofstraße"
-housenumber: 2
-phone: "+49 3504 619775"
-opening_hours: "Tu-Fr 10:00-18:00; Mo,Sa auf Vereinbarung"
-website: "http://www.boutique-lotze.info/"
+street: Bahnhofstraße
+housenumber: "2"
+phone: +49 3504 619775
+opening_hours: Tu-Fr 10:00-18:00; Mo,Sa "auf Vereinbarung"
+website: http://www.boutique-lotze.info/

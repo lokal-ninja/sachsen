@@ -1,11 +1,11 @@
 id: 301683350
-type: way
+type: node
 latitude: 50.64598
 longitude: 12.96933
 postcode: "09427"
 city: Ehrenfriedersdorf
-street: "Markt"
-housenumber: 10
+street: Markt
+housenumber: "10"
 phone: ""
-opening_hours: "Mo 05:30-13:00; Tu-Fr 05:30-18:00; Sa 05:30-12:00; Su closed"
-website: "https://baeckerei.noennig.com"
+opening_hours: Mo 05:30-13:00; Tu-Fr 05:30-18:00; Sa 05:30-12:00; Su closed
+website: https://baeckerei.noennig.com

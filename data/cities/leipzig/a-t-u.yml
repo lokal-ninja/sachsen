@@ -1,11 +1,11 @@
 id: 32736723
-type: way
+type: node
 latitude: 51.31839
 longitude: 12.39458
 postcode: "04103"
 city: Leipzig
-street: "An den Tierkliniken"
-housenumber: 47
+street: An den Tierkliniken
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-16:00
 website: ""

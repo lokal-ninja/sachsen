@@ -1,11 +1,11 @@
 id: 344073680
-type: way
+type: node
 latitude: 51.37672
 longitude: 12.40277
 postcode: "04357"
 city: Leipzig
-street: "Rosenowstraße"
+street: Rosenowstraße
 housenumber: 30b
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

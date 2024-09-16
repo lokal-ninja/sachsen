@@ -4,8 +4,8 @@ latitude: 51.05258
 longitude: 13.80519
 postcode: "01309"
 city: Dresden
-street: "Naumannstraße"
-housenumber: 8
-phone: "+49 351 31296768"
-opening_hours: "Mo-Fr 09:00-13:00, Mo,Th 14:00-18:00, Tu,We 14:00-17:00"
+street: Naumannstraße
+housenumber: "8"
+phone: +49 351 31296768
+opening_hours: Mo-Fr 09:00-13:00, Mo,Th 14:00-18:00, Tu,We 14:00-17:00
 website: ""

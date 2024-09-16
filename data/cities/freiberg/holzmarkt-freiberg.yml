@@ -1,11 +1,11 @@
 id: 89042116
-type: way
+type: node
 latitude: 50.9166
 longitude: 13.36627
 postcode: "09599"
 city: Freiberg
-street: "Dresdner Straße"
-housenumber: 33
-phone: "+49 3731 773294"
+street: Dresdner Straße
+housenumber: "33"
+phone: +49 3731 773294
 opening_hours: ""
-website: "https://www.holzmarkt-freiberg.de/"
+website: https://www.holzmarkt-freiberg.de/

@@ -4,8 +4,8 @@ latitude: 51.35228
 longitude: 12.42326
 postcode: "04347"
 city: Leipzig
-street: "Volksgartenstraße"
-housenumber: 55
+street: Volksgartenstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.edeka.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.edeka.de/

@@ -4,8 +4,8 @@ latitude: 50.62818
 longitude: 12.30107
 postcode: "08468"
 city: Reichenbach
-street: "Friedensstraße"
-housenumber: 80
-phone: "+49 3765 717257"
-opening_hours: "Mo-Fr 07:30-17:00"
+street: Friedensstraße
+housenumber: "80"
+phone: +49 3765 717257
+opening_hours: Mo-Fr 07:30-17:00
 website: ""

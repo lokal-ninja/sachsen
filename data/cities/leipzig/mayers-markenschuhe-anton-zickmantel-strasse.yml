@@ -4,8 +4,8 @@ latitude: 51.30281
 longitude: 12.32218
 postcode: "04249"
 city: Leipzig
-street: "Anton-Zickmantel-Straße"
-housenumber: 39
-phone: "+49 341 9468448"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.mayers-markenschuhe.de/filialfinder/"
+street: Anton-Zickmantel-Straße
+housenumber: "39"
+phone: +49 341 9468448
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.mayers-markenschuhe.de/filialfinder/

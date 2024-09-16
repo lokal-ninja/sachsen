@@ -4,8 +4,8 @@ latitude: 50.78041
 longitude: 12.92444
 postcode: "09125"
 city: Chemnitz
-street: "Annaberger Straße"
-housenumber: 348
-phone: "+49 3715308445"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://gebrauchte-stahlfelgen.de/"
+street: Annaberger Straße
+housenumber: "348"
+phone: +49 3715308445
+opening_hours: Mo-Fr 09:00-18:00
+website: https://gebrauchte-stahlfelgen.de/

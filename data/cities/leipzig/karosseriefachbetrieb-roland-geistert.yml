@@ -1,11 +1,11 @@
 id: 888228818
-type: way
+type: node
 latitude: 51.28255
 longitude: 12.46738
 postcode: "04288"
 city: Leipzig
-street: "Badergasse"
-housenumber: 3
-phone: "+49 34297 42717"
+street: Badergasse
+housenumber: "3"
+phone: +49 34297 42717
 opening_hours: ""
-website: "http://www.auto-geistert.de/"
+website: http://www.auto-geistert.de/

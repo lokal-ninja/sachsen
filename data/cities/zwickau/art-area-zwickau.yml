@@ -4,8 +4,8 @@ latitude: 50.72408
 longitude: 12.49251
 postcode: "08056"
 city: Zwickau
-street: "Römerplatz"
-housenumber: 8
-phone: "+49 375 21448869"
-opening_hours: "Mo-Fr 08:30-20:00, Tu-Su 08:00-18:00"
-website: "http://www.uhlmanndesign.de/tattooer.php"
+street: Römerplatz
+housenumber: "8"
+phone: +49 375 21448869
+opening_hours: Mo-Fr 08:30-20:00, Tu-Su 08:00-18:00
+website: http://www.uhlmanndesign.de/tattooer.php

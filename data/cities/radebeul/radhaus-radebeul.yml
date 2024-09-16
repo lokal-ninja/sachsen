@@ -4,8 +4,8 @@ latitude: 51.10115
 longitude: 13.68519
 postcode: "01445"
 city: Radebeul
-street: "Meißner Straße"
-housenumber: 66
-phone: "+49 351 8336365"
-opening_hours: "Mo-Tu 10:00-19:00; We off; Th-Fr 10:00-19:00; Sa 09:30-12:00"
-website: "http://www.radhaus-radebeul.com"
+street: Meißner Straße
+housenumber: "66"
+phone: +49 351 8336365
+opening_hours: Mo-Tu 10:00-19:00; We off; Th-Fr 10:00-19:00; Sa 09:30-12:00
+website: http://www.radhaus-radebeul.com

@@ -1,11 +1,11 @@
 id: 659735802
-type: way
+type: node
 latitude: 51.45702
 longitude: 12.25548
 postcode: "04509"
 city: Wiedemar
-street: "Radefelder Landstraße"
-housenumber: 13
+street: Radefelder Landstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

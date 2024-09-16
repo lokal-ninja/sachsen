@@ -1,11 +1,11 @@
 id: 76464854
-type: way
+type: node
 latitude: 50.49195
 longitude: 12.17209
 postcode: "08529"
 city: Plauen
-street: "Kleinfriesener Straße"
-housenumber: 29
+street: Kleinfriesener Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

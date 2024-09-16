@@ -4,8 +4,8 @@ latitude: 51.04072
 longitude: 13.68856
 postcode: "01159"
 city: Dresden
-street: "Grillenburger Straße"
-housenumber: 21
-phone: "+49 351 4121213"
-opening_hours: "Mo-Fr 07:00-12:00,12:30-15:30"
-website: "http://boehme-elektromaschinen.de"
+street: Grillenburger Straße
+housenumber: "21"
+phone: +49 351 4121213
+opening_hours: Mo-Fr 07:00-12:00,12:30-15:30
+website: http://boehme-elektromaschinen.de

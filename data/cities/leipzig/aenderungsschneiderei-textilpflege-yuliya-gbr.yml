@@ -4,8 +4,8 @@ latitude: 51.33595
 longitude: 12.40677
 postcode: "04317"
 city: Leipzig
-street: "Täubchenweg"
-housenumber: 83
-phone: "+49 341 67959390"
-opening_hours: "Mo-Fr 09:00-18:00; PH off"
-website: "http://www.änderungstextilservice.de/"
+street: Täubchenweg
+housenumber: "83"
+phone: +49 341 67959390
+opening_hours: Mo-Fr 09:00-18:00; PH off
+website: http://www.änderungstextilservice.de/

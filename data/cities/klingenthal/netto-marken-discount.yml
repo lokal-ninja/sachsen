@@ -1,11 +1,11 @@
 id: 92498710
-type: way
+type: node
 latitude: 50.35605
 longitude: 12.45089
 postcode: "08248"
 city: Klingenthal
-street: "Mühlenstraße"
-housenumber: 6
+street: Mühlenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

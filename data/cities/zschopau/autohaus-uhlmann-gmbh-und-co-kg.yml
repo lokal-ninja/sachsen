@@ -1,11 +1,11 @@
 id: 121436694
-type: way
+type: node
 latitude: 50.72342
 longitude: 13.10655
 postcode: "09434"
 city: Zschopau
-street: "Hauptstraße"
-housenumber: 122
+street: Hauptstraße
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

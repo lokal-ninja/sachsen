@@ -1,11 +1,11 @@
 id: 214647852
-type: way
+type: node
 latitude: 51.32622
 longitude: 12.3065
 postcode: "04209"
 city: Leipzig
-street: "Brünner Straße"
-housenumber: 28
+street: Brünner Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

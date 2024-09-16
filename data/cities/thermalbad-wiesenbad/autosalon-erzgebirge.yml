@@ -1,11 +1,11 @@
 id: 334416088
-type: way
+type: node
 latitude: 50.60839
 longitude: 12.99219
 postcode: "09488"
 city: Thermalbad Wiesenbad
-street: "Gewerbestraße"
-housenumber: 6
+street: Gewerbestraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

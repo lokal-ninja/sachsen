@@ -4,8 +4,8 @@ latitude: 51.36204
 longitude: 12.36683
 postcode: "04155"
 city: Leipzig
-street: "Georg-Schumann-Straße"
-housenumber: 73
-phone: "+49 341 20019999"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
+street: Georg-Schumann-Straße
+housenumber: "73"
+phone: +49 341 20019999
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
 website: ""

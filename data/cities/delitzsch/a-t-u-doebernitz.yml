@@ -1,11 +1,11 @@
 id: 208399477
-type: way
+type: node
 latitude: 51.51197
 longitude: 12.33749
 postcode: "04509"
 city: Delitzsch
-street: "Dr.-Helmut-Schreyer-Straße"
-housenumber: 8
-phone: "+49 34202 979561"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00; PH off"
-website: "https://www.atu.de/"
+street: Dr.-Helmut-Schreyer-Straße
+housenumber: "8"
+phone: +49 34202 979561
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00; PH off
+website: https://www.atu.de/

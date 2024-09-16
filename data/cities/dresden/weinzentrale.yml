@@ -4,8 +4,8 @@ latitude: 51.06164
 longitude: 13.75239
 postcode: "01099"
 city: Dresden
-street: "Hoyerswerdaer Straße"
-housenumber: 26
-phone: "+49 351 89966747"
-opening_hours: "Mo 18:00-23:00; We-Fr 17:00-23:00; Tu,Su off; Sa 13:00-18:00"
-website: "https://weinzentrale.com/"
+street: Hoyerswerdaer Straße
+housenumber: "26"
+phone: +49 351 89966747
+opening_hours: Mo 18:00-23:00; We-Fr 17:00-23:00; Tu,Su off; Sa 13:00-18:00
+website: https://weinzentrale.com/

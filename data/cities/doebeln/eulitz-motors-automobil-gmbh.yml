@@ -1,11 +1,11 @@
 id: 89506975
-type: way
+type: node
 latitude: 51.12331
 longitude: 13.22342
 postcode: "04720"
 city: Döbeln
-street: "Petersberg"
+street: Petersberg
 housenumber: 19a
-phone: "+49 34325 20396"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://eulitz-motors.de/"
+phone: +49 34325 20396
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://eulitz-motors.de/

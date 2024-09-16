@@ -1,11 +1,11 @@
 id: 173103655
-type: way
+type: node
 latitude: 51.3117
 longitude: 12.41582
 postcode: "04299"
 city: Leipzig
-street: "Prager Straße"
-housenumber: 210
-phone: "+49 341 8605840"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su 08:00-16:00"
-website: "https://leipzig-blumenhalle.de/suedfriedhof/"
+street: Prager Straße
+housenumber: "210"
+phone: +49 341 8605840
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su 08:00-16:00
+website: https://leipzig-blumenhalle.de/suedfriedhof/

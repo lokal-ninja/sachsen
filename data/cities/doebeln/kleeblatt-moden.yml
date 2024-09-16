@@ -4,8 +4,8 @@ latitude: 51.12152
 longitude: 13.12205
 postcode: "04720"
 city: Döbeln
-street: "Obermarkt"
-housenumber: 6
-phone: "+49 3431 703853"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.kleeblatt-moden.de/"
+street: Obermarkt
+housenumber: "6"
+phone: +49 3431 703853
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.kleeblatt-moden.de/

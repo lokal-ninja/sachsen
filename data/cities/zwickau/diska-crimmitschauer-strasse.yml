@@ -1,11 +1,11 @@
 id: 59495273
-type: way
+type: node
 latitude: 50.73685
 longitude: 12.47234
 postcode: "08058"
 city: Zwickau
-street: "Crimmitschauer Straße"
-housenumber: 90
+street: Crimmitschauer Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

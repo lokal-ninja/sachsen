@@ -1,11 +1,11 @@
 id: 77835071
-type: way
+type: node
 latitude: 51.05778
 longitude: 12.78525
 postcode: "09306"
 city: Rochlitz
-street: "Geithainer Straße"
-housenumber: 21
+street: Geithainer Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.18347
 longitude: 14.01921
 postcode: "01896"
 city: Pulsnitz
-street: "Schillerstraße"
-housenumber: 6
+street: Schillerstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.pfefferkuchen-pulsnitz.com"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.pfefferkuchen-pulsnitz.com

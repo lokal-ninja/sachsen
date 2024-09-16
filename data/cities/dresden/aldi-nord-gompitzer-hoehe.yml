@@ -1,11 +1,11 @@
 id: 1304082177
-type: way
+type: node
 latitude: 51.03997
 longitude: 13.62957
 postcode: "01156"
 city: Dresden
-street: "Gompitzer Höhe"
+street: Gompitzer Höhe
 housenumber: 5a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 263503052
-type: way
+type: node
 latitude: 51.10245
 longitude: 14.03273
 postcode: "01909"
 city: Großharthau
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 16a
-phone: "+49 35200 140569"
+phone: +49 35200 140569
 opening_hours: ""
-website: "https://www.natur-pur-massagen.de/"
+website: https://www.natur-pur-massagen.de/

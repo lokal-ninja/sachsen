@@ -1,11 +1,11 @@
 id: 117172323
-type: way
+type: node
 latitude: 51.16539
 longitude: 14.42877
 postcode: "02625"
 city: Bautzen
-street: "Neusalzaer Straße"
-housenumber: 53
+street: Neusalzaer Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

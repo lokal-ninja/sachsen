@@ -1,11 +1,11 @@
 id: 218907981
-type: way
+type: node
 latitude: 50.96701
 longitude: 14.26719
 postcode: "01855"
 city: Sebnitz
-street: "Hainersdorfer Weg"
-housenumber: 10
+street: Hainersdorfer Weg
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://jungpflanzen-klein.de/"
+website: https://jungpflanzen-klein.de/

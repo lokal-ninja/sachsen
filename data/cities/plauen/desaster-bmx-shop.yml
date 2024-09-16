@@ -1,11 +1,11 @@
 id: 263875617
-type: way
+type: node
 latitude: 50.49327
 longitude: 12.14227
 postcode: "08527"
 city: Plauen
-street: "Elsterstraße"
-housenumber: 2
+street: Elsterstraße
+housenumber: "2"
 phone: "+493741289212"
 opening_hours: ""
-website: "https://desaster-bmx.de/"
+website: https://desaster-bmx.de/

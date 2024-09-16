@@ -4,8 +4,8 @@ latitude: 51.34361
 longitude: 12.38511
 postcode: "04103"
 city: Leipzig
-street: "Wintergartenstraße"
-housenumber: 13
-phone: "+49 341 24 92 35 88"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.ziad-friseure.de/"
+street: Wintergartenstraße
+housenumber: "13"
+phone: +49 341 24 92 35 88
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.ziad-friseure.de/

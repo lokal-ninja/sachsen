@@ -1,11 +1,11 @@
 id: 1060114498
-type: way
+type: node
 latitude: 50.80969
 longitude: 12.53518
 postcode: "08371"
 city: Glauchau
-street: "Albertsthaler Straße"
-housenumber: 4
+street: Albertsthaler Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

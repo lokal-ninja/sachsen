@@ -4,8 +4,8 @@ latitude: 51.05999
 longitude: 13.77403
 postcode: "01307"
 city: Dresden
-street: "Neubertstraße"
-housenumber: 29
+street: Neubertstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

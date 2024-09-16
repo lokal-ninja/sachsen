@@ -1,11 +1,11 @@
 id: 665409603
-type: way
+type: node
 latitude: 51.00988
 longitude: 13.81078
 postcode: "01237"
 city: Dresden
-street: "Mügelner Straße"
-housenumber: 45
+street: Mügelner Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

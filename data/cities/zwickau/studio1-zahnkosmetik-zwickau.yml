@@ -4,8 +4,8 @@ latitude: 50.71843
 longitude: 12.48091
 postcode: "08056"
 city: Zwickau
-street: "Robert-Blum-Straße"
-housenumber: 19
-phone: "+49 375 27137830"
-opening_hours: "Mo,Th 13:00-18:00, Tu,Fr 08:00-13:00, We 08:00-13:00"
-website: "https://www.zahnkosmetik-zwickau.de/"
+street: Robert-Blum-Straße
+housenumber: "19"
+phone: +49 375 27137830
+opening_hours: Mo,Th 13:00-18:00, Tu,Fr 08:00-13:00, We 08:00-13:00
+website: https://www.zahnkosmetik-zwickau.de/

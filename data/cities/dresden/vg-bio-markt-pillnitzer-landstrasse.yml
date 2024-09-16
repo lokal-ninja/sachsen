@@ -4,8 +4,8 @@ latitude: 51.05342
 longitude: 13.81594
 postcode: "01326"
 city: Dresden
-street: "Pillnitzer Landstraße"
-housenumber: 8
-phone: "+49 351 26 82 143"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-14:00"
-website: "https://vg-dresden.de/vg-balsamico.html"
+street: Pillnitzer Landstraße
+housenumber: "8"
+phone: +49 351 26 82 143
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-14:00
+website: https://vg-dresden.de/vg-balsamico.html

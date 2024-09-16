@@ -4,8 +4,9 @@ latitude: 51.164
 longitude: 13.47024
 postcode: "01662"
 city: Meißen
-street: "Burgstraße"
-housenumber: 29
-phone: "+49 3521 45 18 41"
-opening_hours: "Mo 09:30-18:00; Tu closed; We-Fr 09:30-18:00; Sa 09:30-16:00; Su,PH 11:00-16:00"
-website: "http://www.antik-meissen.de/"
+street: Burgstraße
+housenumber: "29"
+phone: +49 3521 45 18 41
+opening_hours: Mo 09:30-18:00; Tu closed; We-Fr 09:30-18:00; Sa 09:30-16:00; Su,PH
+    11:00-16:00
+website: http://www.antik-meissen.de/

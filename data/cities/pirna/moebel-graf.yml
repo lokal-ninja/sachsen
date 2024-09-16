@@ -1,11 +1,11 @@
 id: 28883453
-type: way
+type: node
 latitude: 50.95708
 longitude: 13.9052
 postcode: "01796"
 city: Pirna
-street: "Heidenauer Straße"
-housenumber: 107
+street: Heidenauer Straße
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

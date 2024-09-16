@@ -4,8 +4,8 @@ latitude: 50.70991
 longitude: 12.7821
 postcode: "09366"
 city: Stollberg/Erzgebirge
-street: "Antonstraße"
-housenumber: 1
+street: Antonstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 05:45-18:00; Sa 05:45-12:00; Su 07:00-10:00"
+opening_hours: Mo-Fr 05:45-18:00; Sa 05:45-12:00; Su 07:00-10:00
 website: ""

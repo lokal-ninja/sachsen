@@ -4,8 +4,8 @@ latitude: 51.07332
 longitude: 13.75212
 postcode: "01099"
 city: Dresden
-street: "Königsbrücker Straße"
-housenumber: 71
-phone: "+49 351 8045430"
-opening_hours: "nach Terminvereinbarung"
-website: "https://www.klotz-baeder.de/"
+street: Königsbrücker Straße
+housenumber: "71"
+phone: +49 351 8045430
+opening_hours: '"nach Terminvereinbarung"'
+website: https://www.klotz-baeder.de/

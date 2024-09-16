@@ -1,11 +1,11 @@
 id: 129850371
-type: way
+type: node
 latitude: 51.55212
 longitude: 12.97429
 postcode: "04860"
 city: Torgau
-street: "Biberweg"
-housenumber: 2
+street: Biberweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

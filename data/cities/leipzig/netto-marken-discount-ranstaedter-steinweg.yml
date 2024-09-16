@@ -4,8 +4,8 @@ latitude: 51.34385
 longitude: 12.36641
 postcode: "04109"
 city: Leipzig
-street: "Ranstädter Steinweg"
-housenumber: 20
+street: Ranstädter Steinweg
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

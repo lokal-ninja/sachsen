@@ -4,8 +4,8 @@ latitude: 50.72074
 longitude: 12.49024
 postcode: "08056"
 city: Zwickau
-street: "Poetenweg"
-housenumber: 14
-phone: "+49 375 3035907"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 10:00-13:00"
-website: "http://www.handyshop-claus.de/"
+street: Poetenweg
+housenumber: "14"
+phone: +49 375 3035907
+opening_hours: Mo-Fr 09:30-18:00, Sa 10:00-13:00
+website: http://www.handyshop-claus.de/

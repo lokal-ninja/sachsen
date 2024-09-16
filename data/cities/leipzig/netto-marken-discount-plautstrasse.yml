@@ -1,11 +1,11 @@
 id: 66668137
-type: way
+type: node
 latitude: 51.33418
 longitude: 12.30574
 postcode: "04179"
 city: Leipzig
-street: "Plautstraße"
-housenumber: 36
+street: Plautstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

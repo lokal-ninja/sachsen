@@ -4,8 +4,8 @@ latitude: 51.04823
 longitude: 13.17758
 postcode: "09661"
 city: Striegistal
-street: "Am Steinbach"
-housenumber: 33
-phone: "+49 34322/40431"
-opening_hours: "Mo-Fr 11:00-18:00, Sa 09:00-12:00, PH off"
-website: "https://www.etzdorfer-markt.de"
+street: Am Steinbach
+housenumber: "33"
+phone: +49 34322/40431
+opening_hours: Mo-Fr 11:00-18:00, Sa 09:00-12:00, PH off
+website: https://www.etzdorfer-markt.de

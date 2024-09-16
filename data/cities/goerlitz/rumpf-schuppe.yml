@@ -4,8 +4,8 @@ latitude: 51.14791
 longitude: 14.97112
 postcode: "02826"
 city: Görlitz
-street: "Lutherstraße"
-housenumber: 2
+street: Lutherstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00; PH off"
-website: "https://www.rumpf-schuppe.de"
+opening_hours: Mo-Fr 07:00-16:00; PH off
+website: https://www.rumpf-schuppe.de

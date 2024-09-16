@@ -4,8 +4,8 @@ latitude: 50.74669
 longitude: 12.48434
 postcode: "08058"
 city: Zwickau
-street: "Schubertstraße"
-housenumber: 5
+street: Schubertstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-16:00"
+opening_hours: Mo-Fr 09:30-19:00, Sa 09:30-16:00
 website: ""

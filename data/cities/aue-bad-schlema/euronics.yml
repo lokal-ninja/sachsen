@@ -1,11 +1,11 @@
 id: 330825305
-type: way
+type: node
 latitude: 50.60073
 longitude: 12.65459
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Zechenplatz"
-housenumber: 7
+street: Zechenplatz
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

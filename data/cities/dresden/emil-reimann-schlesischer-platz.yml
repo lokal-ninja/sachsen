@@ -1,11 +1,11 @@
 id: 1245087413
-type: way
+type: node
 latitude: 51.06525
 longitude: 13.74091
 postcode: "01097"
 city: Dresden
-street: "Schlesischer Platz"
-housenumber: 1
+street: Schlesischer Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 04:00-19:00; PH,Sa,Su 05:00-17:00"
-website: "https://www.emil-reimann.de/de/filialen/uebersicht-unserer-filialen.html"
+opening_hours: Mo-Fr 04:00-19:00; PH,Sa,Su 05:00-17:00
+website: https://www.emil-reimann.de/de/filialen/uebersicht-unserer-filialen.html

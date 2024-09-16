@@ -1,11 +1,11 @@
 id: 388129299
-type: way
+type: node
 latitude: 50.70412
 longitude: 12.61653
 postcode: "08132"
 city: Mülsen
-street: "Wildenfelser Straße"
-housenumber: 62
+street: Wildenfelser Straße
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

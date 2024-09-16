@@ -4,8 +4,8 @@ latitude: 51.04563
 longitude: 13.69347
 postcode: "01159"
 city: Dresden
-street: "Hermsdorfer Straße"
-housenumber: 18
-phone: "+49 351 4221255"
-opening_hours: "Tu-Fr 07:00-18:00; Sa 07:00-11:00"
-website: "http://feinbaeckerei-rebs.de"
+street: Hermsdorfer Straße
+housenumber: "18"
+phone: +49 351 4221255
+opening_hours: Tu-Fr 07:00-18:00; Sa 07:00-11:00
+website: http://feinbaeckerei-rebs.de

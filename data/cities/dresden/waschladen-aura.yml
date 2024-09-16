@@ -4,8 +4,8 @@ latitude: 51.0432
 longitude: 13.69848
 postcode: "01159"
 city: Dresden
-street: "Bünaustraße"
-housenumber: 4
+street: Bünaustraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su,PH 08:00-20:00"
-website: "https://www.waschladen.de/de/aura.html"
+opening_hours: Mo-Sa 06:00-22:00; Su,PH 08:00-20:00
+website: https://www.waschladen.de/de/aura.html

@@ -4,8 +4,8 @@ latitude: 51.36019
 longitude: 12.36239
 postcode: "04155"
 city: Leipzig
-street: "Berggartenstraße"
-housenumber: 28
-phone: "+49 34441 22822"
-opening_hours: "Mo,Tu,Th,Fr 10:00-18:00; Sa,Su,PH off"
+street: Berggartenstraße
+housenumber: "28"
+phone: +49 34441 22822
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; Sa,Su,PH off
 website: ""

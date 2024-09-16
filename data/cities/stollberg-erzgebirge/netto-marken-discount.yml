@@ -1,11 +1,11 @@
 id: 28637828
-type: way
+type: node
 latitude: 50.71234
 longitude: 12.76719
 postcode: "09366"
 city: Stollberg/Erzgebirge
-street: "Albrecht-Dürer-Straße"
-housenumber: 95
+street: Albrecht-Dürer-Straße
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

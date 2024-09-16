@@ -4,8 +4,8 @@ latitude: 51.32972
 longitude: 12.33624
 postcode: "04229"
 city: Leipzig
-street: "Zschochersche Straße"
-housenumber: 48
-phone: "+49 341 47839968"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-14:00"
-website: "https://www.mac-geiz.de/"
+street: Zschochersche Straße
+housenumber: "48"
+phone: +49 341 47839968
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-14:00
+website: https://www.mac-geiz.de/

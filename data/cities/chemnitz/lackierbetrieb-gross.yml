@@ -1,11 +1,11 @@
 id: 94500051
-type: way
+type: node
 latitude: 50.84397
 longitude: 12.99113
 postcode: "09128"
 city: Chemnitz
-street: "Beutenbergstraße"
-housenumber: 28
+street: Beutenbergstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.30516
 longitude: 13.30146
 postcode: "01587"
 city: Riesa
-street: "Alexander-Puschkin-Platz"
-housenumber: 2
-phone: "+49 3525 875884"
-opening_hours: "Mo 12:00-18:00; Tu-Fr 08:00-19:00; Sa 07:00-12:00; Su,PH off"
+street: Alexander-Puschkin-Platz
+housenumber: "2"
+phone: +49 3525 875884
+opening_hours: Mo 12:00-18:00; Tu-Fr 08:00-19:00; Sa 07:00-12:00; Su,PH off
 website: ""

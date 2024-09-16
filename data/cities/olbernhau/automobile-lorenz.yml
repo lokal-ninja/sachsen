@@ -1,11 +1,11 @@
 id: 199750377
-type: way
+type: node
 latitude: 50.65095
 longitude: 13.36404
 postcode: "09526"
 city: Olbernhau
-street: "Am Walzwerk"
-housenumber: 2
-phone: "+49 37360 1660"
+street: Am Walzwerk
+housenumber: "2"
+phone: +49 37360 1660
 opening_hours: ""
-website: "http://www.automobile-lorenz.com"
+website: http://www.automobile-lorenz.com

@@ -1,11 +1,11 @@
 id: 113568616
-type: way
+type: node
 latitude: 50.59929
 longitude: 12.66808
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Marktpassage"
-housenumber: 23
+street: Marktpassage
+housenumber: "23"
 phone: ""
-opening_hours: "Mo - Fr 08:00 - 18:00, Sa 7:00 - 12:00"
+opening_hours: Mo - Fr 08:00 - 18:00, Sa 7:00 - 12:00
 website: ""

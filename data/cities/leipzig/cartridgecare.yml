@@ -5,7 +5,7 @@ longitude: 12.37316
 postcode: "04107"
 city: Leipzig
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+4934158067590"
-opening_hours: "Sa 09:00-13:00; Mo-Fr 09:00-18:00"
-website: "https://www.cartridgecare.de/"
+opening_hours: Sa 09:00-13:00; Mo-Fr 09:00-18:00
+website: https://www.cartridgecare.de/

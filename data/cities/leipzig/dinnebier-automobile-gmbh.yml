@@ -1,11 +1,11 @@
 id: 127309895
-type: way
+type: node
 latitude: 51.4054
 longitude: 12.36701
 postcode: "04158"
 city: Leipzig
-street: "Delitzscher Landstraße"
-housenumber: 150
-phone: "+49 341 52410"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-13:00"
-website: "https://www.dinnebier-leipzig.de/"
+street: Delitzscher Landstraße
+housenumber: "150"
+phone: +49 341 52410
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-13:00
+website: https://www.dinnebier-leipzig.de/

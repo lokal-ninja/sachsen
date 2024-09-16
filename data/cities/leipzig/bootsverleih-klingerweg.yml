@@ -4,8 +4,8 @@ latitude: 51.33042
 longitude: 12.34871
 postcode: "04229"
 city: Leipzig
-street: "Klingerweg"
-housenumber: 2
+street: Klingerweg
+housenumber: "2"
 phone: "+493414806545"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://bootsverleih.scdhfk.de/"
+opening_hours: Mo-Su 10:00-19:00
+website: https://bootsverleih.scdhfk.de/

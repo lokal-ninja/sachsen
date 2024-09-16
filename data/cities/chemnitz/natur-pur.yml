@@ -4,8 +4,8 @@ latitude: 50.84759
 longitude: 12.92547
 postcode: "09113"
 city: Chemnitz
-street: "Lohrstraße"
-housenumber: 31
+street: Lohrstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Tu,Th-Fr 10:00-12:30,14:00-18:00; We 10:00-12:30; PH closed; Sa 10:00-13:00"
-website: "https://www.natur-pur-chemnitz.de/"
+opening_hours: Tu,Th-Fr 10:00-12:30,14:00-18:00; We 10:00-12:30; PH closed; Sa 10:00-13:00
+website: https://www.natur-pur-chemnitz.de/

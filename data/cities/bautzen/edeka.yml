@@ -1,11 +1,11 @@
 id: 88689638
-type: way
+type: node
 latitude: 51.17144
 longitude: 14.43531
 postcode: "02625"
 city: Bautzen
-street: "Stieberstraße"
-housenumber: 55
-phone: "+49 3591 374190"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00"
-website: "https://www.edeka.de/"
+street: Stieberstraße
+housenumber: "55"
+phone: +49 3591 374190
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-21:00
+website: https://www.edeka.de/

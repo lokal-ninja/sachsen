@@ -4,8 +4,8 @@ latitude: 50.51229
 longitude: 12.14705
 postcode: "08525"
 city: Plauen
-street: "Schumannstraße"
-housenumber: 8
-phone: "+49 3741 522840"
-opening_hours: "Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 07:00-11:00"
-website: "https://www.fleischerei-schmidt-plauen.de"
+street: Schumannstraße
+housenumber: "8"
+phone: +49 3741 522840
+opening_hours: Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 07:00-11:00
+website: https://www.fleischerei-schmidt-plauen.de

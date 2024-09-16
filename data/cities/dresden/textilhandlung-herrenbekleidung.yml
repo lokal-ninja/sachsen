@@ -4,8 +4,8 @@ latitude: 51.05185
 longitude: 13.73799
 postcode: "01067"
 city: Dresden
-street: "Sporergasse"
-housenumber: 3
+street: Sporergasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
+opening_hours: Mo-Sa 11:00-19:00
 website: ""

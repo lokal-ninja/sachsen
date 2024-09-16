@@ -1,11 +1,11 @@
 id: 175398263
-type: way
+type: node
 latitude: 50.82576
 longitude: 12.54854
 postcode: "08371"
 city: Glauchau
-street: "Heinrich-Heine-Straße"
-housenumber: 3
+street: Heinrich-Heine-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

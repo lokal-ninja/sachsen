@@ -4,8 +4,8 @@ latitude: 51.36696
 longitude: 12.37153
 postcode: "04157"
 city: Leipzig
-street: "Coppistraße"
-housenumber: 71
-phone: "+49 341 6865597"
-opening_hours: "10:00-17:00"
-website: "https://www.orionbusinesstravel.com/"
+street: Coppistraße
+housenumber: "71"
+phone: +49 341 6865597
+opening_hours: 10:00-17:00
+website: https://www.orionbusinesstravel.com/

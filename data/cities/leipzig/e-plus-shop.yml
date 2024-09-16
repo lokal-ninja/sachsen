@@ -4,8 +4,8 @@ latitude: 51.31216
 longitude: 12.37355
 postcode: "04277"
 city: Leipzig
-street: "Karl-Liebknecht-Straße"
-housenumber: 151
-phone: "+49 341 2257555"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-14:00"
+street: Karl-Liebknecht-Straße
+housenumber: "151"
+phone: +49 341 2257555
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-14:00
 website: ""

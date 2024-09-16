@@ -1,11 +1,11 @@
 id: 78355500
-type: way
+type: node
 latitude: 50.43596
 longitude: 12.45915
 postcode: ""
 city: Muldenhammer
-street: "Hammerbrücker Straße"
-housenumber: 3
+street: Hammerbrücker Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

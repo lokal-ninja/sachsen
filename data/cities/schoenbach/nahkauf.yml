@@ -1,11 +1,11 @@
 id: 331495826
-type: way
+type: node
 latitude: 51.0626
 longitude: 14.56571
 postcode: "02708"
 city: Schönbach
-street: "Beiersdorfer Straße"
-housenumber: 32
+street: Beiersdorfer Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

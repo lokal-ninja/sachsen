@@ -1,11 +1,11 @@
 id: 231072503
-type: way
+type: node
 latitude: 50.84861
 longitude: 13.3991
 postcode: "09638"
 city: Lichtenberg/Erzgeb.
-street: "Talmühle"
-housenumber: 1
+street: Talmühle
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://fischaufzucht.de/hofladen.php4"
+website: https://fischaufzucht.de/hofladen.php4

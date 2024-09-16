@@ -4,8 +4,8 @@ latitude: 50.79938
 longitude: 12.71079
 postcode: "09337"
 city: Hohenstein-Ernstthal
-street: "Schubertstraße"
-housenumber: 5
-phone: "+49 03723 2069388"
-opening_hours: "Mo,Sa 08:00-12:00; Tu,We,Fr 08:00-18:00; Th 08:00-19:00"
-website: "https://daniela-weinhold.de/"
+street: Schubertstraße
+housenumber: "5"
+phone: +49 03723 2069388
+opening_hours: Mo,Sa 08:00-12:00; Tu,We,Fr 08:00-18:00; Th 08:00-19:00
+website: https://daniela-weinhold.de/

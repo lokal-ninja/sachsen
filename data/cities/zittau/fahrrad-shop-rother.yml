@@ -4,8 +4,8 @@ latitude: 50.89288
 longitude: 14.81042
 postcode: "02763"
 city: Zittau
-street: "Ottokarplatz"
-housenumber: 10
-phone: "+49 3583 702327"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:00"
-website: "http://rother.muellersgrafik.de/"
+street: Ottokarplatz
+housenumber: "10"
+phone: +49 3583 702327
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-12:00
+website: http://rother.muellersgrafik.de/

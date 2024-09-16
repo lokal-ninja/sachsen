@@ -4,8 +4,8 @@ latitude: 50.58027
 longitude: 13.00152
 postcode: "09456"
 city: Annaberg-Buchholz
-street: "Markt"
-housenumber: 10
+street: Markt
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa,Su 07:00-18:00"
-website: "https://www.baeckerei-roscher.de/filialen/"
+opening_hours: Mo-Fr 06:00-18:00; Sa,Su 07:00-18:00
+website: https://www.baeckerei-roscher.de/filialen/

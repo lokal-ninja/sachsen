@@ -4,8 +4,8 @@ latitude: 50.7182
 longitude: 12.49678
 postcode: "08056"
 city: Zwickau
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Fr 09:30-18:00; Tu 09:30-19:00; We 09:00-18:00; Th 13:00-18:00"
+opening_hours: Mo,Fr 09:30-18:00; Tu 09:30-19:00; We 09:00-18:00; Th 13:00-18:00
 website: ""

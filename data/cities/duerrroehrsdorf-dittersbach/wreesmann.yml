@@ -1,11 +1,11 @@
 id: 232547816
-type: way
+type: node
 latitude: 51.02562
 longitude: 14.00645
 postcode: "01833"
 city: Dürrröhrsdorf-Dittersbach
-street: "Hauptstraße"
-housenumber: 158
-phone: "+49 35026 967232"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.aktionshaus-wreesmann.de/"
+street: Hauptstraße
+housenumber: "158"
+phone: +49 35026 967232
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.aktionshaus-wreesmann.de/

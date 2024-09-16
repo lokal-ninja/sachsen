@@ -1,11 +1,11 @@
 id: 99873865
-type: way
+type: node
 latitude: 51.36861
 longitude: 12.73533
 postcode: "04808"
 city: Wurzen
-street: "Badergraben"
-housenumber: 2
+street: Badergraben
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

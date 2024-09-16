@@ -4,8 +4,8 @@ latitude: 51.05187
 longitude: 13.76351
 postcode: "01307"
 city: Dresden
-street: "Dürerstraße"
-housenumber: 53
-phone: "+49 351 2552467"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Dürerstraße
+housenumber: "53"
+phone: +49 351 2552467
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

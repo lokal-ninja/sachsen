@@ -4,8 +4,8 @@ latitude: 50.73408
 longitude: 12.69374
 postcode: "09376"
 city: Oelsnitz/Erzgeb.
-street: "Bahnhofstraße"
-housenumber: 94
-phone: "+49 372963755"
-opening_hours: "Mo,Fr 10:00-14:00; Tu 10:00-17:00; Th 14:00-17:00; We off"
-website: "https://www.moebelbahnhof.info/"
+street: Bahnhofstraße
+housenumber: "94"
+phone: +49 372963755
+opening_hours: Mo,Fr 10:00-14:00; Tu 10:00-17:00; Th 14:00-17:00; We off
+website: https://www.moebelbahnhof.info/

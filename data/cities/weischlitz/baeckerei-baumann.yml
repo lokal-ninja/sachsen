@@ -4,8 +4,8 @@ latitude: 50.47462
 longitude: 11.9556
 postcode: "08538"
 city: Weischlitz
-street: "Bahnhofstraße"
-housenumber: 20
-phone: "+49 37435 5243"
-opening_hours: "Tu-Fr 07:30-12:30; Tu-Th 15:00-17:00; Fr 14:30-16:30; Sa 06:30-10:00"
+street: Bahnhofstraße
+housenumber: "20"
+phone: +49 37435 5243
+opening_hours: Tu-Fr 07:30-12:30; Tu-Th 15:00-17:00; Fr 14:30-16:30; Sa 06:30-10:00
 website: ""

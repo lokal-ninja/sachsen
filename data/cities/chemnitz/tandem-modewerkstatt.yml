@@ -4,8 +4,8 @@ latitude: 50.78655
 longitude: 12.88208
 postcode: "09123"
 city: Chemnitz
-street: "Johannes-Dick-Straße"
-housenumber: 57
+street: Johannes-Dick-Straße
+housenumber: "57"
 phone: ""
-opening_hours: "auf Nachfrage"
+opening_hours: '"auf Nachfrage"'
 website: ""

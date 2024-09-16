@@ -1,11 +1,11 @@
 id: 219296323
-type: way
+type: node
 latitude: 51.00674
 longitude: 14.58318
 postcode: "02730"
 city: Ebersbach-Neugersdorf
-street: "Hermann-Wünsche-Straße"
-housenumber: 7
+street: Hermann-Wünsche-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

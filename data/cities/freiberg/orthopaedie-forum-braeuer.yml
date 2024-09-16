@@ -4,8 +4,8 @@ latitude: 50.9178
 longitude: 13.32811
 postcode: "09599"
 city: Freiberg
-street: "Friedeburger Straße"
-housenumber: 11
+street: Friedeburger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,Tu,Th 08:00-12:00; PH,We off, Mo,Tu,Th 13:00-18:00, Fr 08:00-14:00"
+opening_hours: Mo,Tu,Th 08:00-12:00; PH,We off, Mo,Tu,Th 13:00-18:00, Fr 08:00-14:00
 website: ""

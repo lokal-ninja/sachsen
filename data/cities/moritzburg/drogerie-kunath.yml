@@ -4,8 +4,8 @@ latitude: 51.1597
 longitude: 13.68031
 postcode: "01468"
 city: Moritzburg
-street: "Schloßallee"
-housenumber: 31
-phone: "+49 35207 81465"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:00; PH off"
+street: Schloßallee
+housenumber: "31"
+phone: +49 35207 81465
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:00; PH off
 website: ""

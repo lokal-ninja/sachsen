@@ -4,8 +4,8 @@ latitude: 50.72231
 longitude: 12.46575
 postcode: "08060"
 city: Zwickau
-street: "Goethestraße"
-housenumber: 20
-phone: "+49 375 575502"
-opening_hours: "Tu 15:00-19:00, Th 15:00-19:00"
-website: "https://www.scherbenglueck.de/"
+street: Goethestraße
+housenumber: "20"
+phone: +49 375 575502
+opening_hours: Tu 15:00-19:00, Th 15:00-19:00
+website: https://www.scherbenglueck.de/

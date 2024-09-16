@@ -1,11 +1,11 @@
 id: 88563140
-type: way
+type: node
 latitude: 50.89521
 longitude: 13.33081
 postcode: "09599"
 city: Freiberg
-street: "Häuersteig"
+street: Häuersteig
 housenumber: 10a
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"
-website: "https://www.atu.de/"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-16:00
+website: https://www.atu.de/

@@ -1,11 +1,11 @@
 id: 97564911
-type: way
+type: node
 latitude: 50.90607
 longitude: 14.16598
 postcode: "01814"
 city: Bad Schandau
-street: "Friedrich-Gottlob-Keller-Straße"
-housenumber: 59
-phone: "+49 35028 80571"
+street: Friedrich-Gottlob-Keller-Straße
+housenumber: "59"
+phone: +49 35028 80571
 opening_hours: ""
-website: "https://www.getraenke-wuensche.de/"
+website: https://www.getraenke-wuensche.de/

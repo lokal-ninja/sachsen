@@ -4,8 +4,9 @@ latitude: 50.63045
 longitude: 12.80919
 postcode: "08297"
 city: Zwönitz
-street: "Bahnhofstraße"
-housenumber: 25
+street: Bahnhofstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Tu,Th 09:00-13:00,14:00-18:00; We 14:00-18:00; Fr 09:00-13:00; Mo,Sa,Su,PH off"
+opening_hours: Tu,Th 09:00-13:00,14:00-18:00; We 14:00-18:00; Fr 09:00-13:00; Mo,Sa,Su,PH
+    off
 website: ""

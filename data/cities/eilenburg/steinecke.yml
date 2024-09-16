@@ -4,8 +4,8 @@ latitude: 51.46008
 longitude: 12.634
 postcode: "04838"
 city: Eilenburg
-street: "Marktplatz"
-housenumber: 5
+street: Marktplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 07:00-14:00; Su 07:00-16:30"
+opening_hours: Mo-Fr 05:30-18:00; Sa 07:00-14:00; Su 07:00-16:30
 website: ""

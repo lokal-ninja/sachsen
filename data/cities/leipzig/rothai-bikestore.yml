@@ -4,8 +4,8 @@ latitude: 51.34433
 longitude: 12.36905
 postcode: "04105"
 city: Leipzig
-street: "Jacobstraße"
-housenumber: 1
-phone: "+49 341 - 99389790"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH,Su off"
-website: "www.rothai-sports.de"
+street: Jacobstraße
+housenumber: "1"
+phone: +49 341 - 99389790
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH,Su off
+website: www.rothai-sports.de

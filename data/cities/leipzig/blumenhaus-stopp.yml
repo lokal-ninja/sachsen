@@ -1,11 +1,11 @@
 id: 65739603
-type: way
+type: node
 latitude: 51.32835
 longitude: 12.40415
 postcode: "04317"
 city: Leipzig
-street: "Riebeckstraße"
-housenumber: 29
-phone: "+49 341 9903909"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.blumenhaus-stopp.de/"
+street: Riebeckstraße
+housenumber: "29"
+phone: +49 341 9903909
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.blumenhaus-stopp.de/

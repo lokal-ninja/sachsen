@@ -1,11 +1,11 @@
 id: 760800700
-type: way
+type: node
 latitude: 50.57491
 longitude: 12.63522
 postcode: "08289"
 city: Schneeberg
-street: "Hohe Straße"
-housenumber: 2
+street: Hohe Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.bmw-kuehnert.de/index.php/kontakt-sp-220550517/schneeberg"
+website: https://www.bmw-kuehnert.de/index.php/kontakt-sp-220550517/schneeberg

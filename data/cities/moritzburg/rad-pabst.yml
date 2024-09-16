@@ -4,8 +4,8 @@ latitude: 51.11892
 longitude: 13.69485
 postcode: "01468"
 city: Moritzburg
-street: "Dresdner Straße"
-housenumber: 30
-phone: "+49 351 86286660"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,13:00-18:00;We 13:00-18:00;Sa 09:00-12:00"
-website: "http://www.rad-pabst.de"
+street: Dresdner Straße
+housenumber: "30"
+phone: +49 351 86286660
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,13:00-18:00;We 13:00-18:00;Sa 09:00-12:00
+website: http://www.rad-pabst.de

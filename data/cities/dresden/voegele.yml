@@ -4,8 +4,8 @@ latitude: 51.04933
 longitude: 13.73668
 postcode: "01067"
 city: Dresden
-street: "Altmarkt"
-housenumber: 21
+street: Altmarkt
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-19:00"
-website: "https://www.juwelier-voegele.de/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-19:00
+website: https://www.juwelier-voegele.de/

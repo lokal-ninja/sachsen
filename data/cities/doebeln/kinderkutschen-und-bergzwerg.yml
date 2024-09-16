@@ -4,8 +4,8 @@ latitude: 51.12959
 longitude: 13.09645
 postcode: "04720"
 city: Döbeln
-street: "Grimmaische Straße"
-housenumber: 58
+street: Grimmaische Straße
+housenumber: "58"
 phone: "+491737791209"
-opening_hours: "nach Vereinbarung"
-website: "https://kinderkutschen.de"
+opening_hours: '"nach Vereinbarung"'
+website: https://kinderkutschen.de

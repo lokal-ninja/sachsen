@@ -1,11 +1,11 @@
 id: 380040723
-type: way
+type: node
 latitude: 51.24571
 longitude: 14.01628
 postcode: "01920"
 city: Haselbachtal
-street: "Dorfstraße"
-housenumber: 7
+street: Dorfstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

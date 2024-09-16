@@ -4,8 +4,8 @@ latitude: 51.10815
 longitude: 13.63149
 postcode: "01445"
 city: Radebeul
-street: "Meißner Straße"
-housenumber: 264
-phone: "+49 3518 309777"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.buch-sauermann.de/"
+street: Meißner Straße
+housenumber: "264"
+phone: +49 3518 309777
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.buch-sauermann.de/

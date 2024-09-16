@@ -4,8 +4,8 @@ latitude: 51.15537
 longitude: 13.50845
 postcode: "01662"
 city: Meißen
-street: "Heinrich-Heine-Straße"
-housenumber: 24
-phone: "+49 3521 73 79 51"
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:30-10:00"
-website: "http://www.urgetreide-bäckerei.de/"
+street: Heinrich-Heine-Straße
+housenumber: "24"
+phone: +49 3521 73 79 51
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:30-10:00
+website: http://www.urgetreide-bäckerei.de/

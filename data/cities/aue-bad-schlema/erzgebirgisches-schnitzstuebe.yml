@@ -1,11 +1,11 @@
 id: 312738271
-type: way
+type: node
 latitude: 50.58816
 longitude: 12.69895
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Schneeberger Straße"
-housenumber: 24
+street: Schneeberger Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://erzgebirgisches-schnitzstuebel.de/"
+website: https://erzgebirgisches-schnitzstuebel.de/

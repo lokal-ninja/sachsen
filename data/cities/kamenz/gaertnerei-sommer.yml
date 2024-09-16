@@ -1,11 +1,11 @@
 id: 160203425
-type: way
+type: node
 latitude: 51.30791
 longitude: 14.04899
 postcode: "01917"
 city: Kamenz
-street: "Hauptstraße"
-housenumber: 44
+street: Hauptstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://gaertnerei-sommer.de/"
+website: https://gaertnerei-sommer.de/

@@ -1,11 +1,11 @@
 id: 438791079
-type: way
+type: node
 latitude: 51.37596
 longitude: 12.34622
 postcode: "04159"
 city: Leipzig
-street: "Wiederitzscher Weg"
-housenumber: 4
+street: Wiederitzscher Weg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

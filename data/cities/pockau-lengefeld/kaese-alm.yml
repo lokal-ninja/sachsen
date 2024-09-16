@@ -1,11 +1,11 @@
 id: 204189327
-type: way
+type: node
 latitude: 50.71842
 longitude: 13.19378
 postcode: "09514"
 city: Pockau-Lengefeld
-street: "Freiberger Straße"
-housenumber: 10
+street: Freiberger Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

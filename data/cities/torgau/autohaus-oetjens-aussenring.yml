@@ -1,11 +1,11 @@
 id: 1312462860
-type: way
+type: node
 latitude: 51.56223
 longitude: 12.97409
 postcode: "04860"
 city: Torgau
-street: "Außenring"
-housenumber: 4
+street: Außenring
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

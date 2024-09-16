@@ -4,8 +4,8 @@ latitude: 51.16373
 longitude: 13.47308
 postcode: "01662"
 city: Meißen
-street: "Elbstraße"
-housenumber: 13
+street: Elbstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:30-12:00"
-website: "https://www.city-foto-meissen.de"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:30-12:00
+website: https://www.city-foto-meissen.de

@@ -4,8 +4,8 @@ latitude: 50.83965
 longitude: 12.44736
 postcode: "08393"
 city: Meerane
-street: "Guteborner Allee"
-housenumber: 3
+street: Guteborner Allee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.a4-center.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.a4-center.de/

@@ -4,8 +4,8 @@ latitude: 51.0222
 longitude: 13.62311
 postcode: "01705"
 city: Freital
-street: "Albertschacht"
-housenumber: 3
-phone: "+49 351 6503580"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.holzhandel-hahn.de/"
+street: Albertschacht
+housenumber: "3"
+phone: +49 351 6503580
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.holzhandel-hahn.de/

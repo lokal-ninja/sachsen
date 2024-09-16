@@ -4,8 +4,8 @@ latitude: 51.52373
 longitude: 12.33795
 postcode: "04509"
 city: Delitzsch
-street: "Eilenburger Straße"
-housenumber: 17
-phone: "+49 34202 300563"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.no1mode.de/home.html"
+street: Eilenburger Straße
+housenumber: "17"
+phone: +49 34202 300563
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.no1mode.de/home.html

@@ -4,8 +4,8 @@ latitude: 51.33508
 longitude: 12.3293
 postcode: "04177"
 city: Leipzig
-street: "GutsMuthsstraße"
-housenumber: 4
+street: GutsMuthsstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

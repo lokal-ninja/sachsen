@@ -4,8 +4,8 @@ latitude: 51.30623
 longitude: 12.46483
 postcode: "04288"
 city: Leipzig
-street: "Hauptstraße"
-housenumber: 8
+street: Hauptstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-11:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-11:00
 website: ""

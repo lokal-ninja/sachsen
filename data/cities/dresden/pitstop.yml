@@ -4,8 +4,8 @@ latitude: 51.04262
 longitude: 13.7956
 postcode: "01277"
 city: Dresden
-street: "Schandauer Straße"
-housenumber: 44
-phone: "+49 351 3140528"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.pitstop.de/werkstatt/dresden/"
+street: Schandauer Straße
+housenumber: "44"
+phone: +49 351 3140528
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.pitstop.de/werkstatt/dresden/

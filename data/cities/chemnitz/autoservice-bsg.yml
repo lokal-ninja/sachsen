@@ -1,11 +1,11 @@
 id: 271848311
-type: way
+type: node
 latitude: 50.84111
 longitude: 12.94754
 postcode: "09130"
 city: Chemnitz
-street: "Heinrich-Schütz-Straße"
-housenumber: 45
+street: Heinrich-Schütz-Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://www.autoservice-bsg.de/"
+website: https://www.autoservice-bsg.de/

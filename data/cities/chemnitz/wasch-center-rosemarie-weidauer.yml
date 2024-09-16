@@ -1,11 +1,11 @@
 id: 48260006
-type: way
+type: node
 latitude: 50.83667
 longitude: 12.91859
 postcode: "09111"
 city: Chemnitz
-street: "Hartmannstraße"
-housenumber: 2
+street: Hartmannstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.33959
 longitude: 12.32622
 postcode: "04177"
 city: Leipzig
-street: "Calvisiusstraße"
-housenumber: 23
+street: Calvisiusstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Tu-Th 10:00-13:00,14:00-18:00"
-website: "https://www.stoff-kreationen.com/"
+opening_hours: Tu-Th 10:00-13:00,14:00-18:00
+website: https://www.stoff-kreationen.com/

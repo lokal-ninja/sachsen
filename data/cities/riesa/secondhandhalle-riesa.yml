@@ -4,8 +4,8 @@ latitude: 51.31868
 longitude: 13.26647
 postcode: "01591"
 city: Riesa
-street: "Merzdorfer Straße"
-housenumber: 5
-phone: "+49 3525 515924"
-opening_hours: "Mo-Fr 14:00-18:00, Sa 09:00-14:00"
-website: "https://www.secondhand-halle-riesa.de"
+street: Merzdorfer Straße
+housenumber: "5"
+phone: +49 3525 515924
+opening_hours: Mo-Fr 14:00-18:00, Sa 09:00-14:00
+website: https://www.secondhand-halle-riesa.de

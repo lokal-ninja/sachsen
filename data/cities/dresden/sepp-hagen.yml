@@ -4,8 +4,8 @@ latitude: 51.06207
 longitude: 13.75191
 postcode: "01099"
 city: Dresden
-street: "Hoyerswerdaer Straße"
-housenumber: 31
-phone: "+49 351 8034515"
-opening_hours: "Tu-Fr 08:00-19:00, Mo 13:00-19:00"
+street: Hoyerswerdaer Straße
+housenumber: "31"
+phone: +49 351 8034515
+opening_hours: Tu-Fr 08:00-19:00, Mo 13:00-19:00
 website: ""

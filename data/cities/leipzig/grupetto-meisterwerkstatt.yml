@@ -4,8 +4,8 @@ latitude: 51.34205
 longitude: 12.35995
 postcode: "04109"
 city: Leipzig
-street: "Elsterstraße"
-housenumber: 65
-phone: "+49 341 25696497"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://www.grupetto.de/"
+street: Elsterstraße
+housenumber: "65"
+phone: +49 341 25696497
+opening_hours: Mo-Fr 10:00-19:00
+website: https://www.grupetto.de/

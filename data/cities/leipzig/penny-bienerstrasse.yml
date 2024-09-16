@@ -4,8 +4,8 @@ latitude: 51.33532
 longitude: 12.30603
 postcode: "04179"
 city: Leipzig
-street: "Bienerstraße"
-housenumber: 7
+street: Bienerstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.83365
 longitude: 12.89099
 postcode: "09116"
 city: Chemnitz
-street: "Schiersandstraße"
-housenumber: 15
-phone: "+49 371 65118282"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00"
-website: "https://www.eldoradoreisen.com/"
+street: Schiersandstraße
+housenumber: "15"
+phone: +49 371 65118282
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00
+website: https://www.eldoradoreisen.com/

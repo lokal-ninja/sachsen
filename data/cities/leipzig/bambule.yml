@@ -4,8 +4,8 @@ latitude: 51.33786
 longitude: 12.3321
 postcode: "04177"
 city: Leipzig
-street: "Demmeringstraße"
-housenumber: 32
+street: Demmeringstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Di-Fr 14:00-19:00"
-website: "https://www.bambule.shop"
+opening_hours: Di-Fr 14:00-19:00
+website: https://www.bambule.shop

@@ -4,8 +4,8 @@ latitude: 51.36062
 longitude: 12.36123
 postcode: "04155"
 city: Leipzig
-street: "Möckernsche Straße"
-housenumber: 6
-phone: "+49 341 997810"
-opening_hours: "nach Vereinbarung"
+street: Möckernsche Straße
+housenumber: "6"
+phone: +49 341 997810
+opening_hours: '"nach Vereinbarung"'
 website: ""

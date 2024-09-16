@@ -1,11 +1,11 @@
 id: 1120432153
-type: way
+type: node
 latitude: 51.10272
 longitude: 14.67045
 postcode: "02708"
 city: Löbau
-street: "Breitscheidstraße"
-housenumber: 36
+street: Breitscheidstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 51.40504
 longitude: 12.4175
 postcode: "04356"
 city: Leipzig
-street: "Seehausener Allee"
-housenumber: 62
-phone: "+49 341 24178520"
-opening_hours: "Jan-Mar Mo-Fr 09:30-18:00, Sa 10:00-14:00; Apr-Sep Mo-Fr 09:00-18:00, Sa 10:00-14:00; Oct-Dec Mo-Fr 09:30-18:00, Sa 10:00-14:00; PH off"
-website: "https://www.akkurad.de/"
+street: Seehausener Allee
+housenumber: "62"
+phone: +49 341 24178520
+opening_hours: Jan-Mar Mo-Fr 09:30-18:00, Sa 10:00-14:00; Apr-Sep Mo-Fr 09:00-18:00,
+    Sa 10:00-14:00; Oct-Dec Mo-Fr 09:30-18:00, Sa 10:00-14:00; PH off
+website: https://www.akkurad.de/

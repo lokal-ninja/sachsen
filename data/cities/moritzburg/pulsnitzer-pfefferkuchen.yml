@@ -1,11 +1,11 @@
 id: 262438566
-type: way
+type: node
 latitude: 51.16462
 longitude: 13.6793
 postcode: "01468"
 city: Moritzburg
-street: "Schloßallee"
-housenumber: 
+street: Schloßallee
+housenumber: ""
 phone: ""
-opening_hours: "We-Su 10:00-17:00"
-website: "https://www.pfefferkuchen-pulsnitz.com/"
+opening_hours: We-Su 10:00-17:00
+website: https://www.pfefferkuchen-pulsnitz.com/

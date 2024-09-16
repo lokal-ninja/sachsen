@@ -4,8 +4,8 @@ latitude: 50.96387
 longitude: 13.9388
 postcode: "01796"
 city: Pirna
-street: "Klosterhof"
-housenumber: 3
-phone: "+49 3501 638144"
-opening_hours: "Mo, Th-Su 10:00-18:00"
-website: "https://www.fahrradstation-pirna.de/"
+street: Klosterhof
+housenumber: "3"
+phone: +49 3501 638144
+opening_hours: Mo, Th-Su 10:00-18:00
+website: https://www.fahrradstation-pirna.de/

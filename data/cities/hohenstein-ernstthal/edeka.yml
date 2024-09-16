@@ -1,11 +1,11 @@
 id: 790985906
-type: way
+type: node
 latitude: 50.79997
 longitude: 12.70786
 postcode: "09337"
 city: Hohenstein-Ernstthal
-street: "Am Bahnhof"
-housenumber: 3
+street: Am Bahnhof
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

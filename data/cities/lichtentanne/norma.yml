@@ -1,11 +1,11 @@
 id: 1127503039
-type: way
+type: node
 latitude: 50.6759
 longitude: 12.40897
 postcode: "08115"
 city: Lichtentanne
-street: "Neumarker Straße"
-housenumber: 2
+street: Neumarker Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

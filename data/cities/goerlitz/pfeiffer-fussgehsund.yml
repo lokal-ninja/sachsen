@@ -4,8 +4,8 @@ latitude: 51.15411
 longitude: 14.98836
 postcode: "02826"
 city: Görlitz
-street: "Elisabethstraße"
-housenumber: 9
+street: Elisabethstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://pfeiffer-fussgehsund.de/"
+opening_hours: Mo-Fr 09:30-18:00
+website: https://pfeiffer-fussgehsund.de/

@@ -1,11 +1,11 @@
 id: 96692879
-type: way
+type: node
 latitude: 51.33894
 longitude: 12.47704
 postcode: "04319"
 city: Leipzig
-street: "Diamantstraße"
-housenumber: 2
+street: Diamantstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

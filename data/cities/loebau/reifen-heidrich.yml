@@ -1,11 +1,11 @@
 id: 54619870
-type: way
+type: node
 latitude: 51.10335
 longitude: 14.68059
 postcode: "02708"
 city: Löbau
-street: "Stauffenbergstraße"
-housenumber: 14
+street: Stauffenbergstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

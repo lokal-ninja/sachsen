@@ -1,11 +1,11 @@
 id: 243548495
-type: way
+type: node
 latitude: 51.15565
 longitude: 14.97796
 postcode: "02826"
 city: Görlitz
-street: "Christoph-Lüders-Straße"
-housenumber: 36
-phone: "+49 3581 766661"
+street: Christoph-Lüders-Straße
+housenumber: "36"
+phone: +49 3581 766661
 opening_hours: ""
-website: "https://www.autoservice-ludewig.de"
+website: https://www.autoservice-ludewig.de

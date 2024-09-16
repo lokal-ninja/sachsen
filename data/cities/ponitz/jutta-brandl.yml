@@ -1,11 +1,11 @@
 id: 197709362
-type: way
+type: node
 latitude: 50.85641
 longitude: 12.37341
 postcode: "04639"
 city: Ponitz
-street: "Talstraße"
-housenumber: 94
-phone: "+49 3762 44440"
+street: Talstraße
+housenumber: "94"
+phone: +49 3762 44440
 opening_hours: ""
 website: ""

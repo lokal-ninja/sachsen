@@ -1,11 +1,11 @@
 id: 368579327
-type: way
+type: node
 latitude: 50.65519
 longitude: 12.35317
 postcode: "08496"
 city: Neumark
-street: "Alte Reichenbacher Straße"
-housenumber: 34
+street: Alte Reichenbacher Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

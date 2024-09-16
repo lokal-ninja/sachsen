@@ -1,11 +1,11 @@
 id: 192528148
-type: way
+type: node
 latitude: 50.71316
 longitude: 12.76344
 postcode: "09366"
 city: Stollberg/Erzgebirge
-street: "Hohensteiner Straße"
-housenumber: 60
+street: Hohensteiner Straße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

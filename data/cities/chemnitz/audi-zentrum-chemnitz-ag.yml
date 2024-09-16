@@ -1,11 +1,11 @@
 id: 92900863
-type: way
+type: node
 latitude: 50.81736
 longitude: 12.88513
 postcode: "09116"
 city: Chemnitz
-street: "Neefestraße"
-housenumber: 143
+street: Neefestraße
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

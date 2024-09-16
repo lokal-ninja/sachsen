@@ -1,11 +1,11 @@
 id: 125021953
-type: way
+type: node
 latitude: 51.04645
 longitude: 12.79786
 postcode: "09306"
 city: Rochlitz
-street: "Bismarckstraße"
-housenumber: 3
-phone: "+49 800 897378423"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:30-12:30; Su,PH off"
-website: "https://www.autohaus-lohs.de/rochlitz/"
+street: Bismarckstraße
+housenumber: "3"
+phone: +49 800 897378423
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:30-12:30; Su,PH off
+website: https://www.autohaus-lohs.de/rochlitz/

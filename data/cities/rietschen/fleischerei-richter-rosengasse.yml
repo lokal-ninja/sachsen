@@ -4,8 +4,9 @@ latitude: 51.39597
 longitude: 14.82637
 postcode: "02956"
 city: Rietschen
-street: "Rosengasse"
-housenumber: 7
+street: Rosengasse
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Th 07:00-12:00; Fr 07:00-12:00,14:30-18:00; Sa 06:00-10:00; Su,PH off"
+opening_hours: Tu-Th 07:00-12:00; Fr 07:00-12:00,14:30-18:00; Sa 06:00-10:00; Su,PH
+    off
 website: ""

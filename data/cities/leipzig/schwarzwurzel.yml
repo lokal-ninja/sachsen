@@ -4,8 +4,8 @@ latitude: 51.33905
 longitude: 12.32708
 postcode: "04177"
 city: Leipzig
-street: "Erich-Köhn-Straße"
-housenumber: 65
+street: Erich-Köhn-Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-19:00, We 12:00-19:00, Sa 09:00-14:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-19:00, We 12:00-19:00, Sa 09:00-14:00
 website: ""

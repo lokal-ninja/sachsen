@@ -1,11 +1,11 @@
 id: 399391027
-type: way
+type: node
 latitude: 50.95418
 longitude: 14.65469
 postcode: "02794"
 city: Leutersdorf
-street: "Spitzkunnersdorfer Straße"
-housenumber: 12
+street: Spitzkunnersdorfer Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

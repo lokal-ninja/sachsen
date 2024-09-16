@@ -1,11 +1,11 @@
 id: 94885331
-type: way
+type: node
 latitude: 50.85396
 longitude: 12.88382
 postcode: "09114"
 city: Chemnitz
-street: "Leipziger Straße"
-housenumber: 154
+street: Leipziger Straße
+housenumber: "154"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-16:00
 website: ""

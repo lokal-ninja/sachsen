@@ -4,8 +4,8 @@ latitude: 51.09051
 longitude: 13.7055
 postcode: "01129"
 city: Dresden
-street: "Industriestraße"
-housenumber: 59
-phone: "+49 351 8490829"
-opening_hours: "Tu-Fr 06:30-17:00; Sa 06:30-11:00"
+street: Industriestraße
+housenumber: "59"
+phone: +49 351 8490829
+opening_hours: Tu-Fr 06:30-17:00; Sa 06:30-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 371741018
-type: way
+type: node
 latitude: 51.308
 longitude: 12.45902
 postcode: "04288"
 city: Leipzig
-street: "Christian-Grunert-Straße"
-housenumber: 2
+street: Christian-Grunert-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 148510155
-type: way
+type: node
 latitude: 51.12956
 longitude: 14.97508
 postcode: "02827"
 city: Görlitz
-street: "Friedrich-Engels-Straße"
+street: Friedrich-Engels-Straße
 housenumber: 37b
 phone: ""
-opening_hours: "Mo-Fr 06:30-20:00, Sa 07:00-16:00; Su,PH off"
-website: "https://edeka-foodservice.de/ueber-uns/standorte/goerlitz"
+opening_hours: Mo-Fr 06:30-20:00, Sa 07:00-16:00; Su,PH off
+website: https://edeka-foodservice.de/ueber-uns/standorte/goerlitz

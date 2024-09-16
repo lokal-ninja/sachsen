@@ -4,8 +4,8 @@ latitude: 51.01313
 longitude: 13.66611
 postcode: "01705"
 city: Freital
-street: "Richard-Wagner-Straße"
-housenumber: 8
-phone: "+49 351 6443600"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://www.fachhandel-heinze.de/"
+street: Richard-Wagner-Straße
+housenumber: "8"
+phone: +49 351 6443600
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://www.fachhandel-heinze.de/

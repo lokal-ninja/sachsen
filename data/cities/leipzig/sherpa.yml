@@ -4,8 +4,8 @@ latitude: 51.3514
 longitude: 12.40816
 postcode: "04347"
 city: Leipzig
-street: "Gorkistraße"
-housenumber: 135
+street: Gorkistraße
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH closed"
-website: "https://sherpa-bergsport.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH closed
+website: https://sherpa-bergsport.de/

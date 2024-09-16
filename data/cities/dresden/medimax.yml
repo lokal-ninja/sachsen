@@ -4,8 +4,8 @@ latitude: 51.06448
 longitude: 13.74536
 postcode: "01097"
 city: Dresden
-street: "Antonstraße"
+street: Antonstraße
 housenumber: 2a
-phone: "+49 351 6557270"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.medimax.de/dresden-neustadt"
+phone: +49 351 6557270
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.medimax.de/dresden-neustadt

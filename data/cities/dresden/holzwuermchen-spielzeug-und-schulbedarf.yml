@@ -4,8 +4,8 @@ latitude: 51.00428
 longitude: 13.84976
 postcode: "01259"
 city: Dresden
-street: "Putjatinstraße"
-housenumber: 1
-phone: "+49 351 2013018"
-opening_hours: "Mo-Sa 10:00-12:30, Mo-Fr 14:00-18:00"
+street: Putjatinstraße
+housenumber: "1"
+phone: +49 351 2013018
+opening_hours: Mo-Sa 10:00-12:30, Mo-Fr 14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 92906465
-type: way
+type: node
 latitude: 50.87828
 longitude: 13.32339
 postcode: "09618"
 city: Brand-Erbisdorf
-street: "Erzstraße"
-housenumber: 1
+street: Erzstraße
+housenumber: "1"
 phone: "+493732240000"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-15:00"
-website: "https://petex.gmbh"
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-15:00
+website: https://petex.gmbh

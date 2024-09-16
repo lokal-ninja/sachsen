@@ -1,11 +1,11 @@
 id: 733175685
-type: way
+type: node
 latitude: 50.90975
 longitude: 13.34226
 postcode: "09599"
 city: Freiberg
-street: "Am Bahnhof"
-housenumber: 4
+street: Am Bahnhof
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

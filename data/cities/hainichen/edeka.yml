@@ -1,11 +1,11 @@
 id: 222900562
-type: way
+type: node
 latitude: 50.97064
 longitude: 13.11838
 postcode: "09661"
 city: Hainichen
-street: "Frankenberger Straße"
-housenumber: 2
+street: Frankenberger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

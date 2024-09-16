@@ -1,11 +1,11 @@
 id: 317782520
-type: way
+type: node
 latitude: 50.65727
 longitude: 13.07538
 postcode: "09429"
 city: Wolkenstein
-street: "Rosenweg"
-housenumber: 5
+street: Rosenweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

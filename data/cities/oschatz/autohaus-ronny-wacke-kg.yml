@@ -1,11 +1,11 @@
 id: 262464678
-type: way
+type: node
 latitude: 51.2933
 longitude: 13.12028
 postcode: "04758"
 city: Oschatz
-street: "Dresdener Straße"
-housenumber: 50
+street: Dresdener Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

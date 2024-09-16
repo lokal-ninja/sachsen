@@ -4,8 +4,9 @@ latitude: 50.50969
 longitude: 12.81415
 postcode: "08340"
 city: Schwarzenberg/Erzgeb.
-street: "Am Pfeilhammer"
-housenumber: 1
+street: Am Pfeilhammer
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-17:00; Sa 09:00-11:00; Su,PH off; und nach Vereinbarung"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-17:00; Sa 09:00-11:00; Su,PH off; "und nach
+    Vereinbarung"
 website: ""

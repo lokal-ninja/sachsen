@@ -1,11 +1,11 @@
 id: 42441155
-type: way
+type: node
 latitude: 51.44368
 longitude: 14.27214
 postcode: "02977"
 city: Hoyerswerda
-street: "Lipezker Platz"
+street: Lipezker Platz
 housenumber: 3-8
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

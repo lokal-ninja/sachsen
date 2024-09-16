@@ -1,11 +1,11 @@
 id: 118352210
-type: way
+type: node
 latitude: 50.61979
 longitude: 13.04735
 postcode: "09488"
 city: Thermalbad Wiesenbad
-street: "Am Kurpark"
-housenumber: 2
+street: Am Kurpark
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00; Sa 09:00-14:00 1. und 3. Samstag im Monat"
+opening_hours: Mo-Fr 08:00-16:00; Sa 09:00-14:00 "1. und 3. Samstag im Monat"
 website: ""

@@ -1,11 +1,11 @@
 id: 273256517
-type: way
+type: node
 latitude: 51.42283
 longitude: 12.56149
 postcode: "04838"
 city: Jesewitz
-street: "Leipziger Straße"
-housenumber: 15
+street: Leipziger Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-13:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 306829268
-type: way
+type: node
 latitude: 50.73114
 longitude: 12.69533
 postcode: "09376"
 city: Oelsnitz/Erzgeb.
-street: "Bahnhofstraße"
-housenumber: 57
+street: Bahnhofstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

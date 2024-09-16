@@ -1,11 +1,11 @@
 id: 107603223
-type: way
+type: node
 latitude: 50.5594
 longitude: 12.74732
 postcode: "08315"
 city: Lauter-Bernsbach
-street: "Schwarzenberger Straße"
-housenumber: 29
+street: Schwarzenberger Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa,Su,PH off"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa,Su,PH off
 website: ""

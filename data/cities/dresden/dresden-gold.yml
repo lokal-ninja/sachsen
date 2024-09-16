@@ -4,8 +4,8 @@ latitude: 51.05129
 longitude: 13.74127
 postcode: "01067"
 city: Dresden
-street: "An der Frauenkirche"
-housenumber: 20
-phone: "+49 351 43838923"
+street: An der Frauenkirche
+housenumber: "20"
+phone: +49 351 43838923
 opening_hours: ""
-website: "https://www.dresden.gold/"
+website: https://www.dresden.gold/

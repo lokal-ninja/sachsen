@@ -1,11 +1,11 @@
 id: 137471419
-type: way
+type: node
 latitude: 51.27311
 longitude: 14.10743
 postcode: "01917"
 city: Kamenz
-street: "Fichtestraße"
-housenumber: 10
+street: Fichtestraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 686297631
-type: way
+type: node
 latitude: 50.56956
 longitude: 12.36729
 postcode: "08485"
 city: Lengenfeld
-street: "Bahnhofstraße"
-housenumber: 10
+street: Bahnhofstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:00
 website: ""

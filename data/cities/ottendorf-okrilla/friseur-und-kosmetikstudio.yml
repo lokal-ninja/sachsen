@@ -1,11 +1,11 @@
 id: 186631952
-type: way
+type: node
 latitude: 51.1809
 longitude: 13.78676
 postcode: "01458"
 city: Ottendorf-Okrilla
-street: "Ernst-Thälmann-Straße"
-housenumber: 13
+street: Ernst-Thälmann-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

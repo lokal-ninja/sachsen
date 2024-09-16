@@ -1,11 +1,11 @@
 id: 207313337
-type: way
+type: node
 latitude: 50.87747
 longitude: 13.39643
 postcode: "09600"
 city: Weißenborn/Erzgeb.
-street: "Freiberger Straße"
-housenumber: 27
+street: Freiberger Straße
+housenumber: "27"
 phone: "+493731204262"
 opening_hours: ""
 website: ""

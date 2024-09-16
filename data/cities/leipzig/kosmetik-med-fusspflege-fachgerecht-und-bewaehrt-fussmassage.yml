@@ -4,8 +4,8 @@ latitude: 51.33881
 longitude: 12.32702
 postcode: "04177"
 city: Leipzig
-street: "Georg-Schwarz-Straße"
-housenumber: 13
-phone: "+49 341 4791760"
-opening_hours: "Termine nach Vereinbarung Tel.: 4791760"
+street: Georg-Schwarz-Straße
+housenumber: "13"
+phone: +49 341 4791760
+opening_hours: '"Termine nach Vereinbarung Tel.: 4791760"'
 website: ""

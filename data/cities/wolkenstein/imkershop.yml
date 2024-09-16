@@ -1,11 +1,11 @@
 id: 307566686
-type: way
+type: node
 latitude: 50.65274
 longitude: 13.05325
 postcode: "09429"
 city: Wolkenstein
-street: "Dorfstraße"
-housenumber: 42
-phone: "+49 37369 87801"
+street: Dorfstraße
+housenumber: "42"
+phone: +49 37369 87801
 opening_hours: ""
-website: "https://www.imkershoperzgebirge.de/"
+website: https://www.imkershoperzgebirge.de/

@@ -1,11 +1,11 @@
 id: 83890250
-type: way
+type: node
 latitude: 50.56874
 longitude: 12.63759
 postcode: "08321"
 city: Zschorlau
-street: "Schneeberger Straße"
-housenumber: 19
-phone: "+49 3771 4508-0"
+street: Schneeberger Straße
+housenumber: "19"
+phone: +49 3771 4508-0
 opening_hours: ""
-website: "http://www.autohaus-zimpel.de/"
+website: http://www.autohaus-zimpel.de/

@@ -4,8 +4,8 @@ latitude: 51.33167
 longitude: 12.3673
 postcode: "04107"
 city: Leipzig
-street: "Grassistraße"
-housenumber: 12
+street: Grassistraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 11:00-16:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 11:00-16:00
 website: ""

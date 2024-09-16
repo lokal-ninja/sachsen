@@ -4,8 +4,8 @@ latitude: 51.33914
 longitude: 12.38478
 postcode: "04103"
 city: Leipzig
-street: "Querstraße"
-housenumber: 5
+street: Querstraße
+housenumber: "5"
 phone: ""
-opening_hours: "We 12:00-18:00"
+opening_hours: We 12:00-18:00
 website: ""

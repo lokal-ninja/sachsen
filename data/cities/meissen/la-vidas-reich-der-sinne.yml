@@ -4,8 +4,8 @@ latitude: 51.16167
 longitude: 13.47204
 postcode: "01662"
 city: Meißen
-street: "Neugasse"
-housenumber: 1
-phone: "+49 3521 476015"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://la-vidas.de/"
+street: Neugasse
+housenumber: "1"
+phone: +49 3521 476015
+opening_hours: Mo-Fr 09:00-18:00
+website: http://la-vidas.de/

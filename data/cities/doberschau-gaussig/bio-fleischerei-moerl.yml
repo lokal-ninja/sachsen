@@ -1,11 +1,11 @@
 id: 672636796
-type: way
+type: node
 latitude: 51.12162
 longitude: 14.32315
 postcode: "02633"
 city: Doberschau-Gaußig
-street: "Forsthausweg"
-housenumber: 7
+street: Forsthausweg
+housenumber: "7"
 phone: ""
-opening_hours: "Th,Fr 09:00-18:00; Sa 08:00-11:00; PH off"
+opening_hours: Th,Fr 09:00-18:00; Sa 08:00-11:00; PH off
 website: ""

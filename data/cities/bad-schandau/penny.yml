@@ -1,11 +1,11 @@
 id: 64321986
-type: way
+type: node
 latitude: 50.92333
 longitude: 14.13563
 postcode: "01814"
 city: Bad Schandau
-street: "Basteistraße"
-housenumber: 35
+street: Basteistraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.30761
 longitude: 12.23853
 postcode: "04420"
 city: Markranstädt
-street: "Kranichweg"
-housenumber: 7
-phone: "+49 34205 993 773"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.essential-foods.de"
+street: Kranichweg
+housenumber: "7"
+phone: +49 34205 993 773
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.essential-foods.de

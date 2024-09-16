@@ -1,11 +1,11 @@
 id: 1215773810
-type: way
+type: node
 latitude: 51.0912
 longitude: 12.97696
 postcode: "04746"
 city: Hartha
-street: "Dresdener Straße"
-housenumber: 80
+street: Dresdener Straße
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

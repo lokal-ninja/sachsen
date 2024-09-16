@@ -4,8 +4,8 @@ latitude: 51.33596
 longitude: 12.40455
 postcode: "04317"
 city: Leipzig
-street: "Täubchenweg"
-housenumber: 70
+street: Täubchenweg
+housenumber: "70"
 phone: ""
-opening_hours: "Tu-Su"
-website: "https://www.taeubchenweg-spa.de/"
+opening_hours: Tu-Su
+website: https://www.taeubchenweg-spa.de/

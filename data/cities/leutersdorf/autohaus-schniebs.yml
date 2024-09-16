@@ -1,11 +1,11 @@
 id: 203089118
-type: way
+type: node
 latitude: 50.95222
 longitude: 14.64363
 postcode: "02794"
 city: Leutersdorf
-street: "Seifhennersdorfer Straße"
-housenumber: 23
+street: Seifhennersdorfer Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

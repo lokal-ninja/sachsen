@@ -4,8 +4,8 @@ latitude: 50.82653
 longitude: 12.56263
 postcode: "08371"
 city: Glauchau
-street: "Am Lungwitzbach"
-housenumber: 11
-phone: "+49 3763 78020"
-opening_hours: "Mo-Fr 9:00-14:00; PH off"
-website: "https://www.diakonie-westsachsen.de/werkstaetten_fuer_angepasste_arbeit_werkstattladen_glauchau_de.html"
+street: Am Lungwitzbach
+housenumber: "11"
+phone: +49 3763 78020
+opening_hours: Mo-Fr 9:00-14:00; PH off
+website: https://www.diakonie-westsachsen.de/werkstaetten_fuer_angepasste_arbeit_werkstattladen_glauchau_de.html

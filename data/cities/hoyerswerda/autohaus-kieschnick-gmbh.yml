@@ -1,11 +1,11 @@
 id: 483732111
-type: way
+type: node
 latitude: 51.43042
 longitude: 14.27908
 postcode: "02977"
 city: Hoyerswerda
-street: "Am Autopark"
-housenumber: 5
+street: Am Autopark
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

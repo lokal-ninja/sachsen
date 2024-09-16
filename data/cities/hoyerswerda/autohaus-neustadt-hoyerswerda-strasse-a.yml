@@ -1,11 +1,11 @@
 id: 576341382
-type: way
+type: node
 latitude: 51.42943
 longitude: 14.27747
 postcode: "02977"
 city: Hoyerswerda
-street: "Straße A"
-housenumber: 1
+street: Straße A
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

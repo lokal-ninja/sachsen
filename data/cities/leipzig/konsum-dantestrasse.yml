@@ -1,11 +1,11 @@
 id: 29698296
-type: way
+type: node
 latitude: 51.36837
 longitude: 12.34501
 postcode: "04159"
 city: Leipzig
-street: "Dantestraße"
-housenumber: 17
+street: Dantestraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.konsum-leipzig.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.konsum-leipzig.de/

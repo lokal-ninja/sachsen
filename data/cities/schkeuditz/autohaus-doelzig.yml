@@ -1,11 +1,11 @@
 id: 220657341
-type: way
+type: node
 latitude: 51.34988
 longitude: 12.2202
 postcode: "04435"
 city: Schkeuditz
-street: "Frankenheimer Straße"
-housenumber: 26
+street: Frankenheimer Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

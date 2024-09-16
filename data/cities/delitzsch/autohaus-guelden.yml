@@ -1,11 +1,11 @@
 id: 293902489
-type: way
+type: node
 latitude: 51.51293
 longitude: 12.33801
 postcode: "04509"
 city: Delitzsch
-street: "Dr.-Helmut-Schreyer-Straße"
+street: Dr.-Helmut-Schreyer-Straße
 housenumber: 2-4
-phone: "+49 34202 8020"
+phone: +49 34202 8020
 opening_hours: ""
-website: "https://www.autohaus-guelden.de/"
+website: https://www.autohaus-guelden.de/

@@ -4,8 +4,8 @@ latitude: 51.33147
 longitude: 12.40589
 postcode: "04317"
 city: Leipzig
-street: "Riebeckstraße"
-housenumber: 7
+street: Riebeckstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-20:00; Sa 12:00-17:00"
+opening_hours: Mo-Fr 10:00-13:00,14:00-20:00; Sa 12:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.7565
 longitude: 12.63299
 postcode: "09350"
 city: Lichtenstein/Sa.
-street: "Badergasse"
-housenumber: 1
+street: Badergasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa[1],Sa[3] 09:00-12:00"
+opening_hours: Mo-Fr 09:00-17:30; Sa[1],Sa[3] 09:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.34666
 longitude: 12.25553
 postcode: "04178"
 city: Leipzig
-street: "Sandberg"
-housenumber: 10
+street: Sandberg
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.kaditzianer.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://www.kaditzianer.de/

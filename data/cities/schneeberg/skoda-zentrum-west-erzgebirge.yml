@@ -1,11 +1,11 @@
 id: 497309678
-type: way
+type: node
 latitude: 50.57121
 longitude: 12.62158
 postcode: "08289"
 city: Schneeberg
-street: "Alte Hohe Straße"
-housenumber: 2
+street: Alte Hohe Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

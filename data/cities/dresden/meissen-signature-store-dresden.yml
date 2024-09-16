@@ -4,8 +4,8 @@ latitude: 51.05187
 longitude: 13.74074
 postcode: "01067"
 city: Dresden
-street: "An der Frauenkirche"
-housenumber: 1
+street: An der Frauenkirche
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

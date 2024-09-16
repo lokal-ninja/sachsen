@@ -1,11 +1,11 @@
 id: 26429153
-type: way
+type: node
 latitude: 51.36531
 longitude: 12.39659
 postcode: "04129"
 city: Leipzig
-street: "Maximilianallee"
-housenumber: 5
+street: Maximilianallee
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.selgros.de/markt/leipzig"
+website: https://www.selgros.de/markt/leipzig

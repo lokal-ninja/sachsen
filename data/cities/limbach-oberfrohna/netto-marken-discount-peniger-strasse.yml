@@ -1,11 +1,11 @@
 id: 427630627
-type: way
+type: node
 latitude: 50.86369
 longitude: 12.75754
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Peniger Straße"
-housenumber: 22
+street: Peniger Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

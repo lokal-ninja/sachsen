@@ -1,11 +1,11 @@
 id: 246005656
-type: way
+type: node
 latitude: 50.5796
 longitude: 12.69178
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Bockauer Talstraße"
-housenumber: 20
+street: Bockauer Talstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

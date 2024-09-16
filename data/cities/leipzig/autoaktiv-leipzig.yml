@@ -1,11 +1,11 @@
 id: 98950196
-type: way
+type: node
 latitude: 51.32228
 longitude: 12.32454
 postcode: "04229"
 city: Leipzig
-street: "Klingenstraße"
-housenumber: 23
+street: Klingenstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:00; Sa 09:30-12:00"
+opening_hours: Mo-Fr 09:30-17:00; Sa 09:30-12:00
 website: ""

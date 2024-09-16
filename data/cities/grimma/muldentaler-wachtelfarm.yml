@@ -1,11 +1,11 @@
 id: 683456270
-type: way
+type: node
 latitude: 51.27129
 longitude: 12.78724
 postcode: "04668"
 city: Grimma
-street: "Alte Fabrikstraße"
-housenumber: 16
+street: Alte Fabrikstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

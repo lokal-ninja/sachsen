@@ -4,8 +4,8 @@ latitude: 51.43765
 longitude: 14.24207
 postcode: "02977"
 city: Hoyerswerda
-street: "Kirchstraße"
-housenumber: 4
-phone: "+49 3571 404008"
-opening_hours: "Mo,Tu,Th 09:30-12:00,15:00-17:00; We off; Fr 09:30-12:00"
-website: "https://www.an-verkauf-hoyerswerda.de/"
+street: Kirchstraße
+housenumber: "4"
+phone: +49 3571 404008
+opening_hours: Mo,Tu,Th 09:30-12:00,15:00-17:00; We off; Fr 09:30-12:00
+website: https://www.an-verkauf-hoyerswerda.de/

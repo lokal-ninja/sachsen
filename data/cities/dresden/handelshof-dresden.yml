@@ -4,8 +4,8 @@ latitude: 51.12596
 longitude: 13.79052
 postcode: "01109"
 city: Dresden
-street: "Grenzstraße"
-housenumber: 15
-phone: "+49 351 8892980"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-12:00"
-website: "https://www.pft-bautzen.de/"
+street: Grenzstraße
+housenumber: "15"
+phone: +49 351 8892980
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-12:00
+website: https://www.pft-bautzen.de/

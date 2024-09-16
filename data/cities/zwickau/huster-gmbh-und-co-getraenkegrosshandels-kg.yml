@@ -1,11 +1,11 @@
 id: 313111532
-type: way
+type: node
 latitude: 50.6724
 longitude: 12.49767
 postcode: "08064"
 city: Zwickau
-street: "Wilkauer Straße"
-housenumber: 
+street: Wilkauer Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.huster-getraenke.de/"
+website: https://www.huster-getraenke.de/

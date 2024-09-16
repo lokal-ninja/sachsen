@@ -1,11 +1,11 @@
 id: 134513715
-type: way
+type: node
 latitude: 50.5667
 longitude: 12.64764
 postcode: "08321"
 city: Zschorlau
-street: "August-Bebel-Straße"
-housenumber: 61
+street: August-Bebel-Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

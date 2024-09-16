@@ -4,8 +4,8 @@ latitude: 51.05779
 longitude: 13.71683
 postcode: "01067"
 city: Dresden
-street: "Friedrichstraße"
-housenumber: 41
-phone: "+49 351 48186558"
-opening_hours: "Mo-Fr 06:00-18:00; Sa-Su 06:00-17:00"
-website: "https://muehlenbaecker.de/filialen/"
+street: Friedrichstraße
+housenumber: "41"
+phone: +49 351 48186558
+opening_hours: Mo-Fr 06:00-18:00; Sa-Su 06:00-17:00
+website: https://muehlenbaecker.de/filialen/

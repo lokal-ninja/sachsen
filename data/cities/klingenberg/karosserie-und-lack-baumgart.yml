@@ -1,11 +1,11 @@
 id: 239482848
-type: way
+type: node
 latitude: 50.86853
 longitude: 13.53377
 postcode: "01774"
 city: Klingenberg
-street: "Dresdner Straße"
-housenumber: 22
-phone: "+49 35058 41306"
+street: Dresdner Straße
+housenumber: "22"
+phone: +49 35058 41306
 opening_hours: ""
 website: ""

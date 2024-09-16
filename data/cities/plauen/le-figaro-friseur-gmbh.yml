@@ -4,8 +4,8 @@ latitude: 50.49122
 longitude: 12.16324
 postcode: "08529"
 city: Plauen
-street: "Reusaer Straße"
-housenumber: 86
-phone: "+49 3741 443245"
-opening_hours: "Mo-We 08:00-18:30; Th,Fr 07:00-18:30; Sa 08:00-12:00"
-website: "https://le-figaro-plauen.de"
+street: Reusaer Straße
+housenumber: "86"
+phone: +49 3741 443245
+opening_hours: Mo-We 08:00-18:30; Th,Fr 07:00-18:30; Sa 08:00-12:00
+website: https://le-figaro-plauen.de

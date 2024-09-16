@@ -1,11 +1,11 @@
 id: 287163076
-type: way
+type: node
 latitude: 50.7521
 longitude: 13.63963
 postcode: "01776"
 city: Hermsdorf
-street: "Bergstraße"
-housenumber: 16
-phone: "+49 35057 51360"
+street: Bergstraße
+housenumber: "16"
+phone: +49 35057 51360
 opening_hours: ""
 website: ""

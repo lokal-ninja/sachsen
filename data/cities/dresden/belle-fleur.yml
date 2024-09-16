@@ -4,8 +4,8 @@ latitude: 51.04424
 longitude: 13.69835
 postcode: "01159"
 city: Dresden
-street: "Burgkstraße"
-housenumber: 1
+street: Burgkstraße
+housenumber: "1"
 phone: "+491723727550"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.microblading-dresden.com/"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.microblading-dresden.com/

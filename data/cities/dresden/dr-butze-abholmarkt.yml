@@ -1,11 +1,11 @@
 id: 222312820
-type: way
+type: node
 latitude: 51.07429
 longitude: 13.73319
 postcode: "01097"
 city: Dresden
-street: "Großenhainer Straße"
-housenumber: 37
-phone: "+49 351 8584889"
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su off"
-website: "https://www.butze.de/"
+street: Großenhainer Straße
+housenumber: "37"
+phone: +49 351 8584889
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su off
+website: https://www.butze.de/

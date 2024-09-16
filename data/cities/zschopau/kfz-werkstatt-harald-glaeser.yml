@@ -1,11 +1,11 @@
 id: 121513833
-type: way
+type: node
 latitude: 50.74539
 longitude: 13.10863
 postcode: "09434"
 city: Zschopau
-street: "Waldkirchener Straße"
-housenumber: 16
+street: Waldkirchener Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

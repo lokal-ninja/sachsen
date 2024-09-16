@@ -4,8 +4,8 @@ latitude: 50.8366
 longitude: 12.93496
 postcode: "09130"
 city: Chemnitz
-street: "Fürstenstraße"
-housenumber: 17
+street: Fürstenstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-17:00; We 10:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-17:00; We 10:00-13:00
 website: ""

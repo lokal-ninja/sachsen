@@ -1,11 +1,11 @@
 id: 94402407
-type: way
+type: node
 latitude: 50.82283
 longitude: 12.96829
 postcode: "09127"
 city: Chemnitz
-street: "Carl-von-Ossietzky-Straße"
-housenumber: 232
+street: Carl-von-Ossietzky-Straße
+housenumber: "232"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

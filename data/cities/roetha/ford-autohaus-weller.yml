@@ -1,11 +1,11 @@
 id: 634830953
-type: way
+type: node
 latitude: 51.192
 longitude: 12.46227
 postcode: "04571"
 city: Rötha
-street: "Hainer Straße"
-housenumber: 5
+street: Hainer Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

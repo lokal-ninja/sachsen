@@ -4,8 +4,8 @@ latitude: 51.04675
 longitude: 12.80767
 postcode: "09306"
 city: Rochlitz
-street: "Brückenstraße"
-housenumber: 22
+street: Brückenstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00"
-website: "https://www.baeckerei-stoelzel.de/filialen/filiale_penny_markt_rochlitz/"
+opening_hours: Mo-Sa 06:00-20:00
+website: https://www.baeckerei-stoelzel.de/filialen/filiale_penny_markt_rochlitz/

@@ -4,8 +4,8 @@ latitude: 51.32254
 longitude: 12.34281
 postcode: "04229"
 city: Leipzig
-street: "Könneritzstraße"
-housenumber: 60
-phone: "+49 341 4799067"
-opening_hours: "Sa 09:30-12:00; Tu-Fr 10:00-18:00"
-website: "http://optikbeger.de"
+street: Könneritzstraße
+housenumber: "60"
+phone: +49 341 4799067
+opening_hours: Sa 09:30-12:00; Tu-Fr 10:00-18:00
+website: http://optikbeger.de

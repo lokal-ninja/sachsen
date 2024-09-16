@@ -4,8 +4,8 @@ latitude: 51.32007
 longitude: 12.34427
 postcode: "04229"
 city: Leipzig
-street: "Schnorrstraße"
-housenumber: 6
+street: Schnorrstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 14:00-19:00; Sa 10:00-12:00"
-website: "https://www.hundum.de/"
+opening_hours: Mo-Fr 14:00-19:00; Sa 10:00-12:00
+website: https://www.hundum.de/

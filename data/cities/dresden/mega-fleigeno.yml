@@ -1,11 +1,11 @@
 id: 23348914
-type: way
+type: node
 latitude: 51.07146
 longitude: 13.73332
 postcode: "01127"
 city: Dresden
-street: "Erfurter Straße"
-housenumber: 12
+street: Erfurter Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

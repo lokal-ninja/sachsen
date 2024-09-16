@@ -1,11 +1,11 @@
 id: 330233877
-type: way
+type: node
 latitude: 50.53137
 longitude: 12.40617
 postcode: "08228"
 city: Rodewisch
-street: "Mühlenweg"
-housenumber: 1
+street: Mühlenweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

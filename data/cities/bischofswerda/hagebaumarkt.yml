@@ -1,11 +1,11 @@
 id: 76092592
-type: way
+type: node
 latitude: 51.13711
 longitude: 14.18652
 postcode: "01877"
 city: Bischofswerda
-street: "Carl-Maria-von-Weber-Straße"
-housenumber: 7
+street: Carl-Maria-von-Weber-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

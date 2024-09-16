@@ -4,8 +4,8 @@ latitude: 50.91862
 longitude: 13.3423
 postcode: "09599"
 city: Freiberg
-street: "Burgstraße"
-housenumber: 24
+street: Burgstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"
-website: "http://www.faustmannswelt.de/shops/articles/fashionin-freiberg-burgstrasse.php"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00
+website: http://www.faustmannswelt.de/shops/articles/fashionin-freiberg-burgstrasse.php

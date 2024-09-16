@@ -1,11 +1,11 @@
 id: 256420525
-type: way
+type: node
 latitude: 51.34822
 longitude: 12.26798
 postcode: "04178"
 city: Leipzig
-street: "Miltitzer Straße"
-housenumber: 13
+street: Miltitzer Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off
 website: ""

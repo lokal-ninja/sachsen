@@ -4,8 +4,8 @@ latitude: 51.07372
 longitude: 13.72432
 postcode: "01127"
 city: Dresden
-street: "Leipziger Straße"
-housenumber: 68
-phone: "+49 351 8112244"
-opening_hours: "Mo-Fr 10:30-12:30, 14:30-18:00, Sa nach Vereinbarung"
-website: "https://www.tauchschule-abyss.com/"
+street: Leipziger Straße
+housenumber: "68"
+phone: +49 351 8112244
+opening_hours: Mo-Fr 10:30-12:30, 14:30-18:00, Sa "nach Vereinbarung"
+website: https://www.tauchschule-abyss.com/

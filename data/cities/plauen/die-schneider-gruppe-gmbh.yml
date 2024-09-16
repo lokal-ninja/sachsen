@@ -1,11 +1,11 @@
 id: 104161468
-type: way
+type: node
 latitude: 50.5165
 longitude: 12.125
 postcode: "08525"
 city: Plauen
-street: "Hans-Sachs-Straße"
-housenumber: 47
+street: Hans-Sachs-Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://www.dieschneidergruppe.de/"
+website: https://www.dieschneidergruppe.de/

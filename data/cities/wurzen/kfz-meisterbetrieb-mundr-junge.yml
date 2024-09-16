@@ -1,11 +1,11 @@
 id: 96151925
-type: way
+type: node
 latitude: 51.36626
 longitude: 12.74394
 postcode: "04808"
 city: Wurzen
-street: "Dresdener Straße"
-housenumber: 43
-phone: "+49 3425 815545"
-opening_hours: "Mo-Fr 07:00-17:00||nach Vereinbarung"
-website: "http://www.autohaus-junge.de/"
+street: Dresdener Straße
+housenumber: "43"
+phone: +49 3425 815545
+opening_hours: Mo-Fr 07:00-17:00||"nach Vereinbarung"
+website: http://www.autohaus-junge.de/

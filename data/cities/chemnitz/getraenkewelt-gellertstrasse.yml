@@ -4,8 +4,8 @@ latitude: 50.84556
 longitude: 12.94058
 postcode: "09130"
 city: Chemnitz
-street: "Gellertstraße"
-housenumber: 3
-phone: "+49 371 4331734"
+street: Gellertstraße
+housenumber: "3"
+phone: +49 371 4331734
 opening_hours: ""
-website: "https://getraenkewelt.de/index.php?gwdetails2&idvote=21&plzsuche=chemnitz"
+website: https://getraenkewelt.de/index.php?gwdetails2&idvote=21&plzsuche=chemnitz

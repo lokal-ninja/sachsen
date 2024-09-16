@@ -1,11 +1,11 @@
 id: 5832989139
 type: node
-latitude: 51.05165
-longitude: 13.80594
+latitude: 51.05167
+longitude: 13.80593
 postcode: "01309"
 city: Dresden
-street: "Hüblerstraße"
-housenumber: 9
+street: Hüblerstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

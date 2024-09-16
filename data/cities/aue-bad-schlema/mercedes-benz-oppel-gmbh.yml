@@ -1,11 +1,11 @@
 id: 126705618
-type: way
+type: node
 latitude: 50.57962
 longitude: 12.7149
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Damaschkestraße"
-housenumber: 30
+street: Damaschkestraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

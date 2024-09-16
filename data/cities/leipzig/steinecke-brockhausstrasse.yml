@@ -4,8 +4,8 @@ latitude: 51.32745
 longitude: 12.34538
 postcode: "04229"
 city: Leipzig
-street: "Brockhausstraße"
-housenumber: 2
+street: Brockhausstraße
+housenumber: "2"
 phone: ""
-opening_hours: "PH off; Mo-Fr 06:30-18:00; Sa 07:00-13:00; Su 07:00-12:00"
+opening_hours: PH off; Mo-Fr 06:30-18:00; Sa 07:00-13:00; Su 07:00-12:00
 website: ""

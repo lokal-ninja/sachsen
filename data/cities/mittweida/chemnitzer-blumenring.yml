@@ -4,8 +4,8 @@ latitude: 50.99428
 longitude: 12.96501
 postcode: "09648"
 city: Mittweida
-street: "Sonnenstraße"
-housenumber: 7
-phone: "+49 3727 979007"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.blumenringchemnitz.de/filialen"
+street: Sonnenstraße
+housenumber: "7"
+phone: +49 3727 979007
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.blumenringchemnitz.de/filialen

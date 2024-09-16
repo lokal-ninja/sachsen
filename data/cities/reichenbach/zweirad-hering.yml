@@ -4,8 +4,8 @@ latitude: 50.61796
 longitude: 12.30577
 postcode: "08468"
 city: Reichenbach
-street: "Altstadt"
-housenumber: 8
-phone: "+49 3765 131 54"
-opening_hours: "Mo 13:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-13:00"
+street: Altstadt
+housenumber: "8"
+phone: +49 3765 131 54
+opening_hours: Mo 13:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 397124542
-type: way
+type: node
 latitude: 50.71898
 longitude: 12.47729
 postcode: "08056"
 city: Zwickau
-street: "Kopernikusstraße"
-housenumber: 1
-phone: "+49 (0)3755 6009192"
+street: Kopernikusstraße
+housenumber: "1"
+phone: +49 (0)3755 6009192
 opening_hours: ""
 website: ""

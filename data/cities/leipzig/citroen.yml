@@ -1,11 +1,11 @@
 id: 23566301
-type: way
+type: node
 latitude: 51.35359
 longitude: 12.37771
 postcode: "04105"
 city: Leipzig
-street: "Roscherstraße"
-housenumber: 15
+street: Roscherstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-13:00
 website: ""

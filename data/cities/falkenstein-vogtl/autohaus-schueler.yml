@@ -1,11 +1,11 @@
 id: 467411471
-type: way
+type: node
 latitude: 50.46871
 longitude: 12.35534
 postcode: "08223"
 city: Falkenstein/Vogtl.
-street: "Oelsnitzer Straße"
-housenumber: 65
+street: Oelsnitzer Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

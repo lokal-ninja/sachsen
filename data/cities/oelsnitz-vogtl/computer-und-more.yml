@@ -4,8 +4,8 @@ latitude: 50.41477
 longitude: 12.17263
 postcode: "08606"
 city: Oelsnitz/Vogtl.
-street: "Marktstraße"
-housenumber: 3
-phone: "+49 37421 70005"
+street: Marktstraße
+housenumber: "3"
+phone: +49 37421 70005
 opening_hours: ""
-website: "https://www.computer-more24.de/"
+website: https://www.computer-more24.de/

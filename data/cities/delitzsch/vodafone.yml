@@ -4,8 +4,8 @@ latitude: 51.52404
 longitude: 12.34024
 postcode: "04509"
 city: Delitzsch
-street: "Töpfergasse"
-housenumber: 1
-phone: "+49 34202 30466"
-opening_hours: "PH,Su off; Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+street: Töpfergasse
+housenumber: "1"
+phone: +49 34202 30466
+opening_hours: PH,Su off; Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

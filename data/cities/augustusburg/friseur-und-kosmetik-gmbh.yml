@@ -1,11 +1,11 @@
 id: 1075386319
-type: way
+type: node
 latitude: 50.82104
 longitude: 13.07759
 postcode: "09573"
 city: Augustusburg
-street: "Chemnitzer Straße"
-housenumber: 22
+street: Chemnitzer Straße
+housenumber: "22"
 phone: ""
-opening_hours: "We-Fr 12:30-17:30"
+opening_hours: We-Fr 12:30-17:30
 website: ""

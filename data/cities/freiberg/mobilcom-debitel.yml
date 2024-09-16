@@ -4,8 +4,8 @@ latitude: 50.91721
 longitude: 13.34382
 postcode: "09599"
 city: Freiberg
-street: "Burgstraße"
-housenumber: 4
-phone: "+49 3731 218876"
-opening_hours: "Mo-Fr 09:30-17:00"
+street: Burgstraße
+housenumber: "4"
+phone: +49 3731 218876
+opening_hours: Mo-Fr 09:30-17:00
 website: ""

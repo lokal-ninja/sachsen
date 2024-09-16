@@ -4,8 +4,8 @@ latitude: 51.03624
 longitude: 13.69389
 postcode: "01159"
 city: Dresden
-street: "Frankenbergstraße"
-housenumber: 60
+street: Frankenbergstraße
+housenumber: "60"
 phone: ""
-opening_hours: "reservation by phone"
+opening_hours: '"reservation by phone"'
 website: ""

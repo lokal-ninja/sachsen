@@ -1,11 +1,11 @@
 id: 204293673
-type: way
+type: node
 latitude: 51.09421
 longitude: 14.541
 postcode: "02733"
 city: Cunewalde
-street: "Hauptstraße"
-housenumber: 247
+street: Hauptstraße
+housenumber: "247"
 phone: ""
 opening_hours: ""
 website: ""

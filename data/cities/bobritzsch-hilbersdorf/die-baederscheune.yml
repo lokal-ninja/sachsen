@@ -1,11 +1,11 @@
 id: 229723493
-type: way
+type: node
 latitude: 50.90543
 longitude: 13.43479
 postcode: "09627"
 city: Bobritzsch-Hilbersdorf
-street: "Erlenweg"
-housenumber: 7
-phone: "+49 37325 6396"
+street: Erlenweg
+housenumber: "7"
+phone: +49 37325 6396
 opening_hours: ""
-website: "https://www.baederscheune.de"
+website: https://www.baederscheune.de

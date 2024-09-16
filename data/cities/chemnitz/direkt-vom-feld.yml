@@ -4,8 +4,8 @@ latitude: 50.84225
 longitude: 12.92533
 postcode: "09111"
 city: Chemnitz
-street: "Hermannstraße"
-housenumber: 3
-phone: "0371/337158540"
+street: Hermannstraße
+housenumber: "3"
+phone: 0371/337158540
 opening_hours: ""
-website: "https://direktvomfeld.eu/"
+website: https://direktvomfeld.eu/

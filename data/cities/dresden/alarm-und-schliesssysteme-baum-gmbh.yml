@@ -4,8 +4,8 @@ latitude: 51.07266
 longitude: 13.72572
 postcode: "01127"
 city: Dresden
-street: "Leipziger Straße"
-housenumber: 52
-phone: "+49 351 8498005"
-opening_hours: "Mo-Th 09:00-13:00, Fr 09:00-15:00, Mo-Th 15:00-18:00"
-website: "https://www.baum-sicherheitstechnik.de/"
+street: Leipziger Straße
+housenumber: "52"
+phone: +49 351 8498005
+opening_hours: Mo-Th 09:00-13:00, Fr 09:00-15:00, Mo-Th 15:00-18:00
+website: https://www.baum-sicherheitstechnik.de/

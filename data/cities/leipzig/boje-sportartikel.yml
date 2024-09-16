@@ -4,8 +4,8 @@ latitude: 51.35671
 longitude: 12.38475
 postcode: "04129"
 city: Leipzig
-street: "Haferkornstraße"
-housenumber: 3
-phone: "+49 341 351293036"
-opening_hours: "09:00-18:00"
-website: "http://Boje-Sport.de"
+street: Haferkornstraße
+housenumber: "3"
+phone: +49 341 351293036
+opening_hours: 09:00-18:00
+website: http://Boje-Sport.de

@@ -1,11 +1,11 @@
 id: 250333665
-type: way
+type: node
 latitude: 51.45037
 longitude: 14.21915
 postcode: "02977"
 city: Hoyerswerda
-street: "Nardter Weg"
-housenumber: 1
+street: Nardter Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

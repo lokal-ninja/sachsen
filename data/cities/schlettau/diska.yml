@@ -1,11 +1,11 @@
 id: 119961034
-type: way
+type: node
 latitude: 50.55373
 longitude: 12.94658
 postcode: "09487"
 city: Schlettau
-street: "Am Kirchsteig"
-housenumber: 1
+street: Am Kirchsteig
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

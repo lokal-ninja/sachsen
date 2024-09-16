@@ -4,8 +4,8 @@ latitude: 51.34276
 longitude: 12.38495
 postcode: "04103"
 city: Leipzig
-street: "Schützenstraße"
-housenumber: 15
-phone: "+49 341 6884069; +49 174 6605357"
-opening_hours: "Mo,We-Fr 09:30-13:30,14:30-18:00; Tu,Sa,Su,PH off"
-website: "https://www.korkstudio-winkler.de"
+street: Schützenstraße
+housenumber: "15"
+phone: +49 341 6884069; +49 174 6605357
+opening_hours: Mo,We-Fr 09:30-13:30,14:30-18:00; Tu,Sa,Su,PH off
+website: https://www.korkstudio-winkler.de

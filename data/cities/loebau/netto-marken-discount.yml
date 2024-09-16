@@ -4,8 +4,8 @@ latitude: 51.1023
 longitude: 14.67026
 postcode: "02708"
 city: Löbau
-street: "Breitscheidstraße"
-housenumber: 21
+street: Breitscheidstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

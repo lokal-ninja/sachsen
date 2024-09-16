@@ -1,11 +1,11 @@
 id: 330409690
-type: way
+type: node
 latitude: 51.15703
 longitude: 14.99978
-postcode: "59-900"
+postcode: 59-900
 city: Zgorzelec
-street: "Jarosława Iwaszkiewicza"
-housenumber: 3
+street: Jarosława Iwaszkiewicza
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 09:00-20:00"
+opening_hours: Mo-Sa 06:00-22:00; Su 09:00-20:00
 website: ""

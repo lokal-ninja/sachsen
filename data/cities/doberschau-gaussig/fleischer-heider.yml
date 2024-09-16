@@ -1,11 +1,11 @@
 id: 117857165
-type: way
+type: node
 latitude: 51.1525
 longitude: 14.39537
 postcode: "02692"
 city: Doberschau-Gaußig
-street: "Karl-Marx-Straße"
-housenumber: 7
+street: Karl-Marx-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

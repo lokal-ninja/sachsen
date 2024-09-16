@@ -4,8 +4,8 @@ latitude: 51.06105
 longitude: 13.69974
 postcode: "01067"
 city: Dresden
-street: "Bremer Straße"
-housenumber: 55
-phone: "+49 351 4384870"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.batterie-industrie-germany.de/"
+street: Bremer Straße
+housenumber: "55"
+phone: +49 351 4384870
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.batterie-industrie-germany.de/

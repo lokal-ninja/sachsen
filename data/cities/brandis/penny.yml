@@ -1,11 +1,11 @@
 id: 167886160
-type: way
+type: node
 latitude: 51.33712
 longitude: 12.61117
 postcode: "04821"
 city: Brandis
-street: "Wurzener Straße"
-housenumber: 1
+street: Wurzener Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

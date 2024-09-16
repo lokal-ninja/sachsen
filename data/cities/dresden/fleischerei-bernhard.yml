@@ -4,8 +4,8 @@ latitude: 51.07695
 longitude: 13.72479
 postcode: "01127"
 city: Dresden
-street: "Oschatzer Straße"
-housenumber: 27
-phone: "+49 351 8489387"
-opening_hours: "Th,Fr 08:00-16:00; Sa 07:00-11:00; Mo-We off"
-website: "https://fleischerei-bernhardt.de/"
+street: Oschatzer Straße
+housenumber: "27"
+phone: +49 351 8489387
+opening_hours: Th,Fr 08:00-16:00; Sa 07:00-11:00; Mo-We off
+website: https://fleischerei-bernhardt.de/

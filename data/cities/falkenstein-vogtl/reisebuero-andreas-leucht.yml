@@ -4,8 +4,8 @@ latitude: 50.47572
 longitude: 12.36842
 postcode: "08223"
 city: Falkenstein/Vogtl.
-street: "Schloßstraße"
-housenumber: 10
-phone: "+49 3745 5054"
-opening_hours: "Mo-Fr 09:00-12:00,14:30-17:30; Th off; Sa 09:00-11:00"
-website: "http://www.reiseleucht.de"
+street: Schloßstraße
+housenumber: "10"
+phone: +49 3745 5054
+opening_hours: Mo-Fr 09:00-12:00,14:30-17:30; Th off; Sa 09:00-11:00
+website: http://www.reiseleucht.de

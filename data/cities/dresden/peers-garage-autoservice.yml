@@ -4,8 +4,8 @@ latitude: 51.05789
 longitude: 13.85963
 postcode: "01324"
 city: Dresden
-street: "Quohrener Straße"
-housenumber: 36
-phone: "+49 351 2656550"
+street: Quohrener Straße
+housenumber: "36"
+phone: +49 351 2656550
 opening_hours: ""
-website: "http://www.peers-garage.de"
+website: http://www.peers-garage.de

@@ -4,8 +4,8 @@ latitude: 51.0617
 longitude: 13.8234
 postcode: "01324"
 city: Dresden
-street: "Rißweg"
-housenumber: 62
-phone: "+49 351 268 30 48"
-opening_hours: "Mo 06:30-14:00, 09:00-18:00; Tu-Fr 06:30-18:00; Sa 06:30-12:00"
-website: "https://www.mueller-feinkost.de/"
+street: Rißweg
+housenumber: "62"
+phone: +49 351 268 30 48
+opening_hours: Mo 06:30-14:00, 09:00-18:00; Tu-Fr 06:30-18:00; Sa 06:30-12:00
+website: https://www.mueller-feinkost.de/

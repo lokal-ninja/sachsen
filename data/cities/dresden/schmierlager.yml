@@ -4,8 +4,8 @@ latitude: 51.04744
 longitude: 13.7924
 postcode: "01309"
 city: Dresden
-street: "Bergmannstraße"
-housenumber: 9
-phone: "+49 351 42478434"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.schmierlager.de/"
+street: Bergmannstraße
+housenumber: "9"
+phone: +49 351 42478434
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.schmierlager.de/

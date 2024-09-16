@@ -4,8 +4,8 @@ latitude: 51.33893
 longitude: 12.37316
 postcode: "04109"
 city: Leipzig
-street: "Burgstraße"
+street: Burgstraße
 housenumber: 1-5
 phone: ""
-opening_hours: "Mo,Fr 10:00-18:30; Tu-Th,Su 10:00-19:00"
-website: "https://www.einewelt-leipzig.de/"
+opening_hours: Mo,Fr 10:00-18:30; Tu-Th,Su 10:00-19:00
+website: https://www.einewelt-leipzig.de/

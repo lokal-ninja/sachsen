@@ -4,8 +4,8 @@ latitude: 51.53286
 longitude: 12.3455
 postcode: "04509"
 city: Delitzsch
-street: "Werkstättenweg"
-housenumber: 40
+street: Werkstättenweg
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-14:30"
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-14:30
 website: ""

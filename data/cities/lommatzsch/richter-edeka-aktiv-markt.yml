@@ -1,11 +1,11 @@
 id: 88448189
-type: way
+type: node
 latitude: 51.20213
 longitude: 13.30398
 postcode: "01623"
 city: Lommatzsch
-street: "Oschatzer Straße"
-housenumber: 4
-phone: "+49 35241 52206"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Oschatzer Straße
+housenumber: "4"
+phone: +49 35241 52206
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

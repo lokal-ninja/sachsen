@@ -4,8 +4,8 @@ latitude: 51.0351
 longitude: 13.7848
 postcode: "01277"
 city: Dresden
-street: "Zwinglistraße"
-housenumber: 42
+street: Zwinglistraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

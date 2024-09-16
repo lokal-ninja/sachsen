@@ -4,8 +4,8 @@ latitude: 50.91766
 longitude: 13.34253
 postcode: "09599"
 city: Freiberg
-street: "Obermarkt"
-housenumber: 18
-phone: "+49 3731 7750365"
-opening_hours: "Mo-Sa 11:00-13:00, Mo-Fr 15:00-18:00"
-website: "http://www.fashaneta.de"
+street: Obermarkt
+housenumber: "18"
+phone: +49 3731 7750365
+opening_hours: Mo-Sa 11:00-13:00, Mo-Fr 15:00-18:00
+website: http://www.fashaneta.de

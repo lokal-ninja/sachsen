@@ -1,11 +1,11 @@
 id: 278184102
-type: way
+type: node
 latitude: 50.97755
 longitude: 14.60576
 postcode: "02727"
 city: Ebersbach-Neugersdorf
-street: "Hauptstraße"
-housenumber: 56
+street: Hauptstraße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

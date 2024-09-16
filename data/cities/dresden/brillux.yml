@@ -1,11 +1,11 @@
 id: 941480866
-type: way
+type: node
 latitude: 51.00773
 longitude: 13.81236
 postcode: "01257"
 city: Dresden
-street: "Bismarckstraße"
-housenumber: 65
+street: Bismarckstraße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

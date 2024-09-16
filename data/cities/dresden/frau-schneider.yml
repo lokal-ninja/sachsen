@@ -4,8 +4,8 @@ latitude: 51.07493
 longitude: 13.74766
 postcode: "01097"
 city: Dresden
-street: "Fichtenstraße"
-housenumber: 11
+street: Fichtenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 09:00-22:00; Fr 09:00-20:00; Sa 10:00-15:00"
-website: "https://friseur-frau-schneider.de/"
+opening_hours: Mo-Th 09:00-22:00; Fr 09:00-20:00; Sa 10:00-15:00
+website: https://friseur-frau-schneider.de/

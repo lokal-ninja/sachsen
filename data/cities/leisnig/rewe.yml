@@ -1,11 +1,11 @@
 id: 429183720
-type: way
+type: node
 latitude: 51.15799
 longitude: 12.91587
 postcode: "04703"
 city: Leisnig
-street: "Wilhelm-Ostwald-Straße"
-housenumber: 19
-phone: "+49 34321 683618"
-opening_hours: "Mo-Sa 06:00-22:00"
+street: Wilhelm-Ostwald-Straße
+housenumber: "19"
+phone: +49 34321 683618
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

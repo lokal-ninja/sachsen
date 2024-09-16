@@ -4,8 +4,8 @@ latitude: 50.76807
 longitude: 13.15408
 postcode: "09579"
 city: Grünhainichen
-street: "Chemnitzer Straße"
-housenumber: 40
+street: Chemnitzer Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://www.wendt-kuehn.de/"
+opening_hours: Mo-Su 10:00-17:00
+website: https://www.wendt-kuehn.de/

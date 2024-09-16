@@ -1,11 +1,11 @@
 id: 265833092
-type: way
+type: node
 latitude: 50.81845
 longitude: 12.54156
 postcode: "08371"
 city: Glauchau
-street: "Brüderstraße"
-housenumber: 22
+street: Brüderstraße
+housenumber: "22"
 phone: "+4937632681"
-opening_hours: "Tu-Fr 08:00-18:00; Mo 08:00-13:00; Sa 07:00-12:00"
+opening_hours: Tu-Fr 08:00-18:00; Mo 08:00-13:00; Sa 07:00-12:00
 website: ""

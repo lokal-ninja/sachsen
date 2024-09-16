@@ -1,11 +1,11 @@
 id: 263239178
-type: way
+type: node
 latitude: 51.41356
 longitude: 12.30447
 postcode: "04158"
 city: Leipzig
-street: "Poststraße"
-housenumber: 7
+street: Poststraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

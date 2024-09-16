@@ -4,8 +4,8 @@ latitude: 51.33643
 longitude: 12.33576
 postcode: "04177"
 city: Leipzig
-street: "Goetzstraße"
-housenumber: 2
-phone: "+49 341 9261813"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
-website: "https://277780.umbreitshopsolution.de"
+street: Goetzstraße
+housenumber: "2"
+phone: +49 341 9261813
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00
+website: https://277780.umbreitshopsolution.de

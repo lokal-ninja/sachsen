@@ -4,8 +4,8 @@ latitude: 50.99984
 longitude: 13.64923
 postcode: ""
 city: Freital
-street: "Bahnhofstraße"
-housenumber: 30
+street: Bahnhofstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
+website: https://www.penny.de/

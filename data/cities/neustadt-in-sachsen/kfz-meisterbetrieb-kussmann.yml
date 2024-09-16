@@ -4,8 +4,8 @@ latitude: 51.02289
 longitude: 14.26015
 postcode: "01844"
 city: Neustadt in Sachsen
-street: "Dorfstraße"
-housenumber: 87
-phone: "+49 3596 508498"
-opening_hours: "nach Bedarf"
+street: Dorfstraße
+housenumber: "87"
+phone: +49 3596 508498
+opening_hours: '"nach Bedarf"'
 website: ""

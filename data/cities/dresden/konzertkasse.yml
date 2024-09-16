@@ -4,8 +4,8 @@ latitude: 51.05206
 longitude: 13.80519
 postcode: "01309"
 city: Dresden
-street: "Loschwitzer Straße"
+street: Loschwitzer Straße
 housenumber: 52a
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.konzertkasse-dresden.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.konzertkasse-dresden.de/

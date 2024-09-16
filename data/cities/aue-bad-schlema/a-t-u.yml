@@ -1,11 +1,11 @@
 id: 194171795
-type: way
+type: node
 latitude: 50.59818
 longitude: 12.65767
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Auer Straße"
-housenumber: 40
+street: Auer Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 228697304
-type: way
+type: node
 latitude: 51.05465
 longitude: 12.70065
 postcode: "04643"
 city: Geithain
-street: "Colditzer Straße"
-housenumber: 6
+street: Colditzer Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
 website: ""

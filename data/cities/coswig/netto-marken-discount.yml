@@ -1,11 +1,11 @@
 id: 106976662
-type: way
+type: node
 latitude: 51.12687
 longitude: 13.57645
 postcode: "01640"
 city: Coswig
-street: "Dresdner Straße"
-housenumber: 80
+street: Dresdner Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de/

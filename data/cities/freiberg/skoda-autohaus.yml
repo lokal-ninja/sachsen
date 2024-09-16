@@ -4,8 +4,8 @@ latitude: 50.93066
 longitude: 13.32507
 postcode: "09599"
 city: Freiberg
-street: "Leipziger Straße"
-housenumber: 54
-phone: "+49 3731 678300"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.franke-auto.de/skoda.html"
+street: Leipziger Straße
+housenumber: "54"
+phone: +49 3731 678300
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.franke-auto.de/skoda.html

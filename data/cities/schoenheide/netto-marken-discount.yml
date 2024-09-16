@@ -1,11 +1,11 @@
 id: 203454690
-type: way
+type: node
 latitude: 50.50306
 longitude: 12.52302
 postcode: "08304"
 city: Schönheide
-street: "Hauptstraße"
-housenumber: 117
+street: Hauptstraße
+housenumber: "117"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 134217699
-type: way
+type: node
 latitude: 50.85863
 longitude: 12.75949
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Helenenstraße"
-housenumber: 13
+street: Helenenstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-15:00"
+opening_hours: Mo-Fr 09:00-15:00
 website: ""

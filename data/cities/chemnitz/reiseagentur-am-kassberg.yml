@@ -4,8 +4,8 @@ latitude: 50.83234
 longitude: 12.90187
 postcode: "09112"
 city: Chemnitz
-street: "Weststraße"
-housenumber: 44
+street: Weststraße
+housenumber: "44"
 phone: "+493713342330"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:00
 website: ""

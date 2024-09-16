@@ -4,8 +4,8 @@ latitude: 51.30684
 longitude: 13.29333
 postcode: "01587"
 city: Riesa
-street: "Karl-Marx-Ring"
-housenumber: 7
+street: Karl-Marx-Ring
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su,PH off"
-website: "http://www.bäcker-jung.de/"
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su,PH off
+website: http://www.bäcker-jung.de/

@@ -4,8 +4,8 @@ latitude: 51.33107
 longitude: 12.33779
 postcode: "04229"
 city: Leipzig
-street: "Zschochersche Straße"
-housenumber: 28
+street: Zschochersche Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Tu,We,Fr 14:00-19:00; Th 12:00-17:00; Sa 09:30-16:00; Su,Mo,PH off"
-website: "https://bruehbar.de/"
+opening_hours: Tu,We,Fr 14:00-19:00; Th 12:00-17:00; Sa 09:30-16:00; Su,Mo,PH off
+website: https://bruehbar.de/

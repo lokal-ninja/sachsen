@@ -1,11 +1,11 @@
 id: 379475477
-type: way
+type: node
 latitude: 51.28763
 longitude: 12.1946
 postcode: "04420"
 city: Markranstädt
-street: "Lützner Straße"
-housenumber: 143
-phone: "+49 34205 7200"
+street: Lützner Straße
+housenumber: "143"
+phone: +49 34205 7200
 opening_hours: ""
-website: "https://www.autohaus-quesitz.de/"
+website: https://www.autohaus-quesitz.de/

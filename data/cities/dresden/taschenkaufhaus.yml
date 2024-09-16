@@ -4,8 +4,8 @@ latitude: 51.04408
 longitude: 13.73591
 postcode: "01069"
 city: Dresden
-street: "Prager Straße"
-housenumber: 4
-phone: "+49351 796 647 84"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.taschenkaufhaus.de"
+street: Prager Straße
+housenumber: "4"
+phone: +49351 796 647 84
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.taschenkaufhaus.de

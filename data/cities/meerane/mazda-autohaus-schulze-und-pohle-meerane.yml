@@ -1,11 +1,11 @@
 id: 369887969
-type: way
+type: node
 latitude: 50.83258
 longitude: 12.44779
 postcode: "08393"
 city: Meerane
-street: "Seiferitzer Allee"
-housenumber: 8
+street: Seiferitzer Allee
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

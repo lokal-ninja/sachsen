@@ -4,8 +4,8 @@ latitude: 50.89578
 longitude: 13.32758
 postcode: "09599"
 city: Freiberg
-street: "Häuersteig"
-housenumber: 2
-phone: "+49 3731 201308"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Häuersteig
+housenumber: "2"
+phone: +49 3731 201308
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

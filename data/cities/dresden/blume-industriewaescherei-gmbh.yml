@@ -1,11 +1,11 @@
 id: 202065931
-type: way
+type: node
 latitude: 51.08359
 longitude: 13.71937
 postcode: "01127"
 city: Dresden
-street: "Rehefelder Straße"
-housenumber: 57
+street: Rehefelder Straße
+housenumber: "57"
 phone: "+493518495649"
 opening_hours: ""
-website: "https://www.industriewaescherei-blume.de/"
+website: https://www.industriewaescherei-blume.de/

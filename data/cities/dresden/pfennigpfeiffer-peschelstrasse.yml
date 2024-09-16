@@ -4,8 +4,8 @@ latitude: 51.08577
 longitude: 13.69487
 postcode: "01139"
 city: Dresden
-street: "Peschelstraße"
-housenumber: 33
+street: Peschelstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 10:00-20:00; PH off"
-website: "https://www.pfennigpfeiffer.de/"
+opening_hours: Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 10:00-20:00; PH off
+website: https://www.pfennigpfeiffer.de/

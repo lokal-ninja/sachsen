@@ -1,11 +1,11 @@
 id: 59468340
-type: way
+type: node
 latitude: 51.19071
 longitude: 14.45331
 postcode: "02625"
 city: Bautzen
-street: "Malschwitzer Straße"
-housenumber: 3
+street: Malschwitzer Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-12:00; Su,PH off
 website: ""

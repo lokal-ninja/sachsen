@@ -1,11 +1,11 @@
 id: 455897092
-type: way
+type: node
 latitude: 51.36623
 longitude: 12.74586
 postcode: "04808"
 city: Wurzen
-street: "Dresdener Straße"
-housenumber: 59
+street: Dresdener Straße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 06:00-22:00; Su,PH off
 website: ""

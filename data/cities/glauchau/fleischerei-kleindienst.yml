@@ -1,11 +1,11 @@
 id: 205217793
-type: way
+type: node
 latitude: 50.81721
 longitude: 12.57254
 postcode: "08371"
 city: Glauchau
-street: "Hauptstraße"
-housenumber: 19
+street: Hauptstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 344056518
-type: way
+type: node
 latitude: 50.9165
 longitude: 14.0288
 postcode: "01824"
 city: Königstein
-street: "Königsteiner Straße"
-housenumber: 46
+street: Königsteiner Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://esw-autoservice.de/"
+website: https://esw-autoservice.de/

@@ -1,11 +1,11 @@
 id: 515240772
-type: way
+type: node
 latitude: 50.47017
 longitude: 12.22004
 postcode: "08541"
 city: Theuma
-street: "Schulstraße"
-housenumber: 24
+street: Schulstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

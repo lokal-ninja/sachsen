@@ -4,8 +4,8 @@ latitude: 51.35281
 longitude: 12.42278
 postcode: "04347"
 city: Leipzig
-street: "Permoserstraße"
-housenumber: 3
+street: Permoserstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

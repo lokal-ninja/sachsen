@@ -4,8 +4,8 @@ latitude: 51.09593
 longitude: 14.66461
 postcode: "02708"
 city: Löbau
-street: "Neumarkt"
-housenumber: 1
+street: Neumarkt
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://wiedemann-shop.de/"
+website: https://wiedemann-shop.de/

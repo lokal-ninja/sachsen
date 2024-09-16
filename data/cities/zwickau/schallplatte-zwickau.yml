@@ -4,8 +4,8 @@ latitude: 50.73284
 longitude: 12.49124
 postcode: "08058"
 city: Zwickau
-street: "Leipziger Straße"
-housenumber: 93
-phone: "+49 375 2040586"
-opening_hours: "Mo-Fr 13:00-17:00"
-website: "http://www.schallplatte-zwickau.de/39994.html"
+street: Leipziger Straße
+housenumber: "93"
+phone: +49 375 2040586
+opening_hours: Mo-Fr 13:00-17:00
+website: http://www.schallplatte-zwickau.de/39994.html

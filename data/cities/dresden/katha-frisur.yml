@@ -4,8 +4,8 @@ latitude: 51.07504
 longitude: 13.72305
 postcode: "01127"
 city: Dresden
-street: "Oschatzer Straße"
-housenumber: 1
+street: Oschatzer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "nach vereinbarung"
+opening_hours: '"nach vereinbarung"'
 website: ""

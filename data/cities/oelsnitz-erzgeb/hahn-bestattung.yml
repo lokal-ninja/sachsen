@@ -1,11 +1,11 @@
 id: 103032849
-type: way
+type: node
 latitude: 50.72285
 longitude: 12.69997
 postcode: "09376"
 city: Oelsnitz/Erzgeb.
-street: "Untere Hauptstraße"
-housenumber: 5
+street: Untere Hauptstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

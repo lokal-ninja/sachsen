@@ -1,11 +1,11 @@
 id: 99873891
-type: way
+type: node
 latitude: 51.37034
 longitude: 12.73562
 postcode: "04808"
 city: Wurzen
-street: "Markt"
-housenumber: 10
-phone: "+49 3425 818873"
-opening_hours: "Mo,We-Fr 09:00-18:00; Tu,Sa 09:00-12:00"
-website: "https://blumen-kupsch.de/"
+street: Markt
+housenumber: "10"
+phone: +49 3425 818873
+opening_hours: Mo,We-Fr 09:00-18:00; Tu,Sa 09:00-12:00
+website: https://blumen-kupsch.de/

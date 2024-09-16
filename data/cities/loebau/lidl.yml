@@ -1,11 +1,11 @@
 id: 121913805
-type: way
+type: node
 latitude: 51.09878
 longitude: 14.66617
 postcode: "02708"
 city: Löbau
-street: "Poststraße"
-housenumber: 7
+street: Poststraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/

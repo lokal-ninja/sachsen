@@ -4,8 +4,8 @@ latitude: 51.34347
 longitude: 12.37656
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.lidl.de/f/leipzig/bruehl-1.html"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.lidl.de/f/leipzig/bruehl-1.html

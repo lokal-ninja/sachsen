@@ -1,11 +1,12 @@
 id: 87931178
-type: way
+type: node
 latitude: 51.054
 longitude: 12.68288
 postcode: "04643"
 city: Geithain
-street: "Altdorfer Straße"
+street: Altdorfer Straße
 housenumber: 3a
-phone: "+49 34341 44212"
-opening_hours: "Mo-Fr 07:00-18:00; Dec-Mar Sa 09:00-12:00; Apr-Nov Sa 08:00-12:00; PH off"
+phone: +49 34341 44212
+opening_hours: Mo-Fr 07:00-18:00; Dec-Mar Sa 09:00-12:00; Apr-Nov Sa 08:00-12:00;
+    PH off
 website: ""

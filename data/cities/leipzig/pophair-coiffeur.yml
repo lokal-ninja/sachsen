@@ -4,8 +4,8 @@ latitude: 51.33148
 longitude: 12.37235
 postcode: "04107"
 city: Leipzig
-street: "Riemannstraße"
-housenumber: 52
-phone: "+49 341 2111156"
-opening_hours: "Mo 12:00-20:00; Tu-Fr 07:00-20:00"
-website: "https://pophair.de"
+street: Riemannstraße
+housenumber: "52"
+phone: +49 341 2111156
+opening_hours: Mo 12:00-20:00; Tu-Fr 07:00-20:00
+website: https://pophair.de

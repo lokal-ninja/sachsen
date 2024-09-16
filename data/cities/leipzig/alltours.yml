@@ -4,8 +4,8 @@ latitude: 51.36887
 longitude: 12.33917
 postcode: "04159"
 city: Leipzig
-street: "Knopstraße"
-housenumber: 17
+street: Knopstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-14:00; We,Sa,Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 10:00-14:00; We,Sa,Su,PH off
 website: ""

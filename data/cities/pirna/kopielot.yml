@@ -4,8 +4,8 @@ latitude: 50.96203
 longitude: 13.94326
 postcode: "01796"
 city: Pirna
-street: "Schloßstraße"
-housenumber: 3
-phone: "+49 3501 529900"
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00"
-website: "https://www.kopielot.de/"
+street: Schloßstraße
+housenumber: "3"
+phone: +49 3501 529900
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:00
+website: https://www.kopielot.de/

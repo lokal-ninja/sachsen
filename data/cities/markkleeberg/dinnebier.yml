@@ -1,11 +1,11 @@
 id: 32964298
-type: way
+type: node
 latitude: 51.28368
 longitude: 12.42502
 postcode: "04416"
 city: Markkleeberg
-street: "Magdeborner Straße"
-housenumber: 6
+street: Magdeborner Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

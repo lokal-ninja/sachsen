@@ -1,11 +1,11 @@
 id: 93704973
-type: way
+type: node
 latitude: 50.77239
 longitude: 12.90454
 postcode: "09123"
 city: Chemnitz
-street: "Würschnitztalstraße"
-housenumber: 23
-phone: "+49 371 2622590"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+street: Würschnitztalstraße
+housenumber: "23"
+phone: +49 371 2622590
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

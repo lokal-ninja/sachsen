@@ -1,11 +1,11 @@
 id: 184222789
-type: way
+type: node
 latitude: 51.02523
 longitude: 13.73145
 postcode: "01069"
 city: Dresden
-street: "Bergstraße"
-housenumber: 86
+street: Bergstraße
+housenumber: "86"
 phone: ""
 opening_hours: ""
-website: "www.suzuki-dresden.de"
+website: www.suzuki-dresden.de

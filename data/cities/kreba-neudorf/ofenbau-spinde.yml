@@ -1,11 +1,11 @@
 id: 730248142
-type: way
+type: node
 latitude: 51.3461
 longitude: 14.68091
 postcode: "02906"
 city: Kreba-Neudorf
-street: "Hoyerswerdaer Straße"
-housenumber: 8
+street: Hoyerswerdaer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "We,Fr 14:00-17:00"
+opening_hours: We,Fr 14:00-17:00
 website: ""

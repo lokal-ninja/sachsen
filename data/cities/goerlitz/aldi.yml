@@ -4,8 +4,8 @@ latitude: 51.17001
 longitude: 14.9707
 postcode: "02828"
 city: Görlitz
-street: "Nieskyer Straße"
-housenumber: 100
+street: Nieskyer Straße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-nord.de"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.aldi-nord.de

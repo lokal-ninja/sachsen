@@ -1,11 +1,11 @@
 id: 100182545
-type: way
+type: node
 latitude: 51.35901
 longitude: 13.97707
 postcode: "01936"
 city: Schwepnitz
-street: "Bernsdorfer Straße"
-housenumber: 5
+street: Bernsdorfer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

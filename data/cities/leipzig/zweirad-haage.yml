@@ -1,11 +1,11 @@
 id: 189135027
-type: way
+type: node
 latitude: 51.37564
 longitude: 12.41848
 postcode: "04357"
 city: Leipzig
-street: "Kieler Straße"
-housenumber: 41
+street: Kieler Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo,Tu,Fr 09:00-18:00; We 08:00-16:00; Th 09:00-20:00; Sa 09:00-12:00"
+opening_hours: Mo,Tu,Fr 09:00-18:00; We 08:00-16:00; Th 09:00-20:00; Sa 09:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.3324
 longitude: 12.37284
 postcode: "04107"
 city: Leipzig
-street: "Münzgasse"
-housenumber: 16
+street: Münzgasse
+housenumber: "16"
 phone: "+491635747088"
-opening_hours: "Mo 13:00-19:00; We 13:00-19:00; Fr 13:00-17:00"
-website: "https://lieberlila.de/"
+opening_hours: Mo 13:00-19:00; We 13:00-19:00; Fr 13:00-17:00
+website: https://lieberlila.de/

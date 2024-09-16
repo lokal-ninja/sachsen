@@ -4,8 +4,8 @@ latitude: 51.35734
 longitude: 12.45931
 postcode: "04329"
 city: Leipzig
-street: "Goldsternstraße"
-housenumber: 53
-phone: "+49 341 2514507"
-opening_hours: "Mo-Fr 10:00-13:00; Su off, Mo-Fr 14:00-18:00, Sa 10:00-12:00"
-website: "https://arcadia-travel.de/"
+street: Goldsternstraße
+housenumber: "53"
+phone: +49 341 2514507
+opening_hours: Mo-Fr 10:00-13:00; Su off, Mo-Fr 14:00-18:00, Sa 10:00-12:00
+website: https://arcadia-travel.de/

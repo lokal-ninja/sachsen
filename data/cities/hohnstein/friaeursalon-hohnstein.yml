@@ -4,8 +4,9 @@ latitude: 50.9803
 longitude: 14.11117
 postcode: "01848"
 city: Hohnstein
-street: "Rathausstraße"
-housenumber: 1
+street: Rathausstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu 12:00-18:00; We 08:00-14:00; Th 08:00-16:00; Fr 08:00-15:00; Sa,Su,PH off"
+opening_hours: Tu 12:00-18:00; We 08:00-14:00; Th 08:00-16:00; Fr 08:00-15:00; Sa,Su,PH
+    off
 website: ""

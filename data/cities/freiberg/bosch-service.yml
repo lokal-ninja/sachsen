@@ -1,11 +1,11 @@
 id: 610757653
-type: way
+type: node
 latitude: 50.91102
 longitude: 13.33146
 postcode: "09599"
 city: Freiberg
-street: "Anton-Günther-Straße"
-housenumber: 20
+street: Anton-Günther-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 07:00-17:00; Sa 09:00-12:00
 website: ""

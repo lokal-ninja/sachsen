@@ -1,11 +1,11 @@
 id: 497197273
-type: way
+type: node
 latitude: 50.80078
 longitude: 12.70832
 postcode: "09337"
 city: Hohenstein-Ernstthal
-street: "Weinkellerstraße"
-housenumber: 14
+street: Weinkellerstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

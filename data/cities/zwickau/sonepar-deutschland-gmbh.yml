@@ -1,11 +1,11 @@
 id: 193351412
-type: way
+type: node
 latitude: 50.72537
 longitude: 12.46946
 postcode: "08060"
 city: Zwickau
-street: "Herschelstraße"
-housenumber: 25
+street: Herschelstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:00, Fr 07:00-13:15"
+opening_hours: Mo-Th 07:00-16:00, Fr 07:00-13:15
 website: ""

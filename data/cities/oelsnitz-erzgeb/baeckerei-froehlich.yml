@@ -1,11 +1,11 @@
 id: 348401659
-type: way
+type: node
 latitude: 50.71827
 longitude: 12.6824
 postcode: "09376"
 city: Oelsnitz/Erzgeb.
-street: "Obere Hauptstraße"
-housenumber: 86
+street: Obere Hauptstraße
+housenumber: "86"
 phone: ""
-opening_hours: "Tu,Th,Fr 06:30-17:00; We 06:30-13:00,14:30-17:00; Sa 06:00-10:00"
+opening_hours: Tu,Th,Fr 06:30-17:00; We 06:30-13:00,14:30-17:00; Sa 06:00-10:00
 website: ""

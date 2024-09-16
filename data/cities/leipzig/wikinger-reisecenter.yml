@@ -4,8 +4,8 @@ latitude: 51.3424
 longitude: 12.36193
 postcode: "04109"
 city: Leipzig
-street: "Jahnallee"
-housenumber: 13
+street: Jahnallee
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.wikinger-leipzig.de/"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.wikinger-leipzig.de/

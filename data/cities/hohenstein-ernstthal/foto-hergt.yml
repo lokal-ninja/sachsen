@@ -1,11 +1,11 @@
 id: 497197269
-type: way
+type: node
 latitude: 50.8005
 longitude: 12.70869
 postcode: "09337"
 city: Hohenstein-Ernstthal
-street: "Weinkellerstraße"
-housenumber: 22
+street: Weinkellerstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30, Tu,Th 14:30-18:00, Sa 09:00-12:00"
-website: "https://www.foto-hergt.de"
+opening_hours: Mo-Fr 09:30-12:30, Tu,Th 14:30-18:00, Sa 09:00-12:00
+website: https://www.foto-hergt.de

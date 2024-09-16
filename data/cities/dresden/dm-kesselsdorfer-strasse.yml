@@ -1,11 +1,11 @@
 id: 46505897
-type: way
+type: node
 latitude: 51.04073
 longitude: 13.66852
 postcode: "01169"
 city: Dresden
-street: "Kesselsdorfer Straße"
-housenumber: 158
+street: Kesselsdorfer Straße
+housenumber: "158"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

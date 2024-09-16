@@ -1,11 +1,11 @@
 id: 329353190
-type: way
+type: node
 latitude: 51.02477
 longitude: 14.02299
 postcode: "01833"
 city: Stolpen
-street: "Ziegeleistraße"
-housenumber: 13
+street: Ziegeleistraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.36239
 longitude: 12.37063
 postcode: "04155"
 city: Leipzig
-street: "Georg-Schumann-Straße"
-housenumber: 50
+street: Georg-Schumann-Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.penny.de/

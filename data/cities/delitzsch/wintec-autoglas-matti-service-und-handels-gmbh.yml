@@ -4,8 +4,8 @@ latitude: 51.51701
 longitude: 12.33593
 postcode: "04509"
 city: Delitzsch
-street: "Leipziger Straße"
-housenumber: 29
+street: Leipziger Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.wintec-autoglas.de/standort/wintec-autoglas-matti-service-handels-gmbh-delitzsch/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.wintec-autoglas.de/standort/wintec-autoglas-matti-service-handels-gmbh-delitzsch/

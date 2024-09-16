@@ -1,11 +1,11 @@
 id: 231451184
-type: way
+type: node
 latitude: 51.03622
 longitude: 13.5816
 postcode: "01723"
 city: Wilsdruff
-street: "Kaufbacher Ring"
-housenumber: 5
-phone: "035204/393890"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "http://www.miele-mai.de/"
+street: Kaufbacher Ring
+housenumber: "5"
+phone: 035204/393890
+opening_hours: Mo-Fr 10:00-18:00
+website: http://www.miele-mai.de/

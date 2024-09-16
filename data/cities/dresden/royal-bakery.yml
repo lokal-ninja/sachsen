@@ -4,8 +4,8 @@ latitude: 51.06392
 longitude: 13.74847
 postcode: "01099"
 city: Dresden
-street: "Alaunstraße"
-housenumber: 9
+street: Alaunstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Su 07:00-18:00"
-website: "https://www.madebyrons.de/"
+opening_hours: Mo-Su 07:00-18:00
+website: https://www.madebyrons.de/

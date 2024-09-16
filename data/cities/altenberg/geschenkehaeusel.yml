@@ -1,11 +1,11 @@
 id: 254189946
-type: way
+type: node
 latitude: 50.79441
 longitude: 13.71209
 postcode: "01773"
 city: Altenberg
-street: "Kurplatz"
-housenumber: 2
-phone: "+49 35052 20616"
-opening_hours: "Tu-Su 10:00-17:30"
-website: "http://www.geschenkehaeusel.de/index.htm"
+street: Kurplatz
+housenumber: "2"
+phone: +49 35052 20616
+opening_hours: Tu-Su 10:00-17:30
+website: http://www.geschenkehaeusel.de/index.htm

@@ -4,8 +4,8 @@ latitude: 51.12075
 longitude: 13.11858
 postcode: "04720"
 city: Döbeln
-street: "Niedermarkt"
-housenumber: 6
-phone: "+49 3431 710226"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 07:30-11:00,13:00-17:00"
+street: Niedermarkt
+housenumber: "6"
+phone: +49 3431 710226
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 07:30-11:00,13:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 92455586
-type: way
+type: node
 latitude: 50.79814
 longitude: 12.92228
 postcode: "09125"
 city: Chemnitz
-street: "Olbernhauer Straße"
-housenumber: 9
-phone: "+49371 52840-0"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
-website: "https://www.sconto.de/chemnitz"
+street: Olbernhauer Straße
+housenumber: "9"
+phone: +49371 52840-0
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
+website: https://www.sconto.de/chemnitz

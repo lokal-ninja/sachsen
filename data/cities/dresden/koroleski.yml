@@ -4,8 +4,8 @@ latitude: 51.07061
 longitude: 13.69878
 postcode: "01139"
 city: Dresden
-street: "Rethelstraße"
-housenumber: 32
+street: Rethelstraße
+housenumber: "32"
 phone: "+493518492288"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.friseursalon-koroleski.de/"
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.friseursalon-koroleski.de/

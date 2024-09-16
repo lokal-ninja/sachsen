@@ -1,11 +1,11 @@
 id: 338850424
-type: way
+type: node
 latitude: 50.98547
 longitude: 12.96011
 postcode: "09648"
 city: Mittweida
-street: "Bahnhofstraße"
-housenumber: 71
+street: Bahnhofstraße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

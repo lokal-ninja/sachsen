@@ -4,8 +4,8 @@ latitude: 51.06331
 longitude: 13.75829
 postcode: "01099"
 city: Dresden
-street: "Bautzner Straße"
-housenumber: 50
+street: Bautzner Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo,We 11:00-14:00; Tu 09:00-12:00; Th 14:30-17:30"
+opening_hours: Mo,We 11:00-14:00; Tu 09:00-12:00; Th 14:30-17:30
 website: ""

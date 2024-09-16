@@ -4,8 +4,8 @@ latitude: 51.29782
 longitude: 13.26492
 postcode: "01587"
 city: Riesa
-street: "Riesapark"
-housenumber: 6
-phone: "+49 3525 658710"
-opening_hours: "Mo-Sa 08:00-20:00; Fr 08:00-22:00; PH off"
+street: Riesapark
+housenumber: "6"
+phone: +49 3525 658710
+opening_hours: Mo-Sa 08:00-20:00; Fr 08:00-22:00; PH off
 website: ""

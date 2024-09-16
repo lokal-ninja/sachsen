@@ -4,8 +4,8 @@ latitude: 51.04761
 longitude: 12.80057
 postcode: "09306"
 city: Rochlitz
-street: "Poststraße"
-housenumber: 1
+street: Poststraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off
 website: ""

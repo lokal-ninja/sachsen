@@ -4,8 +4,8 @@ latitude: 51.11405
 longitude: 13.78103
 postcode: "01109"
 city: Dresden
-street: "Gertrud-Caspari-Straße"
-housenumber: 5
-phone: "+49 351 8025669"
-opening_hours: "Termine nach Vereinbarung"
+street: Gertrud-Caspari-Straße
+housenumber: "5"
+phone: +49 351 8025669
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

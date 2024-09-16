@@ -4,8 +4,8 @@ latitude: 50.89703
 longitude: 14.80732
 postcode: "02763"
 city: Zittau
-street: "Johannisstraße"
-housenumber: 15
+street: Johannisstraße
+housenumber: "15"
 phone: ""
-opening_hours: "We-Fr 15:00-21:00+, Sa 17:00-22:00+"
-website: "https://www.weinkehr.de/"
+opening_hours: We-Fr 15:00-21:00+, Sa 17:00-22:00+
+website: https://www.weinkehr.de/

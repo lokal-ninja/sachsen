@@ -4,8 +4,8 @@ latitude: 51.34659
 longitude: 12.47637
 postcode: "04329"
 city: Leipzig
-street: "Paunsdorfer Allee"
-housenumber: 1
-phone: "+49 341 14909784"
-opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
+street: Paunsdorfer Allee
+housenumber: "1"
+phone: +49 341 14909784
+opening_hours: Mo-Sa 09:30-20:00; Su,PH off
 website: ""

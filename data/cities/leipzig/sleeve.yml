@@ -4,8 +4,8 @@ latitude: 51.34673
 longitude: 12.40657
 postcode: "04315"
 city: Leipzig
-street: "Mariannenstraße"
-housenumber: 74
+street: Mariannenstraße
+housenumber: "74"
 phone: ""
-opening_hours: "We-Sa 13:00-20:00"
-website: "http://www.sleeveplusplus.de/"
+opening_hours: We-Sa 13:00-20:00
+website: http://www.sleeveplusplus.de/

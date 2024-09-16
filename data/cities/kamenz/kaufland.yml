@@ -1,11 +1,11 @@
 id: 87951247
-type: way
+type: node
 latitude: 51.28608
 longitude: 14.09448
 postcode: "01917"
 city: Kamenz
-street: "An der Windmühle"
-housenumber: 2
-phone: "+49 3578 7840730"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: An der Windmühle
+housenumber: "2"
+phone: +49 3578 7840730
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

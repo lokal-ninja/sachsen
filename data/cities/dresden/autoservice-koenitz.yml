@@ -1,11 +1,11 @@
 id: 172440083
-type: way
+type: node
 latitude: 51.07669
 longitude: 13.72197
 postcode: "01127"
 city: Dresden
-street: "Konkordienstraße"
-housenumber: 58
+street: Konkordienstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "www.autoservice-koenitz.de"
+opening_hours: Mo-Fr 09:00-17:00
+website: www.autoservice-koenitz.de

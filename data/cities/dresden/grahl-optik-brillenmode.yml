@@ -4,8 +4,8 @@ latitude: 51.04722
 longitude: 13.75033
 postcode: "01069"
 city: Dresden
-street: "Grunaer Straße"
-housenumber: 14
+street: Grunaer Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30"
-website: "https://www.brillenmode-dresden.de"
+opening_hours: Mo-Fr 09:00-18:30
+website: https://www.brillenmode-dresden.de

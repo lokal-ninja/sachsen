@@ -4,8 +4,8 @@ latitude: 50.71957
 longitude: 12.49378
 postcode: "08056"
 city: Zwickau
-street: "Magazinstraße"
-housenumber: 5
+street: Magazinstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00, Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:30-18:00, Sa 09:00-12:00
 website: ""

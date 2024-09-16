@@ -4,8 +4,8 @@ latitude: 50.89715
 longitude: 14.8154
 postcode: "02763"
 city: Zittau
-street: "Hammerschmiedtstraße"
-housenumber: 19
-phone: "+49 3583 795177"
-opening_hours: "Mo-Fr 08:00-14:00"
-website: "https://www.fuchs-bestattungsinstitut.de/"
+street: Hammerschmiedtstraße
+housenumber: "19"
+phone: +49 3583 795177
+opening_hours: Mo-Fr 08:00-14:00
+website: https://www.fuchs-bestattungsinstitut.de/

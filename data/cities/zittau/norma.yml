@@ -1,11 +1,11 @@
 id: 103462661
-type: way
+type: node
 latitude: 50.90244
 longitude: 14.82188
 postcode: "02763"
 city: Zittau
-street: "Görlitzer Straße"
-housenumber: 27
-phone: "+49 911 23734733"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Görlitzer Straße
+housenumber: "27"
+phone: +49 911 23734733
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

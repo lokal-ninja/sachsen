@@ -4,8 +4,8 @@ latitude: 51.06672
 longitude: 13.75131
 postcode: "01099"
 city: Dresden
-street: "Alaunstraße"
-housenumber: 43
+street: Alaunstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-17:00"
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-17:00
 website: ""

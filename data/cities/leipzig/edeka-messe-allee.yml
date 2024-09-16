@@ -1,11 +1,11 @@
 id: 239751729
-type: way
+type: node
 latitude: 51.39291
 longitude: 12.37694
 postcode: "04158"
 city: Leipzig
-street: "Messe-Allee"
-housenumber: 25
+street: Messe-Allee
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.edeka.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.edeka.de/

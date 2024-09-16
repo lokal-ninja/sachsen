@@ -4,8 +4,8 @@ latitude: 51.34885
 longitude: 12.37661
 postcode: "04105"
 city: Leipzig
-street: "Berliner Straße"
-housenumber: 1
-phone: "+49 341 58092135"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 12:00-16:00"
-website: "https://surmount.de"
+street: Berliner Straße
+housenumber: "1"
+phone: +49 341 58092135
+opening_hours: Mo-Fr 10:00-19:00; Sa 12:00-16:00
+website: https://surmount.de

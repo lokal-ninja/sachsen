@@ -4,8 +4,8 @@ latitude: 51.33941
 longitude: 12.39127
 postcode: "04103"
 city: Leipzig
-street: "Inselstraße"
-housenumber: 4
+street: Inselstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

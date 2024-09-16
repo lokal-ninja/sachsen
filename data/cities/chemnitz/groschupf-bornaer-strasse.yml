@@ -4,8 +4,8 @@ latitude: 50.85742
 longitude: 12.88587
 postcode: "09114"
 city: Chemnitz
-street: "Bornaer Straße"
-housenumber: 39
-phone: "+49 371 3360992"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 06:30-12:00; Su 07:00-11:00"
+street: Bornaer Straße
+housenumber: "39"
+phone: +49 371 3360992
+opening_hours: Mo-Fr 05:00-18:00; Sa 06:30-12:00; Su 07:00-11:00
 website: ""

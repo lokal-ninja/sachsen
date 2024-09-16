@@ -1,11 +1,11 @@
 id: 31961870
-type: way
+type: node
 latitude: 51.34954
 longitude: 12.37376
 postcode: "04105"
 city: Leipzig
-street: "Nordstraße"
-housenumber: 41
+street: Nordstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.konsum-leipzig.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.konsum-leipzig.de/

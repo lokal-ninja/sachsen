@@ -4,8 +4,8 @@ latitude: 50.74755
 longitude: 12.29826
 postcode: "08428"
 city: Langenbernsdorf
-street: "Hohe Straße"
-housenumber: 1
-phone: "+49 3761 77748"
-opening_hours: "Tu, Th 14:00-18:00; Fr 08:00-18:00"
-website: "http://bauernhof-rose.de/"
+street: Hohe Straße
+housenumber: "1"
+phone: +49 3761 77748
+opening_hours: Tu, Th 14:00-18:00; Fr 08:00-18:00
+website: http://bauernhof-rose.de/

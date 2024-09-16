@@ -4,8 +4,8 @@ latitude: 51.3672
 longitude: 12.3445
 postcode: "04159"
 city: Leipzig
-street: "Georg-Schumann-Straße"
-housenumber: 227
-phone: "+49 341 99198230"
+street: Georg-Schumann-Straße
+housenumber: "227"
+phone: +49 341 99198230
 opening_hours: ""
-website: "http://www.8-frame.de"
+website: http://www.8-frame.de

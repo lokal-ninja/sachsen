@@ -1,11 +1,11 @@
 id: 589701013
-type: way
+type: node
 latitude: 51.42521
 longitude: 14.2285
 postcode: "02977"
 city: Hoyerswerda
-street: "Wittichenauer Straße"
-housenumber: 11
+street: Wittichenauer Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

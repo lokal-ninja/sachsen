@@ -1,11 +1,11 @@
 id: 106334555
-type: way
+type: node
 latitude: 51.37
 longitude: 12.73685
 postcode: "04808"
 city: Wurzen
-street: "Jacobsgasse"
-housenumber: 10
-phone: "+49 3425 920058"
-opening_hours: "Mo 09:00-15:00; Tu,We 09:00-18:00; Th,Fr 08:00-19:00; Sa 08:00-13:00"
-website: "http://chic-wurzen.de/portfolio-items/c1-ihr-friseur/"
+street: Jacobsgasse
+housenumber: "10"
+phone: +49 3425 920058
+opening_hours: Mo 09:00-15:00; Tu,We 09:00-18:00; Th,Fr 08:00-19:00; Sa 08:00-13:00
+website: http://chic-wurzen.de/portfolio-items/c1-ihr-friseur/

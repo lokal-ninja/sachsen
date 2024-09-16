@@ -4,8 +4,8 @@ latitude: 51.23603
 longitude: 13.05285
 postcode: "04769"
 city: Mügeln
-street: "Döbelner Straße"
-housenumber: 5
+street: Döbelner Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 09:00-11:00"
-website: "https://www.haustechnikmuegeln.de/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 09:00-11:00
+website: https://www.haustechnikmuegeln.de/

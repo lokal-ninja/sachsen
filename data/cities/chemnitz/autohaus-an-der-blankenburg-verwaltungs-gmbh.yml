@@ -1,11 +1,11 @@
 id: 93082736
-type: way
+type: node
 latitude: 50.86569
 longitude: 12.90782
 postcode: "09114"
 city: Chemnitz
-street: "Blankenburgstraße"
-housenumber: 116
+street: Blankenburgstraße
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

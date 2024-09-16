@@ -4,8 +4,8 @@ latitude: 51.33124
 longitude: 12.44144
 postcode: "04316"
 city: Leipzig
-street: "Engelsdorfer Straße"
-housenumber: 45
-phone: "+49 341 20066680"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00"
-website: "http://www.csg-computer.de"
+street: Engelsdorfer Straße
+housenumber: "45"
+phone: +49 341 20066680
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00
+website: http://www.csg-computer.de

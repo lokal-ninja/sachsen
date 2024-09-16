@@ -4,8 +4,9 @@ latitude: 51.15461
 longitude: 14.98565
 postcode: "02826"
 city: Görlitz
-street: "Obermarkt"
-housenumber: 11
+street: Obermarkt
+housenumber: "11"
 phone: ""
-opening_hours: "Mo 13:00-19:00; Tu,We,Fr 09:00-18:00; Th 09:00-19:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo 13:00-19:00; Tu,We,Fr 09:00-18:00; Th 09:00-19:00; Sa 08:00-12:00;
+    Su,PH off
 website: ""

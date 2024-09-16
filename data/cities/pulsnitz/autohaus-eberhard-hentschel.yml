@@ -1,11 +1,11 @@
 id: 136508695
-type: way
+type: node
 latitude: 51.18722
 longitude: 14.01475
 postcode: "01896"
 city: Pulsnitz
-street: "Kamenzer Straße"
-housenumber: 9
+street: Kamenzer Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

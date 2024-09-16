@@ -4,8 +4,8 @@ latitude: 51.0418
 longitude: 13.70144
 postcode: "01159"
 city: Dresden
-street: "Reisewitzer Straße"
-housenumber: 29
+street: Reisewitzer Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Sa 09:00-13:00; Mo-Fr 09:00-18:00"
-website: "http://www.buchlese29.de"
+opening_hours: Sa 09:00-13:00; Mo-Fr 09:00-18:00
+website: http://www.buchlese29.de

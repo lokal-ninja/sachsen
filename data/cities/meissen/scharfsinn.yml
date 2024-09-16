@@ -4,8 +4,8 @@ latitude: 51.16271
 longitude: 13.47331
 postcode: "01662"
 city: Meißen
-street: "Gerbergasse"
-housenumber: 18
-phone: "+49 3521 452239"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-13:00"
-website: "https://www.koehler-meissen.de/"
+street: Gerbergasse
+housenumber: "18"
+phone: +49 3521 452239
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-13:00
+website: https://www.koehler-meissen.de/

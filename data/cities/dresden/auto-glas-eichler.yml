@@ -4,8 +4,8 @@ latitude: 51.0172
 longitude: 13.67186
 postcode: "01187"
 city: Dresden
-street: "Tharandter Straße"
-housenumber: 200
-phone: "+49 351 3740101"
-opening_hours: "Mo-Fr 08:00-17:00; Sa off nach Absprache; Su,PH off"
-website: "https://www.autoglas-eichler.de/"
+street: Tharandter Straße
+housenumber: "200"
+phone: +49 351 3740101
+opening_hours: Mo-Fr 08:00-17:00; Sa off "nach Absprache"; Su,PH off
+website: https://www.autoglas-eichler.de/

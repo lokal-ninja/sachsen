@@ -4,8 +4,8 @@ latitude: 51.10077
 longitude: 13.67949
 postcode: "01445"
 city: Radebeul
-street: "Hauptstraße"
-housenumber: 16
-phone: "+49 351 8309784"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-12:00"
-website: "https://www.charmant-radebeul.de"
+street: Hauptstraße
+housenumber: "16"
+phone: +49 351 8309784
+opening_hours: Mo-Fr 07:00-19:00, Sa 07:00-12:00
+website: https://www.charmant-radebeul.de

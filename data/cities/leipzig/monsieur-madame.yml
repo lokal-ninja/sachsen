@@ -4,8 +4,8 @@ latitude: 51.32696
 longitude: 12.33877
 postcode: "04229"
 city: Leipzig
-street: "Industriestraße"
-housenumber: 43
+street: Industriestraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo 13:30-18:30; Tu-Fr 10:00-12:30,13:30-18:30; Sa 09:30-16:00"
+opening_hours: Tu-Fr 10:00-12:00,14:00-18:30; Sa 10:00-16:00
 website: ""

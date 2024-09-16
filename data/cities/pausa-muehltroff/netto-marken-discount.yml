@@ -1,11 +1,11 @@
 id: 102135307
-type: way
+type: node
 latitude: 50.53961
 longitude: 11.92553
 postcode: "07919"
 city: Pausa-Mühltroff
-street: "Langenbacher Straße"
-housenumber: 2
+street: Langenbacher Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

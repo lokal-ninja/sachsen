@@ -1,11 +1,11 @@
 id: 332636875
-type: way
+type: node
 latitude: 50.92271
 longitude: 12.75104
 postcode: "09322"
 city: Penig
-street: "Zur Höllmühle"
-housenumber: 7
-phone: "+49 37381 95670"
+street: Zur Höllmühle
+housenumber: "7"
+phone: +49 37381 95670
 opening_hours: ""
 website: ""

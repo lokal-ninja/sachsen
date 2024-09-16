@@ -1,11 +1,11 @@
 id: 272236516
-type: way
+type: node
 latitude: 51.38823
 longitude: 14.03159
 postcode: "02994"
 city: Bernsdorf
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

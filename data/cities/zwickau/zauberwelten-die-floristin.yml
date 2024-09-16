@@ -4,8 +4,8 @@ latitude: 50.72107
 longitude: 12.49071
 postcode: "08056"
 city: Zwickau
-street: "Bosestraße"
-housenumber: 6
+street: Bosestraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,Tu 09:00-18:30, We 11:00-18:30, Th,Fr 09:00-18:30, Sa 09:00-15:00"
+opening_hours: Mo,Tu 09:00-18:30, We 11:00-18:30, Th,Fr 09:00-18:30, Sa 09:00-15:00
 website: ""

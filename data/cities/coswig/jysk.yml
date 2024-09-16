@@ -1,11 +1,11 @@
 id: 51972986
-type: way
+type: node
 latitude: 51.13832
 longitude: 13.5875
 postcode: "01640"
 city: Coswig
-street: "Moritzburger Straße"
-housenumber: 67
-phone: "+49 3523 5367870"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
+street: Moritzburger Straße
+housenumber: "67"
+phone: +49 3523 5367870
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 129646112
-type: way
+type: node
 latitude: 51.1366
 longitude: 12.79246
 postcode: "04680"
 city: Colditz
-street: "Grimmaische Straße"
-housenumber: 50
+street: Grimmaische Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:00
 website: ""

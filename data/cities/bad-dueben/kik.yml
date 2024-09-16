@@ -1,11 +1,11 @@
 id: 198746857
-type: way
+type: node
 latitude: 51.59912
 longitude: 12.59778
 postcode: "04849"
 city: Bad Düben
-street: "Schmiedeberger Straße"
+street: Schmiedeberger Straße
 housenumber: 58b
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://kik.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://kik.de/

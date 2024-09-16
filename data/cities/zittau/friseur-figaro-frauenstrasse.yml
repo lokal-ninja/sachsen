@@ -4,8 +4,8 @@ latitude: 50.8968
 longitude: 14.80956
 postcode: "02763"
 city: Zittau
-street: "Frauenstraße"
-housenumber: 17
-phone: "+49 3583 510811"
-opening_hours: "Tu-Fr 09:00-18:00; Mo 13:00-18:00; Sa 09:00-12:00"
-website: "http://www.friseur-zittau.de/"
+street: Frauenstraße
+housenumber: "17"
+phone: +49 3583 510811
+opening_hours: Tu-Fr 09:00-18:00; Mo 13:00-18:00; Sa 09:00-12:00
+website: http://www.friseur-zittau.de/

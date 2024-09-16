@@ -1,11 +1,11 @@
 id: 86577024
-type: way
+type: node
 latitude: 51.36409
 longitude: 12.74927
 postcode: "04808"
 city: Wurzen
-street: "Dresdener Straße"
-housenumber: 54
+street: Dresdener Straße
+housenumber: "54"
 phone: "+4934258871440"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 8:00-16:00"
-website: "https://www.rhg.de/bau-garten-wurzen"
+opening_hours: Mo-Fr 06:30-19:00; Sa 8:00-16:00
+website: https://www.rhg.de/bau-garten-wurzen

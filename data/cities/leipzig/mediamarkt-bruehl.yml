@@ -4,8 +4,8 @@ latitude: 51.34364
 longitude: 12.37285
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
-phone: "+49 341 261780"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.mediamarkt.de/de/store/leipzig-hoefe-am-bruehl-1229"
+street: Brühl
+housenumber: "1"
+phone: +49 341 261780
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.mediamarkt.de/de/store/leipzig-hoefe-am-bruehl-1229

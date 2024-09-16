@@ -4,8 +4,8 @@ latitude: 51.04014
 longitude: 13.78754
 postcode: "01309"
 city: Dresden
-street: "Keglerstraße"
-housenumber: 4
-phone: "+49 351 3129300"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.bestattung-gaumert.de/"
+street: Keglerstraße
+housenumber: "4"
+phone: +49 351 3129300
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.bestattung-gaumert.de/

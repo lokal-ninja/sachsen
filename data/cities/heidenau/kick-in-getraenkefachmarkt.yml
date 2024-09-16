@@ -1,11 +1,11 @@
 id: 104366662
-type: way
+type: node
 latitude: 50.98054
 longitude: 13.86898
 postcode: "01809"
 city: Heidenau
-street: "Bahnhofstraße"
-housenumber: 32
+street: Bahnhofstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

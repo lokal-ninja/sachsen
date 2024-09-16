@@ -4,8 +4,8 @@ latitude: 50.6819
 longitude: 12.50859
 postcode: "08112"
 city: Wilkau-Haßlau
-street: "Sachsenplatz"
-housenumber: 1
-phone: "+49 375 671175"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Sachsenplatz
+housenumber: "1"
+phone: +49 375 671175
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

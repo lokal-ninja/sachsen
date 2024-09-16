@@ -4,8 +4,8 @@ latitude: 51.36232
 longitude: 12.3709
 postcode: "04155"
 city: Leipzig
-street: "Lützowstraße"
+street: Lützowstraße
 housenumber: 13a
-phone: "+49 341 5642170"
-opening_hours: "Mo-Fr 09:00-13:00; Tu,Th 14:00-18:00; Sa, So closed"
-website: "http://www.latschendoktor.de/"
+phone: +49 341 5642170
+opening_hours: Mo-Fr 09:00-13:00; Tu,Th 14:00-18:00; Sa, So closed
+website: http://www.latschendoktor.de/

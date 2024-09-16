@@ -4,8 +4,8 @@ latitude: 51.34466
 longitude: 12.35797
 postcode: "04105"
 city: Leipzig
-street: "Waldstraße"
-housenumber: 38
+street: Waldstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mar 12:00-19:00; Apr-Sep 12:00-20:00; Oct 12:00-19:00"
-website: "https://softeis-hendrich.de/"
+opening_hours: Mar 12:00-19:00; Apr-Sep 12:00-20:00; Oct 12:00-19:00
+website: https://softeis-hendrich.de/

@@ -1,11 +1,11 @@
 id: 305798130
-type: way
+type: node
 latitude: 51.24899
 longitude: 15.04279
-postcode: "59-930"
+postcode: 59-930
 city: Pieńsk
-street: "Romualda Traugutta"
-housenumber: 2
+street: Romualda Traugutta
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:30; Su 08:00-23:00"
+opening_hours: Mo-Sa 06:00-23:30; Su 08:00-23:00
 website: ""

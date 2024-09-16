@@ -4,8 +4,8 @@ latitude: 50.90556
 longitude: 13.34494
 postcode: "09599"
 city: Freiberg
-street: "Zuger Straße"
-housenumber: 52
-phone: "+49 3731 1650288"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
+street: Zuger Straße
+housenumber: "52"
+phone: +49 3731 1650288
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00
 website: ""

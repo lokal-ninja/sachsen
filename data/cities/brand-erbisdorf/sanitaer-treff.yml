@@ -1,11 +1,11 @@
 id: 87287825
-type: way
+type: node
 latitude: 50.86999
 longitude: 13.30985
 postcode: "09618"
 city: Brand-Erbisdorf
-street: "Brandweg"
-housenumber: 6
-phone: "+4937322 5650"
+street: Brandweg
+housenumber: "6"
+phone: +4937322 5650
 opening_hours: ""
 website: ""

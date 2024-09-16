@@ -4,8 +4,8 @@ latitude: 51.35369
 longitude: 12.39844
 postcode: "04347"
 city: Leipzig
-street: "Adenauerallee"
-housenumber: 3
+street: Adenauerallee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
 website: ""

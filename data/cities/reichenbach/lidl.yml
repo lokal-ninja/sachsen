@@ -1,11 +1,11 @@
 id: 113556996
-type: way
+type: node
 latitude: 50.63015
 longitude: 12.30697
 postcode: "08468"
 city: Reichenbach
-street: "Zwickauer Straße"
-housenumber: 97
+street: Zwickauer Straße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

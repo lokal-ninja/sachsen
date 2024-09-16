@@ -4,8 +4,8 @@ latitude: 51.3927
 longitude: 12.37699
 postcode: "04158"
 city: Leipzig
-street: "Messe-Allee"
-housenumber: 25
+street: Messe-Allee
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

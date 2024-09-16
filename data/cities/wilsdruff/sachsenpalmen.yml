@@ -1,11 +1,11 @@
 id: 131114235
-type: way
+type: node
 latitude: 51.04984
 longitude: 13.47979
 postcode: "01723"
 city: Wilsdruff
-street: "Helbigsdorfer Straße"
-housenumber: 4
-phone: "+49 172 8022361"
+street: Helbigsdorfer Straße
+housenumber: "4"
+phone: +49 172 8022361
 opening_hours: ""
-website: "https://sachsenpalmen.de"
+website: https://sachsenpalmen.de

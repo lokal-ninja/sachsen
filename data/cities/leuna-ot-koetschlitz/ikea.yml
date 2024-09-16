@@ -1,11 +1,11 @@
 id: 28114163
-type: way
+type: node
 latitude: 51.34806
 longitude: 12.18228
 postcode: "06237"
 city: Leuna OT Kötschlitz
-street: "Nordpark"
-housenumber: 17
+street: Nordpark
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.ikea.com/de/de/store/halle_leipzig"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.ikea.com/de/de/store/halle_leipzig

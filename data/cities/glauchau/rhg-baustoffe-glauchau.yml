@@ -1,11 +1,13 @@
 id: 239867229
-type: way
+type: node
 latitude: 50.83794
 longitude: 12.55142
 postcode: "08371"
 city: Glauchau
-street: "Dammweg"
-housenumber: 26
-phone: "+49 3763 60060"
-opening_hours: "Mar Su[-1]-Oct Su[-1] -1 day: Mo-Fr 06:30-18:00; Mar Su[-1]-Oct Su[-1] -1 day: Sa 08:00-12:00; Oct Su[-1]-Mar Su[-1] -1 day: Mo-Fr 07:00-17:00; Sa 09:00-12:00; PH off"
-website: "https://www.rhg-24.de"
+street: Dammweg
+housenumber: "26"
+phone: +49 3763 60060
+opening_hours: 'Mar Su[-1]-Oct Su[-1] -1 day: Mo-Fr 06:30-18:00; Mar Su[-1]-Oct Su[-1]
+    -1 day: Sa 08:00-12:00; Oct Su[-1]-Mar Su[-1] -1 day: Mo-Fr 07:00-17:00; Sa 09:00-12:00;
+    PH off'
+website: https://www.rhg-24.de

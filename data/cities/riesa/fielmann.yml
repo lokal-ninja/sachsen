@@ -4,8 +4,8 @@ latitude: 51.30517
 longitude: 13.30263
 postcode: "01587"
 city: Riesa
-street: "Hauptstraße"
-housenumber: 95
+street: Hauptstraße
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.fielmann.de/niederlassungen/riesa/01587-hauptstrasse-95/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://www.fielmann.de/niederlassungen/riesa/01587-hauptstrasse-95/

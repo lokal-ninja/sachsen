@@ -1,11 +1,11 @@
 id: 6298486715
 type: node
-latitude: 51.16908
-longitude: 14.97188
+latitude: 51.16878
+longitude: 14.97218
 postcode: "02828"
 city: Görlitz
-street: "Nieskyer Straße"
-housenumber: 100
-phone: "+49 3581 8795506"
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.florizz.com/"
+street: Nieskyer Straße
+housenumber: "100"
+phone: +49 3581 8795506
+opening_hours: Mo-Sa 07:00-19:00; PH off
+website: https://www.florizz.com

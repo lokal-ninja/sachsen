@@ -4,8 +4,8 @@ latitude: 51.30021
 longitude: 12.39713
 postcode: "04279"
 city: Leipzig
-street: "Zwickauer Straße"
-housenumber: 127
-phone: "+49 341 3378858"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
-website: "https://www.mac-geiz.de"
+street: Zwickauer Straße
+housenumber: "127"
+phone: +49 341 3378858
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
+website: https://www.mac-geiz.de

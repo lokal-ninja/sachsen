@@ -4,8 +4,9 @@ latitude: 50.83809
 longitude: 12.9267
 postcode: "09111"
 city: Chemnitz
-street: "Carolastraße"
-housenumber: 1
+street: Carolastraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 08:00-12:30,13:00-15:00; Tu,Th 08:00-12:30,13:00-17:00; We 08:00-14:00; Fr 08:00-13:00; Sa,Su,PH off"
+opening_hours: Mo 08:00-12:30,13:00-15:00; Tu,Th 08:00-12:30,13:00-17:00; We 08:00-14:00;
+    Fr 08:00-13:00; Sa,Su,PH off
 website: ""

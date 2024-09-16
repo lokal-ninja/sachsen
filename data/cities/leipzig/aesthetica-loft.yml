@@ -4,8 +4,8 @@ latitude: 51.34385
 longitude: 12.37514
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+4934156633007"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://aesthetica-loft.de"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://aesthetica-loft.de

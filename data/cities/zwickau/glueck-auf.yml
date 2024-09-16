@@ -4,8 +4,8 @@ latitude: 50.73154
 longitude: 12.49168
 postcode: "08058"
 city: Zwickau
-street: "Leipziger Straße"
-housenumber: 73
-phone: "+49 (0)375 2049526"
-opening_hours: "Mo-Fr 07:00-13:00; Sa 07:00-12:00"
+street: Leipziger Straße
+housenumber: "73"
+phone: +49 (0)375 2049526
+opening_hours: Mo-Fr 07:00-13:00; Sa 07:00-12:00
 website: ""

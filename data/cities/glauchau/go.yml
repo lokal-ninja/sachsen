@@ -1,11 +1,11 @@
 id: 670784422
-type: way
+type: node
 latitude: 50.8268
 longitude: 12.53002
 postcode: "08371"
 city: Glauchau
-street: "Hochuferstraße"
-housenumber: 10
+street: Hochuferstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 05:00-23:30; Sa 06:00-23:30; Su 07:00-23:30"
+opening_hours: Mo-Fr 05:00-23:30; Sa 06:00-23:30; Su 07:00-23:30
 website: ""

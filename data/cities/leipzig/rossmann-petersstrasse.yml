@@ -4,8 +4,8 @@ latitude: 51.33752
 longitude: 12.37418
 postcode: "04109"
 city: Leipzig
-street: "Petersstraße"
-housenumber: 44
+street: Petersstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off
 website: ""

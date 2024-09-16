@@ -4,8 +4,8 @@ latitude: 50.90518
 longitude: 13.32254
 postcode: "09599"
 city: Freiberg
-street: "Karl-Kegel-Straße"
-housenumber: 20
-phone: "+49 3731 201281"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su 07:30-10:30"
+street: Karl-Kegel-Straße
+housenumber: "20"
+phone: +49 3731 201281
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su 07:30-10:30
 website: ""

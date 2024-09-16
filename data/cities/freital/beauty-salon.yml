@@ -4,8 +4,9 @@ latitude: 51.01289
 longitude: 13.66172
 postcode: "01705"
 city: Freital
-street: "Am Bahnhof"
-housenumber: 3
-phone: "+49 160 95646616"
-opening_hours: "Mo 14:00-15:00; Tu,Th 10:00-12:00,14:00-15:00; Fr 09:00-11:00; PH,Sa-Mo off"
+street: Am Bahnhof
+housenumber: "3"
+phone: +49 160 95646616
+opening_hours: Mo 14:00-15:00; Tu,Th 10:00-12:00,14:00-15:00; Fr 09:00-11:00; PH,Sa-Mo
+    off
 website: ""

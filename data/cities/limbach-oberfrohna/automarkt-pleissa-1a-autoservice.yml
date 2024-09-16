@@ -1,11 +1,11 @@
 id: 135687548
-type: way
+type: node
 latitude: 50.84122
 longitude: 12.76849
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Hohensteiner Straße"
-housenumber: 151
+street: Hohensteiner Straße
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

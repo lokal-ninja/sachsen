@@ -1,11 +1,11 @@
 id: 93190778
-type: way
+type: node
 latitude: 50.81448
 longitude: 12.80138
 postcode: "09224"
 city: Chemnitz
-street: "Dorfstraße"
-housenumber: 50
+street: Dorfstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 122494623
-type: way
+type: node
 latitude: 50.80199
 longitude: 12.80259
 postcode: "09224"
 city: Chemnitz
-street: "Mittelbacher Dorfstraße"
-housenumber: 13
+street: Mittelbacher Dorfstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

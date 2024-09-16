@@ -1,11 +1,11 @@
 id: 142098645
-type: way
+type: node
 latitude: 50.91234
 longitude: 13.36121
 postcode: "09599"
 city: Freiberg
-street: "Knappenweg"
-housenumber: 3
+street: Knappenweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
 website: ""

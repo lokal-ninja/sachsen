@@ -1,11 +1,11 @@
 id: 102441763
-type: way
+type: node
 latitude: 50.87184
 longitude: 13.32143
 postcode: "09618"
 city: Brand-Erbisdorf
-street: "Turnerstraße"
-housenumber: 1
-phone: "+49 37322 2718"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:00 open; Su,PH off"
-website: "http://www.grundmann-und-soehne.de/"
+street: Turnerstraße
+housenumber: "1"
+phone: +49 37322 2718
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:00 open; Su,PH off
+website: http://www.grundmann-und-soehne.de/

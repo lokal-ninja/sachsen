@@ -1,11 +1,11 @@
 id: 255099337
-type: way
+type: node
 latitude: 50.80713
 longitude: 12.90869
 postcode: "09120"
 city: Chemnitz
-street: "Paul-Gruner-Straße"
-housenumber: 68
+street: Paul-Gruner-Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-13:00"
-website: "https://www.wild-east.org/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-13:00
+website: https://www.wild-east.org/

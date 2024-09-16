@@ -1,11 +1,12 @@
 id: 215116513
-type: way
+type: node
 latitude: 50.77314
 longitude: 12.85588
 postcode: "09221"
 city: Neukirchen/Erzgebirge
-street: "Auenblick"
-housenumber: 1
-phone: "+49 371 26650 12"
-opening_hours: "Apr-Oct: Mo-Fr 06:30-18:00; Apr-Oct Sa 08:00-12:00; Nov-Mar: Mo-Fr 07:00-17:00; Nov-Mar: Sa 08:00-12:00"
-website: "https://www.baywa-baustoffe.de"
+street: Auenblick
+housenumber: "1"
+phone: +49 371 26650 12
+opening_hours: 'Apr-Oct: Mo-Fr 06:30-18:00; Apr-Oct Sa 08:00-12:00; Nov-Mar: Mo-Fr
+    07:00-17:00; Nov-Mar: Sa 08:00-12:00'
+website: https://www.baywa-baustoffe.de

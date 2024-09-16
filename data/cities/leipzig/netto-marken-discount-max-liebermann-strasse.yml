@@ -1,11 +1,11 @@
 id: 152813556
-type: way
+type: node
 latitude: 51.37694
 longitude: 12.36818
 postcode: "04157"
 city: Leipzig
-street: "Max-Liebermann-Straße"
-housenumber: 61
+street: Max-Liebermann-Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

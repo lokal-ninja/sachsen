@@ -4,8 +4,8 @@ latitude: 51.0386
 longitude: 13.83226
 postcode: "01326"
 city: Dresden
-street: "Wachwitzgrund"
-housenumber: 22
-phone: "+49 351 2684076"
+street: Wachwitzgrund
+housenumber: "22"
+phone: +49 351 2684076
 opening_hours: ""
-website: "https://body-on-line.de/"
+website: https://body-on-line.de/

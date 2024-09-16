@@ -1,11 +1,11 @@
 id: 89275377
-type: way
+type: node
 latitude: 51.05176
 longitude: 12.70526
 postcode: "04643"
 city: Geithain
-street: "Dresdener Straße"
-housenumber: 49
+street: Dresdener Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 07:00-17:00; Sa,Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 129761671
-type: way
+type: node
 latitude: 51.31434
 longitude: 12.39513
 postcode: "04277"
 city: Leipzig
-street: "Richard-Lehmann-Straße"
-housenumber: 118
+street: Richard-Lehmann-Straße
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

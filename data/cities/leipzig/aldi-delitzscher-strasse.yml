@@ -1,11 +1,11 @@
 id: 332876354
-type: way
+type: node
 latitude: 51.36713
 longitude: 12.38488
 postcode: "04129"
 city: Leipzig
-street: "Delitzscher Straße"
-housenumber: 61
+street: Delitzscher Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.32989
 longitude: 12.31308
 postcode: "04179"
 city: Leipzig
-street: "Radiusstraße"
-housenumber: 2
+street: Radiusstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00, Sa 08:00-13:00"
-website: "https://www.salon-esthetik.de/"
+opening_hours: Tu-Fr 09:00-19:00, Sa 08:00-13:00
+website: https://www.salon-esthetik.de/

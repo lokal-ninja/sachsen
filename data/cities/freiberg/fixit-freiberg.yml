@@ -4,8 +4,8 @@ latitude: 50.9187
 longitude: 13.34018
 postcode: "09599"
 city: Freiberg
-street: "Nonnengasse"
+street: Nonnengasse
 housenumber: 31A
-phone: "+49 3731 4470013"
-opening_hours: "Mo,Tu,Th,Fr 12:00-18:00"
-website: "https://www.fixit-freiberg.de/"
+phone: +49 3731 4470013
+opening_hours: Mo,Tu,Th,Fr 12:00-18:00
+website: https://www.fixit-freiberg.de/

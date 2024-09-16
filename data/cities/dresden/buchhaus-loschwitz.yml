@@ -4,8 +4,8 @@ latitude: 51.05376
 longitude: 13.81369
 postcode: "01326"
 city: Dresden
-street: "Friedrich-Wieck-Straße"
-housenumber: 6
+street: Friedrich-Wieck-Straße
+housenumber: "6"
 phone: "+493512685275"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "http://buchhaus-loschwitz.de"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: http://buchhaus-loschwitz.de

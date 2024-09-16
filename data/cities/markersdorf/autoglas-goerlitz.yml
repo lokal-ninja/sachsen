@@ -1,11 +1,11 @@
 id: 797088648
-type: way
+type: node
 latitude: 51.15104
 longitude: 14.92395
 postcode: "02829"
 city: Markersdorf
-street: "Am Hoterberg"
-housenumber: 4
+street: Am Hoterberg
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.autoglas-goerlitz.de"
+website: https://www.autoglas-goerlitz.de

@@ -4,8 +4,8 @@ latitude: 51.02908
 longitude: 13.74237
 postcode: "01217"
 city: Dresden
-street: "Zellescher Weg"
-housenumber: 21
-phone: "+49 3514 716890"
-opening_hours: "Mo-Th 08:00-18:00"
-website: "Bürostuhl-Dresden.com"
+street: Zellescher Weg
+housenumber: "21"
+phone: +49 3514 716890
+opening_hours: Mo-Th 08:00-18:00
+website: Bürostuhl-Dresden.com

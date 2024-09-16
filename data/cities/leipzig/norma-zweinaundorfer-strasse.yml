@@ -1,11 +1,11 @@
 id: 33923518
-type: way
+type: node
 latitude: 51.32806
 longitude: 12.44181
 postcode: "04316"
 city: Leipzig
-street: "Zweinaundorfer Straße"
-housenumber: 165
+street: Zweinaundorfer Straße
+housenumber: "165"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.norma-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.norma-online.de

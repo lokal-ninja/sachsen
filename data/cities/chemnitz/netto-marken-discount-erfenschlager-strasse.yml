@@ -1,11 +1,11 @@
 id: 93462314
-type: way
+type: node
 latitude: 50.78534
 longitude: 12.95613
 postcode: "09125"
 city: Chemnitz
-street: "Erfenschlager Straße"
-housenumber: 104
+street: Erfenschlager Straße
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

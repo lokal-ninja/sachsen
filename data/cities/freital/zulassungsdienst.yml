@@ -4,8 +4,8 @@ latitude: 51.00898
 longitude: 13.65964
 postcode: "01705"
 city: Freital
-street: "Dresdner Straße"
-housenumber: 101
-phone: "+49 351 65264910"
-opening_hours: "Mo,Fr 08:00-12:00; Tu,Th 08:00-12:00,13:00-18:00; Sa-Su,PH off"
-website: "https://www.kennzeichen.de/schilderdienst-stk-freital.html"
+street: Dresdner Straße
+housenumber: "101"
+phone: +49 351 65264910
+opening_hours: Mo,Fr 08:00-12:00; Tu,Th 08:00-12:00,13:00-18:00; Sa-Su,PH off
+website: https://www.kennzeichen.de/schilderdienst-stk-freital.html

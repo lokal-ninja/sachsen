@@ -4,8 +4,8 @@ latitude: 50.99467
 longitude: 13.65131
 postcode: "01705"
 city: Freital
-street: "Hinterstraße"
-housenumber: 17
-phone: "+49 351 6491757"
-opening_hours: "PH,Su,Mo off; Tu-Fr 06:00-17:30; Sa 06:00-10:30"
-website: "https://www.baeckerei-krahl.de/dresden-freital-filialen/"
+street: Hinterstraße
+housenumber: "17"
+phone: +49 351 6491757
+opening_hours: PH,Su,Mo off; Tu-Fr 06:00-17:30; Sa 06:00-10:30
+website: https://www.baeckerei-krahl.de/dresden-freital-filialen/

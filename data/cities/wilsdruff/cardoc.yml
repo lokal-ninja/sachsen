@@ -4,8 +4,8 @@ latitude: 51.03728
 longitude: 13.58549
 postcode: "01723"
 city: Wilsdruff
-street: "Zum Wiesengrund"
-housenumber: 6
+street: Zum Wiesengrund
+housenumber: "6"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

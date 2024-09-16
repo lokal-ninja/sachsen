@@ -1,11 +1,11 @@
 id: 586962428
-type: way
+type: node
 latitude: 51.31991
 longitude: 12.3295
 postcode: "04229"
 city: Leipzig
-street: "Antonienstraße"
-housenumber: 19
+street: Antonienstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH closed"
+opening_hours: Mo-Sa 07:00-22:00; PH closed
 website: ""

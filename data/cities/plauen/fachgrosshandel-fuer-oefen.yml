@@ -1,11 +1,11 @@
 id: 139508371
-type: way
+type: node
 latitude: 50.48469
 longitude: 12.14058
 postcode: "08527"
 city: Plauen
-street: "Bickelstraße"
-housenumber: 7
+street: Bickelstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

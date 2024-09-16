@@ -1,11 +1,11 @@
 id: 777832931
-type: way
+type: node
 latitude: 50.85477
 longitude: 12.77781
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Chemnitzer Straße"
-housenumber: 40
+street: Chemnitzer Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

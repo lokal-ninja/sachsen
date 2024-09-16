@@ -1,11 +1,11 @@
 id: 324194590
-type: way
+type: node
 latitude: 51.23445
 longitude: 14.89136
 postcode: "02923"
 city: Kodersdorf
-street: "Straße der Einheit"
-housenumber: 43
+street: Straße der Einheit
+housenumber: "43"
 phone: "+49358255704"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-14:00"
-website: "https://www.auto-grasse.de/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-14:00
+website: https://www.auto-grasse.de/

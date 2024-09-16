@@ -4,8 +4,8 @@ latitude: 51.52206
 longitude: 12.33765
 postcode: "04509"
 city: Delitzsch
-street: "Bismarckstraße"
-housenumber: 3
+street: Bismarckstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://postulka-fernsehen.de/Default.aspx"
+website: https://postulka-fernsehen.de/Default.aspx

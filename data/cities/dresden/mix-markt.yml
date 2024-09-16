@@ -4,8 +4,8 @@ latitude: 51.04301
 longitude: 13.67894
 postcode: "01169"
 city: Dresden
-street: "Amalie-Dietrich-Platz"
-housenumber: 6
-phone: "+49 351 43848421"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/152/"
+street: Amalie-Dietrich-Platz
+housenumber: "6"
+phone: +49 351 43848421
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/152/

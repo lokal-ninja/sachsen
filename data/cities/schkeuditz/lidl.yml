@@ -1,11 +1,11 @@
 id: 240124343
-type: way
+type: node
 latitude: 51.39523
 longitude: 12.21198
 postcode: "04435"
 city: Schkeuditz
-street: "Hallesche Straße"
-housenumber: 64
+street: Hallesche Straße
+housenumber: "64"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.de/"
+website: https://www.lidl.de/

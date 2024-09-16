@@ -4,8 +4,8 @@ latitude: 51.36524
 longitude: 14.50932
 postcode: "02943"
 city: Boxberg/O.L.
-street: "Hauptstraße"
-housenumber: 7
+street: Hauptstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Th 08:00-13:00,14:00-17:00; Fr 08:00-17:00; Sa 07:00-10:00"
+opening_hours: Tu-Th 08:00-13:00,14:00-17:00; Fr 08:00-17:00; Sa 07:00-10:00
 website: ""

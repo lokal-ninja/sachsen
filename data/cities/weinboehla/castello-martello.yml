@@ -1,11 +1,11 @@
 id: 185132688
-type: way
+type: node
 latitude: 51.16846
 longitude: 13.56465
 postcode: "01689"
 city: Weinböhla
-street: "Reichsstraße"
+street: Reichsstraße
 housenumber: 5d
-phone: "+49 35243 46055"
-opening_hours: "Mo 09:00-18:00"
-website: "https://www.castello-martello.de/"
+phone: +49 35243 46055
+opening_hours: Mo 09:00-18:00
+website: https://www.castello-martello.de/

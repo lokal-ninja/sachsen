@@ -4,8 +4,8 @@ latitude: 51.3379
 longitude: 12.33438
 postcode: "04177"
 city: Leipzig
-street: "Lindenauer Markt"
-housenumber: 18
+street: Lindenauer Markt
+housenumber: "18"
 phone: "+491632611148"
-opening_hours: "We 16:00-18:00"
-website: "https://www.kaleidorama.de"
+opening_hours: We 16:00-18:00
+website: https://www.kaleidorama.de

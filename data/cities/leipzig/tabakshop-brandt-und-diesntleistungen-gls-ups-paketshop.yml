@@ -4,8 +4,8 @@ latitude: 51.33139
 longitude: 12.4054
 postcode: "04317"
 city: Leipzig
-street: "Riebeckstraße"
-housenumber: 6
-phone: "+49 341 23064949"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
-website: "https://www.tabakshop-brandt.de/"
+street: Riebeckstraße
+housenumber: "6"
+phone: +49 341 23064949
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
+website: https://www.tabakshop-brandt.de/

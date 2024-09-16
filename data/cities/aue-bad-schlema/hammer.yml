@@ -1,11 +1,11 @@
 id: 194171794
-type: way
+type: node
 latitude: 50.59798
 longitude: 12.65832
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Auer Straße"
-housenumber: 40
+street: Auer Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.hammer-zuhause.de"
+website: https://www.hammer-zuhause.de

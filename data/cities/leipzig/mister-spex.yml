@@ -1,11 +1,11 @@
 id: 28143409
-type: way
+type: node
 latitude: 51.33949
 longitude: 12.37813
 postcode: ""
 city: Leipzig
-street: "Grimmaische Straße"
-housenumber: 14
+street: Grimmaische Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 292098430
-type: way
+type: node
 latitude: 50.62799
 longitude: 12.52023
 postcode: "08107"
 city: Kirchberg
-street: "Bahnhofstraße"
-housenumber: 34
+street: Bahnhofstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

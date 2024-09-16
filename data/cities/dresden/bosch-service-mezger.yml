@@ -4,8 +4,8 @@ latitude: 51.03534
 longitude: 13.75121
 postcode: "01219"
 city: Dresden
-street: "Wiener Straße"
-housenumber: 45
+street: Wiener Straße
+housenumber: "45"
 phone: "+49351876750"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.mezger.de/dresden/"
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.mezger.de/dresden/

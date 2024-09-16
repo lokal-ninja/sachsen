@@ -1,11 +1,11 @@
 id: 99481440
-type: way
+type: node
 latitude: 50.90006
 longitude: 12.7719
 postcode: "09241"
 city: Mühlau
-street: "Ringstraße"
-housenumber: 6
+street: Ringstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

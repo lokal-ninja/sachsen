@@ -1,11 +1,11 @@
 id: 237623370
-type: way
+type: node
 latitude: 50.44292
 longitude: 12.67977
 postcode: "08349"
 city: Johanngeorgenstadt
-street: "Sosaer Straße"
-housenumber: 1
+street: Sosaer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

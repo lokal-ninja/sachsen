@@ -1,11 +1,11 @@
 id: 127608888
-type: way
+type: node
 latitude: 50.61907
 longitude: 12.2704
 postcode: "08499"
 city: Reichenbach
-street: "Reichenbacher Straße"
-housenumber: 27
+street: Reichenbacher Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

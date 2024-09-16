@@ -1,11 +1,11 @@
 id: 125972856
-type: way
+type: node
 latitude: 50.59644
 longitude: 12.6798
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Brünlasberg"
+street: Brünlasberg
 housenumber: 1A
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de

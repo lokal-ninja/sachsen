@@ -4,8 +4,8 @@ latitude: 50.82907
 longitude: 12.96227
 postcode: "09127"
 city: Chemnitz
-street: "Augustusburger Straße"
-housenumber: 263
+street: Augustusburger Straße
+housenumber: "263"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 51.17486
 longitude: 14.45262
 postcode: "02625"
 city: Bautzen
-street: "Hanns-Eisler-Straße"
-housenumber: 1
-phone: "+49 3591 276642"
-opening_hours: "Mo 11:00-19:00; Tu-Fr 08:00-19:00; Sa 08:00-13:00"
+street: Hanns-Eisler-Straße
+housenumber: "1"
+phone: +49 3591 276642
+opening_hours: Mo 11:00-19:00; Tu-Fr 08:00-19:00; Sa 08:00-13:00
 website: ""

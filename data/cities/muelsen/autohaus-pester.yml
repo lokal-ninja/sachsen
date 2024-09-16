@@ -1,11 +1,11 @@
 id: 90209020
-type: way
+type: node
 latitude: 50.7498
 longitude: 12.57162
 postcode: "08132"
 city: Mülsen
-street: "St. Michelner Hauptstraße"
-housenumber: 37
+street: St. Michelner Hauptstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 204936328
-type: way
+type: node
 latitude: 50.81027
 longitude: 12.78727
 postcode: "09224"
 city: Chemnitz
-street: "Chemnitzer Straße"
-housenumber: 93
-phone: "+49 371 80922"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://simmel.de/"
+street: Chemnitzer Straße
+housenumber: "93"
+phone: +49 371 80922
+opening_hours: Mo-Sa 07:00-20:00
+website: https://simmel.de/

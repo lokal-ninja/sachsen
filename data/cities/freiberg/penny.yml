@@ -4,8 +4,8 @@ latitude: 50.92538
 longitude: 13.34963
 postcode: "09599"
 city: Freiberg
-street: "Halsbrücker Straße"
-housenumber: 18
-phone: "+49 3731 356660"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Halsbrücker Straße
+housenumber: "18"
+phone: +49 3731 356660
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

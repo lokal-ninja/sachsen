@@ -1,11 +1,11 @@
 id: 87197179
-type: way
+type: node
 latitude: 50.86539
 longitude: 12.89452
 postcode: "09114"
 city: Chemnitz
-street: "Auerswalder Straße"
-housenumber: 101
+street: Auerswalder Straße
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

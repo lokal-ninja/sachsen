@@ -1,11 +1,11 @@
 id: 398636422
-type: way
+type: node
 latitude: 50.64746
 longitude: 13.4569
 postcode: "09548"
 city: Seiffen/Erzgeb.
-street: "Schmelzhüttenweg"
-housenumber: 6
+street: Schmelzhüttenweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

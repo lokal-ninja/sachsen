@@ -1,11 +1,11 @@
 id: 61424948
-type: way
+type: node
 latitude: 51.29889
 longitude: 12.21784
 postcode: "04420"
 city: Markranstädt
-street: "Krakauer Straße"
-housenumber: 8
+street: Krakauer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-19:00; Su,PH off
 website: ""

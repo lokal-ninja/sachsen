@@ -1,11 +1,11 @@
 id: 130988760
-type: way
+type: node
 latitude: 50.8962
 longitude: 13.69918
 postcode: "01744"
 city: Dippoldiswalde
-street: "Glashütter Straße"
-housenumber: 20
+street: Glashütter Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

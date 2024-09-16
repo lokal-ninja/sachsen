@@ -1,11 +1,11 @@
 id: 53625219
-type: way
+type: node
 latitude: 51.13708
 longitude: 14.8023
 postcode: "02894"
 city: Reichenbach/O.L.
-street: "Mittelstraße"
+street: Mittelstraße
 housenumber: 17a
-phone: "+49 35828 72928"
-opening_hours: "Mo 10:00-12:00; Tu 15:00-16:00; Th 10:00-12:00; Fr 15:00-16:00"
+phone: +49 35828 72928
+opening_hours: Mo 10:00-12:00; Tu 15:00-16:00; Th 10:00-12:00; Fr 15:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 238222449
-type: way
+type: node
 latitude: 50.63531
 longitude: 12.79322
 postcode: "08297"
 city: Zwönitz
-street: "Lenkersdorfer Straße"
+street: Lenkersdorfer Straße
 housenumber: 2a
 phone: ""
 opening_hours: ""
-website: "https://www.ratiocar.de/"
+website: https://www.ratiocar.de/

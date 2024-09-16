@@ -4,8 +4,8 @@ latitude: 51.36532
 longitude: 12.43918
 postcode: "04347"
 city: Leipzig
-street: "Brahestraße"
-housenumber: 10
-phone: "+49 341 245240"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "https://www.lrp-autorecycling.de"
+street: Brahestraße
+housenumber: "10"
+phone: +49 341 245240
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
+website: https://www.lrp-autorecycling.de

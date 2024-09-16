@@ -4,8 +4,8 @@ latitude: 50.82286
 longitude: 12.95923
 postcode: "09127"
 city: Chemnitz
-street: "Hans-Ziegler-Straße"
-housenumber: 3
+street: Hans-Ziegler-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.nkd.com/de_de/chemnitz/09127/nkd-hans-ziegler-str-3"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.nkd.com/de_de/chemnitz/09127/nkd-hans-ziegler-str-3

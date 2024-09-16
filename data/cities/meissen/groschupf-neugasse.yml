@@ -4,8 +4,8 @@ latitude: 51.16072
 longitude: 13.47053
 postcode: "01662"
 city: Meißen
-street: "Neugasse"
-housenumber: 41
-phone: "+49 3521 7549664"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su,PH off"
-website: "https://baeckerei-groschupf.de/"
+street: Neugasse
+housenumber: "41"
+phone: +49 3521 7549664
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su,PH off
+website: https://baeckerei-groschupf.de/

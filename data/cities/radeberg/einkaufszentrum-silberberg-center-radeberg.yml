@@ -1,11 +1,11 @@
 id: 144276958
-type: way
+type: node
 latitude: 51.13034
 longitude: 13.91722
 postcode: "01454"
 city: Radeberg
-street: "An der Ziegelei"
-housenumber: 2
+street: An der Ziegelei
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

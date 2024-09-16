@@ -1,11 +1,11 @@
 id: 229721278
-type: way
+type: node
 latitude: 50.90794
 longitude: 13.43344
 postcode: "09627"
 city: Bobritzsch-Hilbersdorf
-street: "Erlenweg"
-housenumber: 10
-phone: "+49 37325 6229"
+street: Erlenweg
+housenumber: "10"
+phone: +49 37325 6229
 opening_hours: ""
-website: "https://www.auto-wetzel.de/"
+website: https://www.auto-wetzel.de/

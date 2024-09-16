@@ -1,11 +1,11 @@
 id: 990288152
-type: way
+type: node
 latitude: 50.3103
 longitude: 12.32451
 postcode: "08258"
 city: Markneukirchen
-street: "Poststraße"
-housenumber: 2
+street: Poststraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

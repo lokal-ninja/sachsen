@@ -1,11 +1,11 @@
 id: 188499553
-type: way
+type: node
 latitude: 50.72333
 longitude: 12.69901
 postcode: "09376"
 city: Oelsnitz/Erzgeb.
-street: "Emil-Junghannß-Straße"
-housenumber: 9
+street: Emil-Junghannß-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 09:00-12:30,14:30-18:00; Tu-Fr 08:30-12:30,14:30-18:00; Sa 09:00-11:30"
+opening_hours: Mo 09:00-12:30,14:30-18:00; Tu-Fr 08:30-12:30,14:30-18:00; Sa 09:00-11:30
 website: ""

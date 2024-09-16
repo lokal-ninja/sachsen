@@ -1,11 +1,11 @@
 id: 659868785
-type: way
+type: node
 latitude: 51.15565
 longitude: 13.97024
 postcode: "01454"
 city: Wachau
-street: "An den Breiten"
-housenumber: 9
+street: An den Breiten
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

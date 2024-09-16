@@ -1,11 +1,11 @@
 id: 207578273
-type: way
+type: node
 latitude: 51.08601
 longitude: 13.69392
 postcode: "01139"
 city: Dresden
-street: "Peschelstraße"
-housenumber: 25
-phone: "+49 180 5 353435"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.ikea.com/de/de/stores/dresden"
+street: Peschelstraße
+housenumber: "25"
+phone: +49 180 5 353435
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.ikea.com/de/de/stores/dresden

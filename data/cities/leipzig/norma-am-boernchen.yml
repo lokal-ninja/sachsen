@@ -1,11 +1,11 @@
 id: 81398404
-type: way
+type: node
 latitude: 51.37998
 longitude: 12.3157
 postcode: "04159"
 city: Leipzig
-street: "Am Börnchen"
-housenumber: 5
+street: Am Börnchen
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

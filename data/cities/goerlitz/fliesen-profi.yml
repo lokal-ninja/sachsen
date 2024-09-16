@@ -4,8 +4,8 @@ latitude: 51.17589
 longitude: 14.9622
 postcode: "02828"
 city: Görlitz
-street: "Gewerbering"
-housenumber: 10
-phone: "+49 3581 381810"
-opening_hours: "Mo-Tu 09:00-18:00; We-Fr 09:00-16:00; Sa,Su,PH off"
-website: "https://www.fliesenprofi.de/fliesenmaerkte/fliesenmarkt-goerlitz/"
+street: Gewerbering
+housenumber: "10"
+phone: +49 3581 381810
+opening_hours: Mo-Tu 09:00-18:00; We-Fr 09:00-16:00; Sa,Su,PH off
+website: https://www.fliesenprofi.de/fliesenmaerkte/fliesenmarkt-goerlitz/

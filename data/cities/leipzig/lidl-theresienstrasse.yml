@@ -1,11 +1,11 @@
 id: 169382955
-type: way
+type: node
 latitude: 51.36052
 longitude: 12.38203
 postcode: "04129"
 city: Leipzig
-street: "Theresienstraße"
-housenumber: 5
+street: Theresienstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

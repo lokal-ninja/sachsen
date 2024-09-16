@@ -4,8 +4,9 @@ latitude: 51.06283
 longitude: 13.75044
 postcode: "01099"
 city: Dresden
-street: "Bautzner Straße"
-housenumber: 10
+street: Bautzner Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo 10:00-15:00; Tu,We,Fr 10:00-16:00; Th 10:00-13:00,13:30-18:00; Sa nach Vereinbarung"
-website: "https://p24-studio.de/"
+opening_hours: Mo 10:00-15:00; Tu,We,Fr 10:00-16:00; Th 10:00-13:00,13:30-18:00; Sa
+    "nach Vereinbarung"
+website: https://p24-studio.de/

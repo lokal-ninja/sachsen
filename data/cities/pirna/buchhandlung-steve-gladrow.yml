@@ -4,8 +4,8 @@ latitude: 50.96317
 longitude: 13.93957
 postcode: "01796"
 city: Pirna
-street: "Dohnaische Straße"
-housenumber: 78
-phone: "+49 3501 528066"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-12:00"
+street: Dohnaische Straße
+housenumber: "78"
+phone: +49 3501 528066
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-12:00
 website: ""

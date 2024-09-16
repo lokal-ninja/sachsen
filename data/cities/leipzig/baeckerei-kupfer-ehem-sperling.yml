@@ -4,8 +4,8 @@ latitude: 51.31734
 longitude: 12.32658
 postcode: "04229"
 city: Leipzig
-street: "Creuzigerstraße"
-housenumber: 3
-phone: "+49 341 4246997"
-opening_hours: "Tu-Fr 06:30-18:00; Sa 06:30-11:00"
-website: "https://www.baeckerei-kupfer.de/"
+street: Creuzigerstraße
+housenumber: "3"
+phone: +49 341 4246997
+opening_hours: Tu-Fr 06:30-18:00; Sa 06:30-11:00
+website: https://www.baeckerei-kupfer.de/

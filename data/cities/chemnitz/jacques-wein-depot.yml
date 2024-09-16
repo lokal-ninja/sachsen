@@ -4,8 +4,8 @@ latitude: 50.84172
 longitude: 12.90713
 postcode: ""
 city: Chemnitz
-street: "Leipziger Straße"
-housenumber: 44
-phone: "+49 371 306544"
-opening_hours: "Mo-Th 14:00-20:00; Fr 12:00-20:00; Sa 10:00-20:00"
-website: "https://www.jacques.de/depot/106/chemnitz/"
+street: Leipziger Straße
+housenumber: "44"
+phone: +49 371 306544
+opening_hours: Mo-Th 14:00-20:00; Fr 12:00-20:00; Sa 10:00-20:00
+website: https://www.jacques.de/depot/106/chemnitz/

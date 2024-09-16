@@ -4,8 +4,8 @@ latitude: 50.62438
 longitude: 12.92258
 postcode: "09468"
 city: Geyer
-street: "August-Bebel-Straße"
-housenumber: 2
-phone: "+49 373461715"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.schatten-perfekt.de/"
+street: August-Bebel-Straße
+housenumber: "2"
+phone: +49 373461715
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.schatten-perfekt.de/

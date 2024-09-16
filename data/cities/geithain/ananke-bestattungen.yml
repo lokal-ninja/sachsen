@@ -1,11 +1,11 @@
 id: 88701104
-type: way
+type: node
 latitude: 51.05482
 longitude: 12.68823
 postcode: "04643"
 city: Geithain
-street: "Altenburger Straße"
-housenumber: 1
+street: Altenburger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-16:00; PH,Sa,Su off"
+opening_hours: Mo-Fr 09:00-16:00; PH,Sa,Su off
 website: ""

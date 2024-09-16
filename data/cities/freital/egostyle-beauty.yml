@@ -4,8 +4,9 @@ latitude: 51.01
 longitude: 13.66074
 postcode: "01705"
 city: Freital
-street: "Turnerstraße"
-housenumber: 1
+street: Turnerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-22:00 Termin vereinbaren; Sa 08:00-16:00 Termin vereinbaren; PH,Su off"
+opening_hours: Mo-Fr 07:30-22:00 "Termin vereinbaren"; Sa 08:00-16:00 "Termin vereinbaren";
+    PH,Su off
 website: ""

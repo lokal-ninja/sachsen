@@ -4,8 +4,8 @@ latitude: 50.9202
 longitude: 12.80768
 postcode: "09217"
 city: Burgstädt
-street: "August-Bebel-Straße"
-housenumber: 28
+street: August-Bebel-Straße
+housenumber: "28"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

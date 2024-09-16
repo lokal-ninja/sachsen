@@ -4,8 +4,9 @@ latitude: 51.32425
 longitude: 12.5624
 postcode: "04824"
 city: Brandis
-street: "Dorfstraße"
-housenumber: 27
+street: Dorfstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo 06:00-13:00; Tu-Th 05:30-13:00,14:30-17:30; Fr 05:30-17:30; Sa 06:30-11:00; Su 07:30-10:00"
+opening_hours: Mo 06:00-13:00; Tu-Th 05:30-13:00,14:30-17:30; Fr 05:30-17:30; Sa 06:30-11:00;
+    Su 07:30-10:00
 website: ""

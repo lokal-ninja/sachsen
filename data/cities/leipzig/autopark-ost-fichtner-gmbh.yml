@@ -1,11 +1,11 @@
 id: 280430703
-type: way
+type: node
 latitude: 51.34361
 longitude: 12.42167
 postcode: "04315"
 city: Leipzig
-street: "Wurzner Straße"
-housenumber: 
-phone: "+49 341 2458680"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-13:00"
-website: "https://www.autopark-ost-fichtner.de/"
+street: Wurzner Straße
+housenumber: ""
+phone: +49 341 2458680
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-13:00
+website: https://www.autopark-ost-fichtner.de/

@@ -4,8 +4,9 @@ latitude: 51.37467
 longitude: 12.48528
 postcode: "04425"
 city: Taucha
-street: "August-Bebel-Straße"
+street: August-Bebel-Straße
 housenumber: 13a
 phone: ""
-opening_hours: "Mo-Th 09:00-12:30,13:30-18:30, Fr 09:00-12:00|Mittwoch ab 13:30 nach Vereinbarung"
+opening_hours: Mo-Th 09:00-12:30,13:30-18:30, Fr 09:00-12:00|"Mittwoch ab 13:30 nach
+    Vereinbarung"
 website: ""

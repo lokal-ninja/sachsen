@@ -4,8 +4,8 @@ latitude: 51.04566
 longitude: 13.78813
 postcode: "01309"
 city: Dresden
-street: "Wormser Straße"
-housenumber: 66
+street: Wormser Straße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-14:00"
-website: "http://glamour-dresden.de"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-14:00
+website: http://glamour-dresden.de

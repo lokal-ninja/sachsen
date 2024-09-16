@@ -1,11 +1,11 @@
 id: 146386325
-type: way
+type: node
 latitude: 51.30456
 longitude: 12.26652
 postcode: "04207"
 city: Leipzig
-street: "Pfaffensteinstraße"
-housenumber: 12
-phone: "+49 157 72671548"
-opening_hours: "Mo-Di 16:00-20:00, Do-Sa 16:00-20:00"
-website: "https://www.filmoase-videothek.de/"
+street: Pfaffensteinstraße
+housenumber: "12"
+phone: +49 157 72671548
+opening_hours: Mo-Di 16:00-20:00, Do-Sa 16:00-20:00
+website: https://www.filmoase-videothek.de/

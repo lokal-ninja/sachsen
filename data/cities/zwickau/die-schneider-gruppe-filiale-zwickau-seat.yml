@@ -1,11 +1,11 @@
 id: 564392213
-type: way
+type: node
 latitude: 50.7361
 longitude: 12.48929
 postcode: "08058"
 city: Zwickau
-street: "Leipziger Straße"
-housenumber: 113
+street: Leipziger Straße
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
 website: ""

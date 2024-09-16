@@ -1,11 +1,11 @@
 id: 89058692
-type: way
+type: node
 latitude: 51.36105
 longitude: 12.70597
 postcode: "04828"
 city: Bennewitz
-street: "Eschenring"
-housenumber: 44
+street: Eschenring
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.penny.de/

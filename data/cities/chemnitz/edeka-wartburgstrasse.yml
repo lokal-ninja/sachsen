@@ -1,11 +1,11 @@
 id: 1014431520
-type: way
+type: node
 latitude: 50.81758
 longitude: 12.9389
 postcode: "09126"
 city: Chemnitz
-street: "Wartburgstraße"
-housenumber: 25
+street: Wartburgstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

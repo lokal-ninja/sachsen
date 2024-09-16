@@ -4,8 +4,8 @@ latitude: 51.00441
 longitude: 13.84872
 postcode: "01259"
 city: Dresden
-street: "Putjatinstraße"
-housenumber: 14
-phone: "+49 351 2057642"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-13:00"
-website: "http://www.lotto-krause.de/"
+street: Putjatinstraße
+housenumber: "14"
+phone: +49 351 2057642
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-13:00
+website: http://www.lotto-krause.de/

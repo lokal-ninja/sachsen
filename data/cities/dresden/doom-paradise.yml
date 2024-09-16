@@ -4,8 +4,8 @@ latitude: 51.06696
 longitude: 13.75405
 postcode: "01099"
 city: Dresden
-street: "Görlitzer Straße"
-housenumber: 9
+street: Görlitzer Straße
+housenumber: "9"
 phone: ""
-opening_hours: "by appointment gloom-paradise.de"
+opening_hours: '"by appointment gloom-paradise.de"'
 website: ""

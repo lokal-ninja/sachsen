@@ -1,11 +1,11 @@
 id: 88220313
-type: way
+type: node
 latitude: 51.17759
 longitude: 14.45278
 postcode: "02625"
 city: Bautzen
-street: "Löbauer Straße"
-housenumber: 60
-phone: "+49 3591 600125"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-16:00"
-website: "https://www.atu.de/filiale-bautzen-202.html"
+street: Löbauer Straße
+housenumber: "60"
+phone: +49 3591 600125
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-16:00
+website: https://www.atu.de/filiale-bautzen-202.html

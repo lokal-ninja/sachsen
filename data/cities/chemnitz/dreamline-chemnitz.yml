@@ -1,11 +1,11 @@
 id: 108569798
-type: way
+type: node
 latitude: 50.83848
 longitude: 12.95594
 postcode: "09130"
 city: Chemnitz
-street: "Heinrich-Schütz-Straße"
-housenumber: 110
-phone: "+49 176 72272029"
+street: Heinrich-Schütz-Straße
+housenumber: "110"
+phone: +49 176 72272029
 opening_hours: ""
 website: ""

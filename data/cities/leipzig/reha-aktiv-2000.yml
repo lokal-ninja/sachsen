@@ -4,8 +4,8 @@ latitude: 51.33107
 longitude: 12.37575
 postcode: "04107"
 city: Leipzig
-street: "Riemannstraße"
-housenumber: 32
-phone: "+49 341 2251381"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.reha-aktiv2000.de/filialen/leipzig/"
+street: Riemannstraße
+housenumber: "32"
+phone: +49 341 2251381
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.reha-aktiv2000.de/filialen/leipzig/

@@ -4,8 +4,8 @@ latitude: 50.9915
 longitude: 13.6358
 postcode: "01705"
 city: Freital
-street: "Südstraße"
-housenumber: 47
-phone: "+49 351 6417301"
-opening_hours: "Su-Mo,PH off; Tu-Fr 09:00-18:00; Sa 08:00-12:00"
-website: "http://www.haarstudio-kopfüber.de/"
+street: Südstraße
+housenumber: "47"
+phone: +49 351 6417301
+opening_hours: Su-Mo,PH off; Tu-Fr 09:00-18:00; Sa 08:00-12:00
+website: http://www.haarstudio-kopfüber.de/

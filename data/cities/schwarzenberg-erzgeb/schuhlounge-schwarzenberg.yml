@@ -4,8 +4,8 @@ latitude: 50.5411
 longitude: 12.7851
 postcode: "08340"
 city: Schwarzenberg/Erzgeb.
-street: "Bahnhofstraße"
-housenumber: 11
-phone: "+49 3774 7389959"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://www.schuh-lounge.de"
+street: Bahnhofstraße
+housenumber: "11"
+phone: +49 3774 7389959
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: http://www.schuh-lounge.de

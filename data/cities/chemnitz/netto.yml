@@ -1,11 +1,11 @@
 id: 506569754
-type: way
+type: node
 latitude: 50.83649
 longitude: 12.89418
 postcode: "09113"
 city: Chemnitz
-street: "Limbacher Straße"
-housenumber: 73
+street: Limbacher Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.netto.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.netto.de/

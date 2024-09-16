@@ -4,8 +4,8 @@ latitude: 51.39244
 longitude: 12.34013
 postcode: "04158"
 city: Leipzig
-street: "Zur Lindenhöhe"
-housenumber: 1
+street: Zur Lindenhöhe
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.32667
 longitude: 12.32923
 postcode: "04229"
 city: Leipzig
-street: "Naumburger Straße"
-housenumber: 28
-phone: "+49 15755237648"
-opening_hours: "Tu, Fr 09:00-20:00; by appointment"
-website: "www.yava-vetiver.de"
+street: Naumburger Straße
+housenumber: "28"
+phone: +49 15755237648
+opening_hours: Tu, Fr 09:00-20:00; "by appointment"
+website: www.yava-vetiver.de

@@ -1,11 +1,11 @@
 id: 181350856
-type: way
+type: node
 latitude: 51.32532
 longitude: 12.33458
 postcode: "04229"
 city: Leipzig
-street: "Zschochersche Straße"
-housenumber: 79
+street: Zschochersche Straße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

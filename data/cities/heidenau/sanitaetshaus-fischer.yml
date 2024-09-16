@@ -1,11 +1,11 @@
 id: 110521660
-type: way
+type: node
 latitude: 50.97489
 longitude: 13.87207
 postcode: "01809"
 city: Heidenau
-street: "Pirnaer Straße"
-housenumber: 4
+street: Pirnaer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
 website: ""

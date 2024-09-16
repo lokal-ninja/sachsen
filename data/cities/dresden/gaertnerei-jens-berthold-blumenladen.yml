@@ -1,11 +1,11 @@
 id: 166516494
-type: way
+type: node
 latitude: 51.08932
 longitude: 13.63044
 postcode: "01156"
 city: Dresden
-street: "Gohliser Straße"
-housenumber: 4
-phone: "+49351 4537059"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 07:00-12:00; PH off"
+street: Gohliser Straße
+housenumber: "4"
+phone: +49351 4537059
+opening_hours: Mo-Fr 09:00-18:00; Sa 07:00-12:00; PH off
 website: ""

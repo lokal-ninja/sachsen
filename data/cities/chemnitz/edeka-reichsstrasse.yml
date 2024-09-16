@@ -1,11 +1,11 @@
 id: 1169746109
-type: way
+type: node
 latitude: 50.83824
 longitude: 12.9081
 postcode: "09112"
 city: Chemnitz
-street: "Reichsstraße"
-housenumber: 58
+street: Reichsstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

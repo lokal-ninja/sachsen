@@ -4,8 +4,8 @@ latitude: 51.34202
 longitude: 12.37484
 postcode: "04109"
 city: Leipzig
-street: "Katharinenstraße"
-housenumber: 11
+street: Katharinenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 12:00-19:00"
-website: "https://www.katter11.de"
+opening_hours: Mo-Sa 12:00-19:00
+website: https://www.katter11.de

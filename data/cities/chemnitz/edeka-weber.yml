@@ -1,11 +1,11 @@
 id: 770941222
-type: way
+type: node
 latitude: 50.77399
 longitude: 12.97121
 postcode: "09123"
 city: Chemnitz
-street: "Wiesenufer"
-housenumber: 1
-phone: "+49 37209 812530"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-weber-wiesenufer-1/"
+street: Wiesenufer
+housenumber: "1"
+phone: +49 37209 812530
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-weber-wiesenufer-1/

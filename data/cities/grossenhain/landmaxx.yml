@@ -4,8 +4,8 @@ latitude: 51.28934
 longitude: 13.52398
 postcode: "01558"
 city: Großenhain
-street: "Bahnhofstraße"
-housenumber: 7
-phone: "+49 3522 3210"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-18:00; PH off"
-website: "https://landmaxx.de/standorte/grossenhain/"
+street: Bahnhofstraße
+housenumber: "7"
+phone: +49 3522 3210
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-18:00; PH off
+website: https://landmaxx.de/standorte/grossenhain/

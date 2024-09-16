@@ -1,11 +1,11 @@
 id: 158553808
-type: way
+type: node
 latitude: 51.31885
 longitude: 14.70287
 postcode: "02906"
 city: Mücka
-street: "Pappelweg"
-housenumber: 144
+street: Pappelweg
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

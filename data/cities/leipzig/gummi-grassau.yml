@@ -1,11 +1,11 @@
 id: 140301440
-type: way
+type: node
 latitude: 51.36324
 longitude: 12.404
 postcode: "04357"
 city: Leipzig
-street: "Wollkämmereistraße"
-housenumber: 1
+street: Wollkämmereistraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

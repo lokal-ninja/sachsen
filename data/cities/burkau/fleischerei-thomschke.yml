@@ -4,8 +4,8 @@ latitude: 51.1732
 longitude: 14.15556
 postcode: "01906"
 city: Burkau
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Tu,Fr 08:00-18:00; Sa 07:00-10:00; Mo,We,Th,Su,PH off"
+opening_hours: Tu,Fr 08:00-18:00; Sa 07:00-10:00; Mo,We,Th,Su,PH off
 website: ""

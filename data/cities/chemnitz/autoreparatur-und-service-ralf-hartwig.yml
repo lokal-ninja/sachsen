@@ -1,11 +1,11 @@
 id: 394669967
-type: way
+type: node
 latitude: 50.8312
 longitude: 12.94445
 postcode: "09126"
 city: Chemnitz
-street: "Adelsbergstraße"
-housenumber: 32
+street: Adelsbergstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:30"
+opening_hours: Mo-Fr 06:30-17:30
 website: ""

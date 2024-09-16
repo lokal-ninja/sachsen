@@ -4,8 +4,8 @@ latitude: 51.20361
 longitude: 13.15117
 postcode: "04749"
 city: Jahnatal
-street: "Sachsenstraße"
-housenumber: 5
-phone: "+49 34324 22914"
-opening_hours: "Mo-Fr 09.30-18.00; Sa 09:30-14:00; Su,PH off"
+street: Sachsenstraße
+housenumber: "5"
+phone: +49 34324 22914
+opening_hours: Mo-Fr 09.30-18.00; Sa 09:30-14:00; Su,PH off
 website: ""

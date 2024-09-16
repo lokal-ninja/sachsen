@@ -4,8 +4,8 @@ latitude: 50.83325
 longitude: 12.89066
 postcode: "09116"
 city: Chemnitz
-street: "Schiersandstraße"
-housenumber: 18
+street: Schiersandstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Bitte Termin vereinbaren"
+opening_hours: '"Bitte Termin vereinbaren"'
 website: ""

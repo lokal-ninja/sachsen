@@ -1,11 +1,11 @@
 id: 823575805
-type: way
+type: node
 latitude: 51.32249
 longitude: 12.30911
 postcode: "04209"
 city: Leipzig
-street: "Brünner Straße"
+street: Brünner Straße
 housenumber: 8c
-phone: "+49 341 484777"
-opening_hours: "Mo-Fr 07:00-18:30"
+phone: +49 341 484777
+opening_hours: Mo-Fr 07:00-18:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.06973
 longitude: 13.77615
 postcode: "01099"
 city: Dresden
-street: "Waldschlößchenstraße"
-housenumber: 22
+street: Waldschlößchenstraße
+housenumber: "22"
 phone: "+493518036119"
-opening_hours: "Mo-Sa 06:00-18:00; Su 07:30-18:00"
-website: "https://www.baeckerei-krause.de/"
+opening_hours: Mo-Sa 06:00-18:00; Su 07:30-18:00
+website: https://www.baeckerei-krause.de/

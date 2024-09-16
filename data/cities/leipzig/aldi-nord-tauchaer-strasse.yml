@@ -1,11 +1,11 @@
 id: 115787013
-type: way
+type: node
 latitude: 51.37799
 longitude: 12.41624
 postcode: "04357"
 city: Leipzig
-street: "Tauchaer Straße"
-housenumber: 10
+street: Tauchaer Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/leipzig/tauchaer-strasse-10/3181205"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/leipzig/tauchaer-strasse-10/3181205

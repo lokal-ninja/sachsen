@@ -1,11 +1,11 @@
 id: 328373229
-type: way
+type: node
 latitude: 50.48219
 longitude: 12.37734
 postcode: "08223"
 city: Falkenstein/Vogtl.
-street: "Ellefelder Straße"
-housenumber: 19
+street: Ellefelder Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

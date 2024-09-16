@@ -4,8 +4,8 @@ latitude: 51.18122
 longitude: 14.42667
 postcode: "02625"
 city: Bautzen
-street: "Reichenstraße"
-housenumber: 23
-phone: "+49 3591 3102251"
-opening_hours: "Mo-Fr 09:30-17:00; Sa 09:30-14:00; PH off"
-website: "https://www.kraeuter-seifert.de/"
+street: Reichenstraße
+housenumber: "23"
+phone: +49 3591 3102251
+opening_hours: Mo-Fr 09:30-17:00; Sa 09:30-14:00; PH off
+website: https://www.kraeuter-seifert.de/

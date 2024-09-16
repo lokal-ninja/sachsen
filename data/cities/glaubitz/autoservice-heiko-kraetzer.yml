@@ -1,11 +1,11 @@
 id: 124539286
-type: way
+type: node
 latitude: 51.33136
 longitude: 13.36341
 postcode: "01612"
 city: Glaubitz
-street: "Industriestraße A"
-housenumber: 10
+street: Industriestraße A
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00"
+opening_hours: Mo-Fr 07:30-18:00
 website: ""

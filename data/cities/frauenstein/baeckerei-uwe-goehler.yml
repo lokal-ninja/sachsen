@@ -1,11 +1,11 @@
 id: 290967967
-type: way
+type: node
 latitude: 50.79288
 longitude: 13.48535
 postcode: "09623"
 city: Frauenstein
-street: "Bergstraße"
-housenumber: 6
-phone: "+49 37326 1458"
+street: Bergstraße
+housenumber: "6"
+phone: +49 37326 1458
 opening_hours: ""
 website: ""

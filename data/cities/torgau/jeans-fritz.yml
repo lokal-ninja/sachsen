@@ -4,8 +4,8 @@ latitude: 51.5632
 longitude: 12.97078
 postcode: "04860"
 city: Torgau
-street: "Außenring"
-housenumber: 1
-phone: "+49 3421 739024"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.jeans-fritz.de/"
+street: Außenring
+housenumber: "1"
+phone: +49 3421 739024
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.jeans-fritz.de/

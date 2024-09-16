@@ -1,11 +1,11 @@
 id: 76734135
-type: way
+type: node
 latitude: 51.07297
 longitude: 13.73509
 postcode: "01097"
 city: Dresden
-street: "Großenhainer Platz"
-housenumber: 4
+street: Großenhainer Platz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-12:00"
-website: "https://www.autohaus-anders.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-12:00
+website: https://www.autohaus-anders.de/

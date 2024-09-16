@@ -1,11 +1,11 @@
 id: 875241710
-type: way
+type: node
 latitude: 51.15513
 longitude: 14.43357
 postcode: "02625"
 city: Bautzen
-street: "Am Strehlaer Wasser"
-housenumber: 4
+street: Am Strehlaer Wasser
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:30; PH off"
+opening_hours: Mo-Sa 07:00-20:30; PH off
 website: ""

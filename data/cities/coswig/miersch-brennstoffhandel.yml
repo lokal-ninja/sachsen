@@ -1,11 +1,11 @@
 id: 43869490
-type: way
+type: node
 latitude: 51.14747
 longitude: 13.54516
 postcode: "01640"
 city: Coswig
-street: "Köhlerstraße"
-housenumber: 16
+street: Köhlerstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 43561251
-type: way
+type: node
 latitude: 51.13799
 longitude: 14.19492
 postcode: "01877"
 city: Bischofswerda
-street: "Forsthausstraße"
-housenumber: 7
+street: Forsthausstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

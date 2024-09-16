@@ -4,8 +4,8 @@ latitude: 51.29616
 longitude: 13.53432
 postcode: "01558"
 city: Großenhain
-street: "Albertstraße"
-housenumber: 4
-phone: "+49 3522 540910"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00; Sa 09:00-11:00; Su closed"
+street: Albertstraße
+housenumber: "4"
+phone: +49 3522 540910
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00; Sa 09:00-11:00; Su closed
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.02503
 longitude: 14.24263
 postcode: "01844"
 city: Neustadt in Sachsen
-street: "Dorfstraße"
-housenumber: 30
-phone: "+49 3596 603508"
-opening_hours: "Sa 06:00-10:30; Su,Mo,PH off; Tu-Fr 06:30-17:00"
-website: "https://www.baecker-beyer.de/"
+street: Dorfstraße
+housenumber: "30"
+phone: +49 3596 603508
+opening_hours: Sa 06:00-10:30; Su,Mo,PH off; Tu-Fr 06:30-17:00
+website: https://www.baecker-beyer.de/

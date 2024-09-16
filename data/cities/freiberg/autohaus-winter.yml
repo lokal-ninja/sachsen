@@ -1,11 +1,11 @@
 id: 88563125
-type: way
+type: node
 latitude: 50.89781
 longitude: 13.32839
 postcode: "09599"
 city: Freiberg
-street: "Häuersteig"
-housenumber: 29
-phone: "+49 3731 68110"
+street: Häuersteig
+housenumber: "29"
+phone: +49 3731 68110
 opening_hours: ""
-website: "http://www.autohaus.ford.de/winter/freiberg"
+website: http://www.autohaus.ford.de/winter/freiberg

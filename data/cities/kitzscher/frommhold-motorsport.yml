@@ -1,11 +1,11 @@
 id: 270351079
-type: way
+type: node
 latitude: 51.17088
 longitude: 12.54983
 postcode: "04567"
 city: Kitzscher
-street: "Randsiedlung"
-housenumber: 1
+street: Randsiedlung
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
 website: ""

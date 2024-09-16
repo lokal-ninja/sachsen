@@ -1,11 +1,11 @@
 id: 494149371
-type: way
+type: node
 latitude: 50.78058
 longitude: 12.6943
 postcode: "09355"
 city: Gersdorf
-street: "Hofer Straße"
-housenumber: 8
+street: Hofer Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

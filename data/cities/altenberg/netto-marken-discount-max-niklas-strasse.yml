@@ -4,8 +4,8 @@ latitude: 50.76858
 longitude: 13.75513
 postcode: "01773"
 city: Altenberg
-street: "Max-Niklas-Straße"
-housenumber: 4
+street: Max-Niklas-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.netto-online.de

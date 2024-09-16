@@ -4,8 +4,8 @@ latitude: 50.72359
 longitude: 12.49391
 postcode: "08056"
 city: Zwickau
-street: "Moritzstraße"
-housenumber: 35
-phone: "+49 375 35316305"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-13:00"
-website: "https://www.premium-concepts.de/"
+street: Moritzstraße
+housenumber: "35"
+phone: +49 375 35316305
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:30-13:00
+website: https://www.premium-concepts.de/

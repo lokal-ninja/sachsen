@@ -1,11 +1,11 @@
 id: 27738120
-type: way
+type: node
 latitude: 51.04064
 longitude: 13.68896
 postcode: "01159"
 city: Dresden
-street: "Grillenburger Straße"
-housenumber: 19
+street: Grillenburger Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-12:30"
-website: "https://orthopaedie-berneis.de/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-12:30
+website: https://orthopaedie-berneis.de/

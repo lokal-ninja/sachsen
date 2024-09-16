@@ -5,7 +5,7 @@ longitude: 12.86562
 postcode: ""
 city: Chemnitz
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.saturn.de/de/store/chemnitz-roehrsdorf-211"
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.saturn.de/de/store/chemnitz-roehrsdorf-211

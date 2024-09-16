@@ -1,11 +1,11 @@
 id: 174970221
-type: way
+type: node
 latitude: 51.25679
 longitude: 12.4437
 postcode: ""
 city: Großpösna
-street: "Große Gasse"
-housenumber: 1
+street: Große Gasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "autodienstdoering.npage.de"
+website: autodienstdoering.npage.de

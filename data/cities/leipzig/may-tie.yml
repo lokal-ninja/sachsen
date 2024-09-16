@@ -4,8 +4,8 @@ latitude: 51.33634
 longitude: 12.3944
 postcode: "04103"
 city: Leipzig
-street: "Gerichtsweg"
-housenumber: 11
-phone: "+49 157 3360 9407"
-opening_hours: "Mo-Fr. 12:00-17:00 Uhr"
-website: "https://may-tie.com/"
+street: Gerichtsweg
+housenumber: "11"
+phone: +49 157 3360 9407
+opening_hours: Mo-Fr. 12:00-17:00 Uhr
+website: https://may-tie.com/

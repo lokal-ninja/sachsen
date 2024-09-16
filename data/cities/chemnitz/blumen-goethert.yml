@@ -1,11 +1,11 @@
 id: 94365922
-type: way
+type: node
 latitude: 50.81175
 longitude: 12.96154
 postcode: "09127"
 city: Chemnitz
-street: "Zschopauer Straße"
-housenumber: 309
+street: Zschopauer Straße
+housenumber: "309"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00; Su 09:30-11:30"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00; Su 09:30-11:30
 website: ""

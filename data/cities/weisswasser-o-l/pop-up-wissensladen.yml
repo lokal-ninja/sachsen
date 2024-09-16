@@ -4,8 +4,8 @@ latitude: 51.50561
 longitude: 14.64362
 postcode: "02943"
 city: Weißwasser/O.L.
-street: "Straße der Glasmacher"
-housenumber: 6
-phone: "+49 3576 2174789"
-opening_hours: "Mo,We 09:00-14:00; Tu,Th 14:00-18:00; Fr 08:00-14:00"
-website: "https://tu-dresden.de/kooperation/wissenschaftsjahr-2022"
+street: Straße der Glasmacher
+housenumber: "6"
+phone: +49 3576 2174789
+opening_hours: Mo,We 09:00-14:00; Tu,Th 14:00-18:00; Fr 08:00-14:00
+website: https://tu-dresden.de/kooperation/wissenschaftsjahr-2022

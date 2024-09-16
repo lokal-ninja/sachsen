@@ -4,8 +4,8 @@ latitude: 51.02559
 longitude: 13.76203
 postcode: "01219"
 city: Dresden
-street: "Lockwitzer Straße"
-housenumber: 15
-phone: "+49 351 4720910"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.touristik-center.com"
+street: Lockwitzer Straße
+housenumber: "15"
+phone: +49 351 4720910
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.touristik-center.com

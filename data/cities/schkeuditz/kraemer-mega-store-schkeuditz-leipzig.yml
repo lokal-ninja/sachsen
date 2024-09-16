@@ -4,8 +4,8 @@ latitude: 51.4172
 longitude: 12.30681
 postcode: "04435"
 city: Schkeuditz
-street: "Kölner Straße"
-housenumber: 1
+street: Kölner Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-17:00"
-website: "https://www.kraemer.de/MEGA-STORES/Schkeuditz-Leipzig"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-17:00
+website: https://www.kraemer.de/MEGA-STORES/Schkeuditz-Leipzig

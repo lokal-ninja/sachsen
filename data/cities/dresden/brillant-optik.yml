@@ -4,8 +4,8 @@ latitude: 51.0401
 longitude: 13.80563
 postcode: "01277"
 city: Dresden
-street: "Altenberger Straße"
-housenumber: 28
-phone: "+49 351 315 56 55"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://brillant-optik.com/"
+street: Altenberger Straße
+housenumber: "28"
+phone: +49 351 315 56 55
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://brillant-optik.com/

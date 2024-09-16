@@ -4,8 +4,8 @@ latitude: 51.34625
 longitude: 12.41608
 postcode: "04315"
 city: Leipzig
-street: "Torgauer Platz"
-housenumber: 6
+street: Torgauer Platz
+housenumber: "6"
 phone: ""
-opening_hours: "Sa 10:00-15:00; Tu,We 15:00-19:00; Th,Fr 13:00-19:00; Mo off"
-website: "https://www.jacques.de/depot/113/leipzig-ost/"
+opening_hours: Sa 10:00-15:00; Tu,We 15:00-19:00; Th,Fr 13:00-19:00; Mo off
+website: https://www.jacques.de/depot/113/leipzig-ost/

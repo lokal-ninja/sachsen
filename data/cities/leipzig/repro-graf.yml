@@ -4,8 +4,8 @@ latitude: 51.33103
 longitude: 12.37426
 postcode: "04107"
 city: Leipzig
-street: "Riemannstraße"
-housenumber: 29
+street: Riemannstraße
+housenumber: "29"
 phone: "+4934114990446"
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "https://reprograf-leipzig.de/"
+opening_hours: Mo-Fr 09:00-17:30
+website: https://reprograf-leipzig.de/

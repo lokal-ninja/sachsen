@@ -4,8 +4,8 @@ latitude: 51.36525
 longitude: 12.43467
 postcode: "04347"
 city: Leipzig
-street: "Stöhrerstraße"
-housenumber: 20
+street: Stöhrerstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.mateco.de/de/standorte/deutschland/leipzig"
+website: https://www.mateco.de/de/standorte/deutschland/leipzig

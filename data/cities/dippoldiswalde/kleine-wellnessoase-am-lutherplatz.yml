@@ -4,8 +4,8 @@ latitude: 50.83663
 longitude: 13.67493
 postcode: "01744"
 city: Dippoldiswalde
-street: "Lutherplatz"
-housenumber: 28
+street: Lutherplatz
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00 nach Vereinbarung"
+opening_hours: Mo-Sa 10:00-20:00 "nach Vereinbarung"
 website: ""

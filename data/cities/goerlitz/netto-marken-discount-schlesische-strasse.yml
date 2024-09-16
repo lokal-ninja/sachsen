@@ -1,11 +1,11 @@
 id: 257602889
-type: way
+type: node
 latitude: 51.16962
 longitude: 14.97755
 postcode: "02828"
 city: Görlitz
-street: "Schlesische Straße"
-housenumber: 29
+street: Schlesische Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 697750525
-type: way
+type: node
 latitude: 51.29063
 longitude: 13.1355
 postcode: "04758"
 city: Oschatz
-street: "Dresdener Straße"
-housenumber: 95
-phone: "+49 3435 929730"
-opening_hours: "Mo-Su 05:00-22:00"
-website: "https://www.total.de/"
+street: Dresdener Straße
+housenumber: "95"
+phone: +49 3435 929730
+opening_hours: Mo-Su 05:00-22:00
+website: https://www.total.de/

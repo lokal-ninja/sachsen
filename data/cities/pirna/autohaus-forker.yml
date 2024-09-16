@@ -1,11 +1,11 @@
 id: 126385179
-type: way
+type: node
 latitude: 50.94975
 longitude: 13.9532
 postcode: "01796"
 city: Pirna
-street: "Longuyoner Straße"
-housenumber: 7
+street: Longuyoner Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

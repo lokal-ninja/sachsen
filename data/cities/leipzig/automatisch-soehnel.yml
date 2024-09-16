@@ -4,8 +4,8 @@ latitude: 51.36353
 longitude: 12.39146
 postcode: "04129"
 city: Leipzig
-street: "Hamburger Straße"
-housenumber: 49
+street: Hamburger Straße
+housenumber: "49"
 phone: "+493419107709"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.automatisch-soehnel.de/"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.automatisch-soehnel.de/

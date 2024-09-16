@@ -1,11 +1,11 @@
 id: 88423583
-type: way
+type: node
 latitude: 51.46294
 longitude: 12.44469
 postcode: "04509"
 city: Krostitz
-street: "An den Leinewiesen"
-housenumber: 2
+street: An den Leinewiesen
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

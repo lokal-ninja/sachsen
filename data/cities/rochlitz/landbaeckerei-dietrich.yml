@@ -4,8 +4,8 @@ latitude: 51.04598
 longitude: 12.79898
 postcode: "09306"
 city: Rochlitz
-street: "Markt"
-housenumber: 4
-phone: "+49 3737 770808"
-opening_hours: "Mo off; Tu-Sa 07:00-17:00; Su 13:00-17:00"
-website: "https://www.landbaeckerei-dietrich.de/"
+street: Markt
+housenumber: "4"
+phone: +49 3737 770808
+opening_hours: Mo off; Tu-Sa 07:00-17:00; Su 13:00-17:00
+website: https://www.landbaeckerei-dietrich.de/

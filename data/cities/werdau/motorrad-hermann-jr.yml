@@ -1,11 +1,11 @@
 id: 624449930
-type: way
+type: node
 latitude: 50.71337
 longitude: 12.3985
 postcode: "08412"
 city: Werdau
-street: "Hauptstraße"
-housenumber: 69
+street: Hauptstraße
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "https://www.motorrad-hermann-jr.de/"
+website: https://www.motorrad-hermann-jr.de/

@@ -1,11 +1,11 @@
 id: 450191746
-type: way
+type: node
 latitude: 51.0135
 longitude: 14.57762
 postcode: "02730"
 city: Ebersbach-Neugersdorf
-street: "Seitenstraße"
-housenumber: 4
-phone: "+49 3586 76120"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.auto-dienst-kumpfe.de/"
+street: Seitenstraße
+housenumber: "4"
+phone: +49 3586 76120
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.auto-dienst-kumpfe.de/

@@ -4,8 +4,8 @@ latitude: 50.94003
 longitude: 13.76792
 postcode: "01731"
 city: Kreischa
-street: "Dippoldiswalder Straße"
-housenumber: 15
-phone: "+49 172 7787772"
-opening_hours: "Nach Vereinbarung"
+street: Dippoldiswalder Straße
+housenumber: "15"
+phone: +49 172 7787772
+opening_hours: '"Nach Vereinbarung"'
 website: ""

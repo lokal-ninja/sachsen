@@ -4,8 +4,8 @@ latitude: 50.95236
 longitude: 12.73354
 postcode: "09322"
 city: Penig
-street: "Eduard-Bilz-Weg"
-housenumber: 3
+street: Eduard-Bilz-Weg
+housenumber: "3"
 phone: "+493738169477"
-opening_hours: "Mo 16:30-18:00; Fr 9:00-13:00, 14:00-18:00; Sa 9:00-12:00"
-website: "https://www.gefluegelhof-arnsdorf.de"
+opening_hours: Mo 16:30-18:00; Fr 9:00-13:00, 14:00-18:00; Sa 9:00-12:00
+website: https://www.gefluegelhof-arnsdorf.de

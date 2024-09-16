@@ -4,8 +4,8 @@ latitude: 51.33579
 longitude: 12.40611
 postcode: "04317"
 city: Leipzig
-street: "Täubchenweg"
-housenumber: 84
-phone: "+49 341 24689032"
-opening_hours: "Mo-We 10:00-19:00; Th 10:00-20:00; Fr 10:00-19:00; Sa 10:00-14:00"
-website: "https://www.velowelt-leipzig.de/"
+street: Täubchenweg
+housenumber: "84"
+phone: +49 341 24689032
+opening_hours: Mo-We 10:00-19:00; Th 10:00-20:00; Fr 10:00-19:00; Sa 10:00-14:00
+website: https://www.velowelt-leipzig.de/

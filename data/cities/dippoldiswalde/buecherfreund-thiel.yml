@@ -4,8 +4,8 @@ latitude: 50.89608
 longitude: 13.66894
 postcode: ""
 city: Dippoldiswalde
-street: "Herrengasse"
-housenumber: 13
-phone: "+49 3504 612580"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://buecherfreund.dippoldiswalde.de/"
+street: Herrengasse
+housenumber: "13"
+phone: +49 3504 612580
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: http://buecherfreund.dippoldiswalde.de/

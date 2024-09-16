@@ -1,11 +1,11 @@
 id: 25808212
-type: way
+type: node
 latitude: 51.14632
 longitude: 14.94238
 postcode: "02827"
 city: Görlitz
-street: "Friedrich-Naumann-Straße"
-housenumber: 3
+street: Friedrich-Naumann-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su closed"
-website: "https://www.action.com/de-de/laden/gorlitz-friedrich-naumann-strabe/"
+opening_hours: Mo-Sa 09:00-20:00; Su closed
+website: https://www.action.com/de-de/laden/gorlitz-friedrich-naumann-strabe/

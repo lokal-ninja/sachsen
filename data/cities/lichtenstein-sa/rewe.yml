@@ -1,11 +1,11 @@
 id: 1155965411
-type: way
+type: node
 latitude: 50.75683
 longitude: 12.63004
 postcode: "09350"
 city: Lichtenstein/Sa.
-street: "Glauchauer Straße"
-housenumber: 11
+street: Glauchauer Straße
+housenumber: "11"
 phone: "+4937204999030"
-opening_hours: "Mo-Sa 06:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

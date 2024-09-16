@@ -1,11 +1,11 @@
 id: 257005575
-type: way
+type: node
 latitude: 51.269
 longitude: 13.25276
 postcode: "01594"
 city: Stauchitz
-street: "Gewerbering"
-housenumber: 4
+street: Gewerbering
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 101501764
-type: way
+type: node
 latitude: 50.81123
 longitude: 12.77954
 postcode: "09224"
 city: Chemnitz
-street: "Forststraße"
-housenumber: 4
+street: Forststraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

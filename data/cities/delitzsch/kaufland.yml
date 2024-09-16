@@ -1,11 +1,11 @@
 id: 1032068088
-type: way
+type: node
 latitude: 51.53821
 longitude: 12.32643
 postcode: "04509"
 city: Delitzsch
-street: "Sachsenstraße"
-housenumber: 8
-phone: "+49 34202 30960"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+street: Sachsenstraße
+housenumber: "8"
+phone: +49 34202 30960
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 111345573
-type: way
+type: node
 latitude: 51.35879
 longitude: 12.99132
 postcode: "04774"
 city: Dahlen
-street: "Bahnhofstraße"
-housenumber: 98
+street: Bahnhofstraße
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

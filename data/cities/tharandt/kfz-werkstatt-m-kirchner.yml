@@ -4,8 +4,8 @@ latitude: 50.99731
 longitude: 13.60115
 postcode: "01737"
 city: Tharandt
-street: "Freitaler Straße"
-housenumber: 8
-phone: "+49 35203 2802"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00; Su,PH off"
+street: Freitaler Straße
+housenumber: "8"
+phone: +49 35203 2802
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

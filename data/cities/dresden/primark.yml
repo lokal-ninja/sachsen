@@ -4,8 +4,8 @@ latitude: 51.04599
 longitude: 13.7342
 postcode: "01069"
 city: Dresden
-street: "Prager Straße"
-housenumber: 15
-phone: "+49 351 48618790"
-opening_hours: "Mo-Sa 09:30-20:00"
+street: Prager Straße
+housenumber: "15"
+phone: +49 351 48618790
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

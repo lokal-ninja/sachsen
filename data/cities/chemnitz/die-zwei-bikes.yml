@@ -4,8 +4,8 @@ latitude: 50.84563
 longitude: 12.92424
 postcode: "09113"
 city: Chemnitz
-street: "Eckstraße"
-housenumber: 1
-phone: "+49 371 3899993"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 10:00-14:00; PH,Su off"
-website: "https://diezwei-bikes.de/"
+street: Eckstraße
+housenumber: "1"
+phone: +49 371 3899993
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa 10:00-14:00; PH,Su off
+website: https://diezwei-bikes.de/

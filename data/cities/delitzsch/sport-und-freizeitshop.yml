@@ -4,8 +4,8 @@ latitude: 51.52463
 longitude: 12.34118
 postcode: "04509"
 city: Delitzsch
-street: "Lindenstraße"
-housenumber: 2
-phone: "+49 34202 62836"
-opening_hours: "Su,PH off; Mo-Fr 09:30-17:00; Sa 10:00-12:00"
-website: "http://www.sport-freizeitshop-delitzsch.de/"
+street: Lindenstraße
+housenumber: "2"
+phone: +49 34202 62836
+opening_hours: Su,PH off; Mo-Fr 09:30-17:00; Sa 10:00-12:00
+website: http://www.sport-freizeitshop-delitzsch.de/

@@ -4,8 +4,8 @@ latitude: 50.82928
 longitude: 12.9232
 postcode: "09111"
 city: Chemnitz
-street: "Reitbahnstraße"
-housenumber: 30
-phone: "+49 371 2735859"
-opening_hours: "Mo-Fr 10:00-18:00; We 12:00-17:00; Sa 10:00-13:00"
-website: "https://www.weltenbaum-derbaummitherz.de"
+street: Reitbahnstraße
+housenumber: "30"
+phone: +49 371 2735859
+opening_hours: Mo-Fr 10:00-18:00; We 12:00-17:00; Sa 10:00-13:00
+website: https://www.weltenbaum-derbaummitherz.de

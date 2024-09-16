@@ -4,8 +4,8 @@ latitude: 51.34536
 longitude: 12.37965
 postcode: "04109"
 city: Leipzig
-street: "Willy-Brandt-Platz"
-housenumber: 5
+street: Willy-Brandt-Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:30-20:00; PH 09:30-20:00"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:30-20:00; PH 09:30-20:00
 website: ""

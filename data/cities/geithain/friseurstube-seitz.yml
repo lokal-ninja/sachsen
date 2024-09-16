@@ -4,8 +4,8 @@ latitude: 51.05165
 longitude: 12.70024
 postcode: "04643"
 city: Geithain
-street: "Marienstraße"
-housenumber: 10
+street: Marienstraße
+housenumber: "10"
 phone: ""
-opening_hours: "PH,Tu,Su off; Mo,We 08:00-16:00; Th,Fr 08:00-19:00"
+opening_hours: PH,Tu,Su off; Mo,We 08:00-16:00; Th,Fr 08:00-19:00
 website: ""

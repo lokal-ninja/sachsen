@@ -1,11 +1,11 @@
 id: 116394738
-type: way
+type: node
 latitude: 51.28166
 longitude: 12.34959
 postcode: ""
 city: Leipzig
-street: "Lauerscher Weg"
-housenumber: 112
+street: Lauerscher Weg
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Su,PH 10:00-19:00"
+opening_hours: Mo-Su,PH 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 229102458
-type: way
+type: node
 latitude: 51.28329
 longitude: 12.53104
 postcode: "04683"
 city: Naunhof
-street: "Hauptstraße"
-housenumber: 50
+street: Hauptstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://uhlrich.portas.de/"
+website: https://uhlrich.portas.de/

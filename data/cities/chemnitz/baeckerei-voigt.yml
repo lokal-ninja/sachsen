@@ -4,8 +4,8 @@ latitude: 50.82805
 longitude: 12.93549
 postcode: "09126"
 city: Chemnitz
-street: "Bernhardstraße"
-housenumber: 11
-phone: "+49 371 5202874"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-11:00"
+street: Bernhardstraße
+housenumber: "11"
+phone: +49 371 5202874
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-11:00
 website: ""

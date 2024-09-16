@@ -4,8 +4,8 @@ latitude: 50.50817
 longitude: 12.1587
 postcode: "08529"
 city: Plauen
-street: "Friedrich-Eckardt-Straße"
-housenumber: 2
+street: Friedrich-Eckardt-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 05:00-21:00; Sa,Su,PH 07:00-21:00"
+opening_hours: Mo-Fr 05:00-21:00; Sa,Su,PH 07:00-21:00
 website: ""

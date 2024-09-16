@@ -4,8 +4,8 @@ latitude: 50.98592
 longitude: 12.98063
 postcode: "09648"
 city: Mittweida
-street: "Markt"
-housenumber: 3
+street: Markt
+housenumber: "3"
 phone: ""
-opening_hours: "Tu,Th 12:00-18:00; We,Fr 08:00-14:00; Sa 08:00-12:00"
+opening_hours: Tu,Th 12:00-18:00; We,Fr 08:00-14:00; Sa 08:00-12:00
 website: ""

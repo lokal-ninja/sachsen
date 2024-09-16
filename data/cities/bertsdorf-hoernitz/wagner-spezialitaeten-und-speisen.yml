@@ -1,11 +1,11 @@
 id: 302942376
-type: way
+type: node
 latitude: 50.9007
 longitude: 14.74447
 postcode: "02763"
 city: Bertsdorf-Hörnitz
-street: "Zittauer Straße"
-housenumber: 30
+street: Zittauer Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

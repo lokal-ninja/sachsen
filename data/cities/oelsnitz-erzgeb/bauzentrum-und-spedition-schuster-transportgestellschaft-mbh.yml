@@ -1,11 +1,11 @@
 id: 216534627
-type: way
+type: node
 latitude: 50.71556
 longitude: 12.71595
 postcode: "09376"
 city: Oelsnitz/Erzgeb.
-street: "Hoffeldstraße"
-housenumber: 1
+street: Hoffeldstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

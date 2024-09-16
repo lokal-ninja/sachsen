@@ -1,11 +1,11 @@
 id: 504633965
-type: way
+type: node
 latitude: 51.45785
 longitude: 14.26607
 postcode: "02977"
 city: Hoyerswerda
-street: "Am Speicher"
-housenumber: 2
+street: Am Speicher
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.03075
 longitude: 13.70512
 postcode: "01187"
 city: Dresden
-street: "Zwickauer Straße"
-housenumber: 152
+street: Zwickauer Straße
+housenumber: "152"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-17:00"
-website: "http://eds-hifi-tv.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:00-17:00
+website: http://eds-hifi-tv.de/

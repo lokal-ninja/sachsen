@@ -1,11 +1,11 @@
 id: 952486956
-type: way
+type: node
 latitude: 50.5311
 longitude: 12.10756
 postcode: "08525"
 city: Plauen
-street: "Alte Jößnitzer Straße"
-housenumber: 30
+street: Alte Jößnitzer Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

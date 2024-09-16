@@ -4,8 +4,8 @@ latitude: 51.33829
 longitude: 12.33303
 postcode: "04177"
 city: Leipzig
-street: "Rietschelstraße"
-housenumber: 1
-phone: "+49 341 4801038"
-opening_hours: "Mo-Fr 08:00-16:00"
+street: Rietschelstraße
+housenumber: "1"
+phone: +49 341 4801038
+opening_hours: Mo-Fr 08:00-16:00
 website: ""

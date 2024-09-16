@@ -1,11 +1,11 @@
 id: 117858072
-type: way
+type: node
 latitude: 51.15839
 longitude: 14.40709
 postcode: "02692"
 city: Doberschau-Gaußig
-street: "Bautzener Straße"
-housenumber: 1
+street: Bautzener Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

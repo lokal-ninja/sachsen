@@ -1,11 +1,11 @@
 id: 785619719
-type: way
+type: node
 latitude: 51.37431
 longitude: 14.33147
 postcode: "02999"
 city: Lohsa
-street: "Neue Dorfstraße"
-housenumber: 17
+street: Neue Dorfstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

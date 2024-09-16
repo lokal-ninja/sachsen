@@ -1,11 +1,11 @@
 id: 390890508
-type: way
+type: node
 latitude: 50.72614
 longitude: 12.5837
 postcode: "08132"
 city: Mülsen
-street: "Zennerberg"
-housenumber: 1
+street: Zennerberg
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 08:00-15:00"
+opening_hours: Tu-Fr 08:00-15:00
 website: ""

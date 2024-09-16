@@ -1,11 +1,11 @@
 id: 97112484
-type: way
+type: node
 latitude: 51.38529
 longitude: 12.73574
 postcode: "04808"
 city: Wurzen
-street: "Schiemannstraße"
-housenumber: 4
+street: Schiemannstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
 website: ""

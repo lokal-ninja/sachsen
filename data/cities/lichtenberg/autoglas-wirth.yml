@@ -1,11 +1,11 @@
 id: 350787243
-type: way
+type: node
 latitude: 51.18015
 longitude: 13.96798
 postcode: "01896"
 city: Lichtenberg
-street: "Mittelbacher Straße"
-housenumber: 33
+street: Mittelbacher Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

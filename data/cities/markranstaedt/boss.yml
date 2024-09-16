@@ -1,11 +1,11 @@
 id: 89589120
-type: way
+type: node
 latitude: 51.31343
 longitude: 12.21337
 postcode: "04420"
 city: Markranstädt
-street: "Siemensstraße"
-housenumber: 30
+street: Siemensstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 134513716
-type: way
+type: node
 latitude: 50.56362
 longitude: 12.64462
 postcode: "08321"
 city: Zschorlau
-street: "Dr.-Otto-Nuschke-Straße"
-housenumber: 47
+street: Dr.-Otto-Nuschke-Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

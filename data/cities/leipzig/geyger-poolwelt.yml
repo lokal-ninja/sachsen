@@ -1,11 +1,11 @@
 id: 210579014
-type: way
+type: node
 latitude: 51.38242
 longitude: 12.31089
 postcode: "04159"
 city: Leipzig
-street: "Druckereistraße"
-housenumber: 9
+street: Druckereistraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://poolwelt.de/"
+website: https://poolwelt.de/

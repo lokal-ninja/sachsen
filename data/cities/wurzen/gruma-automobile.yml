@@ -1,11 +1,11 @@
 id: 97112469
-type: way
+type: node
 latitude: 51.38578
 longitude: 12.73828
 postcode: "04808"
 city: Wurzen
-street: "Schützstraße"
-housenumber: 3
-phone: "+49 3425 90170"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-14:00"
+street: Schützstraße
+housenumber: "3"
+phone: +49 3425 90170
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-14:00
 website: ""

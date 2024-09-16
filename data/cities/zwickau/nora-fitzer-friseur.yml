@@ -4,8 +4,8 @@ latitude: 50.71346
 longitude: 12.49635
 postcode: "08056"
 city: Zwickau
-street: "Amalienstraße"
-housenumber: 2
+street: Amalienstraße
+housenumber: "2"
 phone: ""
-opening_hours: "We,Th 12:00-18:00, Tu 09:00-18:00, Fr 09:00-18:00, Sa 08:00-12:00"
+opening_hours: We,Th 12:00-18:00, Tu 09:00-18:00, Fr 09:00-18:00, Sa 08:00-12:00
 website: ""

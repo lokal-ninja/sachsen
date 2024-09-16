@@ -4,8 +4,8 @@ latitude: 51.08176
 longitude: 13.71309
 postcode: "01139"
 city: Dresden
-street: "Leipziger Straße"
-housenumber: 182
-phone: "+49 351 7952456"
-opening_hours: "Mo-Fr 10:00-12:00,15:00-17:00"
-website: "https://www.pc-haus-service.de/"
+street: Leipziger Straße
+housenumber: "182"
+phone: +49 351 7952456
+opening_hours: Mo-Fr 10:00-12:00,15:00-17:00
+website: https://www.pc-haus-service.de/

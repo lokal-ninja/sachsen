@@ -4,8 +4,8 @@ latitude: 50.84087
 longitude: 12.69119
 postcode: "09337"
 city: Callenberg
-street: "Rathausstraße"
-housenumber: 35
-phone: "+49 3723 47584"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00"
+street: Rathausstraße
+housenumber: "35"
+phone: +49 3723 47584
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00
 website: ""

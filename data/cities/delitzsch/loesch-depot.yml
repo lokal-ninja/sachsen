@@ -4,8 +4,8 @@ latitude: 51.52694
 longitude: 12.34543
 postcode: "04509"
 city: Delitzsch
-street: "Berliner Straße"
-housenumber: 17
-phone: "+49 34202 302705"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00; Su,PH off"
-website: "http://www.loesch-depot.de/"
+street: Berliner Straße
+housenumber: "17"
+phone: +49 34202 302705
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00; Su,PH off
+website: http://www.loesch-depot.de/

@@ -1,11 +1,11 @@
 id: 76840118
-type: way
+type: node
 latitude: 51.35743
 longitude: 12.28265
 postcode: "04178"
 city: Leipzig
-street: "Heinrich-Heine-Straße"
-housenumber: 91
+street: Heinrich-Heine-Straße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
 website: ""

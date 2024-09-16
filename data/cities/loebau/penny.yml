@@ -1,11 +1,11 @@
 id: 42044228
-type: way
+type: node
 latitude: 51.1035
 longitude: 14.68528
 postcode: "02708"
 city: Löbau
-street: "Laubaner Straße"
-housenumber: 37
+street: Laubaner Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

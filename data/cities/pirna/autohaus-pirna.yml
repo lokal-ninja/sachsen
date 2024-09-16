@@ -1,11 +1,11 @@
 id: 30007653
-type: way
+type: node
 latitude: 50.95775
 longitude: 13.93713
 postcode: "01796"
 city: Pirna
-street: "Königsteiner Straße"
-housenumber: 5
+street: Königsteiner Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

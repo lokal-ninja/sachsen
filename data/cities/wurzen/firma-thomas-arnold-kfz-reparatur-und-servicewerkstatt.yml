@@ -1,11 +1,11 @@
 id: 251209282
-type: way
+type: node
 latitude: 51.34178
 longitude: 12.8478
 postcode: "04808"
 city: Wurzen
-street: "Hauptstraße"
-housenumber: 61
+street: Hauptstraße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00
 website: ""

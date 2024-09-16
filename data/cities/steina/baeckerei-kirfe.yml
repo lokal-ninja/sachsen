@@ -1,11 +1,11 @@
 id: 248560647
-type: way
+type: node
 latitude: 51.19858
 longitude: 14.0591
 postcode: "01920"
 city: Steina
-street: "Elstraer Straße"
-housenumber: 10
+street: Elstraer Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

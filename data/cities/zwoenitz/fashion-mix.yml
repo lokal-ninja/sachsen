@@ -4,8 +4,8 @@ latitude: 50.6301
 longitude: 12.81215
 postcode: "08297"
 city: Zwönitz
-street: "Lange Gasse"
-housenumber: 4
+street: Lange Gasse
+housenumber: "4"
 phone: ""
-opening_hours: "call mobile"
+opening_hours: '"call mobile"'
 website: ""

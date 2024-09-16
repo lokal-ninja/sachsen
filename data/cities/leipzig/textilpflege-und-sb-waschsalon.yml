@@ -4,8 +4,8 @@ latitude: 51.35185
 longitude: 12.40879
 postcode: "04347"
 city: Leipzig
-street: "Gorkistraße"
-housenumber: 129
-phone: "+49 341 49 69 09 37"
-opening_hours: "Mo-Sa 06:00-22:00 SB-Waschsalon"
-website: "http://wtm-waschsalon.de/"
+street: Gorkistraße
+housenumber: "129"
+phone: +49 341 49 69 09 37
+opening_hours: Mo-Sa 06:00-22:00 "SB-Waschsalon"
+website: http://wtm-waschsalon.de/

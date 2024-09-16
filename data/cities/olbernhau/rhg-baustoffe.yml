@@ -1,11 +1,11 @@
 id: 261400519
-type: way
+type: node
 latitude: 50.67087
 longitude: 13.32233
 postcode: "09526"
 city: Olbernhau
-street: "Freiberger Straße"
-housenumber: 127
-phone: "+49 37360 400"
+street: Freiberger Straße
+housenumber: "127"
+phone: +49 37360 400
 opening_hours: ""
 website: ""

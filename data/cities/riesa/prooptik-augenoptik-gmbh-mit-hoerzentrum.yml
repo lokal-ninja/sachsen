@@ -4,8 +4,8 @@ latitude: 51.30537
 longitude: 13.30208
 postcode: "01587"
 city: Riesa
-street: "Hauptstraße"
-housenumber: 101
-phone: "+49 3525 514050"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.prooptik.de/riesa/"
+street: Hauptstraße
+housenumber: "101"
+phone: +49 3525 514050
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.prooptik.de/riesa/

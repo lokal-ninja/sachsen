@@ -4,8 +4,8 @@ latitude: 51.2781
 longitude: 12.31009
 postcode: "04249"
 city: Leipzig
-street: "Gleitsmannstraße"
-housenumber: 9
+street: Gleitsmannstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.flowery.de/"
+website: https://www.flowery.de/

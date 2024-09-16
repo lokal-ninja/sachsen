@@ -1,11 +1,11 @@
 id: 43967864
-type: way
+type: node
 latitude: 51.44641
 longitude: 14.27623
 postcode: "02977"
 city: Hoyerswerda
-street: "Merzdorfer Straße"
-housenumber: 48
+street: Merzdorfer Straße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

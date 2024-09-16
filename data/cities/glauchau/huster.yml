@@ -1,11 +1,11 @@
 id: 110752897
-type: way
+type: node
 latitude: 50.825
 longitude: 12.52738
 postcode: "08371"
 city: Glauchau
-street: "Lampertstraße"
-housenumber: 3
+street: Lampertstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00
 website: ""

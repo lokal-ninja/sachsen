@@ -1,11 +1,11 @@
 id: 456369563
-type: way
+type: node
 latitude: 50.61213
 longitude: 13.02223
 postcode: "09488"
 city: Thermalbad Wiesenbad
-street: "Talstraße"
-housenumber: 9
+street: Talstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

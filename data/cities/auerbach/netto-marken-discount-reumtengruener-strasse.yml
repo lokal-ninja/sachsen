@@ -1,11 +1,11 @@
 id: 100299017
-type: way
+type: node
 latitude: 50.50871
 longitude: 12.38141
 postcode: "08209"
 city: Auerbach
-street: "Reumtengrüner Straße"
-housenumber: 45
+street: Reumtengrüner Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

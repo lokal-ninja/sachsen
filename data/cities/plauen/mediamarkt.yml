@@ -1,11 +1,11 @@
 id: 101987680
-type: way
+type: node
 latitude: 50.4904
 longitude: 12.13
 postcode: "08527"
 city: Plauen
-street: "Dürerstraße"
-housenumber: 28
+street: Dürerstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
 website: ""

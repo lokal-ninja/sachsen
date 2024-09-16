@@ -1,11 +1,11 @@
 id: 432793374
-type: way
+type: node
 latitude: 51.22529
 longitude: 14.59263
 postcode: "02694"
 city: Malschwitz
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,15:00-17:00; Sa 07:00-11:30; Su,PH off"
+opening_hours: Mo-Fr 08:00-12:00,15:00-17:00; Sa 07:00-11:30; Su,PH off
 website: ""

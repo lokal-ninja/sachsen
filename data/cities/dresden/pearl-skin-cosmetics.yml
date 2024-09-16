@@ -4,8 +4,8 @@ latitude: 51.04478
 longitude: 13.78917
 postcode: "01309"
 city: Dresden
-street: "Bergmannstraße"
-housenumber: 38
+street: Bergmannstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Nur nach Terminabsprache"
+opening_hours: '"Nur nach Terminabsprache"'
 website: ""

@@ -1,11 +1,11 @@
 id: 28656905
-type: way
+type: node
 latitude: 51.07507
 longitude: 13.66551
 postcode: "01157"
 city: Dresden
-street: "Brückenstraße"
-housenumber: 13
+street: Brückenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

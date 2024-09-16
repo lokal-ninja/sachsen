@@ -1,11 +1,11 @@
 id: 340237040
-type: way
+type: node
 latitude: 51.40383
 longitude: 14.58088
 postcode: "02943"
 city: Boxberg/O.L.
-street: "Südstraße"
-housenumber: 1
+street: Südstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

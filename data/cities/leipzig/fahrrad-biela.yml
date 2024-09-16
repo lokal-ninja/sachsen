@@ -4,8 +4,8 @@ latitude: 51.32514
 longitude: 12.37836
 postcode: "04107"
 city: Leipzig
-street: "Körnerstraße"
-housenumber: 45
-phone: "+49 341 3038156"
-opening_hours: "Mo-Fr 10:00-12:30,13:30-18:00"
-website: "http://www.fahrrad-biela.de"
+street: Körnerstraße
+housenumber: "45"
+phone: +49 341 3038156
+opening_hours: Mo-Fr 10:00-12:30,13:30-18:00
+website: http://www.fahrrad-biela.de

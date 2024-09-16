@@ -1,11 +1,11 @@
 id: 164432768
-type: way
+type: node
 latitude: 50.58215
 longitude: 12.68531
 postcode: "08280"
 city: Aue-Bad Schlema
-street: "Zschorlauer Straße"
-housenumber: 4
+street: Zschorlauer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

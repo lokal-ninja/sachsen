@@ -1,11 +1,11 @@
 id: 366788695
-type: way
+type: node
 latitude: 51.61354
 longitude: 12.56549
 postcode: "04849"
 city: Bad Düben
-street: "Hammermühlenweg"
-housenumber: 11
-phone: "+49 34243 3310"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+street: Hammermühlenweg
+housenumber: "11"
+phone: +49 34243 3310
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

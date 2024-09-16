@@ -4,8 +4,8 @@ latitude: 51.04238
 longitude: 13.68731
 postcode: "01159"
 city: Dresden
-street: "Kesselsdorfer Straße"
-housenumber: 59
-phone: "+49 351 4121263"
-opening_hours: "Mo-Fr 09:30-17:00"
-website: "https://www.optiker-mosert.de/"
+street: Kesselsdorfer Straße
+housenumber: "59"
+phone: +49 351 4121263
+opening_hours: Mo-Fr 09:30-17:00
+website: https://www.optiker-mosert.de/

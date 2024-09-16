@@ -4,8 +4,8 @@ latitude: 51.05356
 longitude: 13.78128
 postcode: "01307"
 city: Dresden
-street: "Blasewitzer Straße"
-housenumber: 45
-phone: "+49 351 45690207"
-opening_hours: "Mo-Fr 06:00-18:00; Sa,Su 07:00-18:00"
-website: "https://muehlenbaecker.de/"
+street: Blasewitzer Straße
+housenumber: "45"
+phone: +49 351 45690207
+opening_hours: Mo-Fr 06:00-18:00; Sa,Su 07:00-18:00
+website: https://muehlenbaecker.de/

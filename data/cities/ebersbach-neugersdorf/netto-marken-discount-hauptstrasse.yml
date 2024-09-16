@@ -1,11 +1,11 @@
 id: 279223555
-type: way
+type: node
 latitude: 51.00261
 longitude: 14.61736
 postcode: "02730"
 city: Ebersbach-Neugersdorf
-street: "Hauptstraße"
-housenumber: 160
+street: Hauptstraße
+housenumber: "160"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

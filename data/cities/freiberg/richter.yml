@@ -4,8 +4,8 @@ latitude: 50.91182
 longitude: 13.35782
 postcode: "09599"
 city: Freiberg
-street: "Frauensteiner Straße"
-housenumber: 53
+street: Frauensteiner Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.richter-fleischwaren.de/tl/Startseite.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.richter-fleischwaren.de/tl/Startseite.html

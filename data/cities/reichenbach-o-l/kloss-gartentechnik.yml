@@ -4,8 +4,8 @@ latitude: 51.136
 longitude: 14.77828
 postcode: "02894"
 city: Reichenbach/O.L.
-street: "Niederreichenbach"
-housenumber: 66
-phone: "+49 35828 888884"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
+street: Niederreichenbach
+housenumber: "66"
+phone: +49 35828 888884
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
 website: ""

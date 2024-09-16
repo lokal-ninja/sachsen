@@ -1,11 +1,11 @@
 id: 507142551
-type: way
+type: node
 latitude: 50.81403
 longitude: 12.38761
 postcode: "08451"
 city: Crimmitschau
-street: "Parkhausstraße"
-housenumber: 2
+street: Parkhausstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

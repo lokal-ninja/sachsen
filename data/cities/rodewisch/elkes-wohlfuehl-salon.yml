@@ -4,8 +4,8 @@ latitude: 50.53379
 longitude: 12.41183
 postcode: "08228"
 city: Rodewisch
-street: "Otto-Pfeifer-Straße"
-housenumber: 19
-phone: "+49 3744 34145"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00"
+street: Otto-Pfeifer-Straße
+housenumber: "19"
+phone: +49 3744 34145
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.96298
 longitude: 13.94089
 postcode: "01796"
 city: Pirna
-street: "Barbiergasse"
-housenumber: 19
-phone: "+49 3501 442457"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-14:00"
-website: "http://pirna.vomfass.de/"
+street: Barbiergasse
+housenumber: "19"
+phone: +49 3501 442457
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-14:00
+website: http://pirna.vomfass.de/

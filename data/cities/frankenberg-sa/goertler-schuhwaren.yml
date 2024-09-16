@@ -1,11 +1,11 @@
 id: 377962810
-type: way
+type: node
 latitude: 50.9135
 longitude: 13.03296
 postcode: "09669"
 city: Frankenberg/Sa.
-street: "Schloßstraße"
-housenumber: 9
+street: Schloßstraße
+housenumber: "9"
 phone: "+49372062606"
-opening_hours: "Mo-Fr 10:00-17:30; Sa 09:30-12:00"
+opening_hours: Mo-Fr 10:00-17:30; Sa 09:30-12:00
 website: ""

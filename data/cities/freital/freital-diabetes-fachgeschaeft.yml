@@ -4,8 +4,9 @@ latitude: 50.99969
 longitude: 13.65047
 postcode: "01705"
 city: Freital
-street: "Dresdner Straße"
-housenumber: 209
+street: Dresdner Straße
+housenumber: "209"
 phone: ""
-opening_hours: "Mo-Tu 07:30-12:30,14:00-17:00; We 07:30-12:30; Th 07:30-12:30,14:00-17:00; PH,Sa-Su off"
+opening_hours: Mo-Tu 07:30-12:30,14:00-17:00; We 07:30-12:30; Th 07:30-12:30,14:00-17:00;
+    PH,Sa-Su off
 website: ""

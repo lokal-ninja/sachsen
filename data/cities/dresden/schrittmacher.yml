@@ -4,8 +4,8 @@ latitude: 51.06284
 longitude: 13.73668
 postcode: "01097"
 city: Dresden
-street: "Antonstraße"
-housenumber: 41
-phone: "+49 351 81045977"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-18:00"
-website: "http://www.schrittmacher-shop.de"
+street: Antonstraße
+housenumber: "41"
+phone: +49 351 81045977
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-18:00
+website: http://www.schrittmacher-shop.de

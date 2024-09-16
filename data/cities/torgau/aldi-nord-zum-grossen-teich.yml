@@ -1,11 +1,11 @@
 id: 129850370
-type: way
+type: node
 latitude: 51.55201
 longitude: 12.97459
 postcode: "04860"
 city: Torgau
-street: "Zum Großen Teich"
-housenumber: 1
+street: Zum Großen Teich
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen/torgau/zum-grossen-teich-1.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen/torgau/zum-grossen-teich-1.html

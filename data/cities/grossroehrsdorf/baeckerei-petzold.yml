@@ -1,11 +1,11 @@
 id: 98547197
-type: way
+type: node
 latitude: 51.15346
 longitude: 14.02709
 postcode: "01900"
 city: Großröhrsdorf
-street: "Richard-Thieme-Straße"
-housenumber: 2
+street: Richard-Thieme-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

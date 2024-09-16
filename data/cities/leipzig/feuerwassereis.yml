@@ -1,11 +1,11 @@
 id: 93064357
-type: way
+type: node
 latitude: 51.35993
 longitude: 12.36158
 postcode: "04155"
 city: Leipzig
-street: "Menckestraße"
-housenumber: 53
-phone: "+49 341 5503240"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.feuerwassereis.com/"
+street: Menckestraße
+housenumber: "53"
+phone: +49 341 5503240
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.feuerwassereis.com/

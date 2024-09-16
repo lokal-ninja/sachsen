@@ -4,8 +4,8 @@ latitude: 51.30526
 longitude: 12.42458
 postcode: "04289"
 city: Leipzig
-street: "Prager Straße"
-housenumber: 261
-phone: "+49 341 12577603"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Prager Straße
+housenumber: "261"
+phone: +49 341 12577603
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

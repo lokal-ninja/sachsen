@@ -1,11 +1,11 @@
 id: 49196757
-type: way
+type: node
 latitude: 51.33854
 longitude: 13.34336
 postcode: "01619"
 city: Zeithain
-street: "Teninger Straße"
-housenumber: 8
+street: Teninger Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

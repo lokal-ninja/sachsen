@@ -1,11 +1,11 @@
 id: 87570150
-type: way
+type: node
 latitude: 51.30861
 longitude: 12.22965
 postcode: "04420"
 city: Markranstädt
-street: "Leipziger Straße"
-housenumber: 70
+street: Leipziger Straße
+housenumber: "70"
 phone: ""
-opening_hours: "PH,Mo-Su 06:00-22:00"
+opening_hours: PH,Mo-Su 06:00-22:00
 website: ""

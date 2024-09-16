@@ -4,8 +4,8 @@ latitude: 50.8969
 longitude: 14.80526
 postcode: "02763"
 city: Zittau
-street: "Innere Weberstraße"
-housenumber: 1
+street: Innere Weberstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-13:00"
-website: "http://www.modeexpress-online.de/home.html"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:30-13:00
+website: http://www.modeexpress-online.de/home.html

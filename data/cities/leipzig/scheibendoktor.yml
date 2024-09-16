@@ -1,11 +1,11 @@
 id: 211036208
-type: way
+type: node
 latitude: 51.36588
 longitude: 12.45444
 postcode: ""
 city: Leipzig
-street: "Torgauer Straße"
-housenumber: 273
+street: Torgauer Straße
+housenumber: "273"
 phone: ""
 opening_hours: ""
 website: ""

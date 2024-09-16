@@ -1,11 +1,11 @@
 id: 91716320
-type: way
+type: node
 latitude: 51.26371
 longitude: 13.91174
 postcode: "01936"
 city: Königsbrück
-street: "Kamenzer Straße"
-housenumber: 35
+street: Kamenzer Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-We 08:00-18:00; Th-Fr 08:00-19:00; Sa 08:00-12:00"
-website: "https://www.getraenkehandel-tamke.de/"
+opening_hours: Mo-We 08:00-18:00; Th-Fr 08:00-19:00; Sa 08:00-12:00
+website: https://www.getraenkehandel-tamke.de/

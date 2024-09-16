@@ -4,8 +4,8 @@ latitude: 51.38303
 longitude: 12.2932
 postcode: "04159"
 city: Leipzig
-street: "Stahmelner Allee"
-housenumber: 12
-phone: "+49 341468030"
+street: Stahmelner Allee
+housenumber: "12"
+phone: +49 341468030
 opening_hours: ""
-website: "https://system.adp-gauselmann.de/public/adpgauselmann/services_public/kontakt_public/standorte/leipzig/leipzig.html"
+website: https://system.adp-gauselmann.de/public/adpgauselmann/services_public/kontakt_public/standorte/leipzig/leipzig.html

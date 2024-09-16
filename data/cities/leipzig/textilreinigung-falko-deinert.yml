@@ -4,8 +4,8 @@ latitude: 51.33178
 longitude: 12.37255
 postcode: "04107"
 city: Leipzig
-street: "Münzgasse"
-housenumber: 9
-phone: "+49 341 3552 3048"
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "http://www.textilreinigung-leipzig.com"
+street: Münzgasse
+housenumber: "9"
+phone: +49 341 3552 3048
+opening_hours: Mo-Fr 14:00-18:00
+website: http://www.textilreinigung-leipzig.com

@@ -1,11 +1,11 @@
 id: 29228313
-type: way
+type: node
 latitude: 51.56208
 longitude: 13.00613
 postcode: "04860"
 city: Torgau
-street: "Elbstraße"
+street: Elbstraße
 housenumber: 14a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen/torgau/elbstrasse-14.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/sachsen/torgau/elbstrasse-14.html

@@ -1,11 +1,11 @@
 id: 194458177
-type: way
+type: node
 latitude: 50.92507
 longitude: 12.7129
 postcode: "09322"
 city: Penig
-street: "Chemnitzer Straße"
-housenumber: 98
+street: Chemnitzer Straße
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 207484595
-type: way
+type: node
 latitude: 50.86393
 longitude: 12.58159
 postcode: "08373"
 city: Remse
-street: "Glauchauer Straße"
-housenumber: 5
+street: Glauchauer Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-13:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.06273
 longitude: 13.75436
 postcode: "01099"
 city: Dresden
-street: "Bautzner Straße"
-housenumber: 28
+street: Bautzner Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-14:00"
-website: "www.haarpflege-dresden.de"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-14:00
+website: www.haarpflege-dresden.de

@@ -4,8 +4,8 @@ latitude: 50.96246
 longitude: 13.93885
 postcode: "01796"
 city: Pirna
-street: "Jacobäerstraße"
-housenumber: 6
-phone: "+49 3501 528105"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5682/"
+street: Jacobäerstraße
+housenumber: "6"
+phone: +49 3501 528105
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.thalia.de/shop/home/filialen/showDetails/5682/

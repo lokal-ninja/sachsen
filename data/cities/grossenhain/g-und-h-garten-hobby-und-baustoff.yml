@@ -4,8 +4,8 @@ latitude: 51.28631
 longitude: 13.51962
 postcode: "01558"
 city: Großenhain
-street: "Parkstraße"
-housenumber: 3
-phone: "+49 3522 51240"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
-website: "https://www.baustoffe-grossenhain.de"
+street: Parkstraße
+housenumber: "3"
+phone: +49 3522 51240
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
+website: https://www.baustoffe-grossenhain.de

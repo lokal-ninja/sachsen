@@ -1,11 +1,11 @@
 id: 234929169
-type: way
+type: node
 latitude: 50.88228
 longitude: 12.80068
 postcode: "09232"
 city: Hartmannsdorf
-street: "Obere Hauptstraße"
-housenumber: 23
-phone: "+49 3722 93096"
+street: Obere Hauptstraße
+housenumber: "23"
+phone: +49 3722 93096
 opening_hours: ""
 website: ""

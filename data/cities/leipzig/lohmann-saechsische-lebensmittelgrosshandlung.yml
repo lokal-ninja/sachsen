@@ -1,11 +1,11 @@
 id: 205672412
-type: way
+type: node
 latitude: 51.38019
 longitude: 12.43825
 postcode: "04349"
 city: Leipzig
-street: "Tauchaer Straße"
-housenumber: 115
-phone: "+49 341 9212752"
+street: Tauchaer Straße
+housenumber: "115"
+phone: +49 341 9212752
 opening_hours: ""
 website: ""

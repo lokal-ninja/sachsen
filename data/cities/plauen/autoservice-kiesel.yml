@@ -4,8 +4,8 @@ latitude: 50.51081
 longitude: 12.12969
 postcode: "08525"
 city: Plauen
-street: "Krähenhügelstraße"
-housenumber: 10
-phone: "+49 3741 523326"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:30"
-website: "https://www.boschcarservice.com/de/de/werkstatt/kiesel-plauen"
+street: Krähenhügelstraße
+housenumber: "10"
+phone: +49 3741 523326
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-12:30
+website: https://www.boschcarservice.com/de/de/werkstatt/kiesel-plauen

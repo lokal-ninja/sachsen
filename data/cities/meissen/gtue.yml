@@ -1,11 +1,11 @@
 id: 40388539
-type: way
+type: node
 latitude: 51.16587
 longitude: 13.48959
 postcode: "01662"
 city: Meißen
-street: "Fabrikstraße"
-housenumber: 6
-phone: "+49 3521 406210"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+street: Fabrikstraße
+housenumber: "6"
+phone: +49 3521 406210
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
 website: ""

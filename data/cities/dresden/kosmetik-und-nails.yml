@@ -4,8 +4,8 @@ latitude: 51.04727
 longitude: 13.78227
 postcode: "01309"
 city: Dresden
-street: "Tittmannstraße"
-housenumber: 33
+street: Tittmannstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo,We 08:00-18:00, Tu,Th,Fr 08:00-20:00"
-website: "https://kosmetik-nails.net/"
+opening_hours: Mo,We 08:00-18:00, Tu,Th,Fr 08:00-20:00
+website: https://kosmetik-nails.net/

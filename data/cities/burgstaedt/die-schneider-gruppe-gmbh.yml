@@ -1,11 +1,11 @@
 id: 196896301
-type: way
+type: node
 latitude: 50.91755
 longitude: 12.82163
 postcode: "09217"
 city: Burgstädt
-street: "Mittweidaer Straße"
+street: Mittweidaer Straße
 housenumber: 19a
-phone: "+49 3724 18 54 0"
+phone: +49 3724 18 54 0
 opening_hours: ""
-website: "https://www.dieschneidergruppe.de/unternehmen/standorte/burgstaedt/"
+website: https://www.dieschneidergruppe.de/unternehmen/standorte/burgstaedt/

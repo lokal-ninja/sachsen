@@ -1,11 +1,11 @@
 id: 231071921
-type: way
+type: node
 latitude: 50.69622
 longitude: 12.55663
 postcode: "08141"
 city: Reinsdorf
-street: "Kirchstraße"
-housenumber: 43
+street: Kirchstraße
+housenumber: "43"
 phone: "+49375295647"
 opening_hours: ""
 website: ""

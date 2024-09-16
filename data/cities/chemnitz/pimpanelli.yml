@@ -4,8 +4,8 @@ latitude: 50.83122
 longitude: 12.89683
 postcode: "09112"
 city: Chemnitz
-street: "Weststraße"
-housenumber: 69
-phone: "+49 176 56713508"
-opening_hours: "Tu-Th 09:00-15:00; Fr 12:00-18:00; Sa 09:30-16:00"
+street: Weststraße
+housenumber: "69"
+phone: +49 176 56713508
+opening_hours: Tu-Th 09:00-15:00; Fr 12:00-18:00; Sa 09:30-16:00
 website: ""

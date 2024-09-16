@@ -1,11 +1,11 @@
 id: 96693283
-type: way
+type: node
 latitude: 50.86496
 longitude: 12.85391
 postcode: "09247"
 city: Chemnitz
-street: "Nordstraße"
-housenumber: 2
-phone: "+49 3722 779170"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dehner.de/"
+street: Nordstraße
+housenumber: "2"
+phone: +49 3722 779170
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dehner.de/

@@ -1,11 +1,11 @@
 id: 398052836
-type: way
+type: node
 latitude: 51.42351
 longitude: 14.22131
 postcode: "02977"
 city: Hoyerswerda
-street: "Am Adler"
-housenumber: 5
-phone: "+49 3571 416464"
+street: Am Adler
+housenumber: "5"
+phone: +49 3571 416464
 opening_hours: ""
 website: ""

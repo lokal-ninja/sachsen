@@ -4,8 +4,8 @@ latitude: 50.8923
 longitude: 14.23232
 postcode: "01814"
 city: Bad Schandau
-street: "Schmilka"
-housenumber: 36
-phone: "+49 35022 92230"
-opening_hours: "PH,Mo-Su 08:00-18:00+"
-website: "https://www.muehle-schmilka.de/"
+street: Schmilka
+housenumber: "36"
+phone: +49 35022 92230
+opening_hours: PH,Mo-Su 08:00-18:00+
+website: https://www.muehle-schmilka.de/

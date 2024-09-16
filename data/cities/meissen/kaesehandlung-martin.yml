@@ -4,8 +4,8 @@ latitude: 51.16137
 longitude: 13.47265
 postcode: "01662"
 city: Meißen
-street: "Hahnemannsplatz"
-housenumber: 5
-phone: "+49 3521 476625"
-opening_hours: "Su,Mo closed; Tu-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.martin-käsefachgeschäfte.de"
+street: Hahnemannsplatz
+housenumber: "5"
+phone: +49 3521 476625
+opening_hours: Su,Mo closed; Tu-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.martin-käsefachgeschäfte.de

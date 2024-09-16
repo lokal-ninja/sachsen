@@ -4,8 +4,8 @@ latitude: 51.33158
 longitude: 12.33504
 postcode: "04229"
 city: Leipzig
-street: "Karl-Heine-Straße"
-housenumber: 57
+street: Karl-Heine-Straße
+housenumber: "57"
 phone: "+4934126647222"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://obenauf-kaffee.de/"
+opening_hours: Mo-Su 10:00-18:00
+website: https://obenauf-kaffee.de/

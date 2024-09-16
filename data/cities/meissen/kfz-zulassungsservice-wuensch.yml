@@ -1,11 +1,11 @@
 id: 767859649
-type: way
+type: node
 latitude: 51.16297
 longitude: 13.48849
 postcode: "01662"
 city: Meißen
-street: "Brauhausstraße"
-housenumber: 20
+street: Brauhausstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

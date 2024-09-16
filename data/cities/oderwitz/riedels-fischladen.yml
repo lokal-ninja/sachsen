@@ -1,11 +1,11 @@
 id: 342134184
-type: way
+type: node
 latitude: 50.95072
 longitude: 14.72957
 postcode: "02791"
 city: Oderwitz
-street: "Straße der Republik"
-housenumber: 41
+street: Straße der Republik
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

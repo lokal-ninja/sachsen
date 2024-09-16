@@ -1,11 +1,11 @@
 id: 96639842
-type: way
+type: node
 latitude: 51.25655
 longitude: 14.2241
 postcode: "01920"
 city: Räckelwitz
-street: "Hauptstraße"
-housenumber: 51
-phone: "+49 35796 96323"
+street: Hauptstraße
+housenumber: "51"
+phone: +49 35796 96323
 opening_hours: ""
-website: "http://Bäckerei-Schlappa.de"
+website: http://Bäckerei-Schlappa.de

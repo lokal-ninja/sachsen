@@ -4,8 +4,8 @@ latitude: 51.00168
 longitude: 13.68701
 postcode: "01705"
 city: Freital
-street: "Cunnersdorfer Straße"
-housenumber: 12
-phone: "+49 351 6489620"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-12:00; Su,PH off"
-website: "http://www.autoreparaturwerk.com"
+street: Cunnersdorfer Straße
+housenumber: "12"
+phone: +49 351 6489620
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-12:00; Su,PH off
+website: http://www.autoreparaturwerk.com

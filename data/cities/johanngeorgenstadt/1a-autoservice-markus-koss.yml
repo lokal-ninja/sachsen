@@ -1,11 +1,11 @@
 id: 116220280
-type: way
+type: node
 latitude: 50.43357
 longitude: 12.73166
 postcode: "08349"
 city: Johanngeorgenstadt
-street: "Pachthausstraße"
-housenumber: 7
-phone: "+49 37 7388 21 76"
+street: Pachthausstraße
+housenumber: "7"
+phone: +49 37 7388 21 76
 opening_hours: ""
-website: "https://haenelundkoss.go1a.de/"
+website: https://haenelundkoss.go1a.de/

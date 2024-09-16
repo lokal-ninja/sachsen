@@ -1,11 +1,11 @@
 id: 137595922
-type: way
+type: node
 latitude: 51.27609
 longitude: 14.10767
 postcode: "01917"
 city: Kamenz
-street: "Saarstraße"
-housenumber: 24
+street: Saarstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

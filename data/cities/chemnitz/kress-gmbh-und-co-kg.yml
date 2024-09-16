@@ -1,11 +1,11 @@
 id: 40635442
-type: way
+type: node
 latitude: 50.80026
 longitude: 12.94607
 postcode: "09125"
 city: Chemnitz
-street: "Jägerschlößchenstraße"
-housenumber: 30
+street: Jägerschlößchenstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

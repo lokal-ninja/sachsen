@@ -4,8 +4,8 @@ latitude: 51.05804
 longitude: 12.55827
 postcode: "04654"
 city: Frohburg
-street: "Bahnhofstraße"
-housenumber: 26
+street: Bahnhofstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Tu,Fr 09:00-18:00; We,Th 09:00-14:00; Mo,Sa,Su,PH off"
+opening_hours: Tu,Fr 09:00-18:00; We,Th 09:00-14:00; Mo,Sa,Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.27788
 longitude: 12.59057
 postcode: "04683"
 city: Naunhof
-street: "Bahnhofstraße"
-housenumber: 12
-phone: "+49 34293 30782"
-opening_hours: "Mo-Sa 09:00-12:00, Mo-Fr 13:00-18:00"
-website: "https://www.motorrad-scheunpflug.de/"
+street: Bahnhofstraße
+housenumber: "12"
+phone: +49 34293 30782
+opening_hours: Mo-Sa 09:00-12:00, Mo-Fr 13:00-18:00
+website: https://www.motorrad-scheunpflug.de/

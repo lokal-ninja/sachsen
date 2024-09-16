@@ -1,11 +1,11 @@
 id: 287901447
-type: way
+type: node
 latitude: 51.13247
 longitude: 13.58434
 postcode: "01640"
 city: Coswig
-street: "Salzstraße"
-housenumber: 9
+street: Salzstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

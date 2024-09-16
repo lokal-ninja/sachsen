@@ -1,11 +1,11 @@
 id: 235003739
-type: way
+type: node
 latitude: 51.28071
 longitude: 12.93571
 postcode: "04779"
 city: Wermsdorf
-street: "Grüner Weg"
-housenumber: 4
+street: Grüner Weg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.netto-online.de

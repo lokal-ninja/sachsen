@@ -4,8 +4,8 @@ latitude: 50.71881
 longitude: 12.49515
 postcode: "08056"
 city: Zwickau
-street: "Marienstraße"
-housenumber: 5
+street: Marienstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.intersport-gue-sport.de/"
+website: https://www.intersport-gue-sport.de/

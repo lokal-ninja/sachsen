@@ -4,8 +4,8 @@ latitude: 51.02717
 longitude: 13.7608
 postcode: "01219"
 city: Dresden
-street: "Lannerstraße"
-housenumber: 5
+street: Lannerstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 13:00-20:00; Tu-Fr 08:00-20:00; PH,Sa,Su off"
+opening_hours: Mo 13:00-20:00; Tu-Fr 08:00-20:00; PH,Sa,Su off
 website: ""

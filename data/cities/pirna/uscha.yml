@@ -4,8 +4,8 @@ latitude: 50.96183
 longitude: 13.93955
 postcode: "01796"
 city: Pirna
-street: "Schmiedestraße"
-housenumber: 31
-phone: "+49 3501 528072"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00; PH off"
-website: "http://uscha-pirna.de/"
+street: Schmiedestraße
+housenumber: "31"
+phone: +49 3501 528072
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00; PH off
+website: http://uscha-pirna.de/

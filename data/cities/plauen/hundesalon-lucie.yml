@@ -4,8 +4,8 @@ latitude: 50.4942
 longitude: 12.10417
 postcode: "08523"
 city: Plauen
-street: "Neundorfer Straße"
-housenumber: 171
-phone: "+49 160 97315794"
-opening_hours: "Tu, Th 09:00-17:00; We 12:00-17:00; Fr 09:00-14:00"
-website: "https://about.me/heikepfeiffer"
+street: Neundorfer Straße
+housenumber: "171"
+phone: +49 160 97315794
+opening_hours: Tu, Th 09:00-17:00; We 12:00-17:00; Fr 09:00-14:00
+website: https://about.me/heikepfeiffer

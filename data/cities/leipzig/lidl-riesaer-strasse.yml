@@ -1,11 +1,11 @@
 id: 19644803
-type: way
+type: node
 latitude: 51.34643
 longitude: 12.46002
 postcode: "04328"
 city: Leipzig
-street: "Riesaer Straße"
-housenumber: 75
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+street: Riesaer Straße
+housenumber: "75"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

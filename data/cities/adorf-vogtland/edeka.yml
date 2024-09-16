@@ -1,11 +1,11 @@
 id: 105269558
-type: way
+type: node
 latitude: 50.31491
 longitude: 12.25526
 postcode: "08626"
 city: Adorf/Vogtland
-street: "Elsterstraße"
-housenumber: 51
+street: Elsterstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

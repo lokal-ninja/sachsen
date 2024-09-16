@@ -1,11 +1,11 @@
 id: 408945734
-type: way
+type: node
 latitude: 51.05229
 longitude: 14.60951
 postcode: "02708"
 city: Dürrhennersdorf
-street: "Hauptstraße"
-housenumber: 35
+street: Hauptstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "http://www.bäckerei-heidorn.de/"
+website: http://www.bäckerei-heidorn.de/

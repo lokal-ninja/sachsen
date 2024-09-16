@@ -1,11 +1,11 @@
 id: 89034154
-type: way
+type: node
 latitude: 51.23246
 longitude: 12.70468
 postcode: "04668"
 city: Grimma
-street: "Gerichtswiesen"
-housenumber: 35
+street: Gerichtswiesen
+housenumber: "35"
 phone: "+493437760090"
 opening_hours: ""
 website: ""

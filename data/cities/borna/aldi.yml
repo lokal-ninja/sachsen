@@ -1,11 +1,11 @@
 id: 760458569
-type: way
+type: node
 latitude: 51.12819
 longitude: 12.5033
 postcode: "04552"
 city: Borna
-street: "Leipziger Straße"
-housenumber: 12
+street: Leipziger Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

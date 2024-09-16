@@ -1,11 +1,11 @@
 id: 153311942
-type: way
+type: node
 latitude: 50.66184
 longitude: 12.67198
 postcode: "08118"
 city: Hartenstein
-street: "Marktplatz"
-housenumber: 6
+street: Marktplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 15:00-18:00; We 15:00-18:00"
+opening_hours: Mo 15:00-18:00; We 15:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.09603
 longitude: 14.66652
 postcode: "02708"
 city: Löbau
-street: "Nicolaistraße"
-housenumber: 7
+street: Nicolaistraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:30, Sa 10:00-12:00; Su off, Mo-Fr 14:00-18:00"
-website: "https://www.inesschuhmoden.de/"
+opening_hours: Mo-Fr 09:30-13:30, Sa 10:00-12:00; Su off, Mo-Fr 14:00-18:00
+website: https://www.inesschuhmoden.de/

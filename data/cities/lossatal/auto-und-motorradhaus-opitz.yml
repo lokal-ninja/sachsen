@@ -1,11 +1,11 @@
 id: 137354715
-type: way
+type: node
 latitude: 51.38071
 longitude: 12.77728
 postcode: "04808"
 city: Lossatal
-street: "Lüptitzer Höhe"
-housenumber: 1
+street: Lüptitzer Höhe
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 24771661
-type: way
+type: node
 latitude: 51.56149
 longitude: 12.9742
 postcode: "04860"
 city: Torgau
-street: "Außenring"
-housenumber: 6
-phone: "+49 3421 7787667"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.kts-torgau.de/"
+street: Außenring
+housenumber: "6"
+phone: +49 3421 7787667
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.kts-torgau.de/

@@ -4,8 +4,8 @@ latitude: 50.85946
 longitude: 12.76136
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Bachstraße"
-housenumber: 4
+street: Bachstraße
+housenumber: "4"
 phone: "+493722406703"
-opening_hours: "Mo,Tu 13:00-18:00; Th,Fr 09:00-18:00"
-website: "https://cb-reisen.de/"
+opening_hours: Mo,Tu 13:00-18:00; Th,Fr 09:00-18:00
+website: https://cb-reisen.de/

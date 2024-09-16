@@ -4,8 +4,9 @@ latitude: 51.23437
 longitude: 12.72744
 postcode: "04668"
 city: Grimma
-street: "Lange Straße"
-housenumber: 
+street: Lange Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-14:00,14:30-17:00; Fr 09:00-17:00; Sa 09:00-12:00; PH,Su off"
+opening_hours: Mo,Tu,Th 09:00-14:00,14:30-17:00; Fr 09:00-17:00; Sa 09:00-12:00; PH,Su
+    off
 website: ""

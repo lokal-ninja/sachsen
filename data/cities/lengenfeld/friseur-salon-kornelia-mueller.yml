@@ -1,11 +1,11 @@
 id: 686326028
-type: way
+type: node
 latitude: 50.57256
 longitude: 12.37659
 postcode: "08485"
 city: Lengenfeld
-street: "Polenzstraße"
-housenumber: 29
-phone: "+493 76 06 3 46 41"
-opening_hours: "Tu,We,Fr 08:00-18:30; Th 08:00-20:00; Sa 07:00-12:00"
+street: Polenzstraße
+housenumber: "29"
+phone: +493 76 06 3 46 41
+opening_hours: Tu,We,Fr 08:00-18:30; Th 08:00-20:00; Sa 07:00-12:00
 website: ""

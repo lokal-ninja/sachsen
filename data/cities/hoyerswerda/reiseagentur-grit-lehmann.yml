@@ -1,11 +1,11 @@
 id: 171065021
-type: way
+type: node
 latitude: 51.43697
 longitude: 14.24125
 postcode: "02977"
 city: Hoyerswerda
-street: "Friedrichsstraße"
-housenumber: 4
+street: Friedrichsstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00"
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 140445320
-type: way
+type: node
 latitude: 51.32561
 longitude: 12.44924
 postcode: "04316"
 city: Leipzig
-street: "Zweinaundorfer Straße"
-housenumber: 198
+street: Zweinaundorfer Straße
+housenumber: "198"
 phone: ""
 opening_hours: ""
-website: "https://www.penny.de/"
+website: https://www.penny.de/

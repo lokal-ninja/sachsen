@@ -1,11 +1,11 @@
 id: 204189328
-type: way
+type: node
 latitude: 50.71857
 longitude: 13.19465
 postcode: "09514"
 city: Pockau-Lengefeld
-street: "Freiberger Straße"
-housenumber: 11
-phone: "+49 37367 2252"
+street: Freiberger Straße
+housenumber: "11"
+phone: +49 37367 2252
 opening_hours: ""
-website: "https://www.morgenstern-baeckerei.de/"
+website: https://www.morgenstern-baeckerei.de/

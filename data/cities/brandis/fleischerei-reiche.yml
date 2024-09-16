@@ -1,11 +1,12 @@
 id: 734620969
-type: way
+type: node
 latitude: 51.32315
 longitude: 12.56526
 postcode: "04824"
 city: Brandis
-street: "Kirchberg"
-housenumber: 33
+street: Kirchberg
+housenumber: "33"
 phone: ""
-opening_hours: "Mo 08:00-13:00; Tu-Th 08:00-13:00,15:00-18:00; Fr 08:00-18:00; Sa 08:00-11:00; Su,PH off"
+opening_hours: Mo 08:00-13:00; Tu-Th 08:00-13:00,15:00-18:00; Fr 08:00-18:00; Sa 08:00-11:00;
+    Su,PH off
 website: ""

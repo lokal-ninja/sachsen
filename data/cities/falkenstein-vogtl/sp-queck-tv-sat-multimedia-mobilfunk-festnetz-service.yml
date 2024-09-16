@@ -1,11 +1,11 @@
 id: 479711725
-type: way
+type: node
 latitude: 50.47481
 longitude: 12.36768
 postcode: "08223"
 city: Falkenstein/Vogtl.
-street: "Schloßstraße"
-housenumber: 24
+street: Schloßstraße
+housenumber: "24"
 phone: "+4937456325"
 opening_hours: ""
-website: "https://fernseh-queck.de/"
+website: https://fernseh-queck.de/

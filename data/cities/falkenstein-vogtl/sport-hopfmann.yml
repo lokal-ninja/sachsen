@@ -1,11 +1,11 @@
 id: 479699290
-type: way
+type: node
 latitude: 50.47616
 longitude: 12.36876
 postcode: "08223"
 city: Falkenstein/Vogtl.
-street: "Schloßstraße"
-housenumber: 4
+street: Schloßstraße
+housenumber: "4"
 phone: "+4937456850"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.sport-hopfmann.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.sport-hopfmann.de/

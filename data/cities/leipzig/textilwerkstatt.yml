@@ -4,8 +4,8 @@ latitude: 51.32718
 longitude: 12.33893
 postcode: "04229"
 city: Leipzig
-street: "Industriestraße"
-housenumber: 38
-phone: "+49 341 2365874"
-opening_hours: "Mo-We 12:00-18:00 || nach Vereinbarung"
-website: "https://www.textilzone.de/"
+street: Industriestraße
+housenumber: "38"
+phone: +49 341 2365874
+opening_hours: Mo-We 12:00-18:00 || "nach Vereinbarung"
+website: https://www.textilzone.de/

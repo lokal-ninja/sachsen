@@ -4,8 +4,8 @@ latitude: 51.30852
 longitude: 12.38721
 postcode: "04277"
 city: Leipzig
-street: "Threnaer Straße"
-housenumber: 1
-phone: "+49 341 3014236"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "http://grabpflegeleipzig.de"
+street: Threnaer Straße
+housenumber: "1"
+phone: +49 341 3014236
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: http://grabpflegeleipzig.de

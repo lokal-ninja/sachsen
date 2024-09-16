@@ -4,8 +4,8 @@ latitude: 50.8357
 longitude: 12.45111
 postcode: "08393"
 city: Meerane
-street: "Seiferitzer Allee"
-housenumber: 1
+street: Seiferitzer Allee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.ernstings-family.de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.ernstings-family.de/

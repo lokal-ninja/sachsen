@@ -1,11 +1,11 @@
 id: 30993932
-type: way
+type: node
 latitude: 51.00016
 longitude: 13.80046
 postcode: "01239"
 city: Dresden
-street: "Langer Weg"
-housenumber: 50
+street: Langer Weg
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

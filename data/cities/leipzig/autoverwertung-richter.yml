@@ -1,11 +1,11 @@
 id: 44495483
-type: way
+type: node
 latitude: 51.3577
 longitude: 12.39836
 postcode: "04347"
 city: Leipzig
-street: "Rackwitzer Straße"
+street: Rackwitzer Straße
 housenumber: 50-52
-phone: "+49 341 2312991"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-12:00"
-website: "http://www.autoverwertung-richter.com"
+phone: +49 341 2312991
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-12:00
+website: http://www.autoverwertung-richter.com

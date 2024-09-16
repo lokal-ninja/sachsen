@@ -1,11 +1,11 @@
 id: 53246877
-type: way
+type: node
 latitude: 51.16515
 longitude: 12.2653
 postcode: "04523"
 city: Pegau
-street: "Leipziger Vorstadt"
-housenumber: 24
-phone: "+49 34296 4950"
+street: Leipziger Vorstadt
+housenumber: "24"
+phone: +49 34296 4950
 opening_hours: ""
-website: "https://www.amb-autowelt.de/pegau-428.html"
+website: https://www.amb-autowelt.de/pegau-428.html

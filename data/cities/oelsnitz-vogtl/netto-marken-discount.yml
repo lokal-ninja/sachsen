@@ -4,8 +4,8 @@ latitude: 50.41772
 longitude: 12.17475
 postcode: "08606"
 city: Oelsnitz/Vogtl.
-street: "Bachstraße"
-housenumber: 10
-phone: "+49 37421 700935"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+street: Bachstraße
+housenumber: "10"
+phone: +49 37421 700935
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

@@ -1,11 +1,11 @@
 id: 463842855
-type: way
+type: node
 latitude: 50.48362
 longitude: 12.36871
 postcode: "08223"
 city: Falkenstein/Vogtl.
-street: "Rathenaustraße"
+street: Rathenaustraße
 housenumber: 19a
-phone: "+49 3745 6018"
+phone: +49 3745 6018
 opening_hours: ""
-website: "https://foerdertechnik-ficker.de/"
+website: https://foerdertechnik-ficker.de/

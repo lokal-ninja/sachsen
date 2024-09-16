@@ -1,11 +1,11 @@
 id: 274688062
-type: way
+type: node
 latitude: 50.89678
 longitude: 14.67561
 postcode: "02779"
 city: Großschönau
-street: "Hainewalder Straße"
-housenumber: 3
+street: Hainewalder Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

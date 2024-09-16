@@ -1,11 +1,11 @@
 id: 85646350
-type: way
+type: node
 latitude: 51.2398
 longitude: 13.66015
 postcode: "01561"
 city: Ebersbach
-street: "Am Bahndamm"
-housenumber: 4
+street: Am Bahndamm
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

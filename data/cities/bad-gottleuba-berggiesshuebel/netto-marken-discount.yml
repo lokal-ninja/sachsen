@@ -1,11 +1,11 @@
 id: 152732062
-type: way
+type: node
 latitude: 50.88327
 longitude: 13.95573
 postcode: "01816"
 city: Bad Gottleuba-Berggießhübel
-street: "Oberer Ladenberg"
-housenumber: 21
-phone: "+49 35023 519010"
-opening_hours: "Mo-Sa 7:00-20:00"
+street: Oberer Ladenberg
+housenumber: "21"
+phone: +49 35023 519010
+opening_hours: Mo-Sa 7:00-20:00
 website: ""

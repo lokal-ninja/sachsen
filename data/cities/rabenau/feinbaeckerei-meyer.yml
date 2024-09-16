@@ -4,8 +4,8 @@ latitude: 50.94998
 longitude: 13.66648
 postcode: "01734"
 city: Rabenau
-street: "Hauptstraße"
-housenumber: 69
-phone: "+49 351 6413509"
-opening_hours: "Mo-Th 07:00-17:30; Fr 07:00-10:00"
-website: "https://www.feinbaeckerei-meyer.de/"
+street: Hauptstraße
+housenumber: "69"
+phone: +49 351 6413509
+opening_hours: Mo-Th 07:00-17:30; Fr 07:00-10:00
+website: https://www.feinbaeckerei-meyer.de/

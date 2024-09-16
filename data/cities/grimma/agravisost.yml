@@ -1,11 +1,11 @@
 id: 1310797194
-type: way
+type: node
 latitude: 51.26082
 longitude: 12.73864
 postcode: "04668"
 city: Grimma
-street: "Zur Goldgrube"
-housenumber: 1
+street: Zur Goldgrube
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 22999155
-type: way
+type: node
 latitude: 51.03869
 longitude: 13.73963
 postcode: "01069"
 city: Dresden
-street: "Wiener Straße"
-housenumber: 10
-phone: "+49 351 2723984"
+street: Wiener Straße
+housenumber: "10"
+phone: +49 351 2723984
 opening_hours: ""
-website: "http://www.kfz-aufbereitung-dresden.de"
+website: http://www.kfz-aufbereitung-dresden.de

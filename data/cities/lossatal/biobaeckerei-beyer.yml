@@ -1,11 +1,11 @@
 id: 95638955
-type: way
+type: node
 latitude: 51.38968
 longitude: 12.80411
 postcode: ""
 city: Lossatal
-street: "Bauerngasse"
-housenumber: 8
+street: Bauerngasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

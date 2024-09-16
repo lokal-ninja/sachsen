@@ -1,11 +1,11 @@
 id: 703795220
-type: way
+type: node
 latitude: 51.11697
 longitude: 14.64472
 postcode: "02708"
 city: Löbau
-street: "Bautzner Landstraße"
-housenumber: 2
+street: Bautzner Landstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

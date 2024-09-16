@@ -1,11 +1,11 @@
 id: 24382401
-type: way
+type: node
 latitude: 51.02592
 longitude: 13.71309
 postcode: "01187"
 city: Dresden
-street: "Bernhardstraße"
-housenumber: 101
-phone: "+49 351 4711047"
-opening_hours: "Th,Fr 10:30-18:00; Sa 09:00-12:00"
+street: Bernhardstraße
+housenumber: "101"
+phone: +49 351 4711047
+opening_hours: Th,Fr 10:30-18:00; Sa 09:00-12:00
 website: ""

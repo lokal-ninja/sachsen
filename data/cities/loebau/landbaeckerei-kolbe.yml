@@ -4,8 +4,8 @@ latitude: 51.09517
 longitude: 14.66605
 postcode: "02708"
 city: Löbau
-street: "Altmarkt"
-housenumber: 6
-phone: "+49 3585 860418"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su off"
-website: "https://landbaeckerei-kolbe.de/"
+street: Altmarkt
+housenumber: "6"
+phone: +49 3585 860418
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su off
+website: https://landbaeckerei-kolbe.de/

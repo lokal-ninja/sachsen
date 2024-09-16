@@ -1,11 +1,11 @@
 id: 221519880
-type: way
+type: node
 latitude: 50.72661
 longitude: 13.7675
 postcode: "41501"
 city: Dubí
 street: ""
-housenumber: 292
+housenumber: "292"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

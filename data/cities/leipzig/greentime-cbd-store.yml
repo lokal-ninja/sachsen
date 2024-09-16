@@ -4,8 +4,8 @@ latitude: 51.34297
 longitude: 12.3645
 postcode: "04109"
 city: Leipzig
-street: "Thomasiusstraße"
-housenumber: 2
-phone: "+49 341 68677723"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://cbd-greentime.de"
+street: Thomasiusstraße
+housenumber: "2"
+phone: +49 341 68677723
+opening_hours: Mo-Sa 10:00-20:00
+website: https://cbd-greentime.de

@@ -1,11 +1,11 @@
 id: 103876947
-type: way
+type: node
 latitude: 51.19372
 longitude: 13.29815
 postcode: "01623"
 city: Lommatzsch
-street: "Elbtalstraße"
-housenumber: 6
+street: Elbtalstraße
+housenumber: "6"
 phone: "+493524182600"
 opening_hours: ""
-website: "https://www.nordfrost.de/"
+website: https://www.nordfrost.de/

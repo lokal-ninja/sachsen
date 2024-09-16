@@ -1,11 +1,11 @@
 id: 97116833
-type: way
+type: node
 latitude: 50.86886
 longitude: 12.77377
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Kreuzeiche"
-housenumber: 8
+street: Kreuzeiche
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-12:30; PH,Su off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-12:30; PH,Su off
 website: ""

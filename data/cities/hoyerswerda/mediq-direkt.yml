@@ -4,8 +4,9 @@ latitude: 51.43495
 longitude: 14.24522
 postcode: "02977"
 city: Hoyerswerda
-street: "Dillinger Straße"
-housenumber: 11
-phone: "+49 3571 6027609"
-opening_hours: "Mo,Th 08:00-13:00,15:00-18:00; Tu,We 08:00-13:00; PH off; Fr nach vereinbarung"
-website: "https://www.mediqdirekt.de/filialfinder/02977-hoyerswerda-dillinger-strasse-11"
+street: Dillinger Straße
+housenumber: "11"
+phone: +49 3571 6027609
+opening_hours: Mo,Th 08:00-13:00,15:00-18:00; Tu,We 08:00-13:00; PH off; Fr "nach
+    vereinbarung"
+website: https://www.mediqdirekt.de/filialfinder/02977-hoyerswerda-dillinger-strasse-11

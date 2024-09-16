@@ -1,11 +1,11 @@
 id: 194540623
-type: way
+type: node
 latitude: 50.80228
 longitude: 12.7086
 postcode: "09337"
 city: Hohenstein-Ernstthal
-street: "Dresdner Straße"
-housenumber: 5
+street: Dresdner Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://johanna-a.de/"
+website: https://johanna-a.de/

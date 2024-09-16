@@ -1,11 +1,11 @@
 id: 161403476
-type: way
+type: node
 latitude: 50.84505
 longitude: 12.93963
 postcode: "09130"
 city: Chemnitz
-street: "Gellertstraße"
-housenumber: 2
+street: Gellertstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

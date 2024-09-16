@@ -1,11 +1,11 @@
 id: 102691846
-type: way
+type: node
 latitude: 50.51831
 longitude: 12.38565
 postcode: "08228"
 city: Rodewisch
-street: "Schloßweg"
-housenumber: 3
+street: Schloßweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-22:00; Sa 09:00-18:00"
-website: "https://www.hammer-heimtex.de/standorte/standort/54/index.html"
+opening_hours: Mo-Fr 09:00-22:00; Sa 09:00-18:00
+website: https://www.hammer-heimtex.de/standorte/standort/54/index.html

@@ -1,11 +1,11 @@
 id: 233993607
-type: way
+type: node
 latitude: 50.87111
 longitude: 13.32638
 postcode: "09618"
 city: Brand-Erbisdorf
-street: "Zuger Straße"
-housenumber: 15
+street: Zuger Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

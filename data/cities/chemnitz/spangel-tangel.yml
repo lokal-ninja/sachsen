@@ -4,8 +4,8 @@ latitude: 50.84214
 longitude: 12.92421
 postcode: "09111"
 city: Chemnitz
-street: "Brühl"
-housenumber: 47
-phone: "+49 371 6446448"
-opening_hours: "Mo-Th 11:00-16:00; Fr 11:00-18:00; PH closed; Sa 13:00-15:00"
-website: "https://www.spangeltangel.com/"
+street: Brühl
+housenumber: "47"
+phone: +49 371 6446448
+opening_hours: Mo-Th 11:00-16:00; Fr 11:00-18:00; PH closed; Sa 13:00-15:00
+website: https://www.spangeltangel.com/

@@ -1,11 +1,11 @@
 id: 108813555
-type: way
+type: node
 latitude: 51.17997
 longitude: 14.43053
 postcode: "02625"
 city: Bautzen
-street: "Kurt-Pchalek-Straße"
-housenumber: 7
+street: Kurt-Pchalek-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

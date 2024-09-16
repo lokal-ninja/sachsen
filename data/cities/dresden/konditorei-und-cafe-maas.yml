@@ -4,8 +4,8 @@ latitude: 51.07585
 longitude: 13.7238
 postcode: "01127"
 city: Dresden
-street: "Oschatzer Straße"
-housenumber: 13
-phone: "+49 351 8495682"
-opening_hours: "Tu-Fr 06:30-18:00; Sa 06:30-12:00; Su,PH 07:00-14:00; Mo off"
-website: "https://www.cafe-maass.de/"
+street: Oschatzer Straße
+housenumber: "13"
+phone: +49 351 8495682
+opening_hours: Tu-Fr 06:30-18:00; Sa 06:30-12:00; Su,PH 07:00-14:00; Mo off
+website: https://www.cafe-maass.de/

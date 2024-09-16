@@ -4,8 +4,8 @@ latitude: 50.91604
 longitude: 13.34307
 postcode: "09599"
 city: Freiberg
-street: "Korngasse"
-housenumber: 4
-phone: "+49 3731 247454"
-opening_hours: "Tu-Fr 09:00-17:00; Sa 10:00-12:00"
-website: "https://www.deinbild-freiberg.de/"
+street: Korngasse
+housenumber: "4"
+phone: +49 3731 247454
+opening_hours: Tu-Fr 09:00-17:00; Sa 10:00-12:00
+website: https://www.deinbild-freiberg.de/

@@ -1,11 +1,11 @@
 id: 29228330
-type: way
+type: node
 latitude: 51.56111
 longitude: 13.00332
 postcode: "04860"
 city: Torgau
-street: "Rosa-Luxemburg-Platz"
-housenumber: 15
+street: Rosa-Luxemburg-Platz
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

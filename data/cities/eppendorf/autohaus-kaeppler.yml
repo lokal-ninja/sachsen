@@ -1,11 +1,11 @@
 id: 290670267
-type: way
+type: node
 latitude: 50.78285
 longitude: 13.27122
 postcode: "09575"
 city: Eppendorf
-street: "Mittelsaidaer Straße"
-housenumber: 6
+street: Mittelsaidaer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "www.autohaus-kaeppler.de/"
+website: www.autohaus-kaeppler.de/

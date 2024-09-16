@@ -1,11 +1,11 @@
 id: 106334582
-type: way
+type: node
 latitude: 51.36998
 longitude: 12.73719
 postcode: "04808"
 city: Wurzen
-street: "Jacobsgasse"
-housenumber: 14
+street: Jacobsgasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-13:00,13:30-17:00; We,Fr 09:00-13:00"
-website: "https://www.propedus.de/index.php/filialen-neu"
+opening_hours: Mo,Tu,Th 09:00-13:00,13:30-17:00; We,Fr 09:00-13:00
+website: https://www.propedus.de/index.php/filialen-neu

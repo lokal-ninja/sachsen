@@ -1,11 +1,11 @@
 id: 1151604076
-type: way
+type: node
 latitude: 50.82274
 longitude: 12.95928
 postcode: "09127"
 city: Chemnitz
-street: "Carl-von-Ossietzky-Straße"
-housenumber: 153
+street: Carl-von-Ossietzky-Straße
+housenumber: "153"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
 website: ""

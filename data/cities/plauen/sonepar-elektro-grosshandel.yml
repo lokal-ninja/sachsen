@@ -1,11 +1,11 @@
 id: 115974791
-type: way
+type: node
 latitude: 50.48682
 longitude: 12.13697
 postcode: "08527"
 city: Plauen
-street: "Güterstraße"
-housenumber: 2
+street: Güterstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

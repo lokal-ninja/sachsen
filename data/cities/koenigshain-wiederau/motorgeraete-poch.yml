@@ -1,11 +1,11 @@
 id: 766771775
-type: way
+type: node
 latitude: 50.96755
 longitude: 12.89361
 postcode: "09306"
 city: Königshain-Wiederau
-street: "Dorfstraße"
-housenumber: 197
+street: Dorfstraße
+housenumber: "197"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 91217986
-type: way
+type: node
 latitude: 50.83704
 longitude: 12.89658
 postcode: "09113"
 city: Chemnitz
-street: "Limbacher Straße"
-housenumber: 63
+street: Limbacher Straße
+housenumber: "63"
 phone: "+492034602204380"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://pfennigpfeiffer.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://pfennigpfeiffer.de/

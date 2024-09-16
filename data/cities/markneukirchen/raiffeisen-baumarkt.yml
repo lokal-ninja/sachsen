@@ -1,11 +1,11 @@
 id: 288205518
-type: way
+type: node
 latitude: 50.30953
 longitude: 12.33723
 postcode: "08258"
 city: Markneukirchen
-street: "An der Musikhalle"
-housenumber: 10
+street: An der Musikhalle
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

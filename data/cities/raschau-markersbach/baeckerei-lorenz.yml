@@ -4,8 +4,8 @@ latitude: 50.53214
 longitude: 12.83555
 postcode: "08352"
 city: Raschau-Markersbach
-street: "Schulstraße"
-housenumber: 55
+street: Schulstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo,Fr 06:00-17:00; Tu-Th off; Sa 06:00-11:00,13:00-16:00; Su 13:00-16:00"
+opening_hours: Mo,Fr 06:00-17:00; Tu-Th off; Sa 06:00-11:00,13:00-16:00; Su 13:00-16:00
 website: ""

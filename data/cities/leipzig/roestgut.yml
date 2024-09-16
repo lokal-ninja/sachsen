@@ -4,8 +4,8 @@ latitude: 51.32525
 longitude: 12.34114
 postcode: "04229"
 city: Leipzig
-street: "Holbeinstraße"
-housenumber: 29
-phone: "+49 341 580 967 58"
-opening_hours: "Mo-Su 12:00-18:00"
-website: "https://roestgut.de/"
+street: Holbeinstraße
+housenumber: "29"
+phone: +49 341 580 967 58
+opening_hours: Mo-Su 12:00-18:00
+website: https://roestgut.de/

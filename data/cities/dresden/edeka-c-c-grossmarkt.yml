@@ -1,11 +1,11 @@
 id: 77764551
-type: way
+type: node
 latitude: 51.06871
 longitude: 13.69196
 postcode: "01139"
 city: Dresden
-street: "Tauberthstraße"
-housenumber: 3
+street: Tauberthstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

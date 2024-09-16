@@ -1,11 +1,11 @@
 id: 570069638
-type: way
+type: node
 latitude: 50.74134
 longitude: 12.49315
 postcode: "08058"
 city: Zwickau
-street: "Crossener Straße"
-housenumber: 1
-phone: "+49 375 8837790"
-opening_hours: "Tu-Fr 08:00-18:00, Sa 08:00-12:00"
+street: Crossener Straße
+housenumber: "1"
+phone: +49 375 8837790
+opening_hours: Tu-Fr 08:00-18:00, Sa 08:00-12:00
 website: ""

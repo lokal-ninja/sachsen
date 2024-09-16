@@ -1,11 +1,11 @@
 id: 194540588
-type: way
+type: node
 latitude: 50.80212
 longitude: 12.70904
 postcode: "09337"
 city: Hohenstein-Ernstthal
-street: "Dresdner Straße"
-housenumber: 16
+street: Dresdner Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.barthoptik.de/"
+website: https://www.barthoptik.de/

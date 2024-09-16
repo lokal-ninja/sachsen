@@ -1,11 +1,11 @@
 id: 418850380
-type: way
+type: node
 latitude: 51.28059
 longitude: 12.36325
 postcode: "04416"
 city: Markkleeberg
-street: "Sonnesiedlung"
+street: Sonnesiedlung
 housenumber: 2a
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 699750504
-type: way
+type: node
 latitude: 51.34567
 longitude: 12.42815
 postcode: "04318"
 city: Leipzig
-street: "Leonhard-Frank-Straße"
-housenumber: 65
+street: Leonhard-Frank-Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

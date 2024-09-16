@@ -4,8 +4,8 @@ latitude: 51.3358
 longitude: 12.40624
 postcode: "04317"
 city: Leipzig
-street: "Täubchenweg"
-housenumber: 84
-phone: "+49 351 8028920"
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://www.waschladen.de/"
+street: Täubchenweg
+housenumber: "84"
+phone: +49 351 8028920
+opening_hours: Mo-Sa 06:00-22:00
+website: https://www.waschladen.de/

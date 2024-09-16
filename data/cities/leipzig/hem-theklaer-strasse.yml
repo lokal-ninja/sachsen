@@ -1,11 +1,11 @@
 id: 331804020
-type: way
+type: node
 latitude: 51.3707
 longitude: 12.4273
 postcode: "04347"
 city: Leipzig
-street: "Theklaer Straße"
+street: Theklaer Straße
 housenumber: 92a
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00; Sa,Su 06:00-22:00"
+opening_hours: Mo-Fr 05:00-22:00; Sa,Su 06:00-22:00
 website: ""

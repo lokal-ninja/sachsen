@@ -4,8 +4,8 @@ latitude: 51.03948
 longitude: 13.80624
 postcode: "01277"
 city: Dresden
-street: "Schandauer Straße"
-housenumber: 71
+street: Schandauer Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

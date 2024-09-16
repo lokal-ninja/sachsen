@@ -4,8 +4,8 @@ latitude: 50.50795
 longitude: 12.14268
 postcode: "08525"
 city: Plauen
-street: "August-Bebel-Straße"
-housenumber: 103
+street: August-Bebel-Straße
+housenumber: "103"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

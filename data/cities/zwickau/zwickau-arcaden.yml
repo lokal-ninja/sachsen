@@ -1,11 +1,11 @@
 id: 481009642
-type: way
+type: node
 latitude: 50.71918
 longitude: 12.49384
 postcode: "08056"
 city: Zwickau
-street: "Innere Plauensche Straße"
-housenumber: 14
+street: Innere Plauensche Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
+opening_hours: Mo-Sa 09:30-20:00; Su,PH off
 website: ""

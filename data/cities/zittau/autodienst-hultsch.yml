@@ -1,11 +1,11 @@
 id: 239607443
-type: way
+type: node
 latitude: 50.89768
 longitude: 14.78846
 postcode: "02763"
 city: Zittau
-street: "Neue Burgstraße"
-housenumber: 15
+street: Neue Burgstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

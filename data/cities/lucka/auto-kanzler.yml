@@ -1,11 +1,11 @@
 id: 230552882
-type: way
+type: node
 latitude: 51.09122
 longitude: 12.32681
 postcode: "04613"
 city: Lucka
-street: "Meuselwitzer Straße"
-housenumber: 18
+street: Meuselwitzer Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

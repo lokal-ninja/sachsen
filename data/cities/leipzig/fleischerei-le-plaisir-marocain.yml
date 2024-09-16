@@ -4,8 +4,8 @@ latitude: 51.3423
 longitude: 12.36157
 postcode: "04109"
 city: Leipzig
-street: "Jahnallee"
-housenumber: 17
+street: Jahnallee
+housenumber: "17"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.leplaisirmarocainleipzig.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.leplaisirmarocainleipzig.de/

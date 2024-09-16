@@ -4,8 +4,9 @@ latitude: 51.28936
 longitude: 13.52937
 postcode: "01558"
 city: Großenhain
-street: "Beethovenallee"
-housenumber: 101
+street: Beethovenallee
+housenumber: "101"
 phone: ""
-opening_hours: "Mo,We,Fr off nach Vereinbarung; Tu 09:00-13:00; Th 14:00-18:00; Sa-Su,PH off"
+opening_hours: Mo,We,Fr off "nach Vereinbarung"; Tu 09:00-13:00; Th 14:00-18:00; Sa-Su,PH
+    off
 website: ""

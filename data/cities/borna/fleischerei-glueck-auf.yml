@@ -1,11 +1,11 @@
 id: 547194594
-type: way
+type: node
 latitude: 51.12363
 longitude: 12.49837
 postcode: "04552"
 city: Borna
-street: "Reichsstraße"
-housenumber: 8
-phone: "+49 3433 200267"
+street: Reichsstraße
+housenumber: "8"
+phone: +49 3433 200267
 opening_hours: ""
-website: "http://www.fleischerei-glueckauf.de/"
+website: http://www.fleischerei-glueckauf.de/

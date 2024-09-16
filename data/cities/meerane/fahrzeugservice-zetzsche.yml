@@ -1,11 +1,11 @@
 id: 759344875
-type: way
+type: node
 latitude: 50.83597
 longitude: 12.46773
 postcode: "08393"
 city: Meerane
-street: "Zwickauer Straße"
-housenumber: 112
-phone: "+49 3764 2738"
+street: Zwickauer Straße
+housenumber: "112"
+phone: +49 3764 2738
 opening_hours: ""
-website: "https://www.fahrzeugservicezetzsche.de/"
+website: https://www.fahrzeugservicezetzsche.de/

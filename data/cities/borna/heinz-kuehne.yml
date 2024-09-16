@@ -1,11 +1,11 @@
 id: 34375838
-type: way
+type: node
 latitude: 51.15489
 longitude: 12.50639
 postcode: "04552"
 city: Borna
-street: "Gewerbegebiet Eula West"
-housenumber: 10
-phone: "+49 3433 27270"
+street: Gewerbegebiet Eula West
+housenumber: "10"
+phone: +49 3433 27270
 opening_hours: ""
-website: "https://www.kuehne-autohaeuser.de/standorte/mercedes-benz-eula/"
+website: https://www.kuehne-autohaeuser.de/standorte/mercedes-benz-eula/

@@ -4,8 +4,8 @@ latitude: 51.3268
 longitude: 12.32561
 postcode: "04229"
 city: Leipzig
-street: "Naumburger Straße"
-housenumber: 49
+street: Naumburger Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.barockade-leipzig.de"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.barockade-leipzig.de

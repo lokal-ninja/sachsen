@@ -1,11 +1,11 @@
 id: 88219803
-type: way
+type: node
 latitude: 51.34672
 longitude: 12.26209
 postcode: ""
 city: Leipzig
-street: "Sandberg"
-housenumber: 59
+street: Sandberg
+housenumber: "59"
 phone: ""
 opening_hours: ""
-website: "https://www.toyota-partner.de/saxe-leipzig/8181/8181/8181/home.html"
+website: https://www.toyota-partner.de/saxe-leipzig/8181/8181/8181/home.html

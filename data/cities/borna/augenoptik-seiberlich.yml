@@ -4,8 +4,8 @@ latitude: 51.12394
 longitude: 12.49961
 postcode: "04552"
 city: Borna
-street: "Reichsstraße"
-housenumber: 23
+street: Reichsstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 09:00-17:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 09:00-17:00; Sa 09:00-12:00; Su,PH off
 website: ""

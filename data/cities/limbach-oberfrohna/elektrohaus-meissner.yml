@@ -1,11 +1,11 @@
 id: 189800940
-type: way
+type: node
 latitude: 50.86095
 longitude: 12.75378
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Pestalozzistraße"
-housenumber: 12
-phone: "+49 3722 92261"
+street: Pestalozzistraße
+housenumber: "12"
+phone: +49 3722 92261
 opening_hours: ""
-website: "https://www.elektrohaus-meissner.de/"
+website: https://www.elektrohaus-meissner.de/

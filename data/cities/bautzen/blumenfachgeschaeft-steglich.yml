@@ -4,8 +4,8 @@ latitude: 51.17935
 longitude: 14.41836
 postcode: "02625"
 city: Bautzen
-street: "Clara-Zetkin-Straße"
-housenumber: 3
+street: Clara-Zetkin-Straße
+housenumber: "3"
 phone: "+4935915329800"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.gaertnerei-steglich.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.gaertnerei-steglich.de/

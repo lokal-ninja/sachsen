@@ -4,8 +4,8 @@ latitude: 51.17013
 longitude: 14.97043
 postcode: "02828"
 city: Görlitz
-street: "Nieskyer Straße"
-housenumber: 100
-phone: "+49 3581 429500"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.medimax.de/goerlitz"
+street: Nieskyer Straße
+housenumber: "100"
+phone: +49 3581 429500
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://www.medimax.de/goerlitz

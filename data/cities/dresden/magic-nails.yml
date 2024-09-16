@@ -4,8 +4,8 @@ latitude: 51.07741
 longitude: 13.71676
 postcode: "01127"
 city: Dresden
-street: "Leipziger Straße"
-housenumber: 107
-phone: "+49 1522 5198108"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "http://magicnails-dresden.de"
+street: Leipziger Straße
+housenumber: "107"
+phone: +49 1522 5198108
+opening_hours: Mo-Fr 09:30-18:00
+website: http://magicnails-dresden.de

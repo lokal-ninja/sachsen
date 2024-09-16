@@ -4,8 +4,8 @@ latitude: 50.91384
 longitude: 13.34063
 postcode: "09599"
 city: Freiberg
-street: "Bebelplatz"
-housenumber: 2
-phone: "+49 3731 200232"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Bebelplatz
+housenumber: "2"
+phone: +49 3731 200232
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

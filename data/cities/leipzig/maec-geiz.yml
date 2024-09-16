@@ -4,8 +4,8 @@ latitude: 51.3457
 longitude: 12.40486
 postcode: "04315"
 city: Leipzig
-street: "Eisenbahnstraße"
-housenumber: 71
+street: Eisenbahnstraße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00; Su,PH off
 website: ""

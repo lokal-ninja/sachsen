@@ -1,11 +1,11 @@
 id: 403342050
-type: way
+type: node
 latitude: 50.98067
 longitude: 12.97453
 postcode: "09648"
 city: Mittweida
-street: "Burgstädter Straße"
-housenumber: 54
+street: Burgstädter Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "www.oldtimer-nestler.de/"
+website: www.oldtimer-nestler.de/

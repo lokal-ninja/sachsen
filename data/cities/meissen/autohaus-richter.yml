@@ -1,11 +1,11 @@
 id: 107615441
-type: way
+type: node
 latitude: 51.17238
 longitude: 13.46132
 postcode: "01662"
 city: Meißen
-street: "Leipziger Straße"
+street: Leipziger Straße
 housenumber: 82a
-phone: "+49 3521 476780"
+phone: +49 3521 476780
 opening_hours: ""
-website: "http://www.meissen-richter.de"
+website: http://www.meissen-richter.de

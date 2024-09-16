@@ -4,8 +4,9 @@ latitude: 50.50775
 longitude: 12.93917
 postcode: "09474"
 city: Crottendorf
-street: "Dr.-Wilhelm-Külz-Straße"
+street: Dr.-Wilhelm-Külz-Straße
 housenumber: 250B
 phone: ""
-opening_hours: "Tu 15:00-18:00; Th 09:00-12:00,15:00-18:00; Fr 14:00-16:00; Sa 09:00-12:00; Mo,We,Su,PH off"
+opening_hours: Tu 15:00-18:00; Th 09:00-12:00,15:00-18:00; Fr 14:00-16:00; Sa 09:00-12:00;
+    Mo,We,Su,PH off
 website: ""

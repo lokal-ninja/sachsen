@@ -4,8 +4,8 @@ latitude: 51.07683
 longitude: 13.72697
 postcode: "01127"
 city: Dresden
-street: "Bürgerstraße"
-housenumber: 20
-phone: "+49 351 7954888"
-opening_hours: "Mo-Fr 10:00-17:30"
+street: Bürgerstraße
+housenumber: "20"
+phone: +49 351 7954888
+opening_hours: Mo-Fr 10:00-17:30
 website: ""

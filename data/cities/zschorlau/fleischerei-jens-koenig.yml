@@ -1,11 +1,11 @@
 id: 134513749
-type: way
+type: node
 latitude: 50.5635
 longitude: 12.64341
 postcode: "08321"
 city: Zschorlau
-street: "Brauhausstraße"
-housenumber: 3
+street: Brauhausstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

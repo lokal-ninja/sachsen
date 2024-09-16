@@ -4,8 +4,8 @@ latitude: 51.33896
 longitude: 12.32685
 postcode: "04177"
 city: Leipzig
-street: "Georg-Schwarz-Straße"
-housenumber: 15
-phone: "+49 341 24 78 58 07"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://dampfhaus-leipzig.de"
+street: Georg-Schwarz-Straße
+housenumber: "15"
+phone: +49 341 24 78 58 07
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://dampfhaus-leipzig.de

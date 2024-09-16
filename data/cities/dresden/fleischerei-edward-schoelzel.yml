@@ -4,8 +4,8 @@ latitude: 51.00853
 longitude: 13.84837
 postcode: "01259"
 city: Dresden
-street: "Meußlitzer Straße"
-housenumber: 62
-phone: "+49 351 2013563"
-opening_hours: "Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 06:30-11:00"
+street: Meußlitzer Straße
+housenumber: "62"
+phone: +49 351 2013563
+opening_hours: Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 06:30-11:00
 website: ""

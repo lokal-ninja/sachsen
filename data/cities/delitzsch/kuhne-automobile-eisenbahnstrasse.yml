@@ -1,11 +1,11 @@
 id: 710532197
-type: way
+type: node
 latitude: 51.52568
 longitude: 12.34363
 postcode: "04509"
 city: Delitzsch
-street: "Eisenbahnstraße"
-housenumber: 11
+street: Eisenbahnstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

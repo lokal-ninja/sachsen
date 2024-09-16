@@ -4,8 +4,8 @@ latitude: 50.62173
 longitude: 12.27863
 postcode: "08468"
 city: Reichenbach
-street: "Albert-Schweitzer-Straße"
-housenumber: 1
-phone: "+49 3765 6678480"
-opening_hours: "Mo-Fr 13:00-21:00; Sa 13:00-22:00"
-website: "http://www.funtasy-video.de"
+street: Albert-Schweitzer-Straße
+housenumber: "1"
+phone: +49 3765 6678480
+opening_hours: Mo-Fr 13:00-21:00; Sa 13:00-22:00
+website: http://www.funtasy-video.de

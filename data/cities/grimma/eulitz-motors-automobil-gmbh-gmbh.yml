@@ -1,11 +1,11 @@
 id: 560347376
-type: way
+type: node
 latitude: 51.25679
 longitude: 12.72304
 postcode: "04668"
 city: Grimma
-street: "Hengstbergstraße"
-housenumber: 13
+street: Hengstbergstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

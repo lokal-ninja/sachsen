@@ -1,11 +1,11 @@
 id: 43565632
-type: way
+type: node
 latitude: 51.1372
 longitude: 14.1911
 postcode: "01877"
 city: Bischofswerda
-street: "Carl-Maria-von-Weber-Straße"
-housenumber: 18
+street: Carl-Maria-von-Weber-Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

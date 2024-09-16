@@ -4,8 +4,8 @@ latitude: 51.33615
 longitude: 12.33381
 postcode: "04177"
 city: Leipzig
-street: "Marktstraße"
-housenumber: 10
-phone: "+49 341 9004293"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-14:00"
-website: "https://computer-insel.de/"
+street: Marktstraße
+housenumber: "10"
+phone: +49 341 9004293
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-14:00
+website: https://computer-insel.de/

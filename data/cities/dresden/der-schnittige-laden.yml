@@ -1,11 +1,11 @@
 id: 146077777
-type: way
+type: node
 latitude: 51.12927
 longitude: 13.84682
 postcode: "01465"
 city: Dresden
-street: "Liegauer Straße"
+street: Liegauer Straße
 housenumber: 15a
-phone: "+49 35201 80803"
-opening_hours: "Mo 12:00-20:00; Tu-Fr 07:00-20:00; Sa 07:00-12:00"
-website: "http://www.derschnittigeladen.de"
+phone: +49 35201 80803
+opening_hours: Mo 12:00-20:00; Tu-Fr 07:00-20:00; Sa 07:00-12:00
+website: http://www.derschnittigeladen.de

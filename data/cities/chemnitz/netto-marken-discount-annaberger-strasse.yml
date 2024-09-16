@@ -1,11 +1,11 @@
 id: 95513989
-type: way
+type: node
 latitude: 50.80795
 longitude: 12.91055
 postcode: "09120"
 city: Chemnitz
-street: "Annaberger Straße"
-housenumber: 132
+street: Annaberger Straße
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

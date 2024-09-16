@@ -4,8 +4,8 @@ latitude: 50.83027
 longitude: 12.95397
 postcode: "09126"
 city: Chemnitz
-street: "Bernhardstraße"
-housenumber: 131
-phone: "+49 371 5613065"
-opening_hours: "Mo-Fr 7:30-19:30, Sa 8:00-12:00"
-website: "https://www.friseurmeisterei-wetzel.de/"
+street: Bernhardstraße
+housenumber: "131"
+phone: +49 371 5613065
+opening_hours: Mo-Fr 7:30-19:30, Sa 8:00-12:00
+website: https://www.friseurmeisterei-wetzel.de/

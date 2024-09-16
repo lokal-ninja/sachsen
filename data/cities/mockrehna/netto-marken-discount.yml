@@ -1,11 +1,11 @@
 id: 90793061
-type: way
+type: node
 latitude: 51.50662
 longitude: 12.81235
 postcode: "04862"
 city: Mockrehna
-street: "Reichsstraße"
-housenumber: 26
+street: Reichsstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

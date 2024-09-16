@@ -1,11 +1,11 @@
 id: 195526951
-type: way
+type: node
 latitude: 51.14906
 longitude: 14.94727
 postcode: "02827"
 city: Görlitz
-street: "Reichenbacher Straße"
-housenumber: 106
+street: Reichenbacher Straße
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

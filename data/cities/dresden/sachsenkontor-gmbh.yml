@@ -4,8 +4,8 @@ latitude: 51.0043
 longitude: 13.84755
 postcode: "01259"
 city: Dresden
-street: "Putjatinstraße"
-housenumber: 26
-phone: "+49 351 32 34 07 10"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.sachsenkontor.de/"
+street: Putjatinstraße
+housenumber: "26"
+phone: +49 351 32 34 07 10
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.sachsenkontor.de/

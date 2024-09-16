@@ -1,11 +1,11 @@
 id: 237427446
-type: way
+type: node
 latitude: 50.51098
 longitude: 12.81739
 postcode: "08340"
 city: Schwarzenberg/Erzgebirge
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 06:30-11:00; Mo,Su,PH off"
+opening_hours: Tu-Fr 08:00-18:00; Sa 06:30-11:00; Mo,Su,PH off
 website: ""

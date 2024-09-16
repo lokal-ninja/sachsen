@@ -1,11 +1,11 @@
 id: 91041792
-type: way
+type: node
 latitude: 50.83375
 longitude: 12.88167
 postcode: "09116"
 city: Chemnitz
-street: "Limbacher Straße"
-housenumber: 176
+street: Limbacher Straße
+housenumber: "176"
 phone: ""
 opening_hours: ""
-website: "www.suzuki-handel.de/seipp"
+website: www.suzuki-handel.de/seipp

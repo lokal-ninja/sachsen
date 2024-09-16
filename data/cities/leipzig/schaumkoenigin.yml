@@ -4,8 +4,8 @@ latitude: 51.36599
 longitude: 12.34584
 postcode: "04159"
 city: Leipzig
-street: "Kirschbergstraße"
+street: Kirschbergstraße
 housenumber: 22a
-phone: "+49 341 9107677"
-opening_hours: "Mo 09:00-17:00; Fr 09:00-15:00; Sa ||"
+phone: +49 341 9107677
+opening_hours: Mo 09:00-17:00; Fr 09:00-15:00; Sa ||
 website: ""

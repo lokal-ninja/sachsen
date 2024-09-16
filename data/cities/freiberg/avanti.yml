@@ -4,8 +4,8 @@ latitude: 50.91714
 longitude: 13.34724
 postcode: "09599"
 city: Freiberg
-street: "Wasserturmstraße"
-housenumber: 4
-phone: "+49 373123715"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 10:00-12:00"
-website: "https://www.avantiservice.de/"
+street: Wasserturmstraße
+housenumber: "4"
+phone: +49 373123715
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 10:00-12:00
+website: https://www.avantiservice.de/

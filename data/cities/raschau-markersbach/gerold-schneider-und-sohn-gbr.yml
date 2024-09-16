@@ -1,11 +1,12 @@
 id: 245238046
-type: way
+type: node
 latitude: 50.52995
 longitude: 12.81934
 postcode: "08352"
 city: Raschau-Markersbach
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 109b
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-16:00; Sa,Su,PH off"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-16:00; Sa,Su,PH
+    off
 website: ""

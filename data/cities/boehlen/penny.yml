@@ -1,11 +1,11 @@
 id: 172691572
-type: way
+type: node
 latitude: 51.19861
 longitude: 12.39665
 postcode: "04564"
 city: Böhlen
-street: "Jahnstraße"
-housenumber: 34
+street: Jahnstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

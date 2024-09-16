@@ -1,11 +1,11 @@
 id: 626244965
-type: way
+type: node
 latitude: 51.23779
 longitude: 12.72917
 postcode: "04668"
 city: Grimma
-street: "Hohnstädter Straße"
-housenumber: 8
+street: Hohnstädter Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

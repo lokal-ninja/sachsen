@@ -4,8 +4,8 @@ latitude: 51.2843
 longitude: 12.42743
 postcode: "04416"
 city: Markkleeberg
-street: "Nordstraße"
-housenumber: 1
-phone: "+49 34297 9865 0"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.expert.de/wachau"
+street: Nordstraße
+housenumber: "1"
+phone: +49 34297 9865 0
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.expert.de/wachau

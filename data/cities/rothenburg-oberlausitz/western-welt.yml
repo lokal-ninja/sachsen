@@ -1,11 +1,11 @@
 id: 398033859
-type: way
+type: node
 latitude: 51.33077
 longitude: 14.97091
 postcode: "02929"
 city: Rothenburg/Oberlausitz
-street: "Görlitzer Straße"
-housenumber: 37
-phone: "+49 35891 779535"
+street: Görlitzer Straße
+housenumber: "37"
+phone: +49 35891 779535
 opening_hours: ""
-website: "https://www.western-shop.de"
+website: https://www.western-shop.de

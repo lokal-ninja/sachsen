@@ -4,8 +4,8 @@ latitude: 51.32407
 longitude: 12.34245
 postcode: "04229"
 city: Leipzig
-street: "Stieglitzstraße"
-housenumber: 92
+street: Stieglitzstraße
+housenumber: "92"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

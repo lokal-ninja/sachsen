@@ -4,8 +4,8 @@ latitude: 51.33008
 longitude: 12.37378
 postcode: "04107"
 city: Leipzig
-street: "Karl-Liebknecht-Straße"
-housenumber: 11
-phone: "+49 341 2682496"
-opening_hours: "We-Fr 09:00-18:00; Sa 09:00-16:00; Mo,Tu off"
-website: "http://www.colorexpert-leipzig.de/"
+street: Karl-Liebknecht-Straße
+housenumber: "11"
+phone: +49 341 2682496
+opening_hours: We-Fr 09:00-18:00; Sa 09:00-16:00; Mo,Tu off
+website: http://www.colorexpert-leipzig.de/

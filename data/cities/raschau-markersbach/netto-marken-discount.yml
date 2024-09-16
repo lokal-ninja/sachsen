@@ -1,11 +1,11 @@
 id: 965272270
-type: way
+type: node
 latitude: 50.52708
 longitude: 12.82489
 postcode: "08352"
 city: Raschau-Markersbach
-street: "Straße des Friedens"
-housenumber: 12
+street: Straße des Friedens
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

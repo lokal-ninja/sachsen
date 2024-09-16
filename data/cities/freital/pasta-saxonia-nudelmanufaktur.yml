@@ -4,8 +4,9 @@ latitude: 50.99171
 longitude: 13.64341
 postcode: "01705"
 city: Freital
-street: "Dresdner Straße"
-housenumber: 289
-phone: "+49 172 8114562"
-opening_hours: "Mo 09:00-13:00; Tu 13:00-17:00; We 09:00-13:00; Th 13:00-17:00; Fr 09:00-13:00; PH,Sa,Su off"
-website: "https://www.pasta-saxonia.de"
+street: Dresdner Straße
+housenumber: "289"
+phone: +49 172 8114562
+opening_hours: Mo 09:00-13:00; Tu 13:00-17:00; We 09:00-13:00; Th 13:00-17:00; Fr
+    09:00-13:00; PH,Sa,Su off
+website: https://www.pasta-saxonia.de

@@ -1,11 +1,11 @@
 id: 462636796
-type: way
+type: node
 latitude: 50.51396
 longitude: 12.52147
 postcode: "08304"
 city: Schönheide
-street: "Neuheider Straße"
-housenumber: 75
-phone: "+49 37755 663655"
-opening_hours: "Mo-Fr 10:00-12:00, 13:00-18:00; Sa 10:00-13:00"
-website: "http://www.Ost2rad.de"
+street: Neuheider Straße
+housenumber: "75"
+phone: +49 37755 663655
+opening_hours: Mo-Fr 10:00-12:00, 13:00-18:00; Sa 10:00-13:00
+website: http://www.Ost2rad.de

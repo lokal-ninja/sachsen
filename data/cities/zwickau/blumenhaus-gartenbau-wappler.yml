@@ -1,11 +1,11 @@
 id: 564820044
-type: way
+type: node
 latitude: 50.69544
 longitude: 12.47131
 postcode: "08062"
 city: Zwickau
-street: "Christianstraße"
-housenumber: 1
+street: Christianstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00, Sa 08:30-12:00"
+opening_hours: Mo-Fr 09:00-17:00, Sa 08:30-12:00
 website: ""

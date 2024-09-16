@@ -1,11 +1,11 @@
 id: 1087365741
-type: way
+type: node
 latitude: 51.35834
 longitude: 12.3987
 postcode: "04347"
 city: Leipzig
-street: "Rackwitzer Straße"
-housenumber: 56
+street: Rackwitzer Straße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

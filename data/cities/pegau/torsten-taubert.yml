@@ -4,8 +4,8 @@ latitude: 51.22117
 longitude: 12.22324
 postcode: "04523"
 city: Pegau
-street: "Zitzschener Weg"
-housenumber: 1
-phone: "+49 34203 52321"
-opening_hours: "Tu-Fr 06:00-12:30, 15:00-17:00; Sa 06:00-10:00"
-website: "https://baeckerei-pegau-taubert.de"
+street: Zitzschener Weg
+housenumber: "1"
+phone: +49 34203 52321
+opening_hours: Tu-Fr 06:00-12:30, 15:00-17:00; Sa 06:00-10:00
+website: https://baeckerei-pegau-taubert.de

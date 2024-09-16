@@ -4,8 +4,8 @@ latitude: 51.0488
 longitude: 13.70941
 postcode: "01159"
 city: Dresden
-street: "Löbtauer Straße"
-housenumber: 64
-phone: "+49 351 211 686 90"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.airclip.de"
+street: Löbtauer Straße
+housenumber: "64"
+phone: +49 351 211 686 90
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.airclip.de

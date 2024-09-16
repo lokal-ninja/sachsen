@@ -4,8 +4,8 @@ latitude: 50.83844
 longitude: 12.95611
 postcode: "09130"
 city: Chemnitz
-street: "Heinrich-Schütz-Straße"
-housenumber: 110
+street: Heinrich-Schütz-Straße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo,Th 09:00-18:00; Tu 09:00-15:00; We 11:00-18:00; Fr 09:00-16:00"
+opening_hours: Mo,Th 09:00-18:00; Tu 09:00-15:00; We 11:00-18:00; Fr 09:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.82648
 longitude: 12.90493
 postcode: "09112"
 city: Chemnitz
-street: "Barbarossastraße"
-housenumber: 2
+street: Barbarossastraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-12:00
 website: ""

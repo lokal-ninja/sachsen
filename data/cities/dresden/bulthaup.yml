@@ -4,8 +4,8 @@ latitude: 51.05757
 longitude: 13.74694
 postcode: "01097"
 city: Dresden
-street: "Wilhelm-Buck-Straße"
-housenumber: 2
-phone: "+49 351 811 9522 0"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00; Su,Mo off"
-website: "http://www.bulthaup-carolaplatz.de/"
+street: Wilhelm-Buck-Straße
+housenumber: "2"
+phone: +49 351 811 9522 0
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00; Su,Mo off
+website: http://www.bulthaup-carolaplatz.de/

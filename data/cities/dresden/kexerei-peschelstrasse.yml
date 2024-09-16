@@ -4,8 +4,8 @@ latitude: 51.0847
 longitude: 13.69616
 postcode: "01139"
 city: Dresden
-street: "Peschelstraße"
-housenumber: 33
+street: Peschelstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://www.baecker-walther.de/kexerei"
+opening_hours: Mo-Sa 10:00-20:00
+website: http://www.baecker-walther.de/kexerei

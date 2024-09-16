@@ -4,8 +4,8 @@ latitude: 51.16268
 longitude: 13.56947
 postcode: "01689"
 city: Weinböhla
-street: "Hauptstraße"
-housenumber: 21
+street: Hauptstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off"
-website: "http://www.kinder-uni.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off
+website: http://www.kinder-uni.de

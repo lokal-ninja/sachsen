@@ -1,11 +1,11 @@
 id: 230150250
-type: way
+type: node
 latitude: 50.88447
 longitude: 13.44901
 postcode: "09627"
 city: Bobritzsch-Hilbersdorf
-street: "Am Kunstgraben"
-housenumber: 8
+street: Am Kunstgraben
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "www.tret-muehle.de"
+website: www.tret-muehle.de

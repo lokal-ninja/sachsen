@@ -1,11 +1,11 @@
 id: 206561344
-type: way
+type: node
 latitude: 50.77976
 longitude: 13.68436
 postcode: "01773"
 city: Altenberg
-street: "Hauptstraße"
-housenumber: 102
+street: Hauptstraße
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa,Su,PH off"
+opening_hours: Mo-Fr 08:00-18:30; Sa,Su,PH off
 website: ""

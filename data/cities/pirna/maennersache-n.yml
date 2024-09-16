@@ -4,8 +4,8 @@ latitude: 50.96183
 longitude: 13.93932
 postcode: "01796"
 city: Pirna
-street: "Dohnaische Straße"
-housenumber: 60
-phone: "+49 3501 561310"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-15:00; PH off"
-website: "https://www.maennersache-n.de/"
+street: Dohnaische Straße
+housenumber: "60"
+phone: +49 3501 561310
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-15:00; PH off
+website: https://www.maennersache-n.de/

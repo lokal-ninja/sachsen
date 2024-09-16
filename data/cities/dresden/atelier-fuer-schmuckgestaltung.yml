@@ -4,8 +4,8 @@ latitude: 51.06514
 longitude: 13.75204
 postcode: "01099"
 city: Dresden
-street: "Böhmische Straße"
-housenumber: 12
+street: Böhmische Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-14:00"
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-14:00
 website: ""

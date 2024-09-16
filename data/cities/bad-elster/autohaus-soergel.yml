@@ -1,11 +1,11 @@
 id: 100645559
-type: way
+type: node
 latitude: 50.30011
 longitude: 12.25383
 postcode: "08645"
 city: Bad Elster
-street: "Brambacher Straße"
-housenumber: 1
+street: Brambacher Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

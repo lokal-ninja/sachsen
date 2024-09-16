@@ -4,8 +4,8 @@ latitude: 50.72118
 longitude: 12.48488
 postcode: "08056"
 city: Zwickau
-street: "Lutherstraße"
-housenumber: 18
-phone: "+49 375 291929"
-opening_hours: "Mo-Fr 09:00-16:30"
+street: Lutherstraße
+housenumber: "18"
+phone: +49 375 291929
+opening_hours: Mo-Fr 09:00-16:30
 website: ""

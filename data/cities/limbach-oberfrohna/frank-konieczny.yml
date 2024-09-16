@@ -1,11 +1,11 @@
 id: 258815293
-type: way
+type: node
 latitude: 50.8604
 longitude: 12.76005
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Straße des Friedens"
-housenumber: 2
+street: Straße des Friedens
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

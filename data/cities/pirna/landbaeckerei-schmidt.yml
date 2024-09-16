@@ -4,8 +4,8 @@ latitude: 50.9624
 longitude: 13.93964
 postcode: "01796"
 city: Pirna
-street: "Schuhgasse"
-housenumber: 10
+street: Schuhgasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00"
-website: "https://www.landbaeckerei-schmidt.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-14:00
+website: https://www.landbaeckerei-schmidt.de/

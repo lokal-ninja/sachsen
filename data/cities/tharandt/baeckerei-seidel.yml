@@ -4,8 +4,8 @@ latitude: 50.98406
 longitude: 13.58085
 postcode: "01737"
 city: Tharandt
-street: "Roßmäßlerstraße"
-housenumber: 8
-phone: "+49 35203 30122"
-opening_hours: "Mo-Tu 05:30-17:30; We-Fr 05:30-18:00; Sa 05:30-11:00"
+street: Roßmäßlerstraße
+housenumber: "8"
+phone: +49 35203 30122
+opening_hours: Mo-Tu 05:30-17:30; We-Fr 05:30-18:00; Sa 05:30-11:00
 website: ""

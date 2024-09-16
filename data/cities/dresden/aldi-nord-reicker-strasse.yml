@@ -1,11 +1,11 @@
 id: 38564097
-type: way
+type: node
 latitude: 51.01485
 longitude: 13.78902
 postcode: "01237"
 city: Dresden
-street: "Reicker Straße"
-housenumber: 97
+street: Reicker Straße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

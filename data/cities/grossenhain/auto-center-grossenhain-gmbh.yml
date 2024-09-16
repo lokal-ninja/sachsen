@@ -4,8 +4,8 @@ latitude: 51.29211
 longitude: 13.52752
 postcode: "01558"
 city: Großenhain
-street: "Mozartallee"
-housenumber: 135
+street: Mozartallee
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://grossenhain-grossenhain.haendlerrenault.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://grossenhain-grossenhain.haendlerrenault.de/

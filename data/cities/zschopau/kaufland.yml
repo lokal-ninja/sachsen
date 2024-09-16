@@ -1,11 +1,11 @@
 id: 44639201
-type: way
+type: node
 latitude: 50.75757
 longitude: 13.0547
 postcode: "09405"
 city: Zschopau
-street: "Chemnitzer Straße"
-housenumber: 124
+street: Chemnitzer Straße
+housenumber: "124"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

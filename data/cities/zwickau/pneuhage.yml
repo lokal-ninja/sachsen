@@ -1,11 +1,11 @@
 id: 193351916
-type: way
+type: node
 latitude: 50.71496
 longitude: 12.45716
 postcode: "08060"
 city: Zwickau
-street: "Olzmannstraße"
-housenumber: 20
+street: Olzmannstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00, Sa 08:00-12:00; PH off"
+opening_hours: Mo-Fr 07:30-18:00, Sa 08:00-12:00; PH off
 website: ""

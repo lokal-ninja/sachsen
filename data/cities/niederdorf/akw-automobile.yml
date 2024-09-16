@@ -1,11 +1,11 @@
 id: 160413223
-type: way
+type: node
 latitude: 50.72645
 longitude: 12.78545
 postcode: "09366"
 city: Niederdorf
-street: "Chemnitzer Straße"
-housenumber: 43
+street: Chemnitzer Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

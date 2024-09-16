@@ -1,11 +1,11 @@
 id: 545740805
-type: way
+type: node
 latitude: 50.78781
 longitude: 12.61619
 postcode: "09356"
 city: St. Egidien
-street: "Schulstraße"
-housenumber: 12
+street: Schulstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-14:00; Su,PH off"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-14:00; Su,PH off
 website: ""

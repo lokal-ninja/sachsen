@@ -4,8 +4,8 @@ latitude: 51.05692
 longitude: 13.77201
 postcode: "01307"
 city: Dresden
-street: "Pfotenhauerstraße"
-housenumber: 64
+street: Pfotenhauerstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

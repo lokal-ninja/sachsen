@@ -1,11 +1,11 @@
 id: 265432358
-type: way
+type: node
 latitude: 50.96232
 longitude: 14.08009
 postcode: "01824"
 city: Kurort Rathen
-street: "Amselgrund"
-housenumber: 17
-phone: "+49 35024 7770"
-opening_hours: "May-Sep"
-website: "https://www.landesbuehnen-sachsen.de/felsenbuehne-rathen/#tickets-anfahrt"
+street: Amselgrund
+housenumber: "17"
+phone: +49 35024 7770
+opening_hours: May-Sep
+website: https://www.landesbuehnen-sachsen.de/felsenbuehne-rathen/#tickets-anfahrt

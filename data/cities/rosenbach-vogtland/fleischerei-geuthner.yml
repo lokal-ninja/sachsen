@@ -4,8 +4,8 @@ latitude: 50.54368
 longitude: 12.08242
 postcode: "08548"
 city: Rosenbach/Vogtland
-street: "Ernst-Thälmann-Straße"
-housenumber: 1
-phone: "+49 37431 3263"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-11:00"
-website: "http://www.fleischerei-geuthner.de"
+street: Ernst-Thälmann-Straße
+housenumber: "1"
+phone: +49 37431 3263
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:00-11:00
+website: http://www.fleischerei-geuthner.de

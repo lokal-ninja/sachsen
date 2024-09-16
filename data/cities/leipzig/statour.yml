@@ -4,8 +4,8 @@ latitude: 51.33683
 longitude: 12.33291
 postcode: "04177"
 city: Leipzig
-street: "Odermannstraße"
-housenumber: 13
+street: Odermannstraße
+housenumber: "13"
 phone: ""
-opening_hours: "We-Fr 12:00-19:00; Sa 12:00-16:00"
-website: "https://www.statourschmuck.com"
+opening_hours: We-Fr 12:00-19:00; Sa 12:00-16:00
+website: https://www.statourschmuck.com

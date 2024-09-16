@@ -1,11 +1,11 @@
 id: 139741699
-type: way
+type: node
 latitude: 50.67694
 longitude: 12.94541
 postcode: "09419"
 city: Thum
-street: "Chemnitzer Straße"
-housenumber: 63
+street: Chemnitzer Straße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 378308693
-type: way
+type: node
 latitude: 51.00451
 longitude: 14.57719
 postcode: "02730"
 city: Ebersbach-Neugersdorf
-street: "Haineweg"
-housenumber: 1
+street: Haineweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

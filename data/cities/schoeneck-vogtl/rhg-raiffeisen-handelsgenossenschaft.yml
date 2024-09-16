@@ -1,11 +1,11 @@
 id: 182503348
-type: way
+type: node
 latitude: 50.39463
 longitude: 12.34409
 postcode: "08261"
 city: Schöneck/Vogtl.
-street: "Am Bahnhof"
-housenumber: 2
+street: Am Bahnhof
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

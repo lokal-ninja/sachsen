@@ -4,8 +4,9 @@ latitude: 51.07515
 longitude: 13.68466
 postcode: "01139"
 city: Dresden
-street: "Marie-Curie-Straße"
-housenumber: 11
+street: Marie-Curie-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Jan-Oct: Mo-Fr 07:00-18:00; Sa 07:00-11:00; PH off; Nov-Dec: Mo-Fr 07:00-18:00; Sa 07:00-14:00; PH off"
-website: "https://www.emil-reimann.de/de/filialen/uebersicht-unserer-filialen/backstube-mit-werksverkauf-eigener-kaffee-roesterei-cafe-und-bistro-1627.html"
+opening_hours: 'Jan-Oct: Mo-Fr 07:00-18:00; Sa 07:00-11:00; PH off; Nov-Dec: Mo-Fr
+    07:00-18:00; Sa 07:00-14:00; PH off'
+website: https://www.emil-reimann.de/de/filialen/uebersicht-unserer-filialen/backstube-mit-werksverkauf-eigener-kaffee-roesterei-cafe-und-bistro-1627.html

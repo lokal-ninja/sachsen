@@ -1,11 +1,11 @@
 id: 111489745
-type: way
+type: node
 latitude: 50.84893
 longitude: 12.54477
 postcode: "08373"
 city: Remse
-street: "Zum Vogelberg"
-housenumber: 10
+street: Zum Vogelberg
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.leitermann.de/ueber-uns/standorte/glauchau/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.leitermann.de/ueber-uns/standorte/glauchau/

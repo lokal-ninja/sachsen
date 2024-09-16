@@ -4,8 +4,8 @@ latitude: 51.3013
 longitude: 12.32789
 postcode: "04249"
 city: Leipzig
-street: "Dieskaustraße"
-housenumber: 204
-phone: "+49 341 94692527"
-opening_hours: "Mo-Fr 10:00-18:00"
+street: Dieskaustraße
+housenumber: "204"
+phone: +49 341 94692527
+opening_hours: Mo-Fr 10:00-18:00
 website: ""

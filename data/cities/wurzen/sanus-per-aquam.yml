@@ -1,11 +1,11 @@
 id: 108140674
-type: way
+type: node
 latitude: 51.36756
 longitude: 12.73223
 postcode: "04808"
 city: Wurzen
-street: "Färbergasse"
-housenumber: 25
+street: Färbergasse
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "http://www.massage-kosmetik-wurzen.de/"
+website: http://www.massage-kosmetik-wurzen.de/

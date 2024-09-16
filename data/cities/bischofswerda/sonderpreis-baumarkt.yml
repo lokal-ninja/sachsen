@@ -1,11 +1,11 @@
 id: 42154196
-type: way
+type: node
 latitude: 51.1249
 longitude: 14.18551
 postcode: "01877"
 city: Bischofswerda
-street: "Am Güterbahnhof"
-housenumber: 2
+street: Am Güterbahnhof
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

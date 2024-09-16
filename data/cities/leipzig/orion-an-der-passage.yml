@@ -4,8 +4,8 @@ latitude: 51.40029
 longitude: 12.39561
 postcode: "04356"
 city: Leipzig
-street: "An der Passage"
-housenumber: 1
-phone: "+49 341 5202666"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.orion-store.de"
+street: An der Passage
+housenumber: "1"
+phone: +49 341 5202666
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.orion-store.de

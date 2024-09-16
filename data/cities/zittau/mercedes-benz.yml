@@ -1,11 +1,11 @@
 id: 263254373
-type: way
+type: node
 latitude: 50.90279
 longitude: 14.77474
 postcode: "02763"
 city: Zittau
-street: "Hörnitzer Straße"
-housenumber: 3
+street: Hörnitzer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

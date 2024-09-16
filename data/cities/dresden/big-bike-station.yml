@@ -4,8 +4,8 @@ latitude: 50.99477
 longitude: 13.79636
 postcode: "01257"
 city: Dresden
-street: "Nickerner Weg"
-housenumber: 8
+street: Nickerner Weg
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://big-bike-station.de/"
+website: https://big-bike-station.de/

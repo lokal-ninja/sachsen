@@ -4,8 +4,8 @@ latitude: 50.99404
 longitude: 14.6426
 postcode: "02739"
 city: Kottmar
-street: "Hauptstraße"
-housenumber: 199
+street: Hauptstraße
+housenumber: "199"
 phone: ""
-opening_hours: "07:00-20:00"
-website: "https://fuesselbaecker.com/"
+opening_hours: 07:00-20:00
+website: https://fuesselbaecker.com/

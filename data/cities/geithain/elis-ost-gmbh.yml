@@ -1,11 +1,11 @@
 id: 1135891488
-type: way
+type: node
 latitude: 51.06015
 longitude: 12.6846
 postcode: "04643"
 city: Geithain
-street: "Straße der Deutschen Einheit"
-housenumber: 10
+street: Straße der Deutschen Einheit
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

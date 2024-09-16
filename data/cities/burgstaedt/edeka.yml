@@ -1,11 +1,11 @@
 id: 456244479
-type: way
+type: node
 latitude: 50.91302
 longitude: 12.80799
 postcode: "09217"
 city: Burgstädt
-street: "Beethovenstraße"
-housenumber: 1
+street: Beethovenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

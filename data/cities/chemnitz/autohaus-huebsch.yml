@@ -1,11 +1,11 @@
 id: 161505933
-type: way
+type: node
 latitude: 50.8457
 longitude: 12.94058
 postcode: "09130"
 city: Chemnitz
-street: "Hainstraße"
-housenumber: 139
+street: Hainstraße
+housenumber: "139"
 phone: ""
 opening_hours: ""
 website: ""

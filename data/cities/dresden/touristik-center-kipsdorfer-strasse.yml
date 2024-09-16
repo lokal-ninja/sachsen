@@ -4,8 +4,8 @@ latitude: 51.03751
 longitude: 13.80622
 postcode: "01277"
 city: Dresden
-street: "Kipsdorfer Straße"
-housenumber: 113
-phone: "+49 351 2510985"
-opening_hours: "Mo 13:00-18:00; We 11:00-16:00; Fr 10:00-14:00"
-website: "https://www.touristik-center.com"
+street: Kipsdorfer Straße
+housenumber: "113"
+phone: +49 351 2510985
+opening_hours: Mo 13:00-18:00; We 11:00-16:00; Fr 10:00-14:00
+website: https://www.touristik-center.com

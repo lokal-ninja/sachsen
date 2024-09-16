@@ -4,8 +4,8 @@ latitude: 51.36619
 longitude: 12.40184
 postcode: "04357"
 city: Leipzig
-street: "Dortmunder Straße"
-housenumber: 
+street: Dortmunder Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.harley-leipzig.com"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.harley-leipzig.com

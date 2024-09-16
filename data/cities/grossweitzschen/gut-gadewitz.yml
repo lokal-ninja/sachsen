@@ -4,8 +4,8 @@ latitude: 51.1592
 longitude: 13.13647
 postcode: "04720"
 city: Großweitzschen
-street: "Gadewitz"
-housenumber: 10
-phone: "+49 3431 704004"
-opening_hours: "We-Fr 10:00-19:00; Sa 09:00-13:00; Su-Tu off"
-website: "https://www.gut-gadewitz.de/"
+street: Gadewitz
+housenumber: "10"
+phone: +49 3431 704004
+opening_hours: We-Fr 10:00-19:00; Sa 09:00-13:00; Su-Tu off
+website: https://www.gut-gadewitz.de/

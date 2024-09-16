@@ -1,11 +1,11 @@
 id: 397057388
-type: way
+type: node
 latitude: 50.71174
 longitude: 12.50518
 postcode: "08066"
 city: Zwickau
-street: "Reinsdorfer Straße"
-housenumber: 10
+street: Reinsdorfer Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

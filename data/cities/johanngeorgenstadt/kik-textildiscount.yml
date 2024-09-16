@@ -1,11 +1,11 @@
 id: 145170613
-type: way
+type: node
 latitude: 50.43323
 longitude: 12.71498
 postcode: "08349"
 city: Johanngeorgenstadt
-street: "Goethestraße"
-housenumber: 1
+street: Goethestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-15:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-15:00; Sa 09:00-14:00
 website: ""

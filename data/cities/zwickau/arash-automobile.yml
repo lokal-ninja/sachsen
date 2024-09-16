@@ -1,11 +1,11 @@
 id: 1124468166
-type: way
+type: node
 latitude: 50.70452
 longitude: 12.49293
 postcode: "08056"
 city: Zwickau
-street: "Planitzer Straße"
-housenumber: 14
+street: Planitzer Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 158200016
-type: way
+type: node
 latitude: 50.87877
 longitude: 12.82707
 postcode: "09228"
 city: Chemnitz
-street: "Alte Herrenhaider Straße"
-housenumber: 2
+street: Alte Herrenhaider Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 228884982
-type: way
+type: node
 latitude: 50.97177
 longitude: 14.64206
 postcode: "02739"
 city: Kottmar
-street: "Dorfstraße"
-housenumber: 20
+street: Dorfstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

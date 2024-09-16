@@ -1,11 +1,11 @@
 id: 66542567
-type: way
+type: node
 latitude: 51.38198
 longitude: 12.73729
 postcode: "04808"
 city: Wurzen
-street: "Collmener Straße"
-housenumber: 6
-phone: "+49 3425 923270"
-opening_hours: "Mo-Sa 08:30-20:00"
+street: Collmener Straße
+housenumber: "6"
+phone: +49 3425 923270
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

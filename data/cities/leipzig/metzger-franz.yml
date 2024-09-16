@@ -4,8 +4,8 @@ latitude: 51.34446
 longitude: 12.40788
 postcode: "04315"
 city: Leipzig
-street: "Konradstraße"
-housenumber: 52
-phone: "+49 341 6891151"
-opening_hours: "We-Fr 10:00-16:00; Sa 08:00-11:00; Mo,Tu off"
-website: "https://www.metzger-franz.de"
+street: Konradstraße
+housenumber: "52"
+phone: +49 341 6891151
+opening_hours: We-Fr 10:00-16:00; Sa 08:00-11:00; Mo,Tu off
+website: https://www.metzger-franz.de

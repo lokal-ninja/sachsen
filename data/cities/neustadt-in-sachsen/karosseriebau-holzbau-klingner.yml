@@ -1,11 +1,11 @@
 id: 299514263
-type: way
+type: node
 latitude: 50.99627
 longitude: 14.18951
 postcode: "01844"
 city: Neustadt in Sachsen
-street: "Neuhäuser"
-housenumber: 32
-phone: "+49 3596 506016"
+street: Neuhäuser
+housenumber: "32"
+phone: +49 3596 506016
 opening_hours: ""
-website: "https://www.karosseriebau-holzbau-klingner.de/"
+website: https://www.karosseriebau-holzbau-klingner.de/

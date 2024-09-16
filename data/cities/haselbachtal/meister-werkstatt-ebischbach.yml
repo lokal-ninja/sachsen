@@ -1,11 +1,11 @@
 id: 379555305
-type: way
+type: node
 latitude: 51.24704
 longitude: 14.00936
 postcode: "01920"
 city: Haselbachtal
-street: "Bergstraße"
-housenumber: 8
-phone: "+49 3578 3737768"
+street: Bergstraße
+housenumber: "8"
+phone: +49 3578 3737768
 opening_hours: ""
-website: "http://mw-ebischbach.de"
+website: http://mw-ebischbach.de

@@ -4,8 +4,8 @@ latitude: 50.99956
 longitude: 13.67527
 postcode: "01705"
 city: Freital
-street: "Hartmannsberg"
-housenumber: 2
-phone: "+49 351 6444560"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://iq-elektrotechnik-braeuer.de/"
+street: Hartmannsberg
+housenumber: "2"
+phone: +49 351 6444560
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://iq-elektrotechnik-braeuer.de/

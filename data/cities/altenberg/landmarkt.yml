@@ -1,11 +1,11 @@
 id: 203119707
-type: way
+type: node
 latitude: 50.7366
 longitude: 13.76256
 postcode: "01773"
 city: Altenberg
-street: "Teplitzer Straße"
-housenumber: 14
-phone: "+49 35056 23309"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-12:00"
-website: "http://www.landmarkt-zinnwald.de"
+street: Teplitzer Straße
+housenumber: "14"
+phone: +49 35056 23309
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:30-12:00
+website: http://www.landmarkt-zinnwald.de

@@ -4,8 +4,9 @@ latitude: 51.26909
 longitude: 13.25487
 postcode: "01594"
 city: Stauchitz
-street: "Gewerbering"
-housenumber: 6
+street: Gewerbering
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:30; Fr 08:00-12:00,13:00-16:00; Sa,Su,PH off"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:30; Fr 08:00-12:00,13:00-16:00; Sa,Su,PH
+    off
 website: ""

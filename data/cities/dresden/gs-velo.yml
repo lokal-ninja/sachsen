@@ -4,8 +4,8 @@ latitude: 51.04708
 longitude: 13.77172
 postcode: "01307"
 city: Dresden
-street: "Striesener Straße"
-housenumber: 49
-phone: "+49 351 3143643"
-opening_hours: "Tu-Th 10:00-19:00; Fr 10:00-18:00; Sa 09:00-12:00"
-website: "https://www.gs-velo.de/"
+street: Striesener Straße
+housenumber: "49"
+phone: +49 351 3143643
+opening_hours: Tu-Th 10:00-19:00; Fr 10:00-18:00; Sa 09:00-12:00
+website: https://www.gs-velo.de/

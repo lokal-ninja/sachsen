@@ -1,11 +1,11 @@
 id: 207169156
-type: way
+type: node
 latitude: 50.85819
 longitude: 13.31474
 postcode: "09618"
 city: Brand-Erbisdorf
-street: "Langenauer Straße"
-housenumber: 8
-phone: "+49 37322 41383"
+street: Langenauer Straße
+housenumber: "8"
+phone: +49 37322 41383
 opening_hours: ""
-website: "http://www.dragali.de"
+website: http://www.dragali.de

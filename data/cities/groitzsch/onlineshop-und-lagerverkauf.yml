@@ -4,8 +4,8 @@ latitude: 51.15641
 longitude: 12.28223
 postcode: "04539"
 city: Groitzsch
-street: "Bahnhofstraße"
-housenumber: 11
+street: Bahnhofstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,We,Fr 09:00-12:00,14:30-17:30; Tu,Th 14:30-17:30; Sa,Su,PH off"
+opening_hours: Mo,We,Fr 09:00-12:00,14:30-17:30; Tu,Th 14:30-17:30; Sa,Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 146663300
-type: way
+type: node
 latitude: 50.48295
 longitude: 12.97175
 postcode: "09465"
 city: Sehmatal
-street: "Crottendorfer Straße"
-housenumber: 3
+street: Crottendorfer Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
 website: ""

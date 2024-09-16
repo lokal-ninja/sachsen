@@ -1,11 +1,11 @@
 id: 85025672
-type: way
+type: node
 latitude: 51.37308
 longitude: 12.48014
 postcode: "04425"
 city: Taucha
-street: "Leipziger Straße"
-housenumber: 117
+street: Leipziger Straße
+housenumber: "117"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

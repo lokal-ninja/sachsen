@@ -4,8 +4,8 @@ latitude: 51.04748
 longitude: 12.7999
 postcode: "09306"
 city: Rochlitz
-street: "Poststraße"
-housenumber: 1
+street: Poststraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
-website: "https://www.baeckerei-stoelzel.de/filialen/filiale_edeka_markt_rochlitz/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00
+website: https://www.baeckerei-stoelzel.de/filialen/filiale_edeka_markt_rochlitz/

@@ -4,8 +4,8 @@ latitude: 51.18149
 longitude: 14.43448
 postcode: "02625"
 city: Bautzen
-street: "Holzmarkt"
-housenumber: 29
-phone: "+49 3591 530507"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "http://www.little-john-bikes.de"
+street: Holzmarkt
+housenumber: "29"
+phone: +49 3591 530507
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: http://www.little-john-bikes.de

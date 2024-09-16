@@ -1,11 +1,11 @@
 id: 178318935
-type: way
+type: node
 latitude: 51.10147
 longitude: 14.68153
 postcode: "02708"
 city: Löbau
-street: "Viaduktweg"
-housenumber: 12
+street: Viaduktweg
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

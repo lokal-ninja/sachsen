@@ -4,8 +4,8 @@ latitude: 51.04691
 longitude: 13.78786
 postcode: "01309"
 city: Dresden
-street: "Wartburgstraße"
-housenumber: 35
-phone: "+49 351 316520"
-opening_hours: "Jan-Dec: Mo-Th 08:00-17:00; Jan-Dec: Fr 08:00-16:00"
-website: "https://www.reifen-doering.de/"
+street: Wartburgstraße
+housenumber: "35"
+phone: +49 351 316520
+opening_hours: 'Jan-Dec: Mo-Th 08:00-17:00; Jan-Dec: Fr 08:00-16:00'
+website: https://www.reifen-doering.de/

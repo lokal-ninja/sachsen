@@ -4,8 +4,8 @@ latitude: 50.82921
 longitude: 12.95494
 postcode: "09127"
 city: Chemnitz
-street: "Geibelstraße"
-housenumber: 18
-phone: "+49 371 5380904"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.ambrosia-bestattungen.de"
+street: Geibelstraße
+housenumber: "18"
+phone: +49 371 5380904
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.ambrosia-bestattungen.de

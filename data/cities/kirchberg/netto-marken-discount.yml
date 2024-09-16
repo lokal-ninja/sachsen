@@ -1,11 +1,11 @@
 id: 88734958
-type: way
+type: node
 latitude: 50.62345
 longitude: 12.52485
 postcode: "08107"
 city: Kirchberg
-street: "Robert-Seidel-Straße"
-housenumber: 6
+street: Robert-Seidel-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

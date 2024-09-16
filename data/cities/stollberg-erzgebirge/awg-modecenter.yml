@@ -1,11 +1,11 @@
 id: 180233606
-type: way
+type: node
 latitude: 50.70687
 longitude: 12.75831
 postcode: "09366"
 city: Stollberg/Erzgebirge
-street: "Auer Straße"
-housenumber: 22
+street: Auer Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

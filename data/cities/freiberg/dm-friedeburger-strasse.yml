@@ -1,11 +1,11 @@
 id: 525542728
-type: way
+type: node
 latitude: 50.91808
 longitude: 13.32933
 postcode: "09599"
 city: Freiberg
-street: "Friedeburger Straße"
-housenumber: 9
-phone: "+49 3731 4470390"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Friedeburger Straße
+housenumber: "9"
+phone: +49 3731 4470390
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

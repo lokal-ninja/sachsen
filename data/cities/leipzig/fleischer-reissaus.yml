@@ -4,8 +4,8 @@ latitude: 51.3124
 longitude: 12.27947
 postcode: "04209"
 city: Leipzig
-street: "Kiewer Straße"
-housenumber: 5
+street: Kiewer Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 09:00-16:00; Tu-Fr 09:00-18:00, Sa 08:00-11:30; Su,PH off"
+opening_hours: Mo 09:00-16:00; Tu-Fr 09:00-18:00, Sa 08:00-11:30; Su,PH off
 website: ""

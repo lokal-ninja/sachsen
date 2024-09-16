@@ -1,11 +1,11 @@
 id: 198960645
-type: way
+type: node
 latitude: 51.12589
 longitude: 13.58087
 postcode: "01640"
 city: Coswig
-street: "Wettinplatz"
-housenumber: 3
-phone: "+49 3523 535572"
+street: Wettinplatz
+housenumber: "3"
+phone: +49 3523 535572
 opening_hours: ""
 website: ""

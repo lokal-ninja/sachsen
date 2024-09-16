@@ -4,8 +4,8 @@ latitude: 51.28651
 longitude: 13.53168
 postcode: "01558"
 city: Großenhain
-street: "Weßnitzer Straße"
-housenumber: 4
+street: Weßnitzer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00"
-website: "https://www.zweirad-zschoche.de/"
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00
+website: https://www.zweirad-zschoche.de/

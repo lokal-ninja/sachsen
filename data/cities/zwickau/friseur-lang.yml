@@ -4,8 +4,8 @@ latitude: 50.69377
 longitude: 12.47249
 postcode: "08062"
 city: Zwickau
-street: "Eduard-Soermus-Straße"
-housenumber: 14
-phone: "+49 (0)37 57788122"
-opening_hours: "Mo 06:45-11:30, Tu-Fr 07:30-17:30"
+street: Eduard-Soermus-Straße
+housenumber: "14"
+phone: +49 (0)37 57788122
+opening_hours: Mo 06:45-11:30, Tu-Fr 07:30-17:30
 website: ""

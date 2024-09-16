@@ -4,8 +4,8 @@ latitude: 51.09503
 longitude: 14.66666
 postcode: "02708"
 city: Löbau
-street: "Altmarkt"
-housenumber: 4
-phone: "+49 3585 413420"
-opening_hours: "Mo, Tu, Th, Fr 09:00-13:00, 14:00-18:00; We 09:00-13:00"
-website: "https://www.hoergeraete-steudler.de/"
+street: Altmarkt
+housenumber: "4"
+phone: +49 3585 413420
+opening_hours: Mo, Tu, Th, Fr 09:00-13:00, 14:00-18:00; We 09:00-13:00
+website: https://www.hoergeraete-steudler.de/

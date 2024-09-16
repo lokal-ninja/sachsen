@@ -1,11 +1,11 @@
 id: 157671017
-type: way
+type: node
 latitude: 51.37249
 longitude: 12.38404
 postcode: "04129"
 city: Leipzig
-street: "Delitzscher Straße"
-housenumber: 97
-phone: "+49 341 3928739"
-opening_hours: "Mo 10:00-16:00 Tu-Fr 10:00-18:00, Sa 10:00-14:00"
-website: "https://www.rad3.de"
+street: Delitzscher Straße
+housenumber: "97"
+phone: +49 341 3928739
+opening_hours: Mo 10:00-16:00 Tu-Fr 10:00-18:00, Sa 10:00-14:00
+website: https://www.rad3.de

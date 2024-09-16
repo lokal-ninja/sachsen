@@ -1,11 +1,11 @@
 id: 132066944
-type: way
+type: node
 latitude: 50.90657
 longitude: 13.6721
 postcode: "01744"
 city: Dippoldiswalde
-street: "Rabenauer Straße"
-housenumber: 43
-phone: "+49 3504 616400"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.diska.de/marktsuche/?store_id=89"
+street: Rabenauer Straße
+housenumber: "43"
+phone: +49 3504 616400
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.diska.de/marktsuche/?store_id=89

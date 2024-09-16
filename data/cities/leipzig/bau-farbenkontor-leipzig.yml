@@ -4,8 +4,8 @@ latitude: 51.3275
 longitude: 12.3202
 postcode: "04179"
 city: Leipzig
-street: "Spinnereistraße"
-housenumber: 7
-phone: "+49 341 6891802"
-opening_hours: "Mo-Th 10:00-13:00,14:00-18:00; Fr 10:00-13:00,14:00-20:00"
-website: "https://www.naturfarben-leipzig.de/"
+street: Spinnereistraße
+housenumber: "7"
+phone: +49 341 6891802
+opening_hours: Mo-Th 10:00-13:00,14:00-18:00; Fr 10:00-13:00,14:00-20:00
+website: https://www.naturfarben-leipzig.de/

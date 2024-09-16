@@ -1,11 +1,11 @@
 id: 1151604054
-type: way
+type: node
 latitude: 50.8222
 longitude: 12.95949
 postcode: "09127"
 city: Chemnitz
-street: "Carl-von-Ossietzky-Straße"
-housenumber: 153
+street: Carl-von-Ossietzky-Straße
+housenumber: "153"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
-website: "https://www.der.com/reisebuero/Chemnitz-Carl-von-Ossietzky-Strasse-153"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:00
+website: https://www.der.com/reisebuero/Chemnitz-Carl-von-Ossietzky-Strasse-153

@@ -1,11 +1,11 @@
 id: 93449473
-type: way
+type: node
 latitude: 51.29986
 longitude: 13.58039
 postcode: "01558"
 city: Großenhain
-street: "Königsbrücker Straße"
-housenumber: 60
+street: Königsbrücker Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.33805
 longitude: 12.33287
 postcode: "04177"
 city: Leipzig
-street: "Demmeringstraße"
-housenumber: 26
+street: Demmeringstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Su 09:00-20:00"
+opening_hours: Mo-Su 09:00-20:00
 website: ""

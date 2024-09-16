@@ -4,8 +4,8 @@ latitude: 51.5247
 longitude: 12.34349
 postcode: "04509"
 city: Delitzsch
-street: "Eilenburger Straße"
-housenumber: 67
+street: Eilenburger Straße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.marini-delitzsch.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.marini-delitzsch.de

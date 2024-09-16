@@ -1,11 +1,11 @@
 id: 434573542
-type: way
+type: node
 latitude: 50.90445
 longitude: 13.3371
 postcode: "09599"
 city: Freiberg
-street: "Olbernhauer Straße"
-housenumber: 72
+street: Olbernhauer Straße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

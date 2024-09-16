@@ -1,11 +1,11 @@
 id: 153675637
-type: way
+type: node
 latitude: 51.09746
 longitude: 13.99319
 postcode: "01477"
 city: Arnsdorf
-street: "Stolpener Straße"
-housenumber: 14
+street: Stolpener Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

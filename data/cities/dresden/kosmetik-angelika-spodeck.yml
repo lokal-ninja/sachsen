@@ -4,8 +4,8 @@ latitude: 51.02307
 longitude: 13.8134
 postcode: "01237"
 city: Dresden
-street: "Basedowstraße"
-housenumber: 16
-phone: "+49 351 2013391"
-opening_hours: "Tu-Th 10:00-19:00"
+street: Basedowstraße
+housenumber: "16"
+phone: +49 351 2013391
+opening_hours: Tu-Th 10:00-19:00
 website: ""

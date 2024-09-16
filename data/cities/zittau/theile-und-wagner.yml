@@ -4,8 +4,8 @@ latitude: 50.89563
 longitude: 14.8087
 postcode: "02763"
 city: Zittau
-street: "Reichenberger Straße"
-housenumber: 11
+street: Reichenberger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-12:00"
-website: "https://www.theile-wagner.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-12:00
+website: https://www.theile-wagner.de/

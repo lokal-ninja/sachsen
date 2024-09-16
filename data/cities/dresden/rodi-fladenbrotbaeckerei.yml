@@ -1,11 +1,11 @@
 id: 42222162
-type: way
+type: node
 latitude: 51.08505
 longitude: 13.73826
 postcode: "01127"
 city: Dresden
-street: "Weinböhlaer Straße"
-housenumber: 66
+street: Weinböhlaer Straße
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

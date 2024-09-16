@@ -1,11 +1,11 @@
 id: 338146605
-type: way
+type: node
 latitude: 50.99575
 longitude: 12.96664
 postcode: "09648"
 city: Mittweida
-street: "Hüttenstraße"
-housenumber: 20
-phone: "+49 3727 9964000"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+street: Hüttenstraße
+housenumber: "20"
+phone: +49 3727 9964000
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
 website: ""

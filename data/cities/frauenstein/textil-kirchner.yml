@@ -1,11 +1,11 @@
 id: 233115013
-type: way
+type: node
 latitude: 50.80155
 longitude: 13.53911
 postcode: "09623"
 city: Frauenstein
-street: "Teplitzer Straße"
-housenumber: 1
+street: Teplitzer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

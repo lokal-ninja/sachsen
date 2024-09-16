@@ -4,8 +4,8 @@ latitude: 51.33621
 longitude: 12.33306
 postcode: "04177"
 city: Leipzig
-street: "Odermannstraße"
-housenumber: 19
-phone: "+49 0341-58142091"
-opening_hours: "Mo-Fr 15:00-19:00"
-website: "https://mehrweg-ev.de/no-border-biking"
+street: Odermannstraße
+housenumber: "19"
+phone: +49 0341-58142091
+opening_hours: Mo-Fr 15:00-19:00
+website: https://mehrweg-ev.de/no-border-biking

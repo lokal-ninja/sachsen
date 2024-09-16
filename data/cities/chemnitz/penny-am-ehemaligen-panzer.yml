@@ -1,11 +1,11 @@
 id: 99222166
-type: way
+type: node
 latitude: 50.84862
 longitude: 12.94476
 postcode: "09131"
 city: Chemnitz
-street: "Frankenberger Straße"
-housenumber: 46
+street: Frankenberger Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

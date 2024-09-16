@@ -4,8 +4,8 @@ latitude: 51.36746
 longitude: 12.73451
 postcode: "04808"
 city: Wurzen
-street: "Wenceslaigasse"
-housenumber: 30
-phone: "+49 178 3525792"
-opening_hours: "We,Th,Fr 08:00-12:00,14:00-19:00"
+street: Wenceslaigasse
+housenumber: "30"
+phone: +49 178 3525792
+opening_hours: We,Th,Fr 08:00-12:00,14:00-19:00
 website: ""

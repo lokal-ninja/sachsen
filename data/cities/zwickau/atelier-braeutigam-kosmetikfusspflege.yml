@@ -4,8 +4,8 @@ latitude: 50.73221
 longitude: 12.49376
 postcode: "08058"
 city: Zwickau
-street: "Rosa-Luxemburg-Straße"
-housenumber: 84
-phone: "+49 375 2 14 43 21"
-opening_hours: "Mo-Fr 08:00-19:00"
+street: Rosa-Luxemburg-Straße
+housenumber: "84"
+phone: +49 375 2 14 43 21
+opening_hours: Mo-Fr 08:00-19:00
 website: ""

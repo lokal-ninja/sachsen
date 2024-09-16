@@ -1,11 +1,11 @@
 id: 147434359
-type: way
+type: node
 latitude: 51.33011
 longitude: 12.31467
 postcode: "04179"
 city: Leipzig
-street: "Lützner Straße"
-housenumber: 153
+street: Lützner Straße
+housenumber: "153"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
 website: ""

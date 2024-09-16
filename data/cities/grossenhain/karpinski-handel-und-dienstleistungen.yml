@@ -4,8 +4,8 @@ latitude: 51.288
 longitude: 13.52982
 postcode: "01558"
 city: Großenhain
-street: "An der Textimabrücke"
-housenumber: 4
-phone: "+49 3522 502780"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.fa-karpinski.de"
+street: An der Textimabrücke
+housenumber: "4"
+phone: +49 3522 502780
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.fa-karpinski.de

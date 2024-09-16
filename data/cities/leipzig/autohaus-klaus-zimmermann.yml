@@ -4,8 +4,8 @@ latitude: 51.3367
 longitude: 12.33489
 postcode: "04177"
 city: Leipzig
-street: "Lindenauer Markt"
-housenumber: 7
-phone: "+49 341 4792000"
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "https://www.autohaus-klaus-zimmermann.de/"
+street: Lindenauer Markt
+housenumber: "7"
+phone: +49 341 4792000
+opening_hours: Mo-Fr 07:00-16:00
+website: https://www.autohaus-klaus-zimmermann.de/

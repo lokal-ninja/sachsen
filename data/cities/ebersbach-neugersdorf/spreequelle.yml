@@ -1,11 +1,11 @@
 id: 115836373
-type: way
+type: node
 latitude: 50.98398
 longitude: 14.61418
 postcode: "02727"
 city: Ebersbach-Neugersdorf
-street: "Spreequellstraße"
-housenumber: 6
+street: Spreequellstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su,PH off
 website: ""

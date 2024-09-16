@@ -4,8 +4,8 @@ latitude: 51.05179
 longitude: 13.73763
 postcode: "01067"
 city: Dresden
-street: "Schloßstraße"
-housenumber: 14
+street: Schloßstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

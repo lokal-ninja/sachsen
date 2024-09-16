@@ -4,8 +4,8 @@ latitude: 51.10966
 longitude: 13.56557
 postcode: "01665"
 city: Klipphausen
-street: "Langer Weg"
-housenumber: 15
+street: Langer Weg
+housenumber: "15"
 phone: ""
-opening_hours: "nach Absprache / Aushang"
+opening_hours: '"nach Absprache / Aushang"'
 website: ""

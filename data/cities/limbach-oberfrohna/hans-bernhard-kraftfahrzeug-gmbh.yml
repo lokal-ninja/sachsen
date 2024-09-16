@@ -1,11 +1,11 @@
 id: 258815290
-type: way
+type: node
 latitude: 50.85753
 longitude: 12.7695
 postcode: "09212"
 city: Limbach-Oberfrohna
-street: "Marktstraße"
-housenumber: 14
+street: Marktstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 09:00-12:00"
-website: "https://www.boschservicebernhard.de/"
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 09:00-12:00
+website: https://www.boschservicebernhard.de/

@@ -4,8 +4,8 @@ latitude: 51.3625
 longitude: 12.36466
 postcode: "04155"
 city: Leipzig
-street: "Georg-Schumann-Straße"
-housenumber: 89
-phone: "+49 341 21977572"
-opening_hours: "We 15:00-17:00; Th 13:00-18:00; Fr 11:00-16:00; Sa 12:00-15:00"
-website: "https://www.the50s-leipzig.de/"
+street: Georg-Schumann-Straße
+housenumber: "89"
+phone: +49 341 21977572
+opening_hours: We 15:00-17:00; Th 13:00-18:00; Fr 11:00-16:00; Sa 12:00-15:00
+website: https://www.the50s-leipzig.de/

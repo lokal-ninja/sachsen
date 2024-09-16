@@ -4,8 +4,8 @@ latitude: 51.1489
 longitude: 14.98145
 postcode: "02826"
 city: Görlitz
-street: "Berliner Straße"
-housenumber: 24
-phone: "+49 3581 6851845"
-opening_hours: "Mo-Sa 10:00-13:00; Mo-Sa 13:30-18:30 off Mittagspause; Su,PH off"
-website: "https://www.leguano.eu"
+street: Berliner Straße
+housenumber: "24"
+phone: +49 3581 6851845
+opening_hours: Mo-Sa 10:00-13:00; Mo-Sa 13:30-18:30 off "Mittagspause"; Su,PH off
+website: https://www.leguano.eu

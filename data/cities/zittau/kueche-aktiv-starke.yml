@@ -1,11 +1,11 @@
 id: 235196286
-type: way
+type: node
 latitude: 50.89254
 longitude: 14.79371
 postcode: "02763"
 city: Zittau
-street: "Schrammstraße"
-housenumber: 1
+street: Schrammstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "http://www.kueche-aktiv-starke.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: http://www.kueche-aktiv-starke.de/

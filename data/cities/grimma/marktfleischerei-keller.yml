@@ -1,11 +1,11 @@
 id: 572782792
-type: way
+type: node
 latitude: 51.23617
 longitude: 12.72977
 postcode: "04668"
 city: Grimma
-street: "Markt"
-housenumber: 1
-phone: "+49 3437 917943"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-12:00"
-website: "https://marktfleischerei.de/"
+street: Markt
+housenumber: "1"
+phone: +49 3437 917943
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-12:00
+website: https://marktfleischerei.de/

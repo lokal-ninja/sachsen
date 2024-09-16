@@ -4,8 +4,8 @@ latitude: 51.32028
 longitude: 12.32505
 postcode: "04229"
 city: Leipzig
-street: "Antonienstraße"
-housenumber: 43
-phone: "+49 341 4246807"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://beckeloptik.de/"
+street: Antonienstraße
+housenumber: "43"
+phone: +49 341 4246807
+opening_hours: Mo-Fr 09:00-18:00
+website: https://beckeloptik.de/

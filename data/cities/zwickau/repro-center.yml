@@ -4,8 +4,8 @@ latitude: 50.72021
 longitude: 12.49269
 postcode: "08056"
 city: Zwickau
-street: "Dr.-Friedrichs-Ring"
-housenumber: 31
-phone: "+49 375 / 21 34 29"
-opening_hours: "Mo-Tu 09:00-13:00,13:30-18:00, Fr 09:00-13:00,13:30-17:00"
-website: "https://www.repro-center-fajerski.de/"
+street: Dr.-Friedrichs-Ring
+housenumber: "31"
+phone: +49 375 / 21 34 29
+opening_hours: Mo-Tu 09:00-13:00,13:30-18:00, Fr 09:00-13:00,13:30-17:00
+website: https://www.repro-center-fajerski.de/

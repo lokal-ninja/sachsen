@@ -4,8 +4,8 @@ latitude: 50.4809
 longitude: 12.13722
 postcode: "08527"
 city: Plauen
-street: "Hegelstraße"
-housenumber: 26
-phone: "+49 3741 7423862"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-12:00"
+street: Hegelstraße
+housenumber: "26"
+phone: +49 3741 7423862
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-12:00
 website: ""

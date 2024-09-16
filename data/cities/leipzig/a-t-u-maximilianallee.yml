@@ -1,11 +1,11 @@
 id: 136433241
-type: way
+type: node
 latitude: 51.36725
 longitude: 12.39694
 postcode: "04129"
 city: Leipzig
-street: "Maximilianallee"
-housenumber: 13
+street: Maximilianallee
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

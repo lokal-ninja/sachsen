@@ -1,11 +1,11 @@
 id: 594071745
-type: way
+type: node
 latitude: 51.44607
 longitude: 12.22314
 postcode: "04435"
 city: Schkeuditz
-street: "Dammstraße"
-housenumber: 2
-phone: "+49 34207 70486"
+street: Dammstraße
+housenumber: "2"
+phone: +49 34207 70486
 opening_hours: ""
 website: ""

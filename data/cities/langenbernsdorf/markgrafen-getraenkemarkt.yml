@@ -4,8 +4,9 @@ latitude: 50.75538
 longitude: 12.32295
 postcode: "08428"
 city: Langenbernsdorf
-street: "Schulstraße"
+street: Schulstraße
 housenumber: 1d
 phone: ""
-opening_hours: "Mo,We 09:00-13:00; Tu,Th,Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo,We 09:00-13:00; Tu,Th,Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00;
+    Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 40354665
-type: way
+type: node
 latitude: 51.35321
 longitude: 12.30543
 postcode: "04179"
 city: Leipzig
-street: "Philipp-Reis-Straße"
-housenumber: 80
+street: Philipp-Reis-Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

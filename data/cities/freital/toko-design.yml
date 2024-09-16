@@ -4,8 +4,8 @@ latitude: 51.01074
 longitude: 13.66201
 postcode: "01705"
 city: Freital
-street: "Dresdner Straße"
-housenumber: 77
-phone: "+49 151 156566486"
-opening_hours: "PH,Mo-Su off nach Vereinbarung"
-website: "https://www.toko-design.de/"
+street: Dresdner Straße
+housenumber: "77"
+phone: +49 151 156566486
+opening_hours: PH,Mo-Su off "nach Vereinbarung"
+website: https://www.toko-design.de/

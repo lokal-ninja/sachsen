@@ -1,11 +1,11 @@
 id: 992383090
-type: way
+type: node
 latitude: 51.36576
 longitude: 14.06274
 postcode: "02994"
 city: Bernsdorf
-street: "Dresdener Straße"
-housenumber: 13
+street: Dresdener Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

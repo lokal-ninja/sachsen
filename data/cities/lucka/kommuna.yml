@@ -1,11 +1,11 @@
 id: 230546966
-type: way
+type: node
 latitude: 51.09797
 longitude: 12.33206
 postcode: "04613"
 city: Lucka
-street: "Altenburger Straße"
-housenumber: 4
+street: Altenburger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-15:30"
+opening_hours: Mo-Fr 09:00-12:00,13:00-15:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.34339
 longitude: 12.37546
 postcode: "04109"
 city: Leipzig
-street: "Brühl"
-housenumber: 1
+street: Brühl
+housenumber: "1"
 phone: "+4934156117469"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.hugoboss.com/de/herren/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.hugoboss.com/de/herren/

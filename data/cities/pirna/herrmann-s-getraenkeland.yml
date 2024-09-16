@@ -1,11 +1,11 @@
 id: 128230127
-type: way
+type: node
 latitude: 50.96728
 longitude: 13.93045
 postcode: "01796"
 city: Pirna
-street: "Eichendorffstraße"
+street: Eichendorffstraße
 housenumber: 1a
-phone: "+49 3501 58 52 66"
+phone: +49 3501 58 52 66
 opening_hours: ""
-website: "https://kelterei-herrmann.de/"
+website: https://kelterei-herrmann.de/

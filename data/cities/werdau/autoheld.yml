@@ -1,11 +1,11 @@
 id: 1124389234
-type: way
+type: node
 latitude: 50.75702
 longitude: 12.37198
 postcode: "08412"
 city: Werdau
-street: "Crimmitschauer Straße"
-housenumber: 124
+street: Crimmitschauer Straße
+housenumber: "124"
 phone: "+49376181577"
 opening_hours: ""
 website: ""

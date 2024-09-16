@@ -1,11 +1,11 @@
 id: 97300895
-type: way
+type: node
 latitude: 50.72479
 longitude: 12.70048
 postcode: "09376"
 city: Oelsnitz/Erzgeb.
-street: "Meinertstraße"
-housenumber: 4
+street: Meinertstraße
+housenumber: "4"
 phone: ""
-opening_hours: "We 10:00 - 16:00"
+opening_hours: We 10:00 - 16:00
 website: ""

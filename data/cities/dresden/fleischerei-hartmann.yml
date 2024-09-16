@@ -1,11 +1,11 @@
 id: 112244011
-type: way
+type: node
 latitude: 51.00969
 longitude: 13.69234
 postcode: "01189"
 city: Dresden
-street: "Karlsruher Straße"
-housenumber: 93
+street: Karlsruher Straße
+housenumber: "93"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-11:00"
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:00-11:00
 website: ""

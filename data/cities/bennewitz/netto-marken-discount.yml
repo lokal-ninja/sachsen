@@ -1,11 +1,11 @@
 id: 89058715
-type: way
+type: node
 latitude: 51.35929
 longitude: 12.7173
 postcode: "04828"
 city: Bennewitz
-street: "An der Mulde"
-housenumber: 13
+street: An der Mulde
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

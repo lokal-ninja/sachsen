@@ -4,8 +4,8 @@ latitude: 50.83168
 longitude: 12.95326
 postcode: "09127"
 city: Chemnitz
-street: "Augustusburger Straße"
-housenumber: 187
-phone: "+49 371 52468905"
-opening_hours: "Mo-Th 08:00-12:00,15:00-18:00"
-website: "https://www.derzweiradmeister-chemnitz.de/"
+street: Augustusburger Straße
+housenumber: "187"
+phone: +49 371 52468905
+opening_hours: Mo-Th 08:00-12:00,15:00-18:00
+website: https://www.derzweiradmeister-chemnitz.de/

@@ -1,11 +1,11 @@
 id: 167404363
-type: way
+type: node
 latitude: 50.99178
 longitude: 13.98948
 postcode: "01847"
 city: Lohmen
-street: "Daubaer Straße"
-housenumber: 5
+street: Daubaer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

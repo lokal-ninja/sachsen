@@ -1,11 +1,11 @@
 id: 24771664
-type: way
+type: node
 latitude: 51.56111
 longitude: 12.97689
 postcode: "04860"
 city: Torgau
-street: "Husarenpark"
-housenumber: 20
+street: Husarenpark
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

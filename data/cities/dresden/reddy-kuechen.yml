@@ -4,8 +4,8 @@ latitude: 51.06144
 longitude: 13.8483
 postcode: "01324"
 city: Dresden
-street: "Grundstraße"
-housenumber: 174
-phone: "+49 351 2111930"
-opening_hours: "Mo-Fr 10:00-18:30"
-website: "https://www.reddy.de/dresden/"
+street: Grundstraße
+housenumber: "174"
+phone: +49 351 2111930
+opening_hours: Mo-Fr 10:00-18:30
+website: https://www.reddy.de/dresden/

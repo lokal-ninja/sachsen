@@ -1,11 +1,11 @@
 id: 103486818
-type: way
+type: node
 latitude: 51.21845
 longitude: 12.32789
 postcode: "04442"
 city: Zwenkau
-street: "Leipziger Straße"
-housenumber: 22
+street: Leipziger Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,13:00-19:00"
+opening_hours: Mo-Fr 07:00-12:00,13:00-19:00
 website: ""

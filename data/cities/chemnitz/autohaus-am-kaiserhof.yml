@@ -4,8 +4,8 @@ latitude: 50.78037
 longitude: 12.97293
 postcode: "09123"
 city: Chemnitz
-street: "Einsiedler Hauptstraße"
-housenumber: 3
+street: Einsiedler Hauptstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00"
-website: "https://www.autohaus-am-kaiserhof.de/"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00
+website: https://www.autohaus-am-kaiserhof.de/

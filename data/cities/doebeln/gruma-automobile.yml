@@ -1,11 +1,11 @@
 id: 107441890
-type: way
+type: node
 latitude: 51.12029
 longitude: 13.15269
 postcode: "04720"
 city: Döbeln
-street: "Daniel-Wilhelm-Beck-Straße"
-housenumber: 6
-phone: "+49 3431 57850"
+street: Daniel-Wilhelm-Beck-Straße
+housenumber: "6"
+phone: +49 3431 57850
 opening_hours: ""
 website: ""

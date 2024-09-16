@@ -1,11 +1,11 @@
 id: 89948065
-type: way
+type: node
 latitude: 51.55651
 longitude: 12.9658
 postcode: "04860"
 city: Torgau
-street: "Gewerbering"
-housenumber: 7
+street: Gewerbering
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-maluche.de/"
+website: https://www.autohaus-maluche.de/

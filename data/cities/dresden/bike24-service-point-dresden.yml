@@ -4,8 +4,8 @@ latitude: 51.04363
 longitude: 13.70182
 postcode: "01159"
 city: Dresden
-street: "Kesselsdorfer Straße"
-housenumber: 11
-phone: "+49 351 4242255"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-16:00"
-website: "https://www.bike24.de/service-points/dresden"
+street: Kesselsdorfer Straße
+housenumber: "11"
+phone: +49 351 4242255
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-16:00
+website: https://www.bike24.de/service-points/dresden

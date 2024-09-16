@@ -1,11 +1,11 @@
 id: 84192911
-type: way
+type: node
 latitude: 51.16671
 longitude: 12.55161
 postcode: "04567"
 city: Kitzscher
-street: "Trageser Straße"
-housenumber: 36
+street: Trageser Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

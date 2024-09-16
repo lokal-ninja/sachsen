@@ -4,8 +4,8 @@ latitude: 51.15309
 longitude: 14.13493
 postcode: "01877"
 city: Rammenau
-street: "Hauptstraße"
-housenumber: 41
-phone: "+49 3594 716336"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-11:00; PH,Su off"
+street: Hauptstraße
+housenumber: "41"
+phone: +49 3594 716336
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-11:00; PH,Su off
 website: ""

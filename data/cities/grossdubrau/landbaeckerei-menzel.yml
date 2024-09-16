@@ -4,8 +4,8 @@ latitude: 51.25201
 longitude: 14.46085
 postcode: ""
 city: Großdubrau
-street: "Poststraße"
-housenumber: 1
-phone: "+49 35934 4424"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"
-website: "https://www.landbaeckerei-menzel.de/"
+street: Poststraße
+housenumber: "1"
+phone: +49 35934 4424
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00
+website: https://www.landbaeckerei-menzel.de/

@@ -4,8 +4,8 @@ latitude: 50.83384
 longitude: 12.9229
 postcode: "09111"
 city: Chemnitz
-street: "Straße der Nationen"
-housenumber: 12
-phone: "+49 37144479888"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-16:00"
+street: Straße der Nationen
+housenumber: "12"
+phone: +49 37144479888
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-16:00
 website: ""

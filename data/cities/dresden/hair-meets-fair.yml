@@ -4,8 +4,8 @@ latitude: 51.06927
 longitude: 13.7556
 postcode: "01099"
 city: Dresden
-street: "Görlitzer Straße"
-housenumber: 45
+street: Görlitzer Straße
+housenumber: "45"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

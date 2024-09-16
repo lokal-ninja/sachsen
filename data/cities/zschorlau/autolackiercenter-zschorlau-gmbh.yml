@@ -1,11 +1,11 @@
 id: 227944210
-type: way
+type: node
 latitude: 50.56189
 longitude: 12.63819
 postcode: "08321"
 city: Zschorlau
-street: "Eibenstocker Straße"
-housenumber: 11
+street: Eibenstocker Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

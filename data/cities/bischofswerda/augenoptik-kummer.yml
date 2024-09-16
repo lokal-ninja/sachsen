@@ -1,11 +1,11 @@
 id: 46272565
-type: way
+type: node
 latitude: 51.12733
 longitude: 14.18035
 postcode: "01877"
 city: Bischofswerda
-street: "Altmarkt"
-housenumber: 16
+street: Altmarkt
+housenumber: "16"
 phone: "+493594706759"
 opening_hours: ""
-website: "https://www.optik-kummer.de/"
+website: https://www.optik-kummer.de/

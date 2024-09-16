@@ -4,8 +4,8 @@ latitude: 51.33865
 longitude: 12.37301
 postcode: "04109"
 city: Leipzig
-street: "Burgstraße"
-housenumber: 4
+street: Burgstraße
+housenumber: "4"
 phone: "+493419611249"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00"
-website: "https://www.hml24.com/"
+opening_hours: Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00
+website: https://www.hml24.com/

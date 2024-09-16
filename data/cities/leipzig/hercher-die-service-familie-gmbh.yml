@@ -1,11 +1,11 @@
 id: 66240629
-type: way
+type: node
 latitude: 51.3269
 longitude: 12.31117
 postcode: "04179"
 city: Leipzig
-street: "Saarländer Straße"
-housenumber: 10
+street: Saarländer Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

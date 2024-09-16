@@ -1,11 +1,11 @@
 id: 100026756
-type: way
+type: node
 latitude: 51.37042
 longitude: 12.73531
 postcode: "04808"
 city: Wurzen
-street: "Albert-Kuntz-Straße"
-housenumber: 4
-phone: "+49 3425 853985"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.geissler-reisen.de/"
+street: Albert-Kuntz-Straße
+housenumber: "4"
+phone: +49 3425 853985
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.geissler-reisen.de/

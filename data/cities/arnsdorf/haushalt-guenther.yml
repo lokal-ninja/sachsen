@@ -4,8 +4,8 @@ latitude: 51.09438
 longitude: 13.9878
 postcode: "01477"
 city: Arnsdorf
-street: "Ernst-Thälmann-Straße"
-housenumber: 1
+street: Ernst-Thälmann-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

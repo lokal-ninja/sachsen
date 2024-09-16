@@ -1,11 +1,11 @@
 id: 158530988
-type: way
+type: node
 latitude: 51.441
 longitude: 14.10012
 postcode: "02991"
 city: Lauta
-street: "Friedensstraße"
-housenumber: 8
+street: Friedensstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

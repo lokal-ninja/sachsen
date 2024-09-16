@@ -4,8 +4,8 @@ latitude: 51.3407
 longitude: 12.37916
 postcode: "04109"
 city: Leipzig
-street: "Nikolaikirchhof"
-housenumber: 4
-phone: "+49 341 1499855"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-18:00"
-website: "http://www.nikolai-eck.de"
+street: Nikolaikirchhof
+housenumber: "4"
+phone: +49 341 1499855
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-18:00
+website: http://www.nikolai-eck.de

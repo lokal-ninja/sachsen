@@ -4,8 +4,8 @@ latitude: 51.34591
 longitude: 12.42765
 postcode: "04318"
 city: Leipzig
-street: "Leonhard-Frank-Straße"
-housenumber: 65
+street: Leonhard-Frank-Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00, Su 07:00-11:00"
+opening_hours: Mo-Sa 07:00-20:00, Su 07:00-11:00
 website: ""

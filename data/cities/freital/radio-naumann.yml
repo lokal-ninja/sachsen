@@ -4,8 +4,8 @@ latitude: 51.00281
 longitude: 13.6849
 postcode: "01705"
 city: Freital
-street: "Burgker Straße"
-housenumber: 163
-phone: "+49 351 6491768"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
-website: "http://www.radio-naumann.de/"
+street: Burgker Straße
+housenumber: "163"
+phone: +49 351 6491768
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off
+website: http://www.radio-naumann.de/

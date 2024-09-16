@@ -1,11 +1,11 @@
 id: 201569106
-type: way
+type: node
 latitude: 51.00428
 longitude: 12.7747
 postcode: "09306"
 city: Wechselburg
-street: "Kastanienplatz"
-housenumber: 4
+street: Kastanienplatz
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

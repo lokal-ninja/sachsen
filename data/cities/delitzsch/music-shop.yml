@@ -4,8 +4,8 @@ latitude: 51.52388
 longitude: 12.33908
 postcode: "04509"
 city: Delitzsch
-street: "Eilenburger Straße"
-housenumber: 37
-phone: "+49 34202 55100"
-opening_hours: "Mo-Fr 09:00-12:00,12:15-18:30; Sa 09:00-14:00"
+street: Eilenburger Straße
+housenumber: "37"
+phone: +49 34202 55100
+opening_hours: Mo-Fr 09:00-12:00,12:15-18:30; Sa 09:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.33795
 longitude: 12.36734
 postcode: "04109"
 city: Leipzig
-street: "Kolonnadenstraße"
-housenumber: 5
-phone: "+49 (0)341 – 248 101 03"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.rotorbooks.de/"
+street: Kolonnadenstraße
+housenumber: "5"
+phone: +49 (0)341 – 248 101 03
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.rotorbooks.de/

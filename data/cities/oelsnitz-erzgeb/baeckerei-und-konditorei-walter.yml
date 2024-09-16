@@ -1,11 +1,11 @@
 id: 1025360480
-type: way
+type: node
 latitude: 50.70852
 longitude: 12.73494
 postcode: "09376"
 city: Oelsnitz/Erzgeb.
-street: "Oberwürschnitzer Straße"
-housenumber: 15
+street: Oberwürschnitzer Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Fr 06:00-17:30; Sa 06:00-11:00; Su 07:30-10:00,13:00-17:30; Mo off"
+opening_hours: Tu-Fr 06:00-17:30; Sa 06:00-11:00; Su 07:30-10:00,13:00-17:30; Mo off
 website: ""

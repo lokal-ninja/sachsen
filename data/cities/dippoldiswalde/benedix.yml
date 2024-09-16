@@ -4,8 +4,8 @@ latitude: 50.89608
 longitude: 13.66828
 postcode: "01744"
 city: Dippoldiswalde
-street: "Herrengasse"
-housenumber: 10
+street: Herrengasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.spielwaren-benedix.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.spielwaren-benedix.de

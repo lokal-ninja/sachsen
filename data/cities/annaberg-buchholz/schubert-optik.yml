@@ -4,8 +4,8 @@ latitude: 50.57751
 longitude: 13.0016
 postcode: "09456"
 city: Annaberg-Buchholz
-street: "Johannisgasse"
-housenumber: 3
+street: Johannisgasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:30,14:30-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-13:30,14:30-18:00; Sa 09:00-12:00
 website: ""

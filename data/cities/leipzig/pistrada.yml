@@ -4,8 +4,8 @@ latitude: 51.33733
 longitude: 12.32786
 postcode: "04177"
 city: Leipzig
-street: "Merseburger Straße"
-housenumber: 90
-phone: "+49 341 92 61 50 80"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-19:00"
-website: "https://www.pistrada.com/"
+street: Merseburger Straße
+housenumber: "90"
+phone: +49 341 92 61 50 80
+opening_hours: Mo-Fr 10:00-13:00,14:00-19:00
+website: https://www.pistrada.com/

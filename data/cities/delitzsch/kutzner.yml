@@ -4,8 +4,8 @@ latitude: 51.52368
 longitude: 12.33887
 postcode: "04509"
 city: Delitzsch
-street: "Eilenburger Straße"
-housenumber: 32
-phone: "+49 34202 59990"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.laufzentrum.de/"
+street: Eilenburger Straße
+housenumber: "32"
+phone: +49 34202 59990
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.laufzentrum.de/

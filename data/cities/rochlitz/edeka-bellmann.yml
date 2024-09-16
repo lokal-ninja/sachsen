@@ -4,8 +4,8 @@ latitude: 51.04746
 longitude: 12.79949
 postcode: "09306"
 city: Rochlitz
-street: "Poststraße"
-housenumber: 1
-phone: "+49 3737 781409"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su off; PH off"
-website: "https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-bellmann-poststr.-1/index.jsp"
+street: Poststraße
+housenumber: "1"
+phone: +49 3737 781409
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su off; PH off
+website: https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-bellmann-poststr.-1/index.jsp

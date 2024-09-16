@@ -1,11 +1,11 @@
 id: 216819877
-type: way
+type: node
 latitude: 50.50429
 longitude: 12.64494
 postcode: "08309"
 city: Eibenstock
-street: "An der Binge"
-housenumber: 4
+street: An der Binge
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 108566834
-type: way
+type: node
 latitude: 50.84132
 longitude: 12.94896
 postcode: "09130"
 city: Chemnitz
-street: "Planitzwiese"
-housenumber: 1
+street: Planitzwiese
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

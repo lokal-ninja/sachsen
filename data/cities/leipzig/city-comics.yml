@@ -4,8 +4,8 @@ latitude: 51.33766
 longitude: 12.38493
 postcode: "04103"
 city: Leipzig
-street: "Nürnberger Straße"
-housenumber: 3
-phone: "+49 341 2682651"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 11:00-16:00"
-website: "https://www.citycomics.de/"
+street: Nürnberger Straße
+housenumber: "3"
+phone: +49 341 2682651
+opening_hours: Mo-Fr 10:00-19:00, Sa 11:00-16:00
+website: https://www.citycomics.de/

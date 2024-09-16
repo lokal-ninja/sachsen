@@ -4,8 +4,8 @@ latitude: 50.98628
 longitude: 12.9756
 postcode: "09648"
 city: Mittweida
-street: "Poststraße"
-housenumber: 4
+street: Poststraße
+housenumber: "4"
 phone: "+493727979715"
-opening_hours: "Mo-We 08:00-20:00; Th-Fr 08:00-21:00; Sa 09:00-15:00; Su off"
+opening_hours: Mo-We 08:00-20:00; Th-Fr 08:00-21:00; Sa 09:00-15:00; Su off
 website: ""

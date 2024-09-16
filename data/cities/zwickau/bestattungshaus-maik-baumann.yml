@@ -4,8 +4,8 @@ latitude: 50.6924
 longitude: 12.47348
 postcode: "08062"
 city: Zwickau
-street: "Innere Zwickauer Straße"
-housenumber: 69
+street: Innere Zwickauer Straße
+housenumber: "69"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

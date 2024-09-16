@@ -1,11 +1,11 @@
 id: 127177567
-type: way
+type: node
 latitude: 50.61179
 longitude: 12.17324
 postcode: "07985"
 city: Elsterberg
-street: "An der Elsteraue"
-housenumber: 2
+street: An der Elsteraue
+housenumber: "2"
 phone: "03662121025"
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 45671250
-type: way
+type: node
 latitude: 51.14774
 longitude: 12.63287
 postcode: "04651"
 city: Bad Lausick
-street: "An den Angerwiesen"
-housenumber: 12
+street: An den Angerwiesen
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

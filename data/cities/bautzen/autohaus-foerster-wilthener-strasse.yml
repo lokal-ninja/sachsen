@@ -1,11 +1,11 @@
 id: 117169522
-type: way
+type: node
 latitude: 51.16513
 longitude: 14.42243
 postcode: "02625"
 city: Bautzen
-street: "Wilthener Straße"
-housenumber: 45
+street: Wilthener Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-13:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-13:00; Su,PH off
 website: ""

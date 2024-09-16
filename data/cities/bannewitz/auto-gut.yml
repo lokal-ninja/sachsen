@@ -4,8 +4,8 @@ latitude: 50.97873
 longitude: 13.70535
 postcode: "01728"
 city: Bannewitz
-street: "Poisentalstraße"
-housenumber: 24
-phone: "+49 35206 26381"
-opening_hours: "Mo-Fr 09:00-18:30"
-website: "https://www.auto-gut.de"
+street: Poisentalstraße
+housenumber: "24"
+phone: +49 35206 26381
+opening_hours: Mo-Fr 09:00-18:30
+website: https://www.auto-gut.de

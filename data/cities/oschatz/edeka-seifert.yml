@@ -4,8 +4,8 @@ latitude: 51.29079
 longitude: 13.12353
 postcode: "04758"
 city: Oschatz
-street: "Nossener Straße"
-housenumber: 5
-phone: "+49 3435 986528"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+street: Nossener Straße
+housenumber: "5"
+phone: +49 3435 986528
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/

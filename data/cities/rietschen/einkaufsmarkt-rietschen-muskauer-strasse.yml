@@ -4,8 +4,9 @@ latitude: 51.39748
 longitude: 14.78726
 postcode: "02956"
 city: Rietschen
-street: "Muskauer Straße"
-housenumber: 6
+street: Muskauer Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 14:30-17:00; Tu-Fr 09:00-12:00,14:30-17:00; Sa 09:00-11:00; Su,PH off"
+opening_hours: Mo 14:30-17:00; Tu-Fr 09:00-12:00,14:30-17:00; Sa 09:00-11:00; Su,PH
+    off
 website: ""

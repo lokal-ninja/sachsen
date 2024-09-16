@@ -1,11 +1,11 @@
 id: 43135691
-type: way
+type: node
 latitude: 51.5297
 longitude: 12.335
 postcode: "04509"
 city: Delitzsch
-street: "Securiusstraße"
+street: Securiusstraße
 housenumber: 12 A
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "http://norma-online.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: http://norma-online.de/

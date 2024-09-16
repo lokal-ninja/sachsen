@@ -4,8 +4,8 @@ latitude: 51.06598
 longitude: 13.75383
 postcode: "01099"
 city: Dresden
-street: "Rothenburger Straße"
-housenumber: 44
-phone: "+49 351 8012424"
-opening_hours: "We-Fr 12:00-18:30; Sa 11:00-15:30"
+street: Rothenburger Straße
+housenumber: "44"
+phone: +49 351 8012424
+opening_hours: We-Fr 12:00-18:30; Sa 11:00-15:30
 website: ""

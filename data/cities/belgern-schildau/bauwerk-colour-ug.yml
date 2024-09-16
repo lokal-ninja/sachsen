@@ -4,8 +4,8 @@ latitude: 51.4362
 longitude: 13.16312
 postcode: "04874"
 city: Belgern-Schildau
-street: "Hauptstraße"
-housenumber: 15
+street: Hauptstraße
+housenumber: "15"
 phone: "034224469626"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.bauwerkcolour.com/"
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.bauwerkcolour.com/

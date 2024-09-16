@@ -1,11 +1,11 @@
 id: 1290019735
-type: way
+type: node
 latitude: 51.28044
 longitude: 12.58002
 postcode: "04683"
 city: Naunhof
-street: "Erdmannshainer Straße"
-housenumber: 58
+street: Erdmannshainer Straße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

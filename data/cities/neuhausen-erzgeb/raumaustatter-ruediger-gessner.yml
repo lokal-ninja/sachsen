@@ -1,11 +1,11 @@
 id: 199989780
-type: way
+type: node
 latitude: 50.67398
 longitude: 13.46407
 postcode: "09544"
 city: Neuhausen/Erzgeb.
-street: "Alte Hauptstraße"
-housenumber: 5
+street: Alte Hauptstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

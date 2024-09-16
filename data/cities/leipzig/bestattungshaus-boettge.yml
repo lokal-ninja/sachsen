@@ -4,8 +4,8 @@ latitude: 51.34348
 longitude: 12.32386
 postcode: "04177"
 city: Leipzig
-street: "William-Zipperer-Straße"
-housenumber: 69
+street: William-Zipperer-Straße
+housenumber: "69"
 phone: "+49341446860"
-opening_hours: "Fr 08:30-15:30; Mo-Th 08:30-17:00"
-website: "https://www.bestattungshaus-boettge.de"
+opening_hours: Fr 08:30-15:30; Mo-Th 08:30-17:00
+website: https://www.bestattungshaus-boettge.de

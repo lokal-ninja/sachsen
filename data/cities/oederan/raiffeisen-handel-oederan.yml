@@ -1,11 +1,11 @@
 id: 154825134
-type: way
+type: node
 latitude: 50.85604
 longitude: 13.17297
 postcode: "09569"
 city: Oederan
-street: "Eppendorfer Straße"
-housenumber: 2
+street: Eppendorfer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.36637
 longitude: 12.34776
 postcode: "04159"
 city: Leipzig
-street: "Georg-Schumann-Straße"
-housenumber: 203
+street: Georg-Schumann-Straße
+housenumber: "203"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.washmaids.com/washmaids-waschsalon/standorte/9-washmaids-express-waschsalon-leipzig"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.washmaids.com/washmaids-waschsalon/standorte/9-washmaids-express-waschsalon-leipzig

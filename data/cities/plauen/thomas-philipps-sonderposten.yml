@@ -1,11 +1,11 @@
 id: 104161466
-type: way
+type: node
 latitude: 50.51314
 longitude: 12.12591
 postcode: "08525"
 city: Plauen
-street: "Morgenbergstraße"
-housenumber: 41
+street: Morgenbergstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 51.30592
 longitude: 13.3057
 postcode: "01589"
 city: Riesa
-street: "Niederlagstraße"
-housenumber: 15
+street: Niederlagstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00; Mo, Th, Fr 14:00-18:00; Tu 16:00-18:00; Sa 09:00-13:00  || nach Vereinbarung; PH off"
+opening_hours: Mo-Fr 10:00-13:00; Mo, Th, Fr 14:00-18:00; Tu 16:00-18:00; Sa 09:00-13:00  ||
+    "nach Vereinbarung"; PH off
 website: ""

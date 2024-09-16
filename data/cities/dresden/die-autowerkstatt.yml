@@ -1,11 +1,11 @@
 id: 24930739
-type: way
+type: node
 latitude: 51.06212
 longitude: 13.6798
 postcode: "01157"
 city: Dresden
-street: "Meißner Landstraße"
-housenumber: 5
+street: Meißner Landstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-12:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:30-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.05301
 longitude: 13.78137
 postcode: "01309"
 city: Dresden
-street: "Augsburger Straße"
-housenumber: 4
+street: Augsburger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su,PH 07:30-17:00"
-website: "http://www.dresdnerstollen.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su,PH 07:30-17:00
+website: http://www.dresdnerstollen.de/

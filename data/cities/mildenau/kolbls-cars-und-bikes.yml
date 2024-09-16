@@ -1,11 +1,11 @@
 id: 199305567
-type: way
+type: node
 latitude: 50.57051
 longitude: 13.12218
 postcode: "09456"
 city: Mildenau
-street: "Hauptstraße"
-housenumber: 167
+street: Hauptstraße
+housenumber: "167"
 phone: ""
 opening_hours: ""
 website: ""

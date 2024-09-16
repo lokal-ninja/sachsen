@@ -4,8 +4,8 @@ latitude: 51.45922
 longitude: 12.63466
 postcode: "04838"
 city: Eilenburg
-street: "August-Fritzsche-Straße"
-housenumber: 5
+street: August-Fritzsche-Straße
+housenumber: "5"
 phone: "+493423704232"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off"
-website: "http://danzmann-eilenburg.info"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off
+website: http://danzmann-eilenburg.info

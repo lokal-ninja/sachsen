@@ -4,8 +4,8 @@ latitude: 51.04577
 longitude: 13.7704
 postcode: "01307"
 city: Dresden
-street: "Fetscherstraße"
-housenumber: 25
+street: Fetscherstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.konsum.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.konsum.de/

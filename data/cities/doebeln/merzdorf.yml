@@ -4,8 +4,8 @@ latitude: 51.15585
 longitude: 13.23347
 postcode: "04720"
 city: Döbeln
-street: "Am Schmiedeberg"
-housenumber: 6
-phone: "+49 34325 20366"
-opening_hours: "Tu-Fr 07:00-13:00,15:00-17:00; Sa 06:00-10:00"
+street: Am Schmiedeberg
+housenumber: "6"
+phone: +49 34325 20366
+opening_hours: Tu-Fr 07:00-13:00,15:00-17:00; Sa 06:00-10:00
 website: ""

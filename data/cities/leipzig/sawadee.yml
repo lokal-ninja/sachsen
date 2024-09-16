@@ -4,8 +4,8 @@ latitude: 51.34402
 longitude: 12.36165
 postcode: "04105"
 city: Leipzig
-street: "Gustav-Adolf-Straße"
-housenumber: 34
+street: Gustav-Adolf-Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://sawadee-wellnessmassagen.de"
+opening_hours: Mo-Fr 10:00-19:00
+website: https://sawadee-wellnessmassagen.de

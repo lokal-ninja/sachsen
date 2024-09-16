@@ -4,8 +4,8 @@ latitude: 51.34848
 longitude: 12.30962
 postcode: "04179"
 city: Leipzig
-street: "Junghanßstraße"
-housenumber: 12
+street: Junghanßstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su,PH off"
-website: "www.tonsorhair.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su,PH off
+website: www.tonsorhair.de/

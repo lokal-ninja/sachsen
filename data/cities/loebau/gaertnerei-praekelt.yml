@@ -1,11 +1,11 @@
 id: 42044713
-type: way
+type: node
 latitude: 51.10312
 longitude: 14.68473
 postcode: "02708"
 city: Löbau
-street: "Laubaner Straße"
-housenumber: 33
-phone: "+49 3585 862807"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:30; Su 09:00-12:00"
-website: "https://blumenhaus-praekelt.business.site/"
+street: Laubaner Straße
+housenumber: "33"
+phone: +49 3585 862807
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:30; Su 09:00-12:00
+website: https://blumenhaus-praekelt.business.site/

@@ -4,8 +4,8 @@ latitude: 51.3337
 longitude: 12.41236
 postcode: "04318"
 city: Leipzig
-street: "Martinstraße"
-housenumber: 10
-phone: "+49 341 6879407"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.lebensraum-leipzig.com/STARTSEITE/"
+street: Martinstraße
+housenumber: "10"
+phone: +49 341 6879407
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.lebensraum-leipzig.com/STARTSEITE/

@@ -4,8 +4,8 @@ latitude: 51.36405
 longitude: 12.76264
 postcode: "04808"
 city: Wurzen
-street: "Roitzscher Hauptstraße"
-housenumber: 22
-phone: "+49 3425 923693"
-opening_hours: "Tu-Fr 08:00-18:00"
-website: "http://www.fleischerei-daeberitz.de"
+street: Roitzscher Hauptstraße
+housenumber: "22"
+phone: +49 3425 923693
+opening_hours: Tu-Fr 08:00-18:00
+website: http://www.fleischerei-daeberitz.de

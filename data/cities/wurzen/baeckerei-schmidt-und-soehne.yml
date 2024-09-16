@@ -1,11 +1,11 @@
 id: 99897402
-type: way
+type: node
 latitude: 51.37196
 longitude: 12.74712
 postcode: "04808"
 city: Wurzen
-street: "Marienstraße"
-housenumber: 14
+street: Marienstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Fr 05:15-18:00; Sa 05:15-11:00; Mo,Su,PH off"
+opening_hours: Tu-Fr 05:15-18:00; Sa 05:15-11:00; Mo,Su,PH off
 website: ""

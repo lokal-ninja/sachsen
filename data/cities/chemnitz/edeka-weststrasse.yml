@@ -1,11 +1,11 @@
 id: 87237918
-type: way
+type: node
 latitude: 50.83025
 longitude: 12.89504
 postcode: "09112"
 city: Chemnitz
-street: "Weststraße"
-housenumber: 77
+street: Weststraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

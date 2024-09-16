@@ -4,8 +4,8 @@ latitude: 51.04049
 longitude: 12.57037
 postcode: "04654"
 city: Frohburg
-street: "Am Grauen Wolf"
-housenumber: 4
+street: Am Grauen Wolf
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-18:00; Tu,Th 10:00-17:00; Sa,Su,PH off"
+opening_hours: Mo,We,Fr 10:00-18:00; Tu,Th 10:00-17:00; Sa,Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.08561
 longitude: 13.76352
 postcode: "01099"
 city: Dresden
-street: "Werner-Hartmann-Straße"
-housenumber: 3
+street: Werner-Hartmann-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"
-website: "https://www.milano-kuechenwerk.de"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00
+website: https://www.milano-kuechenwerk.de

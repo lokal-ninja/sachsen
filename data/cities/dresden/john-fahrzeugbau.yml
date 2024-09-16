@@ -4,8 +4,8 @@ latitude: 51.06154
 longitude: 13.85126
 postcode: "01324"
 city: Dresden
-street: "Bautzner Landstraße"
-housenumber: 142
+street: Bautzner Landstraße
+housenumber: "142"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "https://www.john-fahrzeugbau.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: https://www.john-fahrzeugbau.de/

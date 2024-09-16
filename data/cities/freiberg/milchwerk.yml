@@ -4,8 +4,8 @@ latitude: 50.90751
 longitude: 13.3186
 postcode: "09599"
 city: Freiberg
-street: "Karl-Kegel-Straße"
-housenumber: 12
+street: Karl-Kegel-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-12:30"
-website: "https://www.milchwerk.de/Sonderpostenmarkt-Freiberg.html"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-12:30
+website: https://www.milchwerk.de/Sonderpostenmarkt-Freiberg.html

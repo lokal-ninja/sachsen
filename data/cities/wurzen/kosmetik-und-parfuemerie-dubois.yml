@@ -1,11 +1,11 @@
 id: 106334580
-type: way
+type: node
 latitude: 51.37028
 longitude: 12.73756
 postcode: "04808"
 city: Wurzen
-street: "Jacobsgasse"
-housenumber: 23
-phone: "+49 3425 926388"
-opening_hours: "Th 10:00-17:00; Fr 09:00-14:00"
-website: "https://www.kosmetik-dubois.de/"
+street: Jacobsgasse
+housenumber: "23"
+phone: +49 3425 926388
+opening_hours: Th 10:00-17:00; Fr 09:00-14:00
+website: https://www.kosmetik-dubois.de/

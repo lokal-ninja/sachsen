@@ -1,11 +1,11 @@
 id: 129725051
-type: way
+type: node
 latitude: 51.2957
 longitude: 14.09434
 postcode: "01917"
 city: Kamenz
-street: "Am Ring"
-housenumber: 2
-phone: "+49 3571 608280"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-12:00; PH off"
-website: "https://www.h-k-baustoffe.de/"
+street: Am Ring
+housenumber: "2"
+phone: +49 3571 608280
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-12:00; PH off
+website: https://www.h-k-baustoffe.de/

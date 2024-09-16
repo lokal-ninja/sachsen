@@ -1,11 +1,11 @@
 id: 531989585
-type: way
+type: node
 latitude: 51.30535
 longitude: 14.77162
 postcode: "02906"
 city: Niesky
-street: "Ernst-Thälmann-Straße"
-housenumber: 31
+street: Ernst-Thälmann-Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.lausitzer-lavendel.de/hofladen/"
+website: https://www.lausitzer-lavendel.de/hofladen/

@@ -4,8 +4,8 @@ latitude: 50.83428
 longitude: 12.91818
 postcode: "09111"
 city: Chemnitz
-street: "Innere Klosterstraße"
-housenumber: 8
+street: Innere Klosterstraße
+housenumber: "8"
 phone: "+4937191888590"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

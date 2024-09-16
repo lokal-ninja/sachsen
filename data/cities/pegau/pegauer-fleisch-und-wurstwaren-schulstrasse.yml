@@ -4,8 +4,9 @@ latitude: 51.21824
 longitude: 12.22147
 postcode: "04523"
 city: Pegau
-street: "Schulstraße"
-housenumber: 7
+street: Schulstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu 09:30-17:00; We,Th 07:30-14:00; Fr 07:00-14:00,15:00-17:00; Sa 07:00-10:00; Mo,Su,PH off"
+opening_hours: Tu 09:30-17:00; We,Th 07:30-14:00; Fr 07:00-14:00,15:00-17:00; Sa 07:00-10:00;
+    Mo,Su,PH off
 website: ""

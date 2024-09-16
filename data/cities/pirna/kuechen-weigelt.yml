@@ -4,8 +4,8 @@ latitude: 50.95729
 longitude: 13.92669
 postcode: "01796"
 city: Pirna
-street: "Dresdner Straße"
-housenumber: 11
-phone: "+49 3501 446483"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.mehr-als-kueche.de/"
+street: Dresdner Straße
+housenumber: "11"
+phone: +49 3501 446483
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.mehr-als-kueche.de/

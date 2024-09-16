@@ -1,11 +1,11 @@
 id: 36778986
-type: way
+type: node
 latitude: 51.11897
 longitude: 13.14762
 postcode: "04720"
 city: Döbeln
-street: "Richard-Köberlin-Straße"
-housenumber: 3
-phone: "+49 3431 57 600"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Richard-Köberlin-Straße
+housenumber: "3"
+phone: +49 3431 57 600
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

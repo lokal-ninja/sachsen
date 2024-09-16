@@ -1,11 +1,11 @@
 id: 290887820
-type: way
+type: node
 latitude: 51.14591
 longitude: 12.7789
 postcode: "04680"
 city: Colditz
-street: "Sermuther Straße"
-housenumber: 11
+street: Sermuther Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

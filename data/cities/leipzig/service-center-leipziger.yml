@@ -4,8 +4,8 @@ latitude: 51.33671
 longitude: 12.37483
 postcode: "04109"
 city: Leipzig
-street: "Markgrafenstraße"
-housenumber: 2
+street: Markgrafenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 82211748
-type: way
+type: node
 latitude: 51.09762
 longitude: 14.39936
 postcode: "02681"
 city: Wilthen
-street: "Zittauer Straße"
-housenumber: 44
+street: Zittauer Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

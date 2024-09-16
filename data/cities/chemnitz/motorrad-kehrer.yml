@@ -1,11 +1,11 @@
 id: 92664957
-type: way
+type: node
 latitude: 50.79991
 longitude: 12.8832
 postcode: "09122"
 city: Chemnitz
-street: "Stollberger Straße"
-housenumber: 156
+street: Stollberger Straße
+housenumber: "156"
 phone: ""
 opening_hours: ""
 website: ""

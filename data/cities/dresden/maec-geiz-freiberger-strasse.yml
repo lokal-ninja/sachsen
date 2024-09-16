@@ -4,8 +4,8 @@ latitude: 51.0488
 longitude: 13.72191
 postcode: "01067"
 city: Dresden
-street: "Freiberger Straße"
-housenumber: 37
+street: Freiberger Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.mac-geiz.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.mac-geiz.de/

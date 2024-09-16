@@ -1,11 +1,12 @@
 id: 23555401
-type: way
+type: node
 latitude: 51.00727
 longitude: 13.69414
 postcode: "01189"
 city: Dresden
-street: "Offenburger Straße"
-housenumber: 1
+street: Offenburger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Oct-Dec: Mo-Fr 09:00-19:00; Oct-Dec: Sa 09:00-12:00; Jan-Sep: Mo,Tu,We,Fr 10:00-16:30; Jan-Sep: Th 10:00-18:00; Jan-Sep: Sa off; Su,PH off"
+opening_hours: 'Oct-Dec: Mo-Fr 09:00-19:00; Oct-Dec: Sa 09:00-12:00; Jan-Sep: Mo,Tu,We,Fr
+    10:00-16:30; Jan-Sep: Th 10:00-18:00; Jan-Sep: Sa off; Su,PH off'
 website: ""

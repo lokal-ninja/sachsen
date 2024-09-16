@@ -4,8 +4,8 @@ latitude: 50.904
 longitude: 13.32866
 postcode: "09599"
 city: Freiberg
-street: "Forstweg"
-housenumber: 81
+street: Forstweg
+housenumber: "81"
 phone: ""
-opening_hours: "Tu-Fr 08:00-19:00; Sa 07:00-12:00; Mo 08:00-18:00"
+opening_hours: Tu-Fr 08:00-19:00; Sa 07:00-12:00; Mo 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 70081465
-type: way
+type: node
 latitude: 51.06272
 longitude: 12.84948
 postcode: "09306"
 city: Seelitz
-street: "Geringswalder Straße"
-housenumber: 3
-phone: "+49 3737 459058"
+street: Geringswalder Straße
+housenumber: "3"
+phone: +49 3737 459058
 opening_hours: ""
-website: "https://www.sh-tuning.de/"
+website: https://www.sh-tuning.de/

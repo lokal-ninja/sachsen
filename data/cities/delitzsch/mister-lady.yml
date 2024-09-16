@@ -4,8 +4,8 @@ latitude: 51.53742
 longitude: 12.3227
 postcode: "04509"
 city: Delitzsch
-street: "Sachsenstraße"
-housenumber: 10
-phone: "+49 34202 62450"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su, PH off"
+street: Sachsenstraße
+housenumber: "10"
+phone: +49 34202 62450
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su, PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 270351303
-type: way
+type: node
 latitude: 51.1698
 longitude: 12.55112
 postcode: "04567"
 city: Kitzscher
-street: "Feuerwehrstraße"
-housenumber: 13
+street: Feuerwehrstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:09-12:00; PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:09-12:00; PH off
 website: ""

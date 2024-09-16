@@ -1,11 +1,11 @@
 id: 28989188
-type: way
+type: node
 latitude: 50.95993
 longitude: 13.93052
 postcode: "01796"
 city: Pirna
-street: "Siegfried-Rädel-Straße"
-housenumber: 38
-phone: "+49 3501 5550408"
+street: Siegfried-Rädel-Straße
+housenumber: "38"
+phone: +49 3501 5550408
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.32166
 longitude: 12.32551
 postcode: "04229"
 city: Leipzig
-street: "Siemensstraße"
-housenumber: 37
+street: Siemensstraße
+housenumber: "37"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

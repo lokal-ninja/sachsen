@@ -4,8 +4,8 @@ latitude: 51.34175
 longitude: 12.37874
 postcode: "04109"
 city: Leipzig
-street: "Nikolaistraße"
-housenumber: 20
-phone: "+49 341 9808022"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.gruenschnabel-shop.de/"
+street: Nikolaistraße
+housenumber: "20"
+phone: +49 341 9808022
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.gruenschnabel-shop.de/

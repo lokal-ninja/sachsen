@@ -4,8 +4,8 @@ latitude: 51.35825
 longitude: 12.47324
 postcode: "04329"
 city: Leipzig
-street: "Rotfuchsstraße"
-housenumber: 7
+street: Rotfuchsstraße
+housenumber: "7"
 phone: "+4934142371251"
-opening_hours: "Mo, Tu, Th 10:00-18:00; We, Fr 10:00-14:00"
-website: "https://daten-laden.info"
+opening_hours: Mo, Tu, Th 10:00-18:00; We, Fr 10:00-14:00
+website: https://daten-laden.info

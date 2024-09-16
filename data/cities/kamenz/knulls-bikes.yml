@@ -1,11 +1,11 @@
 id: 53105518
-type: way
+type: node
 latitude: 51.27321
 longitude: 14.09365
 postcode: "01917"
 city: Kamenz
-street: "Haberkornstraße"
-housenumber: 2
+street: Haberkornstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-11:30,14:00-17:00"
+opening_hours: Mo-Fr 10:00-11:30,14:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.32432
 longitude: 12.4133
 postcode: "04299"
 city: Leipzig
-street: "Schönbachstraße"
-housenumber: 78
+street: Schönbachstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.konsum-leipzig.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.konsum-leipzig.de/

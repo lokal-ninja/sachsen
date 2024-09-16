@@ -1,11 +1,11 @@
 id: 23326744
-type: way
+type: node
 latitude: 51.31094
 longitude: 12.39496
 postcode: "04277"
 city: Leipzig
-street: "Zwickauer Straße"
-housenumber: 66
+street: Zwickauer Straße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 08:00-21:00; Su off
+website: https://www.lidl.de/

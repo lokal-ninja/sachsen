@@ -4,8 +4,8 @@ latitude: 51.30416
 longitude: 13.30577
 postcode: "01587"
 city: Riesa
-street: "Hauptstraße"
-housenumber: 56
-phone: "+49 3525 512864"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; PH off"
-website: "https://www.tttankstation.de/standorte_deutschland/Riesa.html"
+street: Hauptstraße
+housenumber: "56"
+phone: +49 3525 512864
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; PH off
+website: https://www.tttankstation.de/standorte_deutschland/Riesa.html

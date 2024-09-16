@@ -4,8 +4,8 @@ latitude: 51.11054
 longitude: 13.7747
 postcode: "01109"
 city: Dresden
-street: "Greifswalder Straße"
-housenumber: 2
+street: Greifswalder Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,14:00-19:00; Sa 09:00-12:00; Su,Mo,PH off"
+opening_hours: Tu-Fr 10:00-13:00,14:00-19:00; Sa 09:00-12:00; Su,Mo,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 749325497
-type: way
+type: node
 latitude: 50.49046
 longitude: 12.14187
 postcode: "08527"
 city: Plauen
-street: "Rinnelbergweg"
-housenumber: 7
+street: Rinnelbergweg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 06:30-16:00; Fr 06:30-14:00"
+opening_hours: Mo-Th 06:30-16:00; Fr 06:30-14:00
 website: ""

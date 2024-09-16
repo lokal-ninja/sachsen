@@ -4,8 +4,8 @@ latitude: 50.90462
 longitude: 12.97214
 postcode: "09244"
 city: Lichtenau
-street: "Obere Hauptstraße"
-housenumber: 42
+street: Obere Hauptstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

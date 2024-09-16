@@ -4,8 +4,8 @@ latitude: 51.03355
 longitude: 13.73619
 postcode: "01069"
 city: Dresden
-street: "Reichenbachstraße"
-housenumber: 25
+street: Reichenbachstraße
+housenumber: "25"
 phone: "+493513140904"
-opening_hours: "Mo-Fr 10:00-12:00,13:00-17:00"
-website: "http://www.esb-dresden.de/"
+opening_hours: Mo-Fr 10:00-12:00,13:00-17:00
+website: http://www.esb-dresden.de/

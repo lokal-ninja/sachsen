@@ -1,11 +1,11 @@
 id: 100133077
-type: way
+type: node
 latitude: 51.36744
 longitude: 12.73457
 postcode: "04808"
 city: Wurzen
-street: "Wenceslaigasse"
-housenumber: 34
-phone: "+49 3425 925853"
+street: Wenceslaigasse
+housenumber: "34"
+phone: +49 3425 925853
 opening_hours: ""
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Adorf/Vogtland
 url: /adorf-vogtland/
-latitude: 50.316
+latitude: 50.32
 longitude: 12.253
 ---

@@ -1,5 +1,0 @@
----
-title: "Backland Jürgen Otte"
-url: /dresden/backland-juergen-otte-goerlitzer-strasse/
-shop: Bäckerei
----

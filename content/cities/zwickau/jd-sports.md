@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /zwickau/jd-sports/
-shop: Kleidung
+shop: Sport
 ---

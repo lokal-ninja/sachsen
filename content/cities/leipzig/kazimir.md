@@ -1,5 +1,5 @@
 ---
-title: "KAZIMIR"
+title: "Kazimir"
 url: /leipzig/kazimir/
 shop: Kleidung
 ---

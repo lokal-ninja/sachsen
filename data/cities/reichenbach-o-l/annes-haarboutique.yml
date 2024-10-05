@@ -7,5 +7,6 @@ city: Reichenbach/O.L.
 street: Markt
 housenumber: "5"
 phone: ""
-opening_hours: ""
+opening_hours: Tu 08:00-12:00,14:00-17:00; We 08:00-12:00; Th 08:00-12:00,14:00-17:00;
+    Fr 08:00-12:00
 website: ""

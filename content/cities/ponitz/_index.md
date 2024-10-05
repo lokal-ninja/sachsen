@@ -1,6 +1,6 @@
 ---
 title: Ponitz
 url: /ponitz/
-latitude: 50.862
-longitude: 12.416
+latitude: 50.857
+longitude: 12.396
 ---

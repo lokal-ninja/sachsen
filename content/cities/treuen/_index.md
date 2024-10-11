@@ -1,6 +1,6 @@
 ---
 title: Treuen
 url: /treuen/
-latitude: 50.546
-longitude: 12.298
+latitude: 50.539
+longitude: 12.307
 ---

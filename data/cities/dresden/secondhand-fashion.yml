@@ -7,5 +7,5 @@ city: Dresden
 street: Hoyerswerdaer Straße
 housenumber: "38"
 phone: ""
-opening_hours: Mo-Sa 12:00-19:00
+opening_hours: Mo,Su off; Tu-Sa 12:00-19:00
 website: ""

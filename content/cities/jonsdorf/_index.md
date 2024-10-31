@@ -1,6 +1,6 @@
 ---
 title: Jonsdorf
 url: /jonsdorf/
-latitude: 50.854
-longitude: 14.695
+latitude: 50.857
+longitude: 14.709
 ---

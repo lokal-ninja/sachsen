@@ -7,5 +7,6 @@ city: Dresden
 street: Wilhelm-Franke-Straße
 housenumber: "38"
 phone: ""
-opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+opening_hours: Mo-We 09:30-12:30,13:30-18:00; Th 09:30-12:30; Fr 09:30-12:30,13:30-18:00;
+    Sa 09:00-12:00
 website: ""

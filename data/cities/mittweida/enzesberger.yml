@@ -7,5 +7,6 @@ city: Mittweida
 street: Brühl
 housenumber: "9"
 phone: ""
-opening_hours: ""
+opening_hours: Mo 08:00-12:00; Tu 08:00-15:00; We off; Th 08:00-17:00; Fr 12:00-17:00;
+    Sa 07:00-11:00
 website: ""

@@ -7,5 +7,5 @@ city: Leipzig
 street: Gerichtsweg
 housenumber: "11"
 phone: +49 157 3360 9407
-opening_hours: Mo-Fr. 12:00-17:00 Uhr
+opening_hours: Mo,Th,Fr 12:00-17:00
 website: https://may-tie.com/

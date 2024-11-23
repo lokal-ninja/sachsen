@@ -5,8 +5,7 @@ longitude: 14.79511
 postcode: "02894"
 city: Reichenbach/O.L.
 street: Löbauer Straße
-housenumber: "25"
-phone: +49 35828 79868
-opening_hours: Tu 08:00-11:30,12:30-17:00; We,Fr 08:00-11:30,12:30-16:00; Th 08:00-11:30,12:30-18:00;
-    Sa 08:00-11:00
+housenumber: 25b
+phone: ""
+opening_hours: Tu,We 08:00–16:00; Th,Fr 08:00–18:00; Sa 08:00-11:00; Mo,Su,PH off
 website: ""

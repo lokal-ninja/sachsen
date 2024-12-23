@@ -7,5 +7,5 @@ city: Schneeberg
 street: Markt
 housenumber: "25"
 phone: "+49377228708"
-opening_hours: Mo-Fr 09:30-13:00; Tu 14:30-18:00; Th 14:30-18:00; Sa 09:30-12:00
+opening_hours: Mo,Tu,Th,Fr 09:30-17:00; Sa 09:30-12:00
 website: ""

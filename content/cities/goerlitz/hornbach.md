@@ -1,5 +1,5 @@
 ---
-title: "HORNBACH"
+title: "Hornbach"
 url: /goerlitz/hornbach/
 shop: Baumarkt
 ---

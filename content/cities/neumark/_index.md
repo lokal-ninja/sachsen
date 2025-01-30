@@ -1,6 +1,6 @@
 ---
 title: Neumark
 url: /neumark/
-latitude: 50.645
-longitude: 12.363
+latitude: 50.655
+longitude: 12.356
 ---

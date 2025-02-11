@@ -1,6 +1,6 @@
 ---
 title: Markersdorf
 url: /markersdorf/
-latitude: 51.133
-longitude: 14.877
+latitude: 51.148
+longitude: 14.892
 ---

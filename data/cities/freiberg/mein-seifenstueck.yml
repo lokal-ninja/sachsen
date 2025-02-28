@@ -7,5 +7,5 @@ city: Freiberg
 street: Erbische Straße
 housenumber: "13"
 phone: "+4937317598485"
-opening_hours: Tu-Fr 10:00-13:00, Sa 10:00-13:00, Tu-Sa 14:00-18:00
+opening_hours: Tu,Th 10:00-13:00,14:00-18:00; We,Fr 10:00-16:00
 website: ""

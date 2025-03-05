@@ -7,5 +7,5 @@ city: Delitzsch
 street: Eisenbahnstraße
 housenumber: "26"
 phone: +49 34202 34201
-opening_hours: PH,Sa,Su off; Mo-Fr 08:00-18:00
+opening_hours: Sa,Su,PH off; Mo-Fr 08:00-18:00
 website: ""

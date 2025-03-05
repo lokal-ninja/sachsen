@@ -1,6 +1,6 @@
 ---
 title: Bischofswerda
 url: /bischofswerda/
-latitude: 51.128
-longitude: 14.179
+latitude: 51.121
+longitude: 14.193
 ---

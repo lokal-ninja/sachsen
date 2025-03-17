@@ -1,6 +1,6 @@
 ---
 title: Markranstädt
 url: /markranstaedt/
-latitude: 51.309
-longitude: 12.184
+latitude: 51.31
+longitude: 12.167
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pulsnitz
 url: /pulsnitz/
-latitude: 51.182
-longitude: 14.02
+latitude: 51.209
+longitude: 14.001
 ---

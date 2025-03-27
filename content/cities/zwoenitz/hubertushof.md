@@ -1,5 +1,5 @@
 ---
 title: "Hubertushof"
 url: /zwoenitz/hubertushof/
-shop: Allgemein
+shop: Garten-Center
 ---

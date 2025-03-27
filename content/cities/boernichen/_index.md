@@ -1,6 +1,6 @@
 ---
 title: Börnichen
 url: /boernichen/
-latitude: 50.751
-longitude: 13.137
+latitude: 50.75
+longitude: 13.143
 ---

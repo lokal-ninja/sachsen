@@ -1,5 +1,5 @@
 ---
 title: "Globus"
 url: /leipzig/globus/
-shop: Einkaufszentrum
+shop: Supermarkt
 ---

@@ -6,6 +6,7 @@ postcode: "09130"
 city: Chemnitz
 street: Yorckstraße
 housenumber: "35"
-phone: +49371 524 68 107
-opening_hours: Mo,Tu 08:30-18:30; We,Fr 08:30-17:00; Th 08:30-18:00; Sa 08:00-12:00
+phone: +49 371 52468107
+opening_hours: Mo,Tu,Th 08:30-13:00,14:00-18:30; We 08:30-13:00,14:00-17:00; Fr 08:30-13:00,14:00-15:00;
+    Sa 09:00-12:00
 website: https://www.reha-aktiv-chemnitz.de/

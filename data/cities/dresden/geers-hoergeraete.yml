@@ -1,11 +1,11 @@
-id: 4393762446
+id: 1594445683
 type: node
-latitude: 51.06356
-longitude: 13.74893
-postcode: "01099"
+latitude: 51.04926
+longitude: 13.74194
+postcode: "01067"
 city: Dresden
-street: Bautzner Straße
-housenumber: "7"
+street: Gewandhausstraße
+housenumber: "9"
 phone: ""
-opening_hours: Sa,Su off; Mo-Fr 08:00-13:00,14:00-17:00
-website: https://geers.de/
+opening_hours: closed comment="Bis auf Weiteres geschlossen (seit 2023-01-13)"
+website: ""

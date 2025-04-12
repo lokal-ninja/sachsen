@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /goerlitz/norma-rauschwalder-strasse/
 shop: Supermarkt
 ---

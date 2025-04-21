@@ -1,6 +1,6 @@
 ---
 title: Dorfchemnitz
 url: /dorfchemnitz/
-latitude: 50.751
-longitude: 13.396
+latitude: 50.752
+longitude: 13.399
 ---

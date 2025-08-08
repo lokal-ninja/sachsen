@@ -1,12 +1,12 @@
-id: 3210430962
+id: 12964086661
 type: node
-latitude: 51.09541
-longitude: 14.3883
+latitude: 51.09539
+longitude: 14.38828
 postcode: "02681"
 city: Wilthen
 street: Bahnhofstraße
 housenumber: "7"
 phone: +49 3592 3865
-opening_hours: Mo,Tu 09:00-13:00,14:00-18:00; We 09:00-13:00; Th,Fr 09:00-13:00,14:00-18:00;
-    Sa 09:00-12:00; Su,PH off
-website: https://www.topoptic.de/
+opening_hours: Mo,Tu 09:00-13:00,14:00-18:00,We 09:00-13:00,Th,Fr 09:00-13:00,14:00-18:00,
+    Sa 09:00-12:00; PH off
+website: https://www.topoptic.de

@@ -1,5 +1,5 @@
 ---
-title: "Menschel – Markt"
+title: "Menschel - Markt"
 url: /hainewalde/menschel-markt/
 shop: Getränke
 ---

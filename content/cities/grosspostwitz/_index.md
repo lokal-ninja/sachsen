@@ -1,6 +1,6 @@
 ---
 title: Großpostwitz
 url: /grosspostwitz/
-latitude: 51.12
-longitude: 14.442
+latitude: 51.115
+longitude: 14.443
 ---

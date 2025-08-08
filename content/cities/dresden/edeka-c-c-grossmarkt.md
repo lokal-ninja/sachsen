@@ -1,5 +1,5 @@
 ---
-title: "Edeka C+C Großmarkt"
+title: "EDEKA C+C Großmarkt"
 url: /dresden/edeka-c-c-grossmarkt/
-shop: Supermarkt
+shop: Großhandel
 ---

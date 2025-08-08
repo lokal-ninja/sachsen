@@ -7,6 +7,5 @@ city: Dresden
 street: Altstrehlen
 housenumber: "13"
 phone: ""
-opening_hours: Mar-Oct Mo 11:00-19:00; Mar-Oct Tu-Fr 09:00-19:00; Nov-Feb Mo 11:00-18:00;
-    Nov-Feb Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+opening_hours: Mo-Th 11:00-18:00; Fr 11:00-16:00
 website: https://muellers-fahrradladen.de/

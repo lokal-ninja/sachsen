@@ -1,6 +1,6 @@
 ---
 title: Bennewitz
 url: /bennewitz/
-latitude: 51.361
-longitude: 12.714
+latitude: 51.357
+longitude: 12.711
 ---

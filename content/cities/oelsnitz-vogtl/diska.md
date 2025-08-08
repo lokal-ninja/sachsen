@@ -1,5 +1,5 @@
 ---
-title: "Diska"
+title: "diska"
 url: /oelsnitz-vogtl/diska/
 shop: Supermarkt
 ---

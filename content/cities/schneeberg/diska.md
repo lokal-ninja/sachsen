@@ -1,5 +1,5 @@
 ---
-title: "Diska"
+title: "diska"
 url: /schneeberg/diska/
 shop: Supermarkt
 ---

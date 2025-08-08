@@ -1,5 +1,5 @@
 ---
 title: "Gärtnerei Bertholdt"
 url: /dresden/gaertnerei-bertholdt/
-shop: Lebensmittel
+shop: Garten-Center
 ---

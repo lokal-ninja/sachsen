@@ -1,11 +1,11 @@
 id: 6796833809
 type: node
-latitude: 51.37633
-longitude: 14.07088
+latitude: 51.37676
+longitude: 14.0709
 postcode: "02994"
 city: Bernsdorf
 street: Ernst-Thälmann-Straße
-housenumber: "3"
+housenumber: "2"
 phone: ""
-opening_hours: Mo-Fr 08:00-18:00; Sa 07:00-11:00; Su,PH off
+opening_hours: Mo-Fr 08:00-17:00; Sa[2,4] 07:00-11:30; PH closed
 website: ""

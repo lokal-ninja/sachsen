@@ -1,5 +1,5 @@
 ---
-title: "Aesthetica Loft"
+title: "Aesthetica loft"
 url: /leipzig/aesthetica-loft/
 shop: Kosmetik
 ---

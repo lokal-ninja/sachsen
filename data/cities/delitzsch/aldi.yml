@@ -7,5 +7,5 @@ city: Delitzsch
 street: Eisenbahnstraße
 housenumber: "25"
 phone: ""
-opening_hours: PH,Su off; Mo-Sa 07:00-20:00
+opening_hours: Su,PH off; Mo-Sa 07:00-20:00
 website: https://www.aldi.de/

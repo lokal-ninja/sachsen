@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /leipzig/norma-stoetteritzer-strasse/
 shop: Supermarkt
 ---

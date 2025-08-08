@@ -7,5 +7,5 @@ city: Stolpen
 street: Markt
 housenumber: "11"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,We,Fr-Su 15:00-17:00
 website: ""

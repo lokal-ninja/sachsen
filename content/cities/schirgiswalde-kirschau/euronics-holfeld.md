@@ -1,5 +1,5 @@
 ---
-title: "EURONICS Holfeld"
+title: "euronics Holfeld"
 url: /schirgiswalde-kirschau/euronics-holfeld/
-shop: Haushaltsgeräte
+shop: Elektronik
 ---

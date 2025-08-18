@@ -1,5 +1,5 @@
 ---
-title: "Zweirad-Center Schubert"
+title: "Zweirad Center Schubert"
 url: /tharandt/zweirad-center-schubert/
-shop: Fahrrad
+shop: Motorrad
 ---

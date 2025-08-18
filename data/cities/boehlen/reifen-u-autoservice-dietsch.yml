@@ -7,6 +7,5 @@ city: Böhlen
 street: Werkstraße
 housenumber: "38"
 phone: ""
-opening_hours: Mo-Th 08:00-12:00, 13:00-18:00; Fr 08:00-12:00. 13:00-15:00,Sa 09:00-12:00;
-    su,PH off
+opening_hours: Mo-Th 08:00-12:00,13:00-18:00; Fr 08:00-12:00,13:00-15:00; Sa 09:00-12:00
 website: ""

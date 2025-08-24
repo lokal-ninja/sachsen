@@ -1,5 +1,5 @@
 ---
-title: "Mayer’s Markenschuhe"
+title: "Mayer's Markenschuhe"
 url: /meerane/mayers-markenschuhe/
 shop: Schuhe
 ---

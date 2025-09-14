@@ -1,6 +1,6 @@
 ---
 title: Taura
 url: /taura/
-latitude: 50.919
-longitude: 12.841
+latitude: 50.908
+longitude: 12.868
 ---

@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /schleife/norma/
 shop: Supermarkt
 ---

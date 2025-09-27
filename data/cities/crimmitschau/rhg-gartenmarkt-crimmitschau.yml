@@ -7,5 +7,6 @@ city: Crimmitschau
 street: Carl-Spengler-Straße
 housenumber: "2"
 phone: ""
-opening_hours: ""
+opening_hours: 'Mar-Dec: Mo-Fr 08:00-18:00; Mar-Dec: Sa 08:30-12:30; Jan-Feb: Mo-Fr
+    09:00-17:00; Jan-Feb: Sa 09:00-12:30; Mar-Dec: Su,PH off; Jan-Feb: Su,PH off'
 website: ""

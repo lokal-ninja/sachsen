@@ -7,5 +7,6 @@ city: Crimmitschau
 street: Gablenzer Hauptstraße
 housenumber: "51"
 phone: ""
-opening_hours: Mo-Th 7:00-16:30; Fr 7:00-14:30; Sa-Su off
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-14:30; Mo-Fr 10:00-10:30,13:00-13:30 off
+    "Pause"; Sa-Su off; PH off
 website: ""

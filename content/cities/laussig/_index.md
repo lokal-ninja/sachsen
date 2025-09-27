@@ -1,6 +1,6 @@
 ---
 title: Laußig
 url: /laussig/
-latitude: 51.548
-longitude: 12.63
+latitude: 51.543
+longitude: 12.636
 ---

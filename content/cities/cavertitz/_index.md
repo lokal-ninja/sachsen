@@ -1,6 +1,6 @@
 ---
 title: Cavertitz
 url: /cavertitz/
-latitude: 51.406
-longitude: 13.104
+latitude: 51.385
+longitude: 13.161
 ---

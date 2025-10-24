@@ -7,5 +7,5 @@ city: Oppach
 street: Bautzener Straße
 housenumber: 7a
 phone: ""
-opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30; Su,PH off
+opening_hours: Mo,We,Th,Fr 08:00-18:00; Sa 08:00-12:30; Tu,Su,PH off
 website: ""

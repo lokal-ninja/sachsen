@@ -7,5 +7,5 @@ city: Leipzig
 street: Bornaische Straße
 housenumber: "55"
 phone: ""
-opening_hours: Mo-Sa 07:00-22:00
+opening_hours: Mo-Sa 07:00-22:00; Su,PH OFF
 website: https://www.konsum-leipzig.de/

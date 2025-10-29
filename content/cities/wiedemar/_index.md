@@ -1,6 +1,6 @@
 ---
 title: Wiedemar
 url: /wiedemar/
-latitude: 51.467
-longitude: 12.215
+latitude: 51.54
+longitude: 12.227
 ---

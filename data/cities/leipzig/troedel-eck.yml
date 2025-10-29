@@ -7,6 +7,5 @@ city: Leipzig
 street: Oststraße
 housenumber: "9"
 phone: ""
-opening_hours: Mo 09:30-20:00; Tu 09:30-17:30; We, Th 10:00-19:00; Fr 10:00-20:00;
-    Sa 12:00-19:00
+opening_hours: Mo,We,Th 11:30-19:30; Tu,Fr 09:30-16:00
 website: https://t.me/TroedelEckLeipzig

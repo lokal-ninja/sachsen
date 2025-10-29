@@ -7,5 +7,5 @@ city: Leipzig
 street: Hainstraße
 housenumber: 1-3
 phone: ""
-opening_hours: Mo-Sa 10:00-20:00
+opening_hours: Mo-Th 10:00-19:00;Fr,Sa 10:00-20:00
 website: ""

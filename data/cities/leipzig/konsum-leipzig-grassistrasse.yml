@@ -7,5 +7,5 @@ city: Leipzig
 street: Grassistraße
 housenumber: "13"
 phone: +49 341 9612678
-opening_hours: Mo-Sa 07:00-22:00
+opening_hours: Mo-Sa 07:00-22:00; Su,PH OFF
 website: https://www.konsum-leipzig.de/

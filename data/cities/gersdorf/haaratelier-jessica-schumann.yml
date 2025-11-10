@@ -7,6 +7,5 @@ city: Gersdorf
 street: Hauptstraße
 housenumber: "220"
 phone: +49 37203 667363
-opening_hours: Di-Mi 9:00-18:00 Uhr, Do 9:00-15:00 Uhr, Fr 9:00-18:30 Uhr, Sa 8:00-12:00
-    Uhr
+opening_hours: Tu,We 09:00-18:00; Th 09:00-15:00; Fr 09:00-18:30; Sa 08:00-12:00
 website: ""

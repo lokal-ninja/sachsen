@@ -1,6 +1,6 @@
 ---
 title: Reichenbach
 url: /reichenbach/
-latitude: 50.622
-longitude: 12.279
+latitude: 50.615
+longitude: 12.31
 ---

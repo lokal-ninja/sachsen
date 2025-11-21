@@ -1,6 +1,6 @@
 ---
 title: Altmittweida
 url: /altmittweida/
-latitude: 50.966
-longitude: 12.953
+latitude: 50.968
+longitude: 12.964
 ---

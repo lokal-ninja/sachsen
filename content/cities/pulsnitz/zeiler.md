@@ -1,5 +1,5 @@
 ---
 title: "Zeiler"
 url: /pulsnitz/zeiler/
-shop: Bäckerei
+shop: Allgemein
 ---

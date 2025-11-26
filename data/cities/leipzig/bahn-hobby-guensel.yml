@@ -7,5 +7,5 @@ city: Leipzig
 street: Karl-Liebknecht-Straße
 housenumber: "152"
 phone: +49 0341 3016034
-opening_hours: Mo-We,Fr 09:00-18:30; Sa 09:00-12:00; Th,Su closed
-website: ""
+opening_hours: '"only online"'
+website: https://www.hobby-guensel.de

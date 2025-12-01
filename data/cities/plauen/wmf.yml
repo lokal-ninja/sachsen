@@ -1,11 +1,11 @@
 id: 6153021495
 type: node
-latitude: 50.49582
-longitude: 12.13724
+latitude: 50.49587
+longitude: 12.13699
 postcode: "08523"
 city: Plauen
 street: Postplatz
 housenumber: "1"
 phone: ""
-opening_hours: Mo-Sa 09:30-19:00
+opening_hours: Mo-Sa 09:30-19:00; Sa,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 190403210
 type: node
-latitude: 51.30051
-longitude: 12.43257
+latitude: 51.3005
+longitude: 12.43258
 postcode: "04289"
 city: Leipzig
 street: Franzosenallee
 housenumber: "10"
 phone: ""
-opening_hours: Mo-Sa 07:00-22:00
+opening_hours: Mo-Sa 07:00-22:00; PH OFF
 website: https://www.rewe.de/

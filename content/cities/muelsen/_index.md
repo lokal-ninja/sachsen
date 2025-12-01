@@ -1,6 +1,6 @@
 ---
 title: Mülsen
 url: /muelsen/
-latitude: 50.765
-longitude: 12.549
+latitude: 50.719
+longitude: 12.596
 ---

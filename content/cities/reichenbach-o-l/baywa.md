@@ -1,5 +1,5 @@
 ---
 title: "BayWa"
 url: /reichenbach-o-l/baywa/
-shop: Baumarkt
+shop: Landwirtschaftlich
 ---

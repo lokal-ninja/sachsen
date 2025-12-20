@@ -1,6 +1,6 @@
 ---
 title: Krauschwitz
 url: /krauschwitz/
-latitude: 51.501
-longitude: 14.812
+latitude: 51.519
+longitude: 14.713
 ---

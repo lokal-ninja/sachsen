@@ -7,5 +7,5 @@ city: Leipzig
 street: Lindenauer Markt
 housenumber: "16"
 phone: ""
-opening_hours: Mo-Fr 09:00-13:00,13:30-17:30
+opening_hours: Mo,We,Fr 09:00-17:00; Tu,Th 09:00-16:00
 website: ""

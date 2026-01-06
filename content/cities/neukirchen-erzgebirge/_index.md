@@ -1,6 +1,6 @@
 ---
 title: Neukirchen/Erzgebirge
 url: /neukirchen-erzgebirge/
-latitude: 50.778
-longitude: 12.867
+latitude: 50.761
+longitude: 12.875
 ---

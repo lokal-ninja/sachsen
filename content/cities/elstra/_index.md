@@ -1,6 +1,6 @@
 ---
 title: Elstra
 url: /elstra/
-latitude: 51.224
-longitude: 14.131
+latitude: 51.221
+longitude: 14.129
 ---

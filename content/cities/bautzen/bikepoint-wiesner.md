@@ -1,5 +1,5 @@
 ---
-title: "BIKEpoint Wiesner"
+title: "Bikepoint Wiesner"
 url: /bautzen/bikepoint-wiesner/
 shop: Fahrrad
 ---

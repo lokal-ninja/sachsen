@@ -1,6 +1,6 @@
 ---
 title: Schneeberg
 url: /schneeberg/
-latitude: 50.596
-longitude: 12.641
+latitude: 50.599
+longitude: 12.635
 ---

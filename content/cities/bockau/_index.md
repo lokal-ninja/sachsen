@@ -1,6 +1,6 @@
 ---
 title: Bockau
 url: /bockau/
-latitude: 50.546
+latitude: 50.543
 longitude: 12.686
 ---

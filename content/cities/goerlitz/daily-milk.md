@@ -1,5 +1,5 @@
 ---
-title: "Daily Milk"
+title: "DAILY MILK!"
 url: /goerlitz/daily-milk/
-shop: Kleidung
+shop: Modehaus
 ---

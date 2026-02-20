@@ -1,6 +1,6 @@
 ---
 title: Coswig
 url: /coswig/
-latitude: 51.124
-longitude: 13.58
+latitude: 51.123
+longitude: 13.588
 ---

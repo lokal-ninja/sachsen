@@ -7,7 +7,8 @@ city: Flöha
 street: Straße der Einheit
 housenumber: "24"
 phone: +49 3726 7907875
-opening_hours: 24/7 open "mit Tante Enso-Karte"; Tu,Sa open "mit Tante Enso-Karte",
-    08:00-12:00 open "mit Personal"; Th,Fr open "mit Tante Enso-Karte", 08:00-12:00,14:00-18:00
-    open "mit Personal"; PH open "mit Tante Enso-Karte"
+opening_hours: Tu,Sa 00:00-08:00,12:00-24:00 open "mit Tante Enso-Karte", 08:00-12:00
+    open "mit Personal"; Th,Fr 00:00-08:00,12:00-14:00,18:00-24:00 open "mit Tante
+    Enso-Karte", 08:00-12:00,14:00-18:00 open "mit Personal"; Mo,We,Su,PH open "mit
+    Tante Enso-Karte"
 website: https://www.tanteenso.de/content/tanteenso/standorte/falkenau

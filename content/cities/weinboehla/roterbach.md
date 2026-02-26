@@ -1,5 +1,5 @@
 ---
 title: "Roterbach"
 url: /weinboehla/roterbach/
-shop: Hofladen
+shop: Feinkost
 ---

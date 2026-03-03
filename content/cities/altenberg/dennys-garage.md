@@ -1,5 +1,5 @@
 ---
-title: "Denny's Garage"
+title: "Dennys Garage"
 url: /altenberg/dennys-garage/
 shop: Autowerkstatt
 ---

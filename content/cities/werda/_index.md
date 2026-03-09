@@ -1,6 +1,6 @@
 ---
 title: Werda
 url: /werda/
-latitude: 50.439
-longitude: 12.305
+latitude: 50.438
+longitude: 12.301
 ---

@@ -1,6 +1,6 @@
 ---
 title: Schönfeld
 url: /schoenfeld/
-latitude: 51.304
-longitude: 13.703
+latitude: 51.288
+longitude: 13.689
 ---

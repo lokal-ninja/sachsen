@@ -1,6 +1,6 @@
 ---
 title: Seiffen/Erzgebirge
 url: /seiffen-erzgebirge/
-latitude: 50.647
-longitude: 13.451
+latitude: 50.646
+longitude: 13.453
 ---

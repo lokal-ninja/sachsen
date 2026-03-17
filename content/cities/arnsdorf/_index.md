@@ -1,6 +1,6 @@
 ---
 title: Arnsdorf
 url: /arnsdorf/
-latitude: 51.093
-longitude: 13.989
+latitude: 51.094
+longitude: 13.988
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Pyur"
+title: "PŸUR"
 url: /freital/pyur/
-shop: Elektronik
+shop: Handy
 ---

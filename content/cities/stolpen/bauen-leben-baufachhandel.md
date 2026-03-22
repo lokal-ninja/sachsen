@@ -1,5 +1,5 @@
 ---
-title: "BAUEN+LEBEN Baufachhandel"
+title: "Bauen+Leben Baufachhandel"
 url: /stolpen/bauen-leben-baufachhandel/
-shop: Baustoffe
+shop: Baumarkt
 ---

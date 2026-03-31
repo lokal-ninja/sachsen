@@ -1,6 +1,6 @@
 ---
 title: Schöneck/Vogtl.
 url: /schoeneck-vogtl/
-latitude: 50.396
-longitude: 12.338
+latitude: 50.398
+longitude: 12.328
 ---

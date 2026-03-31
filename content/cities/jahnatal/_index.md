@@ -1,6 +1,6 @@
 ---
 title: Jahnatal
 url: /jahnatal/
-latitude: 51.205
-longitude: 13.153
+latitude: 51.203
+longitude: 13.16
 ---

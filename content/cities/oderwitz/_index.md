@@ -1,6 +1,6 @@
 ---
 title: Oderwitz
 url: /oderwitz/
-latitude: 50.975
-longitude: 14.688
+latitude: 50.953
+longitude: 14.728
 ---

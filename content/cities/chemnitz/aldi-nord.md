@@ -1,5 +1,5 @@
 ---
-title: "ALDI Nord"
+title: "Aldi Nord"
 url: /chemnitz/aldi-nord/
 shop: Supermarkt
 ---

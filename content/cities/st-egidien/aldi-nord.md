@@ -1,5 +1,5 @@
 ---
-title: "ALDI Nord"
+title: "Aldi Nord"
 url: /st-egidien/aldi-nord/
 shop: Supermarkt
 ---

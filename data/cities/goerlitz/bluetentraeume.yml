@@ -7,5 +7,5 @@ city: Görlitz
 street: Reichenbacher Straße
 housenumber: 53-55
 phone: ""
-opening_hours: Mo-Fr 08:30-18:00; Sa 08:00-12:00
+opening_hours: Mo,Fr 09:00-18:00, Tu-Th 09:00-17:00; Sa 09:00-12:00; PH off
 website: ""

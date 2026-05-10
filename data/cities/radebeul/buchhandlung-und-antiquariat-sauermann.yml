@@ -7,5 +7,5 @@ city: Radebeul
 street: Meißner Straße
 housenumber: "264"
 phone: +49 3518 309777
-opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; Sa 09:00-12:00; We 09:00-13:00
 website: https://www.buch-sauermann.de/

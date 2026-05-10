@@ -7,5 +7,6 @@ city: Dresden
 street: Kesselsdorfer Straße
 housenumber: "70"
 phone: +49351 30981758
-opening_hours: Tu,We,Fr 09:00-13:00,14:00-18:00; Th 10:00-13:00,14:00-20:00; Sa 10:00-15:00
+opening_hours: Mo 09:00-15:00; Tu-Fr 10:00-13:00,14:00-18:00; Th 10:00-13:00,14:00-20:00;
+    Sa 09:00-13:15
 website: https://radstadtladen.de/

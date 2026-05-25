@@ -1,6 +1,6 @@
 ---
 title: Lugau
 url: /lugau/
-latitude: 50.738
+latitude: 50.739
 longitude: 12.746
 ---

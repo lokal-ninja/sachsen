@@ -1,6 +1,6 @@
 ---
 title: Gröditz
 url: /groeditz/
-latitude: 51.412
-longitude: 13.445
+latitude: 51.405
+longitude: 13.435
 ---

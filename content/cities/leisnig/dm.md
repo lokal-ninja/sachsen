@@ -1,5 +1,5 @@
 ---
-title: "DM"
+title: "dm"
 url: /leisnig/dm/
-shop: Supermarkt
+shop: Drogerie
 ---

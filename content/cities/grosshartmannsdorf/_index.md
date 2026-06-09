@@ -1,6 +1,6 @@
 ---
 title: Großhartmannsdorf
 url: /grosshartmannsdorf/
-latitude: 50.788
-longitude: 13.32
+latitude: 50.797
+longitude: 13.319
 ---

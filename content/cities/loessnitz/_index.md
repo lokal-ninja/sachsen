@@ -1,6 +1,6 @@
 ---
 title: Lößnitz
 url: /loessnitz/
-latitude: 50.618
+latitude: 50.62
 longitude: 12.73
 ---

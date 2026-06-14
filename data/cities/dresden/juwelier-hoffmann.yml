@@ -7,5 +7,5 @@ city: Dresden
 street: Altmarkt
 housenumber: 10d
 phone: ""
-opening_hours: Mo-Sa 10:00-13:00; PH,Su off, Mo-Sa 14:00-19:00
+opening_hours: Mo-Sa 10:00-13:00, Mo-Fr 14:00-19:00, Sa 14:00-18:00; Su,PH off
 website: ""

@@ -7,5 +7,9 @@ city: Dresden
 street: Canalettostraße
 housenumber: "31"
 phone: +49 351 4496337
-opening_hours: Mo,Mi,Fr 08:00-19:00; Do 08:00-20:00; week 1-53/2 Sa 08:00-13:00
+opening_hours: |-
+    "Mo-Mi 9–19
+    Do 8–20
+    Fr 8–19
+    Sa 8–14 (immer am 1. Samstag im Monat)"
 website: https://www.figaro-dresden.de/

@@ -7,6 +7,6 @@ city: Chemnitz
 street: Bahnhofstraße
 housenumber: "10"
 phone: +49 371 495795222
-opening_hours: Mo,Tu 07:00-12:15,13:00-15:00; We,Th 10:00-12:15,13:00-18:00; Fr 07:00-12:30;
-    Sa,Su,PH off
+opening_hours: Mo-Tu 07:00-12:15, 13:00-15:00; We-Th 10:00-12:15, 13:00-18:00; Fr
+    07:00-12:30
 website: https://www.city-bahn.de/kundencenter/

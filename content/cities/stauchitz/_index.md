@@ -1,6 +1,6 @@
 ---
 title: Stauchitz
 url: /stauchitz/
-latitude: 51.245
-longitude: 13.217
+latitude: 51.268
+longitude: 13.253
 ---

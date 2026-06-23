@@ -1,6 +1,6 @@
 ---
 title: Ebersbach
 url: /ebersbach/
-latitude: 51.275
-longitude: 13.63
+latitude: 51.226
+longitude: 13.666
 ---

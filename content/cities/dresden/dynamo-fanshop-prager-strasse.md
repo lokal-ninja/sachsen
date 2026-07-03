@@ -1,5 +1,5 @@
 ---
 title: "Dynamo Fanshop"
 url: /dresden/dynamo-fanshop-prager-strasse/
-shop: Sport
+shop: Allgemein
 ---

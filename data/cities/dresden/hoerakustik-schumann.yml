@@ -7,6 +7,5 @@ city: Dresden
 street: Bautzner Straße
 housenumber: "55"
 phone: +49 351 21303090
-opening_hours: Mo, Mi 09:00-13:00, 14:30-18.00; Di, Do, Fr 09:00-14:00; "und nach
-    Vereinbarung"
+opening_hours: Mo,We 09:00-13:00,14:30-18:00; Tu,Th,Fr 09:00-14:00; "und nach Vereinbarung"
 website: https://hoerakustik-schumann.de/

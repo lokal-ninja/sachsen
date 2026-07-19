@@ -1,5 +1,5 @@
 ---
 title: "Modellbahn Findeisen"
 url: /meerane/modellbahn-findeisen/
-shop: Elektronik
+shop: Modellbau
 ---

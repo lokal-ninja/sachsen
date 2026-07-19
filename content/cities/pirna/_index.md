@@ -1,6 +1,6 @@
 ---
 title: Pirna
 url: /pirna/
-latitude: 50.958
-longitude: 13.927
+latitude: 51
+longitude: 13.921
 ---

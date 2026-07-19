@@ -1,5 +1,5 @@
 ---
-title: "Getränkeland"
+title: "GetränkeLAND"
 url: /oppach/getraenkeland/
 shop: Getränke
 ---

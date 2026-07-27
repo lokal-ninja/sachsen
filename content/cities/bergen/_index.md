@@ -1,6 +1,6 @@
 ---
 title: Bergen
 url: /bergen/
-latitude: 50.475
-longitude: 12.284
+latitude: 50.472
+longitude: 12.269
 ---

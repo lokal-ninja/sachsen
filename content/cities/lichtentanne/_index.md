@@ -1,6 +1,6 @@
 ---
 title: Lichtentanne
 url: /lichtentanne/
-latitude: 50.692
-longitude: 12.427
+latitude: 50.699
+longitude: 12.414
 ---

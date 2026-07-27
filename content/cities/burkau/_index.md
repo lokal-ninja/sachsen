@@ -1,6 +1,6 @@
 ---
 title: Burkau
 url: /burkau/
-latitude: 51.176
-longitude: 14.18
+latitude: 51.175
+longitude: 14.172
 ---

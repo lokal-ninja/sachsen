@@ -7,5 +7,5 @@ city: Geithain
 street: Markt
 housenumber: "3"
 phone: ""
-opening_hours: Tu-Fr 06:30-17:30; Sa 05:45-11:00; PH,Su,Mo off
+opening_hours: Mo,Su,PH off; Tu-Fr 06:15-17:30; Sa 05:30-11:30
 website: ""

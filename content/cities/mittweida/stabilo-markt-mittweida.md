@@ -1,5 +1,5 @@
 ---
-title: "STABILO Markt Mittweida"
+title: "Stabilo Markt Mittweida"
 url: /mittweida/stabilo-markt-mittweida/
 shop: Baumarkt
 ---

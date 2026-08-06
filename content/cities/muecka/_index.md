@@ -1,6 +1,6 @@
 ---
 title: Mücka
 url: /muecka/
-latitude: 51.319
-longitude: 14.703
+latitude: 51.299
+longitude: 14.661
 ---

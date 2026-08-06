@@ -7,6 +7,6 @@ city: Dresden
 street: Glacisstraße
 housenumber: "5"
 phone: ""
-opening_hours: 'März-Oktober: Mo-Sa 10:00-13:00 15:00-18:00 So 10:00-13:00 16:00-18:00
-    November-Februar: Di-Fr 10:00-13:00 15:00-18:00 Sa 10:00-13:00'
+opening_hours: 'Mar-Oct: Mo-Sa 10:00-13:00, 15:00-18:00, Su 10:00-13:00, 16:00-18:00;
+    Nov-Feb: Tu-Fr 10:00-13:00, 15:00-18:00, Sa 10:00-13:00'
 website: ""

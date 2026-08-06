@@ -7,5 +7,6 @@ city: Crottendorf
 street: Forsthausweg
 housenumber: "21"
 phone: ""
-opening_hours: Mo-Fr 08:00-12:00.14:00-17:00; Sa,Su,PH off
+opening_hours: Mo,Th 09:00-12:00,14:00-17:00; Tu,We,Fr 09:00-12:00; Sa "nach Vereinbarung";
+    Su,PH off
 website: ""

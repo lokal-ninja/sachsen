@@ -1,6 +1,6 @@
 ---
 title: Reinsberg
 url: /reinsberg/
-latitude: 51.037
-longitude: 13.348
+latitude: 51.029
+longitude: 13.398
 ---

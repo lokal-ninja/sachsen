@@ -1,6 +1,6 @@
 ---
 title: Wurzen
 url: /wurzen/
-latitude: 51.369
-longitude: 12.735
+latitude: 51.352
+longitude: 12.734
 ---

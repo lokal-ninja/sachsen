@@ -7,5 +7,6 @@ city: Leipzig
 street: Wolfgang-Heinze-Straße
 housenumber: "52"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Th 08:00-12:00,13:00-17:30; Fr 08:00-12:00,13:00-17:00; Sa,Su,PH
+    off
 website: ""

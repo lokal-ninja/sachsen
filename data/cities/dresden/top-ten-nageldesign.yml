@@ -7,5 +7,6 @@ city: Dresden
 street: Boderitzer Straße
 housenumber: 12a
 phone: ""
-opening_hours: Mo-Fr, "und nach Vereinbarung"
+opening_hours: Mo 07:30-20:00; Tu 07:00-20:00; We 07:30-16:00; Th 08:00-20:00; Fr
+    08:00-16:00; Sa,Su,PH off
 website: ""

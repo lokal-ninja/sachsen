@@ -1,11 +1,11 @@
 id: 2455221528
 type: node
-latitude: 51.06356
-longitude: 13.7585
+latitude: 51.06357
+longitude: 13.75844
 postcode: "01099"
 city: Dresden
 street: Bautzner Straße
 housenumber: "69"
 phone: ""
-opening_hours: Th-Sa 16:00-19:00
-website: ""
+opening_hours: Th-Sa 16:00-19:00 || "nach Vereinbarung"
+website: https://www.publishandprint.de

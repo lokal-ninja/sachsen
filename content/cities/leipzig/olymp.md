@@ -1,5 +1,5 @@
 ---
-title: "OLYMP"
+title: "Olymp"
 url: /leipzig/olymp/
 shop: Kleidung
 ---

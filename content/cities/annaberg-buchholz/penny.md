@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "Penny"
 url: /annaberg-buchholz/penny/
 shop: Supermarkt
 ---

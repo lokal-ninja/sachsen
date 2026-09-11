@@ -8,5 +8,5 @@ street: Freiberger Straße
 housenumber: "61"
 phone: ""
 opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-17:30; We 09:00-13:00; Sa 09:00-12:00;
-    PH,Su off
+    Su,PH off
 website: ""

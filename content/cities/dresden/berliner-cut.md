@@ -1,5 +1,5 @@
 ---
-title: "Berliner Cut"
+title: "Berlin'er Cut"
 url: /dresden/berliner-cut/
 shop: Friseur
 ---

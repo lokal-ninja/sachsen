@@ -1,6 +1,6 @@
 ---
 title: Machern
 url: /machern/
-latitude: 51.358
-longitude: 12.589
+latitude: 51.389
+longitude: 12.654
 ---

@@ -7,5 +7,5 @@ city: Leipzig
 street: Hainstraße
 housenumber: "21"
 phone: ""
-opening_hours: Mo-Sa 09:00-20:00
+opening_hours: 'Mo-Sa 09:00-20:00; 2026 Sep 09: off "Renovierung"'
 website: ""

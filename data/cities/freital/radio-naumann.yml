@@ -7,5 +7,6 @@ city: Freital
 street: Burgker Straße
 housenumber: "163"
 phone: +49 351 6491768
-opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off
+opening_hours: Mo 09:00-12:30,16:00-17:00; Tu,We 14:00-17:00; Th 09:00-12:30,14:00-18:00;
+    Fr 09:00-11:00
 website: http://www.radio-naumann.de/

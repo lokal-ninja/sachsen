@@ -7,5 +7,5 @@ city: Dresden
 street: Kamenzer Straße
 housenumber: "24"
 phone: ""
-opening_hours: Mo-Sa 07:00-18:00
+opening_hours: Mo-Sa 07:00-18:00, Mo-Fr 07:00-18:00, Sa 07:00-12:00, Sa 12:30-14:30
 website: https://www.emil-reimann.de

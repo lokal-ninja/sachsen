@@ -7,5 +7,6 @@ city: Dresden
 street: Österreicher Straße
 housenumber: "35"
 phone: +49 351 2571636
-opening_hours: Mo 07:30-14:00; Tu-Fr 07:30-18:00; Sa 07:00-12:00
+opening_hours: '"geöffnet meistens ab 7:30 bis 18 Uhr, manchmal aber auch schon 12
+    Uhr"'
 website: ""

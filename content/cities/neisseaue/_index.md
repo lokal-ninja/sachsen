@@ -1,6 +1,6 @@
 ---
 title: Neißeaue
 url: /neisseaue/
-latitude: 51.24
-longitude: 15.012
+latitude: 51.239
+longitude: 15.011
 ---

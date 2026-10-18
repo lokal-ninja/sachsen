@@ -1,6 +1,6 @@
 ---
 title: Chemnitz
 url: /chemnitz/
-latitude: 50.841
-longitude: 12.876
+latitude: 50.814
+longitude: 12.913
 ---

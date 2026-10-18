@@ -7,6 +7,5 @@ city: Bad Lausick
 street: Stadthausstraße
 housenumber: "3"
 phone: ""
-opening_hours: Mo 08:30-18:00; Tu,Th 08:30-17:00; We 08:30-16:00; Fr 08:30-13:00;
-    Sa-Su,PH off
+opening_hours: Mo-Tu,Th 08:30-18:00; We 08:30-17:00; Fr 08:30-13:00; Sa-Su,PH off
 website: ""

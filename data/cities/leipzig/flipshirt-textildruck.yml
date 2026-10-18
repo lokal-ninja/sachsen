@@ -7,5 +7,5 @@ city: Leipzig
 street: Kurt-Eisner-Straße
 housenumber: "68"
 phone: "+4934124787447"
-opening_hours: Mo-Th 12:00-18:00; Fr 12:00-16:00
+opening_hours: Mo,We,Fr 09:00-16:00; Tu,Th 12:00-18:00
 website: https://www.flipshirt.de

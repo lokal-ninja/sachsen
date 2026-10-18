@@ -1,6 +1,6 @@
 ---
 title: Niederfrohna
 url: /niederfrohna/
-latitude: 50.869
-longitude: 12.751
+latitude: 50.88
+longitude: 12.746
 ---

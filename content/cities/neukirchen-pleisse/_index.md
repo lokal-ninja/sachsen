@@ -1,6 +1,6 @@
 ---
 title: Neukirchen/Pleiße
 url: /neukirchen-pleisse/
-latitude: 50.79
-longitude: 12.378
+latitude: 50.792
+longitude: 12.377
 ---

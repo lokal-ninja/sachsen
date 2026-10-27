@@ -1,6 +1,6 @@
 ---
 title: Lossatal
 url: /lossatal/
-latitude: 51.411
-longitude: 12.802
+latitude: 51.376
+longitude: 12.834
 ---

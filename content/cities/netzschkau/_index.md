@@ -1,6 +1,6 @@
 ---
 title: Netzschkau
 url: /netzschkau/
-latitude: 50.606
-longitude: 12.216
+latitude: 50.615
+longitude: 12.245
 ---

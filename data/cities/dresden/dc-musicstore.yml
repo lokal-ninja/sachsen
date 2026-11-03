@@ -7,5 +7,5 @@ city: Dresden
 street: Schützengasse
 housenumber: "12"
 phone: +49 351 33236261
-opening_hours: Mo-Sa 10:00-18:00
+opening_hours: Mo-Sa 10:00-18:00; Su,PH off
 website: https://www.dc-musicstore.de

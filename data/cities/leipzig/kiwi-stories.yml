@@ -7,6 +7,5 @@ city: Leipzig
 street: Peterssteinweg
 housenumber: "13"
 phone: +49 15221579802
-opening_hours: We 11:00-13:00,14:00-18:00; Th 12:30-18:00; Fr 11:00-13:00,14:00-18:00;
-    Sa 11:00-15:30
+opening_hours: Tu,Fr 13:00-18:00; Sa 10:00-15:00
 website: https://kiwistories.de
